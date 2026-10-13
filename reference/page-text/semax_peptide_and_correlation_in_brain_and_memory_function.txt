@@ -1,0 +1,89 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Semax Peptide and Correlation in Brain and Memory Function
+[p] by Dr. Usman | Apr 16, 2021 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Semax Peptide and Correlation in Brain and Memory Function :: https://biotechpeptides.com/wp-content/uploads/2021/04/Semax-Peptide-and-Correlation-in-Brain-and-Memory-Function.webp
+[h2] Semax Peptide and Neurogenesis
+[p] Semax is a synthetic analog of adrenocorticotropic hormone (ACTH) comprising amino acids 4 through10 of ACTH. Semax peptide appears to stimulate neurogenesis, as suggested by observations in studies involving rats. Researchers propose that the exposure of rats to Semax peptide may upregulate BDNF protein by approximately 1.4 fold, coupled with a 1.6 fold increase in trkB tyrosine phosphorylation. Additionally, there seems to be a simultaneous improvement in exon III BDNF and trkB mRNA levels, respectively, by 3 and 2 folds in the rat hippocampus. Rats subjected to this peptide exhibit a notable increase in the number of conditioned avoidance reactions, indicating the peptide’s potential influence on enhancing cognitive brain functions through the hippocampal BDNF/trkB system.
+[a https://biotechpeptides.com/product/semax-25mg/] Semax is a synthetic analog of adrenocorticotropic hormone (ACTH) comprising amino acids 4 through10 of ACTH.
+[p] In studies exploring memory improvement, Semax peptide and a considered anti-amnesic compound were proposed to beneficially impact murine models of amnesia upon combined exposure, except for cases induced by maximal electroshock. There seems to be a bell-shaped reversible concentration-dependent effect equation for Semax, while the anti-amnesic displayed a linear relationship. Researchers suggest that both substances might help suppress the ortho-and antidromic population response surges of CA1 pyramidal neurons of survival hippocampal slices in rats. Notably, the anti-amnesic, compared to Semax peptide, may have improved oxygen consumption in rat brain mitochondria, displaying a linear concentration-effect response.
+[p] Regarding the protective potential of Semax peptide on cerebral blood vessels during oxygen deprivation, research findings propose that intranasal exposure to Semax for six days may reduce cortical infarction levels, potentially enhancing the retention and performance of conditioned passive avoidance responses. Semax, researchers suggest, might decrease Vegfa mRNA levels in the frontal cortex and hippocampus following occlusion, indicating its potential to prevent hypoxia-induced Vegfa gene expression at the early stages of global cerebral ischemia. Moreover, the speculative effects of Semax on VEGF-b and Vegf-d genes suggest a noticeable activation, potentially reducing the adverse effects of ischemia and enhancing a positive impact from Semax on ischemic stroke.
+[h2] Semax Peptide and the Vascular System
+[p] Semax appears to alter the expression of several genes in the vascular system, according to speculative research data. Studies propose that Semax may promote vessel formation and stabilization around 24 hours after occlusion, influencing the activation of blood cells about 24 hours post occlusion. Histological studies seem to support these hypotheses suggesting that Semax may improve neuroglia, blood vessel endothelium, and progenitor cells in the subventricular zone, possibly preventing neurological disturbances and excess NO production in the rat brain cortex.
+[p] Research indicates that Semax may potentially exert a protective effect against metal-induced cell toxicity and displays a high affinity for Copper II ions. Researchers propose that Semax might induce reduced copper-induced cytotoxicity, as observed in SHSY5Y neuroblastoma and RBE4 endothelial cell lines.
+[p] The findings suggest that Semax may normalize the circadian locomotor rhythm in rats, increasing its amplitude, shifting the acrophase, and changing the spectral characteristics. Researchers suggest that the rhythm-synchronizing chronotropic activity might be a part of the specific effect of this potential cognitive enhancer.
+[h2] Additional Research Implications of Semax
+[p] Semax peptide appears to have a concentration-dependent effect on enkephalin-degrading enzymes of serum, exhibiting apparent pronounced effects compared to certain inhibitors of peptidases. Additionally, Semax speculatively inhibits histamine release from mast cell activation, suggesting potential anti-ulcer activity through stabilization of mast cells.
+[p] In the realm of neuronal stimulation, research findings propose that Semax peptide may stimulate acetylcholine and exploratory activity. Researchers suggest that Semax peptide may improve the survival of cholinergic basal forebrain neurons in vitro, further stimulating choline acetyltransferase activity in dissociated basal forebrain tissue cultures without affecting the number of GABA-ergic neurons.
+[p] Semax peptide might be a potentially relevant candidate for further research in studies on conditions such as ADHD and Rett syndrome. It is proposed that Semax may enhance the effects of psychostimulants on central dopamine release, trigger central brain-derived neurotrophic factor (BDNF) synthesis, and potentially improve selective attention and modulate brain development. The neuroprotective potential of Semax peptide may extend to the immune system, influencing microglia and immune system cells, particularly leukocyte activation.
+[p] In the context of glaucomatous optic neuropathy, data suggests that a complex neuroprotective approaches, including Semax peptide exposure, may be employed in research models of normalized ophthalmic tone. The potential efficacy of the peptide may be attributed to Semax’s pathogenetic activity, with neuroprotective and neurotrophic effects speculated to contribute to the observed benefits.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

@@ -1,0 +1,131 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Research in BPC-157 and The Digestive and Nervous Systems
+[p] by Dr. Usman | Jan 17, 2023 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Research in BPC-157 and The Digestive and Nervous Systems :: https://biotechpeptides.com/wp-content/uploads/2023/01/Research-in-BPC-157-and-The-Digestive-and-Nervous-Systems-1.avif
+[p] According to the patent, the peptide’s production is fully synthetic and derived from various organic and inorganic bases. BPC stands for ‘Body Protection Compound.’ It appears to be relatively stable in stomach acid compared to other peptides.
+[p] Animal studies indicate the peptide’s potential to modulate the healing of various tissues, including tendons, joints, nerves, the intestinal tract, and skin. BPC-157 likely works via various pathways, including anti-inflammatory action, modulated nitric oxide synthesis, increased growth factor synthesis, and activation of cells involved in tissue repair.
+[a https://biotechpeptides.com/product/bpc-157/] BPC-157
+[p] Contents:
+[li] Research
+[a #research] Research
+[li] BPC-157 and the Digestive System
+[a #digestive-system] BPC-157 and the Digestive System
+[li] BPC-157 and the Nervous System
+[a #nervous-system] BPC-157 and the Nervous System
+[li] BPC-157 and Skin, Bones, and Joints
+[a #skin-bones] BPC-157 and Skin, Bones, and Joints
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/bpc-157/] 
+[img] BPC-157 (5mg & 10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/BPC-157.png
+[h2] Research
+[h3] BPC-157 Peptide and the Digestive System
+[p] BPC-157 peptide is under investigation for its potential to protect against and treat ulcers in the gastrointestinal system. Animal studies suggest that the peptide has significant protective effects against compounds which are known to cause stomach ulcers.[1][2] Sikiric et al. report that “superior protection against different gastrointestinal and liver lesions and anti-inflammatory and analgesic activities were noted for pentadecapeptide BPC.” Researchers also suggest that this protective potential is likely related to the action of BPC-157 peptide on the alpha-adrenergic (e.g., catecholamine release) and dopaminergic (central) systems. Blocking the alpha-adrenergic or dopamine receptors may reduce the effectiveness of BPC-157 against ulcerations.
+[p] The peptide may also work by stimulating the synthesis of growth factors in the intestinal cells that cover the digestive system. Another laboratory study reports that BPC-157 peptide has also been suggested to stimulate the mRNA of the growth factor EGR-1.[3] As a result, experiments in rats report that BPC-157 peptide speeds up the healing of surgical injuries in the gastrointestinal system, specifically esophagogastric anastomosis healing.[4] Animal models with short-bowel syndrome also report that the peptide may help prevent weight loss and increase the ability of the bowels to absorb nutrients.[5,6] The researchers report constant weight gain and increased villus height, crypt depth, and muscle thickness of the small intestines. Furthermore, the scientists report that “BPC 157 completely ameliorated symptoms in massive intestinal resection.” Because of its interactions with various neurotransmitters, scientists have also investigated its effects on serotonin production. According to preliminary research BPC-157 may exert beneficial action on serotonin synthesis.[7]
+[h3] BPC-157 Peptide and the Nervous System
+[p] Rat studies report that BPC-175 may significantly increase serotonin synthesis in several brain regions, including the “substantia nigra reticulata and medial anterior olfactory nucleus,” taking only 40 minutes for BPC-157 to exert these effects.[8] One study in rats reported that BPC-157 peptide exhibited possible antidepressant characteristics when the animals were exposed to acute or chronic stress.[9]
+[p] BPC-157 peptide may also help ameliorate damage to the brain through various chemicals. According to one experiment which used cuprizone to induce brain damage and nerve demyelination like those observed in multiple sclerosis (MS), BPC-157 had potential protective action.[10] BPC-157 peptide appeared to have reduced the number of damaged cells in numerous brain regions, including the hippocampus. Another study that used a toxin to induce damage, like what is seen in Parkinson’s Disease in rodents, reports that BPC-157 may exerts protective action.[11]
+[h3] BPC-157 Peptide and Skin, Bones, and Joints
+[p] BPC-157 peptide may have action that extend beyond the gastrointestinal and nervous systems, such as stimulating the repair of the skin tissues, bones, joints, tendons, and other tissues. These possible actions could be due to the potential of BPC-157 peptide to stimulate the formation of new blood vessels. By stimulating angiogenesis, BPC-157 may increase the supply of tissues with nutrients and growth factors.
+[p] According to one study in rats with injured limbs, the scientists noted an increase in VEGFR2 expression, which was much more significant compared to controls.[12] Hsieh et al. also noted that “BPC 157 accelerates the blood flow recovery and vessel number in rats with hind limb ischemia.”
+[p] In tendon and joint injuries, BPC-157 peptide may also speed up the recovery of connective tissues by upregulating fibroblast function. Experiments note that BPC-157 may allow tendon fibroblasts to grow and spread faster.[13] The researchers note that the effect was present only when the fibroblasts were replanted. Another experiment also reported increased wound healing potential in rats after injuries induced via surgical cuts. The researchers hypothesized that BPC-157 peptide might significantly increase the rate of injury healing when compared to the control.[14]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Luetic K, Sucic M, Vlainic J, Halle ZB, Strinic D, Vidovic T, Luetic F, Marusic M, Gulic S, Pavelic TT, Kokot A, Seiwerth RS, Drmic D, Batelja L, Seiwerth S, Sikiric P. Cyclophosphamide induced stomach and duodenal lesions as a NO-system disturbance in rats: L-NAME, L-arginine, stable gastric pentadecapeptide BPC 157. Inflammopharmacology. 2017 Apr;25(2):255-264. doi: 10.1007/s10787-017-0330-7. Epub 2017 Mar 2. PMID: 28255738.
+[a https://doi.org/10.1007/s10787-017-0330-7] doi: 10.1007/s10787-017-0330-7
+[li] Sikirić P, Mazul B, Seiwerth S, Grabarević Z, Rucman R, Petek M, Jagić V, Turković B, Rotkvić I, Mise S, Zoricić I, Jurina L, Konjevoda P, Hanzevacki M, Gjurasin M, Separović J, Ljubanović D, Artuković B, Bratulić M, Tisljar M, Miklić P, Sumajstorcić J. Pentadecapeptide BPC 157 interactions with adrenergic and dopaminergic systems in mucosal protection in stress. Dig Dis Sci. 1997 Mar;42(3):661-71. doi: 10.1023/a:1018880000644. PMID: 9073154.
+[a https://doi.org/10.1023/a:1018880000644] doi: 10.1023/a:1018880000644
+[li] Tkalcević VI, Cuzić S, Brajsa K, Mildner B, Bokulić A, Situm K, Perović D, Glojnarić I, Parnham MJ. Enhancement by PL 14736 of granulation and collagen organization in healing wounds and the potential role of egr-1 expression. Eur J Pharmacol. 2007 Sep 10;570(1-3):212-21. doi: 10.1016/j.ejphar.2007.05.072. Epub 2007 Jun 16. PMID: 17628536.
+[a https://doi.org/10.1016/j.ejphar.2007.05.072] doi: 10.1016/j.ejphar.2007.05.072
+[li] Djakovic Z, Djakovic I, Cesarec V, Madzarac G, Becejac T, Zukanovic G, Drmic D, Batelja L, Zenko Sever A, Kolenc D, Pajtak A, Knez N, Japjec M, Luetic K, Stancic-Rokotov D, Seiwerth S, Sikiric P. Esophagogastric anastomosis in rats: Improved healing by BPC 157 and L-arginine, aggravated by L-NAME. World J Gastroenterol. 2016 Nov 7;22(41):9127-9140. doi: 10.3748/wjg.v22.i41.9127. PMID: 27895400; PMCID: PMC5107594.
+[a https://pubmed.ncbi.nlm.nih.gov/27895400/] doi: 10.3748/wjg.v22.i41.9127
+[li] Sever M, Klicek R, Radic B, Brcic L, Zoricic I, Drmic D, Ivica M, Barisic I, Ilic S, Berkopic L, Blagaic AB, Coric M, Kolenc D, Vrcic H, Anic T, Seiwerth S, Sikiric P. Gastric pentadecapeptide BPC 157 and short bowel syndrome in rats. Dig Dis Sci. 2009 Oct;54(10):2070-83. doi: 10.1007/s10620-008-0598-y. Epub 2008 Dec 18. PMID: 19093208.
+[a https://doi.org/10.1007/s10620-008-0598-y] doi: 10.1007/s10620-008-0598-y
+[li] Lojo N, Rasic Z, Zenko Sever A, Kolenc D, Vukusic D, Drmic D, Zoricic I, Sever M, Seiwerth S, Sikiric P. Effects of Diclofenac, L-NAME, L-Arginine, and Pentadecapeptide BPC 157 on Gastrointestinal, Liver, and Brain Lesions, Failed Anastomosis, and Intestinal Adaptation Deterioration in 24 Hour-Short-Bowel Rats. PLoS One. 2016 Sep 14;11(9):e0162590. doi: 10.1371/journal.pone.0162590. PMID: 27627764; PMCID: PMC5023193.
+[a https://doi.org/10.1371/journal.pone.0162590] doi: 10.1371/journal.pone.0162590
+[li] Sikiric P, Seiwerth S, Rucman R, Kolenc D, Vuletic LB, Drmic D, Grgic T, Strbe S, Zukanovic G, Crvenkovic D, Madzarac G, Rukavina I, Sucic M, Baric M, Starcevic N, Krstonijevic Z, Bencic ML, Filipcic I, Rokotov DS, Vlainic J. Brain-gut Axis and Pentadecapeptide BPC 157: Theoretical and Practical Implications. Curr Neuropharmacol. 2016;14(8):857-865. doi: 10.2174/1570159×13666160502153022. PMID: 27138887; PMCID: PMC5333585.
+[a https://doi.org/10.2174/1570159x13666160502153022] doi: 10.2174/1570159×13666160502153022
+[li] Tohyama Y, Sikirić P, Diksic M. Effects of pentadecapeptide BPC157 on regional serotonin synthesis in the rat brain: alpha-methyl-L-tryptophan autoradiographic measurements. Life Sci. 2004 Dec 3;76(3):345-57. doi: 10.1016/j.lfs.2004.08.010. PMID: 15531385.
+[a https://doi.org/10.1016/j.lfs.2004.08.010] doi: 10.1016/j.lfs.2004.08.010
+[li] Sikiric P, Separovic J, Buljat G, Anic T, Stancic-Rokotov D, Mikus D, Marovic A, Prkacin I, Duplancic B, Zoricic I, Aralica G, Lovric-Bencic M, Ziger T, Perovic D, Rotkvic I, Mise S, Hanzevacki M, Hahn V, Seiwerth S, Turkovic B, Grabarevic Z, Petek M, Rucman R. The antidepressant effect of an antiulcer pentadecapeptide BPC 157 in Porsolt’s test and chronic unpredictable stress in rats. A comparison with antidepressants. J Physiol Paris. 2000 Mar-Apr;94(2):99-104. doi: 10.1016/s0928-4257(00)00148-0. PMID: 10791689.
+[a https://doi.org/10.1016/s0928-4257(00)00148-0] doi: 10.1016/s0928-4257(00)00148-0
+[li] Klicek R, Kolenc D, Suran J, Drmic D, Brcic L, Aralica G, Sever M, Holjevac J, Radic B, Turudic T, Kokot A, Patrlj L, Rucman R, Seiwerth S, Sikiric P. Stable gastric pentadecapeptide BPC 157 heals cysteamine-colitis and colon-colon-anastomosis and counteracts cuprizone brain injuries and motor disability. J Physiol Pharmacol. 2013 Oct;64(5):597-612. PMID: 24304574.
+[li] Sikiric P, Marovic A, Matoz W, Anic T, Buljat G, Mikus D, Stancic-Rokotov D, Separovic J, Seiwerth S, Grabarevic Z, Rucman R, Petek M, Ziger T, Sebecic B, Zoricic I, Turkovic B, Aralica G, Perovic D, Duplancic B, Lovric-Bencic M, Rotkvic I, Mise S, Jagic V, Hahn V. A behavioural study of the effect of pentadecapeptide BPC 157 in Parkinson’s disease models in mice and gastric lesions induced by 1-methyl-4-phenyl-1,2,3,6-tetrahydrophyridine. J Physiol Paris. 1999 Dec;93(6):505-12. doi: 10.1016/s0928-4257(99)00119-9. PMID: 10672997.
+[a https://doi.org/10.1016/s0928-4257(99)00119-9] doi: 10.1016/s0928-4257(99)00119-9
+[li] Hsieh MJ, Liu HT, Wang CN, Huang HY, Lin Y, Ko YS, Wang JS, Chang VH, Pang JS. Therapeutic potential of pro-angiogenic BPC157 is associated with VEGFR2 activation and up-regulation. J Mol Med (Berl). 2017 Mar;95(3):323-333. doi: 10.1007/s00109-016-1488-y. Epub 2016 Nov 15. PMID: 27847966.
+[a https://doi.org/10.1007/s00109-016-1488-y] doi: 10.1007/s00109-016-1488-y
+[li] Chang CH, Tsai WC, Lin MS, Hsu YH, Pang JH. The promoting effect of pentadecapeptide BPC 157 on tendon healing involves tendon outgrowth, cell survival, and cell migration. J Appl Physiol (1985). 2011 Mar;110(3):774-80. doi: 10.1152/japplphysiol.00945.2010. Epub 2010 Oct 28. PMID: 21030672.
+[a https://doi.org/10.1152/japplphysiol.00945.2010] doi: 10.1152/japplphysiol.00945.2010
+[li] Staresinic M, Sebecic B, Patrlj L, Jadrijevic S, Suknaic S, Perovic D, Aralica G, Zarkovic N, Borovic S, Srdjak M, Hajdarevic K, Kopljar M, Batelja L, Boban-Blagaic A, Turcic I, Anic T, Seiwerth S, Sikiric P. Gastric pentadecapeptide BPC 157 accelerates healing of transected rat Achilles tendon and in vitro stimulates tendocytes growth. J Orthop Res. 2003 Nov;21(6):976-83. doi: 10.1016/S0736-0266(03)00110-4. PMID: 14554208.
+[a https://doi.org/10.1016/S0736-0266(03)00110-4] doi: 10.1016/S0736-0266(03)00110-4
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

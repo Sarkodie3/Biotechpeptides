@@ -1,0 +1,143 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-Ipamorelin-GHRP-2-1.webp] 
+[img] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-Ipamorelin-GHRP-2-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_CJC-1295_noDAC_Ipamorelin_GHRP-2_3141019_BP_page-0001.webp] 
+[img] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_CJC-1295_noDAC_Ipamorelin_GHRP-2_3141019_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_CJC-1295_noDAC_Ipamorelin_GHRP-2_3141019_BP_page-0002.webp] 
+[img] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_CJC-1295_noDAC_Ipamorelin_GHRP-2_3141019_BP_page-0002.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_CJC-1295_noDAC_Ipamorelin_GHRP-2_3141019_BP_page-0003.webp] 
+[img] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg) - Image 4 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_CJC-1295_noDAC_Ipamorelin_GHRP-2_3141019_BP_page-0003.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_CJC-1295_noDAC_Ipamorelin_GHRP-2_3141019_BP_page-0004.webp] 
+[img] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg) - Image 5 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_CJC-1295_noDAC_Ipamorelin_GHRP-2_3141019_BP_page-0004.webp
+[h1] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg)
+[p] $80.00
+[p] CJC-1295 & Ipamorelin & GHRP-2 blend is Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_739 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $76.00
+[input name=wccs_tier_select_739 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $72.00
+[label] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_CJC-1295_noDAC_Ipamorelin_GHRP-2_3141019_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Peptide Blend
+[p] CJC-1295 is classified as a Growth Hormone Secretagogue (GHS), also known as DAC:GRF. It is an advanced version of GHRH (1-29), synthetically developed with the intention of producing better pharmacokinetics, potentially increasing Growth Hormone levels and Insulin-Like Growth Factor 1 (IGF-1). According to research, it exhibits the potential to increase the production level of Growth Hormone anywhere from 200-1000%. Moreover, the research developers commented that CJC-1295 may increase “mean plasma IGF-I concentrations by 1.5- to 3-fold.”[1] This apparent rise in growth hormone level has been reported to persist for about 6-8 days under study conditions. A longer half-life would ensure the increased level of growth hormone production even beyond the initial introduction of the peptide. Ipamorelin is a pentapeptide and considered a Growth Hormone Secretagogue (GHS). It has been reported by researchers to exhibit similar action as Growth Hormone Releasing Peptides (GHRPs) and reportedly mimics the naturally occurring hunger hormone, ghrelin.[2] One of the most studied potential implications of Ipamorelin is on its selectivity and lack of action on the release of other hormones such as cortisol, prolactin, and aldosterone. GHRP-2 (Growth Hormone Releasing Peptide) is a 2nd-generation Growth Hormone Secretagogue (GSH).[3] It appears to enhance the concentration of Growth Hormone in test models via up-regulating the natural Growth Hormone Releasing Hormone signal transduction pathway. It may also potentially suppress the impact of Somatostatin. Studies have suggested that GHRP-2 may be introduced in high concentrations to test models, without inducing desensitization which is considered inherent with other GHRPs. It may help maintain a high effective concentration of Growth Hormone in the blood. Studies also suggest that the peptide may stimulate appetite. According to scientists, “GHRP-2, like ghrelin, increases food intake, suggesting that GHRP-2 is a valuable tool for investigating ghrelin effects on eating behavior.”[3]
+[a https://biotechpeptides.com/product/mod-grf-1-29-5mg-cjc-1295-no-dac/] CJC-1295
+[a https://biotechpeptides.com/product/ipamorelin-5mg/] Ipamorelin
+[a https://biotechpeptides.com/product/ghrp-2-5mg/] GHRP-2
+[h3] CJC-1295 (Mod GRF 1-29) Specifications
+[p] Molecular Formula: C152H252N44O42
+[p] Molecular Weight: 3367.954 g/mol
+[p] Sequence: H-Tyr-D-Ala-Asp-Ala-Ile-Phe-Thr-Gln-Ser-Tyr-Arg-Lys-Val-Leu-Ala-Gln-Leu-Ser-Ala-Arg-Lys-Leu-Leu-Gln-Asp-Ile-Leu-Ser-Arg-Lys(Mal)-NH2
+[p] Note: DOES NOT CONTAIN DAC
+[h3] Ipamorelin Specifications
+[p] Molecular Formula: C38H49N9O5
+[p] Molecular Weight: 711.86 g/mol
+[p] Sequence: Aib-His-D-2Nal-D-Phe-Lys-NH2
+[h3] GHRP-2 Specifications
+[p] Molecular Formula: C45H55N9O6
+[p] Molecular Weight: 817.97 g/mol
+[p] Sequence: H-D-Ala-D-2-Nal-Ala-Trp-D-Phe-Lys-NH2
+[h3] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend Research
+[p] The synergistic combination of CJC-1295, Ipamorelin, and GHRP-2, may potentially exhibit an amplifier and booster effect on Growth Hormone (GH) production. This combination may enhance GH levels through increasing the activity of cells that secrete GH (Somatotrophs) along with increasing the strength of the pulse of GH. Altogether, it may possibly induce a steady and enhanced release of GH.
+[p] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2: Muscle Mass The primary context of research on this blend focuses on its potential to promote an increase in muscle mass, along with an apparent increase in cellular proliferation and tissue growth.[4] One study which involved murine models with a gene ablation of GHRH (referred to as GHRHKO), commented that the introduction of CJC-1295 might exhibit tissue-specific action. When GHRHKO murine models were introduced to CJC-1295 at intervals of 24 hours, they appeared to exhibit normal weight and length. However, when the intervals were increased to 48 and 72 hours, the murine models appeared to have reached a higher body weight and length compared to those that were given a placebo, but they still did not achieve full growth normalization. In terms of bone growth, it appears that the femur and tibia lengths may have also achieved normal dimensions in the murine models introduced to the peptide every 24 and 48 hours, but not at 72 hours. Additionally, the relative lean mass and subcutaneous fat mass was found to maintain control levels in all groups associated with the peptide. Another observation the researchers made that stands out is that CJC-1295 may have led to an increase in total pituitary RNA and GH mRNA. This posits that there may have been a proliferation of somatotroph cells, which are cells in the pituitary gland that are considered to be responsible for producing growth hormone. This proliferation was further supported through immunohistochemistry images. The findings from this study suggest that more frequent introduction of CJC-1295 may maintain normal body composition and growth in GHRHKO murine models. However, its potential appears to be reduced when intervals are every 48 or 72 hours.
+[p] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2: Bone Density These peptides have been studied in laboratory conditions within the context of various bone-related degenerative diseases such as osteoporosis. The consistent theory proposed in these studies was the potential positive impact of Ipamorelin on bone mineral density.[5] It has been hypothesized to act through GH-mediated pathways on the osteoblasts (bone-forming cells), possibly leading to increased proliferation, development, and differentiation of the osteoblasts. In one study, murine models were subjected to either Ipamorelin or a control substance. The progress of the murine models in relation to Ipamorelin's possible action on bone mineral density was tracked in real-time using dual X-ray absorptiometry (DXA) at sites such as the femur and L6 vertebrae. Following the study period, the femurs of the murine models were analyzed using mid-diaphyseal peripheral quantitative computed tomography (pQCT) scans. The results seem to suggest that the peptide may have led to an increase in body weight and a possible rise in the total tibial and vertebral BMC (bone mineral content) when observed through DXA, compared to the control group. However, when the total BMC was adjusted for the increase in body weight, the researchers reported that there didn’t appear to be a significant change. An increase might have been observed in the tibial area bone mineral density (BMD, which is the ratio of BMC to area), but the total and vertebral area BMDs seem to have remained consistent. The pQCT measurements possibly indicated that the increase in the cortical BMC might be due to an expansion in the cross-sectional bone area, while the cortical volumetric BMD appears to have remained consistent. Both the femur and vertebrae L6 volumes may have seen an increase, but there didn’t seem to be a change in the volumetric BMDs. The observations potentially support the supposition that the rise in cortical and total BMC might be due to enhanced bone growth resulting in increased bone dimensions, while the volumetric BMD remained unchanged.
+[p] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2: Cell Aging The natural production of GH declines with maturation. Declining GH levels appears to have widespread impact, and the maintenance or increase in declining levels of GH has been the primary focus of numerous research studies. Research has suggested that this combination of peptides exhibits some potential to counter age-related degenerative symptoms. The peptides may also reportedly improve skin elasticity by promoting the synthesis of collagen. This blend of peptides may improve cellular turnover and prevent free radical damage to the tissues by reducing oxidative stress. More specifically, research suggests that GHRP-2 in particular may exhibit antioxidative potential. Researchers report that GHRP-2 exhibits a possible affinity for CD36, which is posited to be a scavenger receptor for oxidized low-density lipoprotein (OxLDL). The peptide’s hypothetical binding capability may contribute to the possible hindering of cellular uptake of OxLDL, a complex that appears to have proatherogenic properties. In a study that involved murine models with a specific genetic profile (ApoE(-/-)), researchers introduced GHRP-2 to the models over a span of 12 weeks. The results appeared to suggest that GHRP-2 may lead to a rise in circulating IGF-I levels, potentially ranging between 1.2 to 1.6 times the baseline levels. Moreover, there was a reported reduction, by around 66%, in the levels of circulating interferon-gamma. While it seems that the introduction of GHRP-2 didn't result in any significant changes in the area covered by atherosclerotic plaques, it possibly led to a reduction in the production of superoxide in the aorta, as suggested by dihydroethidium staining. Additionally, GHRP-2 may have caused a significant decrease, by about 92%, in the aortic gene expression of 12/15-lipoxygenase. It also appears to have reduced the aortic expression of both interferon-gamma and macrophage migration inhibitory factors. When examining aortic smooth muscle cells in culture, it was observed that GHRP-2 might counteract the generation of peroxides induced by OxLDL. It also seems to have prevented the down-regulation of the IGF-I receptor and possibly inhibited apoptosis. In the context of macrophages, GHRP-2 was hypothesized to reduce lipid accumulation when exposed to OxLDL.[6]
+[p] Further research on CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 peptide blend includes: ● An exploration of the blend’s potential in strengthening cardiovascular system and faster recovery following an ischemic injury (myocardial infarction) ● Possible impact in improving recovery and tissue repair following lab-induced injury ● Potential impact on immune function ● Potential impact on cognitive and memory function, particularly in relation to degenerative disorders such as dementia ● Potential impact in sleep cycles
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Teichman SL, Neale A, Lawrence B, Gagnon C, Castaigne JP, Frohman LA. Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults. J Clin Endocrinol Metab. 2006 Mar;91(3):799-805. doi: 10.1210/jc.2005-1536. Epub 2005 Dec 13. PMID: 16352683.
+[a https://pubmed.ncbi.nlm.nih.gov/16352683/] doi: 10.1210/jc.2005-1536
+[li] Raun K, Hansen BS, Johansen NL, Thøgersen H, Madsen K, Ankersen M, Andersen PH. Ipamorelin, the first selective growth hormone secretagogue. Eur J Endocrinol. 1998 Nov;139(5):552-61. doi: 10.1530/eje.0.1390552. PMID: 9849822.
+[a https://pubmed.ncbi.nlm.nih.gov/9849822/] doi: 10.1530/eje.0.1390552
+[li] Laferrère B, Abraham C, Russell CD, Bowers CY. Growth hormone releasing peptide-2 (GHRP-2), like ghrelin, increases food intake in healthy men. J Clin Endocrinol Metab. 2005 Feb;90(2):611-4. doi: 10.1210/jc.2004-1719. PMID: 15699539; PMCID: PMC2824650.
+[a https://pubmed.ncbi.nlm.nih.gov/15699539/] doi: 10.1210/jc.2004-1719
+[li] Alba M, Fintini D, Sagazio A, Lawrence B, Castaigne JP, Frohman LA, Salvatori R. Once-daily administration of CJC-1295, a long-acting growth hormone-releasing hormone (GHRH) analog, normalizes growth in the GHRH knockout mouse. Am J Physiol Endocrinol Metab. 2006 Dec;291(6):E1290-4. doi: 10.1152/ajpendo.00201.2006. Epub 2006 Jul 5. PMID: 16822960.
+[a https://pubmed.ncbi.nlm.nih.gov/16822960/] doi: 10.1152/ajpendo.00201.2006
+[li] Svensson J, Lall S, Dickson SL, Bengtsson BA, Rømer J, Ahnfelt-Rønne I, Ohlsson C, Jansson JO. The GH secretagogues ipamorelin and GH-releasing peptide-6 increase bone mineral content in adult female rats. J Endocrinol. 2000 Jun;165(3):569-77. doi: 10.1677/joe.0.1650569. PMID: 10828840.
+[a https://pubmed.ncbi.nlm.nih.gov/10828840/] doi: 10.1677/joe.0.1650569
+[li] Titterington JS, Sukhanov S, Higashi Y, Vaughn C, Bowers C, Delafontaine P. Growth hormone-releasing peptide-2 suppresses vascular oxidative stress in ApoE-/- mice but does not reduce atherosclerosis. Endocrinology. 2009 Dec;150(12):5478-87. doi: 10.1210/en.2009-0283. Epub 2009 Oct 9. PMID: 19819949; PMCID: PMC2795722
+[a https://doi.org/10.1210/en.2009-0283] doi: 10.1210/en.2009-0283
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) $46.00
+[a https://biotechpeptides.com/product/mod-grf-1-29-5mg-cjc-1295-no-dac/] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) $46.00
+[img] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Mod-GRF-1-29-238x317.webp
+[h2] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg)
+[li] GHRP-2 (5mg) $20.00
+[a https://biotechpeptides.com/product/ghrp-2-5mg/] GHRP-2 (5mg) $20.00
+[img] GHRP-2 :: https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-2-238x317.webp
+[h2] GHRP-2 (5mg)
+[li] Sale! Ipamorelin (5mg) $53.00 Original price was: $53.00.$46.00Current price is: $46.00.
+[a https://biotechpeptides.com/product/ipamorelin-5mg/] Sale! Ipamorelin (5mg) $53.00 Original price was: $53.00.$46.00Current price is: $46.00.
+[img] Ipamorelin (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Ipamorelin-1-238x317.webp
+[h2] Ipamorelin (5mg)
+[li] GHRP-2 (10mg) $39.00
+[a https://biotechpeptides.com/product/ghrp-2-10mg/] GHRP-2 (10mg) $39.00
+[img] GHRP-2 :: https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-2-238x317.webp
+[h2] GHRP-2 (10mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

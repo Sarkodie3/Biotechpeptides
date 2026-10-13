@@ -1,0 +1,135 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] AICAR Peptide: Insulin Sensitivity, Apoptosis, and Endurance
+[p] by Dr. Usman | Apr 4, 2024 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] AICAR Peptide Insulin Sensitivity, Apoptosis, and Endurance :: https://biotechpeptides.com/wp-content/uploads/2024/04/AICAR-Peptide-Insulin-Sensitivity-Apoptosis-and-Endurance.webp
+[p] Analogous to adenosine monophosphate (AMP), a fundamental nucleotide pivotal in cellular energy metabolism, AICAR (short for 5-aminoimidazole-4-carboxamide ribonucleotide)[1] has garnered attention for its potential in various realms of scientific inquiry.
+[a https://biotechpeptides.com/product/aicar-50mg/] AICAR (short for 5-aminoimidazole-4-carboxamide ribonucleotide)
+[p] A significant aspect of AICAR’s potential lies in its ability to potentially reduce reperfusion injury following tissue ischemia and to potentially improve metabolic disorders. The key to how it works seems to lie in its activation of AMP-activated protein kinase (AMPK), an enzyme that plays a vital role in many metabolic processes inside cells. AMPK’s job involves bringing the cell’s energy back into balance by controlling processes that either use up energy (like making proteins and fats) or produce energy (like breaking down glucose and fats).[1] By slowing down energy-consuming processes and speeding up energy-producing ones, AMPK is considered to help cells generate more ATP, the energy currency of cells.
+[p] Moreover, the influence of AMPK extends beyond mere energy regulation, encompassing pivotal cellular processes including autophagy, mitochondrial biogenesis, and inflammatory modulation. Due to its potential to activate AMPK, AICAR peptide offers possible pathways to increase the uptake of glucose in skeletal muscle, improve sensitivity to insulin, and enhance tolerance to glucose. Additionally, scientists are considering its anti-inflammatory potential and the possibility of improving physical performance in certain experimental conditions. As such, the interplay between AICAR peptide and AMPK unveils several possibilities, requiring further investigation into its multifaceted roles.
+[p] Contents:
+[li] AICAR Peptide and Organ Protection
+[a #op] AICAR Peptide and Organ Protection
+[li] AICAR Peptide and Physical Activity
+[a #pa] AICAR Peptide and Physical Activity
+[li] AICAR Peptide and Insulin Sensitivity
+[a #is] AICAR Peptide and Insulin Sensitivity
+[li] AICAR Peptide and Cellular Apoptosis
+[a #ca] AICAR Peptide and Cellular Apoptosis
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/aicar-50mg/] 
+[img] Buy AICAR Peptide (50mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/AICAR.png
+[h2] AICAR Peptide and Organ Protection
+[p] Researchers suggest peptide may exhibit promise in conferring organ-protective impacts, particularly concerning ischemia and reperfusion injury. Initial investigations suggest that AICAR may attenuate myocardial infarction size and enhance cardiac function in an animal model subjected to myocardial ischemia-reperfusion injury.[2]
+[p] Notably, a meta-analysis encompassing data from five randomized, placebo-controlled, double-blind studies[3] further explored AICAR’s potential in cardiovascular contexts. The analysis indicated that peptide exposure may have been associated with reductions in myocardial tissue infarction size and cardiac cell death, potentially leading to improved overall outcomes. This protective potential of peptide is suggested by researchers to stem from its influence on cellular metabolism, possibly rendering cells more resilient to hypoxic conditions by upregulating energy availability, notably myocardial glucose. Experimental data from murine models suggests that AICAR, through AMPK activation, “may participate in the control of glycogen metabolism.” Furthermore, AICAR exposure was correlated with elevated levels of 5-aminoimidazole-4-carboxamide 1-beta-d-ribofuranotide (ZMP), its active intracellular form. Although AICAR did not appear to notably impact the activity of glycogen synthase (GS) or glycogen phosphorylase (GP) in tissue homogenates, it seemingly facilitated glycogenolysis through allosteric activation of GP, potentially providing an alternative energy substrate during cellular stress.[4]
+[p] Beyond its cardioprotective potential, research suggests that peptide “appears to protect the liver from fatty changes associated with chronic alcohol [exposure]” as observed in experimental murine models. Chronic ethanol exposure typically induces histological and biochemical changes indicative of fatty liver. However, AICAR intervention appeared to have attenuated these alterations, potentially by downregulating hepatic sterol regulatory element-binding protein 1c (SREBP-1c) expression and reducing fatty acid synthase (FAS) enzyme activity. SREBP-1c, a key regulator of lipid metabolism primarily in hepatic tissues, is considered by scientists to modulate the expression of genes involved in cholesterol, fatty acid, and triglyceride synthesis. Consequently, the observed decrease in SREBP-1c levels following peptide exposure likely contributes to diminished fatty acid synthesis. Meanwhile, FAS, a pivotal enzyme in fatty acid biosynthesis, appears to be regulated by SREBP-1c, further implicating AICAR in attenuating hepatic lipid accumulation.[5]
+[h2] AICAR and Physical Activity
+[p] AICAR peptide has garnered considerable attention by researchers in studies in the realm of physical endurance, with researchers hypothesizing its potential to activate key metabolic pathways to improve and increase activity. Specifically, studies suggest that AICAR may activate enzymes such as AMPK, glycogen phosphorylase, and fructose-1,6-bisphosphatase, leading to potential enhancements in oxidative metabolism and the creation of new mitochondria, a process known as mitochondrial biogenesis.[6] The augmentation of mitochondrial quantity and function is suggested to confer benefits to muscle endurance. For instance, experimental data indicates that AICAR exposure in sedentary murine models appeared to have resulted in a substantial improvement in running endurance, potentially attributable to the induction of metabolic genes. These findings imply that peptides may modulate the AMPK-PPARδ pathway to facilitate training adaptations or augment endurance capacity without the need for physical exercise.[7]
+[p] PPARδ, short for Peroxisome Proliferator-Activated Receptor Delta, represents a class of nuclear receptors implicated in the regulation of genes associated with energy metabolism. It is hypothesized that PPARδ may influence processes such as lipid oxidation and mitochondrial biogenesis. The AMPK-PPARδ pathway is proposed as a conduit between the energy-sensing function of AMPK and the gene regulatory role of PPARδ. Activation of this pathway potentially induces adaptations in muscle cells akin to those induced by prolonged physical activity, including heightened mitochondrial content and a shift in muscle fiber composition towards endurance-oriented fibers, thereby potentially augmenting endurance capacity.
+[p] Further experiments in murine models have provided additional insights into the potential of peptide in augmenting endurance.[8] Notably, the introduction of an AMP-activated protein kinase agonist appeared to have resulted in increased endurance compared to controls. Additionally, in a murine model of Duchenne muscular dystrophy, AICAR appeared to have the potential to enhance the effects of physical activity and muscle function, possibly through the stimulation of autophagy.
+[p] Moreover, investigations into the vascular effects of peptide have revealed intriguing findings. Infusion of AICA-riboside, a precursor of AICAR, was associated with correlated increases in forearm blood flow, potentially mediated by nitric oxide. This suggests a potential dual role for AICAR in improving muscle blood flow and acting as a nitric oxide booster, both of which are critical factors in prolonged physical activity.[9]
+[h2] AICAR Peptide and Insulin Sensitivity
+[p] Research suggests that AICAR may enhance the insulin sensitivity of various tissues by activating AMPK within cells, thereby facilitating glucose uptake. In an experimental model focusing on equine skeletal muscle, AICAR exposure appeared to lead to a decrease in glucose levels and an increase in insulin concentration, while lactate concentration remained unaffected. Notably, AICAR potentially augmented the ratio of phosphorylated to total AMPK in skeletal muscle and may have upregulated GLUT8 protein expression. The observed elevation in GLUT8 protein expression could potentially enhance glucose transport into cells, consequently improving insulin sensitivity.
+[p] Moreover, a study[10] investigating AICAR’s impact on muscle glucose uptake alongside physical activity revealed a potential increase in glucose uptake in muscle tissue. This effect might extend beyond muscle tissue, potentially enhancing peripheral and overall insulin sensitivity. Researchers also proposed that peptide might elevate the phosphorylation of extracellular signal-regulated kinase 1/2, enzymes crucial in the MAP kinase/ERK pathway, which regulates cellular processes like division, differentiation, and stress response.
+[p] Furthermore, investigations suggest that AICAR may potentially decrease hepatic glucose output, lower glucose concentrations, promote hepatic fatty acid oxidation, and inhibit lipolysis, consequently reducing plasma-free fatty acid availability.[11] Although no increase in AMPK phosphorylation was reported in skeletal muscle, a significant rise in acetyl-CoA carboxylase phosphorylation was observed. This enzyme is considered to play a pivotal role in fatty acid metabolism, catalyzing the conversion of acetyl-CoA to malonyl-CoA, a critical step in fatty acid synthesis. The apparent inactivation of acetyl-CoA carboxylase is speculated to stimulate “hepatic fatty acid oxidation and/or inhibits whole body lipolysis, thereby reducing plasma NEFA concentration.”
+[h2] AICAR Peptide and Cellular Apoptosis
+[p] Data from research studies suggests that peptide may instigate programmed cell death, known as apoptosis, in test models of B-cell chronic lymphocytic leukemia (B-CLL).
+[p] Specifically, one study[12] posits that this phenomenon might entail the activation of specific enzymes involved in apoptosis, including caspase-3, -8, and -9, alongside the release of cytochrome C. Furthermore, the incubation of B-CLL cells with AICAR appears to stimulate the phosphorylation of AMP-activated protein kinase (AMPK), indicating the potential of peptide in activating this protein. Investigation into the cellular mechanisms underlying AICAR-induced apoptosis explored the necessity of AICAR’s entry into the cell and its subsequent conversion to AICA ribotide (ZMP). This inquiry employed various inhibitors, such as Nitrobenzylthioinosine (NBTI), 5-iodotubercidin, and adenosine, which were hypothesized to impede AICAR-induced apoptosis and AMPK phosphorylation. Interestingly, inhibitors targeting protein kinase A and mitogen-activated protein kinases did not seem to hinder AICAR-induced apoptosis in B-CLL cells.
+[p] Moreover, the study observed that peptide did not appear to have significantly impacted the levels or phosphorylation of p53, suggesting a mechanism of apoptosis independent of p53 activation in B-CLL cells. A comparative analysis of the sensitivity of normal B lymphocytes, T cells, and B-CLL cells to AICAR-induced apoptosis appeared to reveal similar susceptibility between normal B lymphocytes and B-CLL cells, with T cells from B-CLL subjects displaying only marginal sensitivity. Notably, the phosphorylation of AMPK was not observed in T cells exposed to AICAR. Furthermore, upon AICAR exposure, B-CLL cells appeared to have exhibited higher intracellular levels of ZMP compared to T cells, implying that the accumulation of ZMP may play a pivotal role in activating AMPK and prompting apoptosis in these cells.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] National Center for Biotechnology Information (2024). PubChem Compound Summary for CID 65110, AICA ribonucleotide https://pubchem.ncbi.nlm.nih.gov/compound/AICA-ribonucleotide.
+[a https://pubchem.ncbi.nlm.nih.gov/compound/AICA-ribonucleotide] https://pubchem.ncbi.nlm.nih.gov/compound/AICA-ribonucleotide
+[li] Cieslik, K. A., Taffet, G. E., Crawford, J. R., Trial, J., Mejia Osuna, P., & Entman, M. L. (2013). AICAR-dependent AMPK activation improves scar formation in the aged heart in a murine model of reperfused myocardial infarction. Journal of molecular and cellular cardiology, 63, 26–36. https://doi.org/10.1016/j.yjmcc.2013.07.005
+[a https://doi.org/10.1016/j.yjmcc.2013.07.005] https://doi.org/10.1016/j.yjmcc.2013.07.005
+[li] Mangano D. T. (1997). Effects of acadesine on myocardial infarction, stroke, and death following surgery. A meta-analysis of the 5 international randomized trials. The Multicenter Study of Perioperative Ischemia (McSPI) Research Group. JAMA, 277(4), 325–332. https://doi.org/10.1001/jama.277.4.325
+[a https://doi.org/10.1001/jama.277.4.325] https://doi.org/10.1001/jama.277.4.325
+[li] Longnus, S. L., Wambolt, R. B., Parsons, H. L., Brownsey, R. W., & Allard, M. F. (2003). 5-Aminoimidazole-4-carboxamide 1-beta -D-ribofuranoside (AICAR) stimulates myocardial glycogenolysis by allosteric mechanisms. American journal of physiology. Regulatory, integrative and comparative physiology, 284(4), R936–R944 https://doi.org/10.1152/ajpregu.00319.2002
+[a https://doi.org/10.1152/ajpregu.00319.2002] https://doi.org/10.1152/ajpregu.00319.2002
+[li] Tomita, K., Tamiya, G., Ando, S., Kitamura, N., Koizumi, H., Kato, S., Horie, Y., Kaneko, T., Azuma, T., Nagata, H., Ishii, H., & Hibi, T. (2005). AICAR, an AMPK activator, has protective effects on alcohol-induced fatty liver in rats. Alcoholism, clinical and experimental research, 29(12 Suppl), 240S–5S. https://doi.org/10.1097/01.alc.0000191126.11479.69
+[a https://doi.org/10.1097/01.alc.0000191126.11479.69] https://doi.org/10.1097/01.alc.0000191126.11479.69
+[li] Hardie DG. AMP-activated protein kinase: an energy sensor that regulates all aspects of cell function. Genes Dev. 2011 Sep 15;25(18):1895-908. doi: 10.1101/gad.17420111. PMID: 21937710; PMCID: PMC3185962. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3185962/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3185962/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3185962/
+[li] Narkar, V. A., Downes, M., Yu, R. T., Embler, E., Wang, Y. X., Banayo, E., Mihaylova, M. M., Nelson, M. C., Zou, Y., Juguilon, H., Kang, H., Shaw, R. J., & Evans, R. M. (2008). AMPK and PPARdelta agonists are exercise mimetics. Cell, 134(3), 405–415. https://doi.org/10.1016/j.cell.2008.06.051
+[a https://doi.org/10.1016/j.cell.2008.06.051] https://doi.org/10.1016/j.cell.2008.06.051
+[li] Goodyear, L. J. (2008). The exercise pill—too good to be true? New England Journal of Medicine, 359(17), 1842-1844. https://www.nejm.org/doi/abs/10.1056/NEJMcibr0806723
+[a https://www.nejm.org/doi/abs/10.1056/NEJMcibr0806723] https://www.nejm.org/doi/abs/10.1056/NEJMcibr0806723
+[li] Bosselaar, M., Boon, H., van Loon, L. J., van den Broek, P. H., Smits, P., & Tack, C. J. (2009). Intra-arterial AICA-riboside administration induces NO-dependent vasodilation in vivo in human skeletal muscle. American journal of physiology. Endocrinology and metabolism, 297(3), E759–E766. https://doi.org/10.1152/ajpendo.00141.2009
+[a https://doi.org/10.1152/ajpendo.00141.2009] https://doi.org/10.1152/ajpendo.00141.2009
+[li] Cuthbertson, D. J., Babraj, J. A., Mustard, K. J., Towler, M. C., Green, K. A., Wackerhage, H., Leese, G. P., Baar, K., Thomason-Hughes, M., Sutherland, C., Hardie, D. G., & Rennie, M. J. (2007). 5-aminoimidazole-4-carboxamide 1-beta-D-ribofuranoside acutely stimulates skeletal muscle 2-deoxyglucose uptake in healthy men. Diabetes, 56(8), 2078–2084. https://doi.org/10.2337/db06-1716
+[a https://doi.org/10.2337/db06-1716] https://doi.org/10.2337/db06-1716
+[li] Boon, H., Bosselaar, M., Praet, S. F., Blaak, E. E., Saris, W. H., Wagenmakers, A. J., McGee, S. L., Tack, C. J., Smits, P., Hargreaves, M., & van Loon, L. J. (2008). Intravenous AICAR administration reduces hepatic glucose output and inhibits whole body lipolysis in type 2 diabetic patients. Diabetologia, 51(10), 1893–1900. https://doi.org/10.1007/s00125-008-1108-7
+[a https://doi.org/10.1007/s00125-008-1108-7] https://doi.org/10.1007/s00125-008-1108-7
+[li] Campàs, C., Lopez, J. M., Santidrián, A. F., Barragán, M., Bellosillo, B., Colomer, D., & Gil, J. (2003). Acadesine activates AMPK and induces apoptosis in B-cell chronic lymphocytic leukemia cells but not in T lymphocytes. Blood, 101(9), 3674–3680. https://doi.org/10.1182/blood-2002-07-2339
+[a https://doi.org/10.1182/blood-2002-07-2339] https://doi.org/10.1182/blood-2002-07-2339
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

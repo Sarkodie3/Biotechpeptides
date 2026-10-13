@@ -1,0 +1,133 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] MGF Action on Different Types of Muscle Cells
+[p] by Dr. Usman | Jan 3, 2025 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] MGF Action on Different Types of Muscle Cells :: https://biotechpeptides.com/wp-content/uploads/2025/01/MGF-Action-on-Different-Types-of-Muscle-Cells.avif
+[a https://biotechpeptides.com/product/mgf-5mg/] Mechano-growth factor
+[p] Contents:
+[li] Mechanism of Action
+[a #ma] Mechanism of Action
+[li] Scientific and Research Studies
+[a #research] Scientific and Research Studies
+[li] Muscle Cell Survival
+[a #mcs] Muscle Cell Survival
+[li] Muscle Cell Development
+[a #mcd] Muscle Cell Development
+[li] ardiac Cell Survival
+[a #ccs] ardiac Cell Survival
+[li] Muscular Tissue Fiber Thickness
+[a #mtft] Muscular Tissue Fiber Thickness
+[li] Bone Cell Proliferation
+[a #bcp] Bone Cell Proliferation
+[li] Cartilage Cells
+[a #cc] Cartilage Cells
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/mgf-5mg/] 
+[img] MGF (Mechano-Growth Factor) (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/MGF.png
+[h2] Mechanism of Action
+[p] Researchers have posited that MGF may promote muscle cell hypertrophy and repair, but via mechanisms that may differ compared to native IGF-1. IGF-I itself is posited to bind to the IGF-1 receptor on muscle cells and triggers the PI3K–Akt pathway, a signaling route that often promotes cell survival, differentiation, and controlled proliferation. In contrast, several in vitro studies have noted that synthetic MGF does not appear to activate Akt robustly. Instead, they may increase phosphorylation of ERK (particularly ERK5) and support MEF2C activity—two components more strongly linked to gene transcription events that may drive an increase in cellular size, aka hypertrophy.[1][2] In other words, researchers posit that synthetic MGF seemingly steers the cell toward a gene expression profile that bolsters muscle cell growth in ways that might not precisely mirror the mature IGF-1 response.
+[h2] Scientific Research and Studies
+[h3] MGF and Muscle Cell Survival
+[p] Muscle cell damage is typically associated with increased oxidation levels, cellular death, and replacement with fibrotic tissue. A study indicates that MGF appears to reduce fibrosis in injured skeletal muscle cells, possibly by decreasing the synthesis of collagen types I and III.[3] This reduction in collagen deposition might be mediated by the downregulation of pro-fibrotic cytokines such as TGF-β, which is thought to play a central role in fibrosis. Additionally, MGF may modulate the inflammatory environment within the injured muscle cells. MGF was associated with lowered levels of pro-inflammatory cytokines, including TNF-α, IL-1β, and IFN-γ, suggesting that MGF might help attenuate excessive inflammatory responses that might otherwise impair recovery of muscular tissue. Furthermore, MGF potentially affects oxidative stress within the injured tissue. The study found that MGF led to a decrease in the expression of gp91phox, a key subunit of NADPH oxidases involved in the production of reactive oxygen species (ROS). By reducing oxidative stress, MGF may create a more favorable environment for muscle cell survival and tissue repair. Additionally, MGF might influence extracellular matrix (ECM) remodeling by modulating the expression of matrix metalloproteinases (MMPs). MGF was associated with altered levels of various MMPs, which are involved in the degradation and remodeling of the ECM. This modulation of MMP activity may contribute to a balanced ECM environment, facilitating muscular tissue recovery and mitigating excessive fibrosis.
+[h3] MGF and Muscle Cell Development
+[p] It is posited that MGF might support the activation and proliferation of satellite cells, which are essential for the growth and repair of muscular tissue.[4] By potentially delaying the onset of replicative senescence, MGF may extend the proliferative lifespan of these precursor cells. This delay in senescence may be mediated through the regulation of cell cycle proteins or by modulating stress response pathways, such as the p16 pathway, which scientists believe may have some impact on cell cycle arrest. Additionally, MGF appears to promote the fusion of myoblasts into myotubes, leading to hypertrophy. This hypertrophic potential might be achieved by recruiting reserve cells—those that typically remain quiescent and undifferentiated—to participate in myotube formation. By reducing the population of reserve cells, MGF may facilitate an increase in the number of nuclei per myotube. It might even support the synthesis of contractile proteins like myosin heavy chain (MyHC). These actions suggest that MGF might play a role in optimizing the balance between cell proliferation and differentiation, thereby supporting muscular tissue maintenance and adaptation.
+[h3] MGF and Cardiac Cell Survival
+[p] MGF has been posited to exert anti-apoptotic potential and facilitate the recruitment of stem cells, which are crucial for cardiac tissue repair.[5] One proposed mechanism is MGF’s ability to inhibit apoptosis in cardiac myocytes. The research indicates that MGF may reduce cell death in myocytes subjected to hypoxic conditions. This protective potential appears to be associated with an increase in Bcl-2 gene expression, a protein suggested to play a role in mitigating apoptosis. The study suggests that MGF might support cell survival by modulating apoptotic pathways, potentially through the upregulation of anti-apoptotic factors like Bcl-2.
+[p] MGF is thought to be potentially involved in the recruitment and migration of stem cells to the site of cardiac cell injury. The encapsulated MGF within the microrods was observed to increase the migration of mesenchymal stem cells (hMSCs) in vitro. This chemotactic activity of MGF may create a favorable microenvironment for stem cell homing, which is essential for tissue regeneration and repair. The mechanism behind this may involve MGF interacting with the IGF-1 receptor and activating downstream signaling pathways such as Erk1/2, which are implicated in cell migration and survival.
+[h3] MGF and Muscular Tissue Fiber Thickness
+[p] Researchers have commented that full-length MGF may have “resulted in a 25% increase in the mean muscle fiber cross-sectional area” in experimental settings.[6] The researchers posit that full-length MGF might engage similar signaling pathways as IGF-I, which is believed to coordinate myoblast proliferation, differentiation, and fiber formation in muscular tissue. The comparable maximal activation of IGF-IR by MGF at high concentrations indicates that, under certain conditions, MGF may potentially interact with the growth of muscular tissue akin to IGF-I. Additionally, full-length MGF was found to activate the insulin receptors IR-A and IR-B. The activation of IR-A by MGF reached levels similar to those induced by insulin at high concentrations, while IR-B stimulation by MGF was even more pronounced. This dual receptor activation posits that MGF may influence multiple signaling cascades involved in hypertrophy and repair of muscular tissue. The hypothetically better-supported stimulation of IR-B suggests a possible role for MGF in modulating metabolic and growth-related pathways that contribute to increased fiber size in muscular tissue. However, the truncated version of MGF may not have a similar potential
+[h3] MGF and Bone Cell Proliferation
+[p] In experimental models involving bone defects, MGF was apparently associated with accelerated healing, which might be attributed to its potential to promote osteoblast activity and proliferation. This accelerated healing might result from better-supported cellular processes that support bone regeneration and remodeling. The potential mechanisms by which MGF influences bone cells and tissues appear to involve several intricate cellular pathways.
+[p] Primarily, MGF is believed to support the proliferation of osteoblast-like cells, as supported by data collected by observing the cells and their hypothesized ability to increase cell growth more than IGF-1. However, the researchers also noted that the “peptide actions were independent of IGF-IR signaling,” suggesting an alternative proliferative potential. This pro-proliferative potential might be mediated through the modulation of the cell cycle, where MGF possibly induces an accumulation of cells in the S and G2/M phases. Such cell cycle alterations suggest that MGF may even facilitate DNA synthesis and promote entry into mitosis, which may hypothetically support increased cell division.
+[h3] MGF and Cartilage Cells
+[p] Some researchers suggest that MGF might regulate chondrocyte proliferation and migration.[7] Studies indicate that MGF may support the mobility of mesenchymal stem cells (MSCs) and chondrocytes, possibly facilitating their recruitment to injury sites. This migration may be mediated through the activation of the RhoA/Yes-associated protein (YAP) signaling pathway, which is involved in cytoskeletal reorganization and cell movement. By promoting focal adhesion formation and cytoskeleton stability, MGF may help chondrocytes navigate the damaged environment to participate in tissue repair.
+[p] Additionally, MGF may influence chondrocyte differentiation and extracellular matrix (ECM) production. In the presence of transforming growth factor-beta 3 (TGF-β3), MGF appears to accelerate the differentiation of bone marrow mesenchymal stem cells (BMSCs) into chondrocytes, potentially supporting the synthesis of type II collagen (Col2) and aggrecan, key components of the cartilage ECM. This action might be linked to the activation of the extracellular signal-regulated kinase (ERK) pathway, which is associated with cellular differentiation processes.
+[p] MGF also appears to play some kind of role in modulating inflammatory responses and apoptosis within cartilage tissue. It may reduce the expression of pro-inflammatory cytokines such as interleukin-1 beta (IL-1β) and tumor necrosis factor-alpha (TNF-α), thereby potentially alleviating inflammation-induced cartilage degradation. Furthermore, MGF might inhibit apoptotic pathways by downregulating proteins like Bax and caspase-3 while upregulating Bcl-2, which may help preserve chondrocyte viability in stressful environments. The interaction of MGF with signaling pathways such as phosphoinositide 3-kinase (PI3K)/Akt and ERK/MAPK suggests it may help maintain cartilage homeostasis by promoting ECM synthesis and inhibiting catabolic processes.
+[p] The exact outcomes of these pathway activations appear to be context-dependent, varying between normal and damaged cartilage conditions. For instance, while PI3K/Akt signaling is generally associated with anabolic activities in functional cartilage, its role in damaged tissue is believed to potentially involve complex regulatory actions that are not yet fully understood. Moreover, MGF’s ability to induce the unfolded protein response (UPR) through pathways like protein kinase RNA-like ER kinase (PERK) indicates a potential role in managing cellular stress within chondrocytes. By influencing UPR-related proteins such as glucose-regulated protein 78 (GRP78), MGF may help chondrocytes adapt to hypoxic or mechanically stressful environments, thereby supporting their survival and function.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] Li C, Vu K, Hazelgrove K, Kuemmerle JF. Increased IGF-IEc expression and mechano-growth factor production in intestinal muscle of fibrostenotic Crohn’s disease and smooth muscle hypertrophy. Am J Physiol Gastrointest Liver Physiol. 2015 Dec 1;309(11):G888-99. doi: 10.1152/ajpgi.00414.2014. Epub 2015 Oct 1. PMID: 26428636; PMCID: PMC4669353.
+[a https://doi.org/10.1152/ajpgi.00414.2014] doi: 10.1152/ajpgi.00414.2014
+[li] Matheny RW Jr, Nindl BC, Adamo ML. Minireview: Mechano-growth factor: a putative product of IGF-I gene expression involved in tissue repair and regeneration. Endocrinology. 2010 Mar;151(3):865-75. doi: 10.1210/en.2009-1217. Epub 2010 Feb 3. PMID: 20130113; PMCID: PMC2840678.
+[a https://doi.org/10.1210/en.2009-1217] doi: 10.1210/en.2009-1217
+[li] Liu X, Zeng Z, Zhao L, Chen P, Xiao W. Impaired Skeletal Muscle Regeneration Induced by Macrophage Depletion Could Be Partly Ameliorated by MGF Injection. Front Physiol. 2019 May 17;10:601. doi: 10.3389/fphys.2019.00601. PMID: 31164836; PMCID: PMC6534059.
+[a https://doi.org/10.3389/fphys.2019.00601] doi: 10.3389/fphys.2019.00601
+[li] Kandalla PK, Goldspink G, Butler-Browne G, Mouly V. Mechano Growth Factor E peptide (MGF-E), derived from an isoform of IGF-1, activates human muscle progenitor cells and induces an increase in their fusion potential at different ages. Mech Ageing Dev. 2011 Apr;132(4):154-62. doi: 10.1016/j.mad.2011.02.007. Epub 2011 Feb 25. PMID: 21354439.
+[a https://doi.org/10.1016/j.mad.2011.02.007] doi: 10.1016/j.mad.2011.02.007
+[li] Doroudian G, Pinney J, Ayala P, Los T, Desai TA, Russell B. Sustained delivery of MGF peptide from microrods attracts stem cells and reduces apoptosis of myocytes. Biomed Microdevices. 2014 Oct;16(5):705-15. doi: 10.1007/s10544-014-9875-z. PMID: 24908137; PMCID: PMC4418932.
+[a https://doi.org/10.1007/s10544-014-9875-z] doi: 10.1007/s10544-014-9875-z
+[li] Janssen JA, Hofland LJ, Strasburger CJ, van den Dungen ES, Thevis M. Potency of Full-Length MGF to Induce Maximal Activation of the IGF-I R Is Similar to Recombinant Human IGF-I at High Equimolar Concentrations. PLoS One. 2016 Mar 18;11(3):e0150453. doi: 10.1371/journal.pone.0150453. PMID: 26991004; PMCID: PMC4798685.
+[a https://doi.org/10.1371/journal.pone.0150453] doi: 10.1371/journal.pone.0150453
+[li] Liu Y, Duan M, Zhang D, Xie J. The role of mechano growth factor in chondrocytes and cartilage defects: a concise review. Acta Biochim Biophys Sin (Shanghai). 2023 May 12;55(5):701-712. doi: 10.3724/abbs.2023086. PMID: 37171185; PMCID: PMC10281885.
+[a https://doi.org/10.3724/abbs.2023086] doi: 10.3724/abbs.2023086
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

@@ -1,0 +1,125 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/Cardiogen-1.webp] 
+[img] Cardiogen (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Cardiogen-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Cardiogen_3141014_BP_page-0001.webp] 
+[img] Cardiogen (20mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Cardiogen_3141014_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Cardiogen_3141014_BP_page-0002.webp] 
+[img] Cardiogen (20mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Cardiogen_3141014_BP_page-0002.webp
+[h1] Cardiogen (20mg)
+[p] $62.00
+[p] Cardiogen peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_5933 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $58.90
+[input name=wccs_tier_select_5933 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $55.80
+[label] Cardiogen (20mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Cardiogen_3141014_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Cardiogen Peptide
+[p] Cardiogen is a cardiovascular bioregulator peptide complex. Results obtained from research studies suggest that Cardiogen’s primary functions may be correlated to fibroblast action, cells considered responsible for scar formation and tissue repair. The peptide has a sequence of H-Ala-Glu-Asp-Arg-OH (AEDR).[1] Research posits that the synthetic tetrapeptide Cardiogen may potentially stimulate cell proliferation in myocardial tissue. Additionally, it appears that Cardiogen may possibly inhibit myocardial cell apoptosis (cell death), hypothetically through the reduction of p53 protein expression.[2]
+[h3] Specifications
+[p] Molecular Formula: C18H31N7O9
+[p] Molecular Weight: 489.5 g/mol
+[p] Peptide complex AKS-K (peptide-linked amino acids): Glutamic, aspartic, alanine, arginine.
+[h3] Cardiogen Research
+[p] Cardiogen Peptide and the Heart Research studies speculate that Cardiogen may stimulate the proliferation of cardiomyocytes, through which the compound may reduce the growth and development of fibroblasts and potentially cause a reduction in the formation of scars, allowing for improved long-term outcomes in cardiac remodeling that may result in congestive cardiac failure. The synthetic tetrapeptide Cardiogen appears to have a notable action in stimulating cell proliferation in both young and old murine models, according to the observations made in the study. This leads to the hypothesis that Cardiogen might promote cell growth in the heart muscle. Moreover, researchers suggest that Cardiogen may cause a decrease in the expression of the p53 protein, which may result in a reduced rate of apoptosis. The study seems to suggest that Cardiogen might decrease the expression of the p53 protein. The p53 protein is often posited as the "guardian of the genome" due to its apparent role in regulating the cell cycle, and its possible function as a tumor suppressor. When p53 is active, it is considered to be capable of triggering apoptosis, or programmed cell death. Consequently, a decrease in p53 expression via Cardiogen exposure might inhibit apoptosis in myocardial tissue.[2] The authors share that “This fact can testify that cardiogen inhibits the apoptosis process in the myocard tissue.” In mature test models, Cardiogen has been studied within the context of hypertension, heart failure, attacks of angina pectoris, coronary heart disease, myocardial hypertrophy, myocarditis, and myocardiodystrophy. It has also been researched for its potential to increase stamina under heavy loads and adverse environmental factors.
+[p] Cardiogen Peptide and the Prostate Cardiogen, along with several similarly structured peptides, may potentially induce positive changes in the expression of signaling factors in the fibroblasts of proteins. Signaling factors are considered responsible for fostering the development and succession of prostate cancer. In aging and senescent fibroblasts, these signaling factors appear to undergo alteration. This alteration may lend credence to the observation that prostate cancer is present in older cell cultures but is rarely evident in younger ones. These studies suggest that Cardiogen may play a potential role in bringing these signaling factors to normal levels, to be identical or even better than what is in young cell cultures.[3]
+[p] Cardiogen Peptide and Cancer Cells Research suggests that Cardiogen may be a reductant of apoptosis in the cardiomyocytes via decreasing the expression of p53, but that it may exert an opposite action in tumor cells.[4] The tumor-modifying potential of Cardiogen, which was experimented on rat models of M-1 sarcoma, reported that apoptosis on tumor cells appeared to be higher than usual and beyond control.[5] The study suggested that this may have been due to the development of necrotic hemorrhagic and the enhancement of tumor cell apoptosis. This proliferative activity may indicate that tumor growth inhibition may not be due to the direct effect of a cytostatic compounds on the tumor. Morphology has suggested that it may be due to a particular mechanism of action of the peptide. The authors commented that “Morphological signs indicate a specific mechanism of cardiogen action, realized through the vascular network of the tumor.” Thus, this apoptotic process may be bestowed upon tumor cells due to the induction of changes in their vascular supply.
+[p] Cardiogen Peptide and Fibroblasts, Cardiomyocyte Metabolism Research appears to suggest that Cardiogen may penetrate into the cytoplasm, nucleus, and nucleolus of HeLa cells.[6] Furthermore, this peptide could possibly inhibit the hydrolysis of DNA fragments with endonucleases. The study was conducted on murine models, specifically embryonic fibroblasts (MEF+/+, knockout LMNA mice), which were cultured in a humid atmosphere in DMEM supplemented with about 10% embryonic calf serum. The cells were grown in the culture medium for approximately 5 days and then divided into two groups: group 1 cultures were presumably intact (control), while group 2 cultures were incubated with H-Ala-Glu-Asp-Arg-OH (Cardiogen) for about 30 min. The results appear to show that in cultures incubated with H-Ala-Glu-Asp-Arg-OH, the expression of cytoplasmic proteins actin, vimentin, and tubulin might have increased by 2-5x, and nuclear matrix proteins lamin A and lamin C by 2-3x as compared with the control. These results seem to suggest that H-Ala-Glu-Asp-Arg-OH potentially activates the expression of cytoskeletal proteins actin, vimentin, and tubulin and nuclear matrix proteins lamin A and C. Researchers hypothesize that this peptide, by potentially regulating DNA-associated proteins (enzymes and transcription factors), may improve the accessibility of genes encoding cytoskeletal proteins for transcription, which may lead to the activation of intracellular metabolism and the induction of cell proliferation and differentiation. The apparently enhanced production of lamin A and lamin C may be seen as a sign of the antiapoptotic action of Cardiogen. The authors conclude that “the previously reported cardioprotective activity of this tetrapeptide is determined by its capacity to activate synthesis of cytoskeletal and nuclear matrix proteins, which stimulates cell proliferation and reduces apoptosis.” A recent investigation also appears to discuss the potential action of the Cardiogen peptide in an experimental murine model of myocardial damage, which was accomplished through the ligation of the coronary artery.[7] It seems the peptide might considerably reduce mortality following the experimentally induced heart damage, with researchers observing a threefold decrease compared to the control group. Additionally, this peptide might contribute to a decrease in necrotic zones within the myocardial tissue, which could be areas of cell death resulting from possible lack of blood flow. It is also proposed that the peptide may help preserve the glycogen content in the myocardial tissue. Glycogen, which is considered a form of energy storage for cells, when preserved, suggests that the cells were possibly able to maintain their energy reserves better when the peptide was present. This could hypothetically improve the survival and function of the cells after a heart attack. The study also posits that the peptide might exert a protective action on mitochondria, the structures within cells that are believed to produce energy. Finally, it is hypothesized that the peptide might stimulate reparative processes, which may theoretically aid in repairing the damage caused by the heart attack and potentially improve the metabolism of the cardiomyocytes.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Fedoreyeva, L. I., Kireev, I. I., Khavinson, V. K.h, & Vanyushin, B. F. (2011). Penetration of short fluorescence-labeled peptides into the nucleus in HeLa cells and in vitro specific interaction of the peptides with deoxyribooligonucleotides and DNA. Biochemistry. Biokhimiia, 76(11), 1210–1219. https://doi.org/10.1134/S0006297911110022
+[a https://doi.org/10.1134/S0006297911110022] https://doi.org/10.1134/S0006297911110022
+[li] Chalisova NI, Lesniak VV, Balykina NA, et al. [The effect of the amino acids and cardiogen on the development of myocard tissue culture from young and old rats]. Advances in Gerontology = Uspekhi Gerontologii. 2009 ;22(3):409-413. PMID: 20210190.
+[li] Kheĭfets OV, Poliakova VO, Kvetnoĭ IM. [Peptidergic regulation of the expression of signal factors of fibroblast differentiation in the human prostate gland in cell aging]. Advances in Gerontology = Uspekhi Gerontologii. 2010 ;23(1):68-70. PMID: 20586252.
+[li] Zakutskiĭ, A. N., Chalisova, N. I., & Subbotina, T. F. (2008). Bioorganicheskaia khimiia, 34(2), 149–159. https://doi.org/10.1134/s1068162008020015
+[a https://doi.org/10.1134/s1068162008020015] https://doi.org/10.1134/s1068162008020015
+[li] Levdik, N. V., & Knyazkin, I. V. (2009). Tumor-modifying effect of cardiogen peptide on M-1 sarcoma in senescent rats. Bulletin of experimental biology and medicine, 148(3), 433–436. https://doi.org/10.1007/s10517-010-0730-9
+[a https://doi.org/10.1007/s10517-010-0730-9] https://doi.org/10.1007/s10517-010-0730-9
+[li] Khavinson, V. K.h, Lin'kova, N. S., Polyakova, V. O., Kvetnoy, I. M., Benberin, V. V., D'yakonov, M. M., & Titkov, Y. S. (2012). Tetrapeptide H-Ala-Glu-Asp-Arg-OH stimulates expression of cytoskeletal and nuclear matrix proteins. Bulletin of experimental biology and medicine, 153(4), 559–562. https://doi.org/10.1007/s10517-012-1766-9
+[a https://doi.org/10.1007/s10517-012-1766-9] https://doi.org/10.1007/s10517-012-1766-9
+[li] Khavinson, V., Linkova, N., Dyatlova, A., Kantemirova, R., & Kozlov, K. (2022). Senescence-Associated Secretory Phenotype of Cardiovascular System Cells and Inflammaging: Perspectives of Peptide Regulation. Cells, 12(1), 106.
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Sale! Vilon (20mg) $65.00 Original price was: $65.00.$61.00Current price is: $61.00.
+[a https://biotechpeptides.com/product/vilon-20mg/] Sale! Vilon (20mg) $65.00 Original price was: $65.00.$61.00Current price is: $61.00.
+[img] Vilon (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Vilon-1-238x317.webp
+[h2] Vilon (20mg)
+[li] Pinealon (20mg) $68.00
+[a https://biotechpeptides.com/product/pinealon-20mg/] Pinealon (20mg) $68.00
+[img] Pinealon (20mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Pinealon-1-238x317.webp
+[h2] Pinealon (20mg)
+[li] Livagen (20mg) $62.00
+[a https://biotechpeptides.com/product/livagen-20mg/] Livagen (20mg) $62.00
+[img] Livagen (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Livagen-1-238x317.webp
+[h2] Livagen (20mg)
+[li] Chonluten (T-34) (20mg) $62.00
+[a https://biotechpeptides.com/product/chonluten-t-34-20mg/] Chonluten (T-34) (20mg) $62.00
+[img] Chonluten (T-34) (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Chonluten-1-238x317.webp
+[h2] Chonluten (T-34) (20mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

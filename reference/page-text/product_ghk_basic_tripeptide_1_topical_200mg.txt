@@ -1,0 +1,152 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/GHK-Basic-3.webp] 
+[img] Buy GHK Basic (Tripeptide-1) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/GHK-Basic-3-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_GHK-Basic_3140031_20260724_page-0001.webp] 
+[img] GHK Basic (Tripeptide-1) (200mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_GHK-Basic_3140031_20260724_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_GHK-Basic_3140031_20260724_page-0002.webp] 
+[img] GHK Basic (Tripeptide-1) (200mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_GHK-Basic_3140031_20260724_page-0002.webp
+[h1] GHK Basic (Tripeptide-1) (200mg)
+[p] $165.00
+[p] GHK Basic peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_5982 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $156.75
+[input name=wccs_tier_select_5982 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $148.50
+[label] GHK Basic (Tripeptide-1) (200mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_GHK-Basic_3140031_20260724.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] GHK Basic Peptide
+[p] GHK is an endogenous copper peptide that occurs in the tripeptide glycyl-L-histidyl-L-lysine. It has two variants — GHK with or without Cu (Copper). GHK appears to have a strong affinity for copper (II), and it is synthesized from plasma, although it has been isolated in other areas. Endogenous GHK production is considered to decline over time. [1] In cases of injury, GHK may be released from tissue cells. That may be because GHK is present in various proteins that get broken down via hydrolysis during injury. For example, studies suggest that GHK is present in the “alpha 2(I) chain of type I collagen”, which “suggests that the tripeptide might be liberated by proteases at the site of a wound and exert in situ healing." [2] GHK peptide may also be released from the breakdown of another extracellular matrix-binding protein involved in regulating cell shape and proliferation, called SPARC (Secreted Protein, Acidic, and Rich in Cysteine). GHK is found in tissues undergoing remodeling, such as during the process of angiogenesis.[3] When GHK is released from the breakdown of proteins like collagen and SPARC, this signaling appears to trigger the fibroblasts to begin synthesizing new collagen and other structural proteins in the skin structure and connective tissues like elastin and glycosaminoglycan. Further, this copper-binding peptide appears to affect genes that control recuperative responses to injury and stress. Its functions appear to include the following: tissue remodeling, anti-inflammatory response, pain perception inhibition, nootropic, anti-cancer action, blood vessel growth, and nerve outgrowth.
+[h3] Specifications
+[p] Molecular Formula: C14H24N6O4
+[p] Molecular Weight: 340.4 g/mol
+[p] Synonyms: NSC661251, NSC-661251
+[h3] GHK and GHK-Cu
+[p] GHK has a sequence inherent in SPARC protein and collagen molecules. Copper, on the other hand, is a transitional element of utmost importance to organisms with a cell membrane, extending from microorganisms upwards. Sequel to its conversion from oxidized -Cu (II) to reduced -Cu (I), it is considered to be a vital cofactor in a series of biochemical reactions accompanied by electron transfer. The changes in copper oxidation state may be an advantage, as dozens of enzymes may adopt it in catalyzing critical biochemical reactions such as detoxification, blood clotting, cellular respiration, antioxidant defense, and connective tissue regeneration.[2] Copper also appears to be vital in iron metabolism and embryonic development, potentially essential for most metabolic reactions that occur in fetal development, oxygenation, and other biological processes.
+[h3] Research
+[p] GHK Peptide and Cancer Cells Tumor suppressor genes or anti-oncogenes, growth regulatory-, and DNA repair genes appear to be essential in cancer cell suppression and apoptosis (cell death). Following research by Hong et al., the copper-binding peptide may be linked to wound healing and skin structure remodeling.[4] In one study, GHK, alongside another molecule, appeared to have reversed the oncogene expressions of research models. Subsequently, researchers suggested that “Gly-His-Lys and securinine [may] reverse the differential expressions of these genes significantly, suggesting that they have combinatorial [actions].”
+[p] GHK Peptide and Tissue Repair The endogenously occurring GHK molecule is considered to play a vital role in the repair of damaged tissues. Endogenous copper peptides are similarly vital, possibly accelerating the production of elastin and collagen proteins. They appear to support the production of glycosaminoglycans and hyaluronic acid, which aid in moisture retention. The introduction of synthetically developed copper peptide appears to support blood flow to areas of focused follicle growth, encouraging hair follicle development. According to Campbell et al., GHK appears to support the production of TGF beta and members of the same species that initiate the repair process. The copper peptide, with the aid of TGF beta, may reset the gene expression of fibroblasts in research models of COPD. Campbell et al. also “suggest the need for additional studies to examine the mechanisms by which TGF beta and GHK each reverse the gene-expression signature of emphysematous destruction and the [impact] of this reversal on disease progression.” [5]
+[p] GHK Peptide and DNA Repair DNA damage begins to accumulate at the onset of cellular aging. The GHK peptide has been researched for its potential to reset the activity of DNA repair genes, diminishing physiological decline.[6] Studies are ongoing.
+[p] GHK Peptide and Antioxidant Characteristics GHK appears to initiate 14 antioxidant genes and may repress two pro-oxidant genes. Pickart et al. propose that GHK tripeptide may have supporting actions against oxidative stress and free radicals.[7] For example, active radicals are a major factor contributing to epidermal tissue wrinkling, photoaging, and light-associated damage. Research indicates that the peptide GHK might play a role in neutralizing harmful free radicals, which are by-products generated during lipid peroxidation—a process where lipids degrade, particularly when exposed to UV light.[8] The specific radicals potentially affected include 4-hydroxynoneal, acrolein, and malondialdehyde, among others, all of which are believed to contribute to cellular damage.
+[p] GHK Peptide and Inflammation The antioxidant properties of GHK might also extend to various models of inflammation. There is some indication that GHK might interfere with mechanisms of oxidative stress and inflammation, such as iron release from ferritin, a protein complex involved in storing iron, thereby potentially mitigating lipid peroxidation. Studies suggest that GHK might reduce the formation of iron complexes within damaged tissues, potentially lowering inflammation levels.[9] It is hypothesized that GHK binds to ferritin channels, possibly reducing iron release by as much as 87%, which may play a role in mitigating further oxidative damage and inflammation in compromised tissues. In animal models, GHK has been observed to potentially suppress lung tissue inflammation caused by lipopolysaccharides—a component of bacterial cell walls—by inhibiting the activation of the NF-κB and p38 MAPK signaling pathways, which are believed to promote inflammatory responses.[10] This action might also lead to a decrease in the production of pro-inflammatory cytokines, such as TNF-1 and IL-6. Further studies suggest that GHK might have an inhibitory action on oxidative stress in epithelial cells by possibly upregulating the expression of Nrf2, a key regulatory protein that controls the expression of antioxidant proteins.[11] The antioxidant activity of GHK might be particularly potent when compared to other endogenous peptides like carnosine and reduced glutathione, especially when considering its potential ability to counteract hydroxyl radicals in cell cultures.[12]
+[p] GHK Peptide and Ubiquitin/Proteasome System (UPS) UPS is considered to abolish damaged proteins. GHK appears to stimulate gene expression in 41 UPS and suppress only 1 UPS gene. As a result, UPS appears to reduce cellular age-related decline in experimental models.[13]
+[p] GHK Peptide and Epidermal Tissue Recovery A study examining diabetic ulcer models suggested that GHK might have a more pronounced impact on wound closure than a control compound. The researchers observed that ulcer infections occurred in only 7% of cases exposed to GHK, whereas the control group had a higher infection rate of 34%.[14] In a separate investigation of ulcers, it was reported that wounds exposed to GHK may suggest increased neutrophil counts—cells essential for the immune response—and a greater density of blood vessels compared to the control group.[15] This research team speculated that GHK might potentially accelerate wound healing and promote the formation of granulation tissue, which is composed of new connective tissue and capillaries that emerge on the surface of a healing wound. This action might be linked to the upregulation of antioxidant enzymes, although this remains uncertain. Additionally, there is the potential for support for vascular function, which is vital for the delivery of nutrients and oxygen necessary for tissue regeneration. Another study aimed to assess GHK's impact on the healing of ischemic open wounds.[16] Findings indicated that wounds exposed to GHK might have experienced a more significant reduction in wound area than those in the control group. It was also reported that these wounds had lower levels of pro-inflammatory markers such as tumor necrosis factor-alpha (TNF-alpha), matrix metalloproteinase-2 (MMP-2), and matrix metalloproteinase-9 (MMP-9), all of which are involved in inflammation and tissue remodeling. This suggests that GHK may potentially reduce inflammation and tissue breakdown in ischemic wound environments. In follow-up studies, wounds exposed to biotinylated GHK films reportedly achieved near-complete closure at 99.39%, which might represent a better outcome when compared to the 69.49% closure observed with control films.[17] Furthermore, GHK-exposed wounds appeared to contain higher levels of glutathione and ascorbic acid, both of which are considered to be key antioxidants involved in tissue repair. There also might have been an increase in epithelialization—the renewal of the outer layer of the stratum corneum—in these experimental models, along with a possible stimulation of collagen production, which is deemed critical for maintaining skin structure. The activation of fibroblasts, which are cells involved in wound healing, and a potential increase in mast cell activity, associated with inflammatory processes, were also observed.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Dou Y, Lee A, Zhu L, Morton J, Ladiges W. The potential of GHK as an anti-aging peptide. Aging Pathobiol Ther. 2020 Mar 27;2(1):58-61. doi: 10.31491/apt.2020.03.014. PMID: 35083444; PMCID: PMC8789089.
+[a https://doi.org/10.31491/apt.2020.03.014] doi: 10.31491/apt.2020.03.014
+[li] Maquart, F. X., Pickart, L., Laurent, M., Gillery, P., Monboisse, J. C., & Borel, J. P. (1988). Stimulation of collagen synthesis in fibroblast cultures by the tripeptide-copper complex glycyl-L-histidyl-L-lysine-Cu2+. FEBS letters, 238(2), 343–346. https://doi.org/10.1016/0014-5793(88)80509-x
+[a https://doi.org/10.1016/0014-5793(88)80509-x] https://doi.org/10.1016/0014-5793(88)80509-x
+[li] Lane TF, Iruela-Arispe ML, Johnson RS, Sage EH. SPARC is a source of copper-binding peptides that stimulate angiogenesis. J Cell Biol. 1994 May;125(4):929-43. doi: 10.1083/jcb.125.4.929. PMID: 7514608; PMCID: PMC2120067.
+[a https://doi.org/10.1083/jcb.125.4.929] doi: 10.1083/jcb.125.4.929
+[li] Hong Y, Downey T, Eu KW, Koh PK, Cheah PY. A ‘metastasis-prone’ signature for early-stage mismatch-repair proficient sporadic colorectal cancer patients and its implications for possible therapeutics. Clin Exp Metastasis. 2010 Feb;27(2):83-90. doi: 10.1007/s10585-010-9305-4. Epub 2010 Feb 9. PMID: 20143136.
+[a https://doi.org/10.1007/s10585-010-9305-4] doi: 10.1007/s10585-010-9305-4
+[li] Campbell JD, McDonough JE, Zeskind JE, Hackett TL, Pechkovsky DV, Brandsma CA, Suzuki M, Gosselink JV, Liu G, Alekseyev YO, Xiao J, Zhang X, Hayashi S, Cooper JD, Timens W, Postma DS, Knight DA, Lenburg ME, Hogg JC, Spira A. A gene expression signature of emphysema-related lung destruction and its reversal by the tripeptide GHK. Genome Med. 2012 Aug 31;4(8):67. doi: 10.1186/gm367. PMID: 22937864; PMCID: PMC4064320.
+[a https://doi.org/10.1186/gm367] doi: 10.1186/gm367
+[li] Pickart L, Vasquez-Soltero JM, Margolina A. GHK, and DNA: resetting the human genome to health. Biomed Res Int. 2014;2014:151479. doi: 10.1155/2014/151479. Epub 2014 Sep 11. PMID: 25302294; PMCID: PMC4180391.
+[a https://doi.org/10.1155/2014/151479] doi: 10.1155/2014/151479
+[li] Pickart L, Vasquez-Soltero JM, Margolina A. The human tripeptide GHK-Cu in the prevention of oxidative stress and degenerative conditions of aging: implications for cognitive health. Oxid Med Cell Longev. 2012;2012:324832. doi: 10.1155/2012/324832. Epub 2012 May 10. PMID: 22666519; PMCID: PMC3359723.
+[a https://doi.org/10.1155/2012/324832] doi: 10.1155/2012/324832
+[li] Cebrián, J., Messeguer, A., Facino, R. M., & García Antón, J. M. (2005). New anti-RNS and -RCS products for cosmetic treatment. International journal of cosmetic science, 27(5), 271–278. https://doi.org/10.1111/j.1467-2494.2005.00279.x
+[a https://doi.org/10.1111/j.1467-2494.2005.00279.x] https://doi.org/10.1111/j.1467-2494.2005.00279.x
+[li] Miller, D. M., DeSilva, D., Pickart, L., & Aust, S. D. (1990). Effects of glycyl-histidyl-lysyl chelated Cu(II) on ferritin dependent lipid peroxidation. Advances in experimental medicine and biology, 264, 79–84. https://doi.org/10.1007/978-1-4684-5730-8_11
+[a https://doi.org/10.1007/978-1-4684-5730-8_11] https://doi.org/10.1007/978-1-4684-5730-8_11
+[li] Park, J. R., Lee, H., Kim, S. I., & Yang, S. R. (2016). The tri-peptide GHK-Cu complex ameliorates lipopolysaccharide-induced acute lung injury in mice. Oncotarget, 7(36), 58405–58417. https://doi.org/10.18632/oncotarget.11168
+[a https://doi.org/10.18632/oncotarget.11168] https://doi.org/10.18632/oncotarget.11168
+[li] Zhang, Q., Yan, L., Lu, J., & Zhou, X. (2022). Glycyl-L-histidyl-L-lysine-Cu2+ attenuates cigarette smoke-induced pulmonary emphysema and inflammation by reducing the oxidative stress pathway. Frontiers in molecular biosciences, 9, 925700. https://doi.org/10.3389/fmolb.2022.925700
+[a https://doi.org/10.3389/fmolb.2022.925700] https://doi.org/10.3389/fmolb.2022.925700
+[li] Sakuma, S., Ishimura, M., Yuba, Y., Itoh, Y., & Fujimoto, Y. (2018). The peptide glycyl-ʟ-histidyl-ʟ-lysine is an endogenous antioxidant in living organisms, possibly by diminishing hydroxyl and peroxyl radicals. International journal of physiology, pathophysiology, and pharmacology, 10(3), 132–138.
+[li] Pickart L, Margolina A. Regenerative and Protective Actions of the GHK-Cu Peptide in the Light of the New Gene Data. Int J Mol Sci. 2018 Jul 7;19(7):1987. doi: 10.3390/ijms19071987. PMID: 29986520; PMCID: PMC6073405.
+[a https://doi.org/10.3390/ijms19071987] doi: 10.3390/ijms19071987
+[li] Mulder, G. D., Patt, L. M., Sanders, L., Rosenstock, J., Altman, M. I., Hanley, M. E., & Duncan, G. W. (1994). Enhanced healing of ulcers in patients with diabetes by topical treatment with glycyl-l-histidyl-l-lysine copper. Wound repair and regeneration: official publication of the Wound Healing Society [and] the European Tissue Repair Society, 2(4), 259–269. https://doi.org/10.1046/j.1524-475X.1994.20406.x
+[a https://doi.org/10.1046/j.1524-475X.1994.20406.x] https://doi.org/10.1046/j.1524-475X.1994.20406.x
+[li] Gul, N. Y., Topal, A., Cangul, I. T., & Yanik, K. (2008). The effects of topical tripeptide copper complex and helium-neon laser on wound healing in rabbits. Veterinary dermatology, 19(1), 7–14. https://doi.org/10.1111/j.1365-3164.2007.00647.x
+[a https://doi.org/10.1111/j.1365-3164.2007.00647.x] https://doi.org/10.1111/j.1365-3164.2007.00647.x
+[li] Canapp, S. O., Jr, Farese, J. P., Schultz, G. S., Gowda, S., Ishak, A. M., Swaim, S. F., Vangilder, J., Lee-Ambrose, L., & Martin, F. G. (2003). The effect of topical tripeptide-copper complex on the healing of ischemic open wounds. Veterinary surgery: VS, 32(6), 515–523. https://doi.org/10.1111/j.1532-950x.2003.00515.x
+[a https://doi.org/10.1111/j.1532-950x.2003.00515.x] https://doi.org/10.1111/j.1532-950x.2003.00515.x
+[li] Alven, S., Peter, S., Mbese, Z., & Aderibigbe, B. A. (2022). Polymer-Based Wound Dressing Materials Loaded with Bioactive Agents: Potential Materials for the Treatment of Diabetic Wounds. Polymers, 14(4), 724. https://doi.org/10.3390/polym14040724
+[a https://doi.org/10.3390/polym14040724] https://doi.org/10.3390/polym14040724
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Sale! Pal-AHK (200mg) $192.00 Original price was: $192.00.$180.00Current price is: $180.00.
+[a https://biotechpeptides.com/product/pal-ahk-topical-200mg/] Sale! Pal-AHK (200mg) $192.00 Original price was: $192.00.$180.00Current price is: $180.00.
+[img] Pal-AHK (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Pal-AHK-2-238x317.webp
+[h2] Pal-AHK (200mg)
+[li] Pal-GHK (Palmitoyl Tripeptide-1) (200mg) $199.00
+[a https://biotechpeptides.com/product/pal-ghk-palmitoyl-tripeptide-1-topical-200mg/] Pal-GHK (Palmitoyl Tripeptide-1) (200mg) $199.00
+[img] Pal-GHK (Palmitoyl Tripeptide-1) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Pal-GHK-1-238x317.webp
+[h2] Pal-GHK (Palmitoyl Tripeptide-1) (200mg)
+[li] AHK-Cu (200mg) $192.00
+[a https://biotechpeptides.com/product/ahk-cu-topical-200mg/] AHK-Cu (200mg) $192.00
+[img] AHK-Cu (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/AHK-Cu-1-238x317.webp
+[h2] AHK-Cu (200mg)
+[li] GHK-Cu (200mg) $186.00
+[a https://biotechpeptides.com/product/ghk-cu-topical-200mg/] GHK-Cu (200mg) $186.00
+[img] GHK-Cu (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/GHK-Cu-1-238x317.webp
+[h2] GHK-Cu (200mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

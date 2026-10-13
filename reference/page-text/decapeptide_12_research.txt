@@ -1,0 +1,91 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Decapeptide-12 Research
+[p] by Dr. Usman | Jul 18, 2022 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Decapeptide-12 Research :: https://biotechpeptides.com/wp-content/uploads/2022/07/Decapeptide-12-Research.avif
+[p] Tyrosinase may be present in plant and animal cells, where it appears to aid the catalyzation of melanin. The peptide has also been suggested to aid in dihydroxyphenylalanine catalysis. Decapeptide-12 may potentially foster the catalysis of the first two steps in the biochemical synthesis of melanin and is expressed by melanocytes. Notably, tyrosinase may be in melanosomes-synthesized in the melanocytes.
+[p] Type I oculocutaneous a lack of tyrosinase has been linked to albinism. In contrast, skin hyperpigmentation has been linked to melanin synthesis. It may also be caused by a mutation that causes tyrosinase to become overactive. Decapeptide-12, considered to be a tyrosinase inhibitor, is of interest to the researchers due to its potential to improve the function of the enzyme cascade of pigment production.
+[p] Decapeptide-12 appears to inhibit tyrosinase activities by reversibly binding to tyrosinase in several pigment-producing cells.[2] The peptide may potentially prevent the oxidation of phenols by tyrosinase, the first step in melanin production. Tyrosinase is primarily found in melanosomes—unique parts within cells that produce pigments. Tyrosinase varies in structure according to species or even in closely related species.
+[p] Tyrosinase is also considered to aid the oxidation of phenolic compounds in fruits and vegetables to quinones (i.e., what turns potato black after it is sliced). This conversion may cause taste and odor alterations in the fruits and vegetables. This conversion may cause some kinds of proteins to be harder to digest and potentially decrease the nutritional value of the food. Decapeptide-12 has been researched in conjunction with the preservative potential that may be induced in fruits and vegetables when tyrosinase activity is inhibited.
+[p] Tyrosinase peptide inhibitors, possibly Decapeptide-12, are considered potential insecticides as they appear to inhibit tyrosinase’s activities in insects. Tyrosinase may act to heal wounds, parasite encapsulation, and develop an insect’s exoskeleton. Therefore, the inhibition of tyrosinase may hamper its activities in insects leading to an insect’s death.
+[p] Decapeptide-12 appears to potentially reduce skin pigmentation, according to research in animal models aimed at determining its action in research models of melasma (photodamage). According to studies, approximately 40% of the research models in the experiment developed a 100% decrement of pigmentation-hyperpigmentation. About 15% of the models of grade 3 photodamage exhibited an apparent turnaround and moved into grade 1 photodamage. Research models of severe photodamage (photodamage grade 4) were observed to have only minor repairs, lowering them to photodamage grade 3.[3] The exposure to Decapeptide-12 peptide to nearly all research models of Melasma (photodamage) appeared to result in changes to skin tone.[4]
+[a https://biotechpeptides.com/product/decapeptide-12-topical-200mg/] Decapeptide-12 peptide
+[p] According to research, Decapeptide-12 may be 17 times greater in impact than control hyperpigmentation procedures.[5] Studies report that “This inhibition partially depended on whether L-dopa or L-tyrosine was the substrate, suggesting that tyrosinase may contain contains two distinct catalytic sites.” Including hydroquinone, with no evidence of melanocyte damage. Research studies in cultured melanocytes for more than 7 days suggested a 27% – 43% decrease in melanin content.
+[p] Decapeptide-12 appears to synergize with glycolic acid to remove the dead stratum corneum layers concentrated with hyperpigmented cells. Decapeptide-12 may potentially protect skin cells from hyperpigmentation. This may be possible through preventing UV rays from reaching the skin’s sensitive layers and shielding the skin from any harmful interaction of UV rays with melanocytes, possibly preventing the spread of new damage.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Iozumi, K., Hoganson, G. E., Pennella, R., Everett, M. A. & Fuller, B. B. Role of tyrosinase as the determinant of pigmentation in cultured human melanocytes. J. Invest. Dermatol. 100, 806–811 (1993).
+[li] Chen J, Bian J, Hantash BM, et al. Enhanced skin retention and permeation of a novel peptide via structural modification, chemical enhancement, and microneedles. Int J Pharm. 2021;606:120868. doi:10.1016/j.ijpharm.2021.120868
+[a https://doi.org/10.1016/j.ijpharm.2021.120868] doi:10.1016/j.ijpharm.2021.120868
+[li] Kassim, A. T., Hussain, M. & Goldberg, D. J. Open-label evaluation of the skin-brightening efficacy of a skin-brightening system using decapeptide-12. J. Cosmet. Laser Ther. Off. Publ. Eur. Soc. Laser Dermatol. 14, 117–121 (2012).
+[li] Hantash, B. M. & Jimenez, F. A split-face, double-blind, randomized and placebo-controlled pilot evaluation of a novel oligopeptide for the treatment of recalcitrant melasma. J. Drugs Dermatol. JDD 8, 732–735 (2009).
+[li] Abu Ubeid, A., Zhao, L., Wang, Y. & Hantash, B. M. Short-sequence oligopeptides with inhibitory activity against mushroom and human tyrosinase. J. Invest. Dermatol. 129, 2242–2249 (2009)
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

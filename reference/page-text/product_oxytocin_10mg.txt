@@ -1,0 +1,146 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/04/Oxytocin-1.webp] 
+[img] Oxytocin (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Oxytocin-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Oxytocin-10mg-COA-scaled.webp] 
+[img] Oxytocin (10mg) COA :: https://biotechpeptides.com/wp-content/uploads/2026/04/Oxytocin-10mg-COA-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Oxytocin-10mg-LC-scaled.webp] 
+[img] Oxytocin (10mg) LC :: https://biotechpeptides.com/wp-content/uploads/2026/04/Oxytocin-10mg-LC-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Oxytocin-10mg-MS-scaled.webp] 
+[img] Oxytocin (10mg) MS :: https://biotechpeptides.com/wp-content/uploads/2026/04/Oxytocin-10mg-MS-scaled.webp
+[h1] Oxytocin (10mg)
+[p] $45.00
+[p] Oxytocin peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_819 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $42.75
+[input name=wccs_tier_select_819 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $40.50
+[label] Oxytocin (10mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2026/06/Oxytocin-10mg-.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Oxytocin Peptide
+[p] Oxytocin is a small peptide comprising only nine amino acids, naturally produced in the hypothalamus and secreted by the posterior pituitary gland cells. It has also been isolated from placenta, ovaries, testes, adrenal glands, thymus, retina, and pancreas tissues. The active hormone is obtained by proteolytic cleavage of a larger precursor protein. It is no longer considered merely a neurohypophyseal hormone as its actions are considered to be far-reaching and include interaction with additional peptides. Oxytocin appears to be a protein with two independent natural functions. First, it appears to act as a neuropeptide produced by the hypothalamus to regulate bonding, reproduction, and birth. Oxytocin appears to be bloodborne and secreted by the placenta of pregnant animals to influence birth, milk production, and bonding with their young. Small amounts of the protein produced from testes may promote mating behavior and pair bonding.
+[h3] Specifications
+[p] Other Known Titles: Endopituitrina, Pitocin
+[p] Molecular Formula: C43H66N12O12S2
+[p] Molecular Weight: 1007.19 g/mol
+[p] Sequence: Cys-Tyr-lle-Gln-Asn-Cys-Pro-Leu-Gly
+[h3] Oxytocin Research
+[p] Oxytocin and Wound Recovery Oxytocin appears to regulate inflammation through inflammatory cytokines. Increased social interaction in one research study was observed to trigger Oxytocin (Pitocin) levels, which researchers speculated may have led to faster tissue repair and wound recovery. Similarly, studies in hostile equations between animals appear to suppress oxytocin production and delay wound recovery, potentially by up to 40%.[1] The researchers conclude, "These data confirm and extend prior evidence implicating oxytocin and vasopressin in positive and negative communication behaviors, and also provide further evidence of their role in an important [variable].” These hostile couples also exhibited reduced IL-6, tumor necrosis factor-alpha, and IL-1beta at the wound site.[2]
+[p] Oxytocin and Cardiovascular Risk The hormone has been speculated to protect cardiac and vascular systems. It may act to dissipate and burn off fat cell accumulation, influence blood pressure and glucose intolerance, and potentially block or mitigate the secretion of stress hormones.[3] These factors may influence cardiovascular disease (CVD); thus, Oxytocin (Pitocin) may be a potential compound in the study of CVD. Reduced Oxytocin receptors may cause atherosclerosis.[4] The primary scientist in the cited study reports that “The major pathophysiological basis of CAD is atherosclerosis in association with varieties of immunometabolic disorders that can suppress oxytocin (OT) receptor (OTR) signaling in the cardiovascular system (CVS).” Oxytocin exposure appears to overcome the drawback of reduced receptor density and helps maintain cardiac integrity. Exposure of the peptide in rodent hearts during a heart attack appeared to assist in preventing the cellular death of cardiomyocytes. Jankoski et. al. suggested that chronic Oxytocin (Endopituitrina) exposure may address late-term development of dilated cardiomyopathy. It also appears to help to prime the cardiac stem cells for “tissue regeneration through direct differentiation, secretion of protective and cardiomyogenic factors, and/or their fusion with injured cardiomyocytes.” It further appears to mitigate cases of cardiac damage due to diabetes in mice. The fat accumulation in these mice was reported to be reduced by 19%, and the fasting glucose levels by about 23%. Oxytocin (Endopituitrina) appears to increase insulin resistance in the animals, possibly establishing proper systolic and diastolic functions over control animals, leading to decreased cardiomyocyte hypertrophy, fibrosis, and apoptosis.[5] It also appears to protect against ischemic injuries in other tissues as well, outside of the heart. Studies in rat models of priapism indicate the potential action of Oxycotin (Pitocin) against ischemia-reperfusion injury by reducing nitric oxide levels.
+[p] Oxytocin and Diabetes The peptide appears to improve skeletal muscles' glucose uptake by boosting insulin sensitivity. It may further support lipid utilization, dyslipidemia, and fat mass reduction. Oxytocin deficiency has also been suggested to correlate to body mass, irrespective of external factors, suggesting its role in energy homeostasis.[6] Oxytocin appears to affect insulin, glucose, and body composition in obese mice but not lean mice. Research observations suggest that the peptide might be impactful only in certain conditions; for instance, the backdrop of diabetes appears to trigger different actions in diabetes models compared to controls. As per Barengolts, “circulating oxytocin is lower in type 2 diabetes versus normoglycemic subjects and negatively correlated with glycosylated hemoglobin A1C and insulin resistance.“
+[p] Oxytocin and Cognitive Performance Maternal deprivation may induce irreversible cognitive and behavioral functioning changes. Studies in murine models suggest Oxytocin changes due to decreased parental bonding may be a prominent cause. Oxytocin exposure in maternally deprived mice appeared to increase hormone levels for neuronal development in the prefrontal cortex. Overall behavior appeared to remain constant, but the cognitive ability was observed to be improved in the cohort exposed to Oxytocin.[7] The researchers therefore felt they had grounds to speculate that Oxytocin may improve learning in mice under stress.
+[p] Oxytocin Peptide Research and Anxiety The hormone has been studied for its potential to minimize anxiety and depression. The genetic polymorphisms in the Oxytocin (Endopituitrina) receptor gene related to anxiety disorder and problems with attachment. Animals exhibiting chronic anxious behavior have also displayed epigenetic changes in the Oxytocin receptor.[8] This indicates a possible compensatory pathway for pathologically suppressed Oxytocin levels. This indicates that anxiety may be partially induced by diminished Oxytocin signaling.
+[p] Oxytocin and Hunger Research on a condition marked by uncontrolled appetite has suggested that at least part of the pathology may result from increased suppression of Oxytocin (pitocin) signaling.[9] Therefore, Oxytocin (Endopituitrina) has been suggested to potentially regulate the state of hunger in the organism and its feeding behavior.
+[p] Oxytocin and Old Muscle Oxytocin also appears to regulate muscle maintenance. Age-associated reduction in molecule levels appears to lead to muscle wasting (sarcopenia). The research carried out at Berkeley suggests that both blood levels of the peptide and its receptors on muscle stem cells decrease over time. Exogenous exposure to Oxytocin appears to allow muscles to recover much of their potential. According to Elabd, one of the authors of the study, “repair of muscle in the old mice was at about 80%” compared to younger mice after Oxytocin was presented.[10] Thus, it can potentially be studied in relation to organ degeneration further, as it may slow down dysfunction.
+[p] Oxytocin and Neurotransmitter Regulation Oxytocin is posited to engage with G-protein coupled receptors, which may increase intracellular calcium levels and, therefore, might regulate neurotransmission and excitation.[11] Further, Oxytocin's potential influence on the brain may extend to neurogenesis and synaptic plasticity, which may impact the intricate formation and function of neural circuits. The presence of Oxytocin receptors across various neural cell types hints at the peptide's broad potential impact, possibly modulating the behavior of neural progenitor cells and influencing the fate of these cells. Oxytocin might also affect newly formed neural circuits by modulating neurotransmitter dynamics, including those of glutamate and gamma-aminobutyric acid (GABA), which serve as the brain's primary excitatory and inhibitory signals. At the synaptic level, Oxytocin's actions appear to diverge, potentially enhancing neurotransmitter release in some contexts while diminishing it in others. This dual action may reflect Oxytocin's potential to modulate the balance between excitation and inhibition within the neural circuits, a balance considered crucial for maintaining the functional integrity of the brain. Such modulation may manifest through alterations in the release of neurotransmitters or changes in membranes, indirectly influencing neuronal excitability and the flow of neural information. The interactions of Oxytocin with glial cells, such as astrocytes, further complicate its role in neurotransmitter dynamics, suggesting a broader regulatory influence that extends beyond the neurons to the supportive environment that nurtures and maintains synaptic connections. This interaction may influence the synaptic plasticity and overall function of neural circuits, offering a glimpse into the complex regulatory roles Oxytocin might play in the neural ecosystem.
+[p] Oxytocin and Sexual Behavior Oxytocin is hypothesized to potentially influence sexual behavior by modulating dopamine activity in central nervous system regions believed integral to the reward system, specifically the ventral tegmental area (VTA) and the nucleus accumbens.[12] More specifically, the peptide may enhance dopamine release or increase the responsiveness of dopamine-releasing neurons. Such alterations in dopaminergic activity may conceivably elevate sexual drive and support the perception of reward, thereby playing a role in the anticipatory behaviors associated with mating and copulation. The interaction between Oxytocin and these neurons may trigger a cascade of biological events leading to a significant release of dopamine in the nucleus accumbens. One component of this cascade might involve nitric oxide production within the VTA, suggesting a complex interaction between Oxytocin, dopamine, and nitric oxide in this context. Furthermore, Oxytocin might also exert indirect action on dopamine levels in other brain regions, such as the hippocampus and amygdala, thus contributing to its multifaceted role in modulating behavior. These indirect actions might regulate the activities of neurons that release glutamate or GABA, neurotransmitters that may then influence the activity of dopaminergic neurons in the VTA and nucleus accumbens. Such a mechanism underscores the intricate and potentially widespread influence of Oxytocin on brain functions related to sexual behavior.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Gouin JP, Carter CS, Pournajafi-Nazarloo H, Glaser R, Malarkey WB, Loving TJ, Stowell J, Kiecolt-Glaser JK. Marital behavior, oxytocin, vasopressin, and wound healing. Psychoneuroendocrinology. 2010 Aug;35(7):1082-90. doi: 10.1016/j.psyneuen.2010.01.009. Epub 2010 Feb 9. PMID: 20144509; PMCID: PMC2888874.
+[a https://doi.org/10.1016/j.psyneuen.2010.01.009] doi: 10.1016/j.psyneuen.2010.01.009
+[li] Kiecolt-Glaser JK, Loving TJ, Stowell JR, Malarkey WB, Lemeshow S, Dickinson SL, Glaser R. Hostile marital interactions, proinflammatory cytokine production, and wound healing. Arch Gen Psychiatry. 2005 Dec;62(12):1377-84. doi: 10.1001/archpsyc.62.12.1377. PMID: 16330726.
+[a https://doi.org/10.1001/archpsyc.62.12.1377] doi: 10.1001/archpsyc.62.12.1377
+[li] Reiss AB, Glass DS, Lam E, Glass AD, De Leon J, Kasselman LJ. Oxytocin: Potential to mitigate cardiovascular risk. Peptides. 2019 Jul;117:170089. doi: 10.1016/j.peptides.2019.05.001. Epub 2019 May 18. PMID: 31112739.
+[a https://doi.org/10.1016/j.peptides.2019.05.001] doi: 10.1016/j.peptides.2019.05.001
+[li] Wang P, Wang SC, Yang H, Lv C, Jia S, Liu X, Wang X, Meng D, Qin D, Zhu H, Wang YF. Therapeutic Potential of Oxytocin in Atherosclerotic Cardiovascular Disease: Mechanisms and Signaling Pathways. Front Neurosci. 2019 May 21;13:454. doi: 10.3389/fnins.2019.00454. PMID: 31178679; PMCID: PMC6537480.
+[a https://doi.org/10.3389/fnins.2019.00454] doi: 10.3389/fnins.2019.00454
+[li] Plante E, Menaouar A, Danalache BA, Yip D, Broderick TL, Chiasson JL, Jankowski M, Gutkowska J. Oxytocin treatment prevents the cardiomyopathy observed in obese diabetic male db/db mice. Endocrinology. 2015 Apr;156(4):1416-28. doi: 10.1210/en.2014-1718. Epub 2015 Jan 6. PMID: 25562615.
+[a https://doi.org/10.1210/en.2014-1718] doi: 10.1210/en.2014-1718
+[li] Ding C, Leow MK, Magkos F. Oxytocin in metabolic homeostasis: implications for obesity and diabetes management. Obes Rev. 2019 Jan;20(1):22-40. doi: 10.1111/obr.12757. Epub 2018 Sep 25. PMID: 30253045; PMCID: PMC7888317.
+[a https://doi.org/10.1111/obr.12757] doi: 10.1111/obr.12757
+[li] Dayi A, Kiray M, Sisman A, Ozbal S, Baykara B, Aksu I, Uysal N. Dose dependent effects of oxytocin on cognitive defects and anxiety disorders in adult rats following acute infantile maternal deprivation stress. Biotech Histochem. 2019 Oct;94(7):469-480. doi: 10.1080/10520295.2018.1528384. Epub 2019 May 20. PMID: 31104534.
+[a https://doi.org/10.1080/10520295.2018.1528384] doi: 10.1080/10520295.2018.1528384
+[li] Ziegler C, Dannlowski U, Bräuer D, Stevens S, Laeger I, Wittmann H, Kugel H, Dobel C, Hurlemann R, Reif A, Lesch KP, Heindel W, Kirschbaum C, Arolt V, Gerlach AL, Hoyer J, Deckert J, Zwanzger P, Domschke K. Oxytocin receptor gene methylation: converging multilevel evidence for a role in social anxiety. Neuropsychopharmacology. 2015 May;40(6):1528-38. doi: 10.1038/npp.2015.2. Epub 2015 Jan 7. PMID: 25563749; PMCID: PMC4397412.
+[a https://doi.org/10.1038/npp.2015.2] doi: 10.1038/npp.2015.2
+[li] Atasoy D, Betley JN, Su HH, Sternson SM. Deconstruction of a neural circuit for hunger. Nature. 2012 Aug 9;488(7410):172-7. doi: 10.1038/nature11270. PMID: 22801496; PMCID: PMC3416931.
+[a https://doi.org/10.1038/nature11270] doi: 10.1038/nature11270
+[li] Elabd C, Cousin W, Upadhyayula P, Chen RY, Chooljian MS, Li J, Kung S, Jiang KP, Conboy IM. Oxytocin is an age-specific circulating hormone that is necessary for muscle maintenance and regeneration. Nat Commun. 2014 Jun 10;5:4082. doi: 10.1038/ncomms5082. PMID: 24915299; PMCID: PMC4512838.
+[a https://doi.org/10.1038/ncomms5082] doi: 10.1038/ncomms5082
+[li] Bakos, Jan et al. “Molecular Mechanisms of Oxytocin Signaling at the Synaptic Connection.” Neural plasticity vol. 2018 4864107. 2 Jul. 2018, doi: 10.1155/2018/4864107
+[a https://doi.org/10.1155/2018/4864107] doi: 10.1155/2018/4864107
+[li] Melis, Maria Rosaria, and Antonio Argiolas. “Oxytocin, Erectile Function and Sexual Behavior: Last Discoveries and Possible Advances.” International journal of molecular sciences vol. 22,19 10376. 26 Sep. 2021, doi: 10.3390/ijms221910376
+[a https://doi.org/10.3390/ijms221910376] doi: 10.3390/ijms221910376
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Pinealon (20mg) $68.00
+[a https://biotechpeptides.com/product/pinealon-20mg/] Pinealon (20mg) $68.00
+[img] Pinealon (20mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Pinealon-1-238x317.webp
+[h2] Pinealon (20mg)
+[li] Epithalon (25mg) $94.00
+[a https://biotechpeptides.com/product/epithalon-25mg/] Epithalon (25mg) $94.00
+[img] Epithalon (25mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Epithalon-1-238x317.webp
+[h2] Epithalon (25mg)
+[li] Semax (25mg) $53.00
+[a https://biotechpeptides.com/product/semax-25mg/] Semax (25mg) $53.00
+[img] Semax (25mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Semax-1-238x317.webp
+[h2] Semax (25mg)
+[li] DSIP (5mg) $44.00
+[a https://biotechpeptides.com/product/dsip-5mg/] DSIP (5mg) $44.00
+[img] DSIP (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/DSIP-1-238x317.webp
+[h2] DSIP (5mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

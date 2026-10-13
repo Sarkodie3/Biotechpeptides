@@ -1,0 +1,93 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Syn-Coll and Collagen Production Stimulation
+[p] by Dr. Usman | Sep 21, 2022 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Syn-Coll and Collagen Production Stimulation :: https://biotechpeptides.com/wp-content/uploads/2022/09/Syn-Coll-and-Collagen-Production-Stimulation.avif
+[a https://biotechpeptides.com/product/syn-coll-palmitoyl-tripeptide-5-topical-200mg/] Palmitoyl Tripeptide-5
+[p] Research has suggested that Syn-coll may function similarly to Thrombospondin-1 by stimulating the breakdown of collagen caused by transforming growth factors. A naturally occurring peptide called TSP-1 is considered to promote TGF- activity. Syn-coll peptide is suggested to host the same properties as TSP-1 in increasing Type I and III collagen levels in dermal (skin) fibroblasts. According to experimental results, Syn-coll may raise type I and III collagen levels by 2-3 folds above normal levels(2). Varga et al. further suggest, ‘Our results indicate that TGF beta causes a marked enhancement of the production of types I and III collagens and fibronectin by cultured normal … dermal fibroblasts. The rate of collagen production by fibroblasts exposed to TGF beta was 2-3-fold greater than that of control cells. These effects were associated with a 2-3-fold increase in the steady-state amounts of types I and III collagen mRNAs and a 5-8-fold increase in the amounts of fibronectin mRNAs as determined by dot-blot hybridization with specific cloned cDNA probes. In addition, the increased production of collagen and fibronectin and the increased amounts of their corresponding mRNAs remained elevated for at least 72 h after the removal of TGF beta. These findings suggest that TGF beta may play a major role in the normal regulation of extracellular matrix production in vivo and may contribute to the development of pathological states of fibrosis’ (2) TSP-1 is a protein found in the extracellular matrix (ECM), and it is considered to be found alongside collagen and elastin.
+[p] Research regarding Palmitoyl Tripeptide-5, like TSP-1, suggests that this peptide may improve wound healing (3). It appears to participate in the development of skin structures. The Syn-coll peptide may inhibits matrix metalloproteinase I and III activity (MMP1 and MMP3). Enzymes that degrade collagen are known as matrix metalloproteinases. These enzymes may be beneficial because they recycle collagen, but appear uncontrollably increased to abnormal levels in conditions such as inflammation. As a result, premature skin damage, lines, and creasing along the skin structure may appear (3).
+[p] Syn-coll may potentially support the elimination of toxins and reduce the development and depth of wrinkles on the skin surface. Syn-coll appears to interact with the skin, keeping toxins at bay. This procedure may shield from free radicals.
+[p] By possibly inhibiting MMP1 and MMP3 activity, Syn-coll peptide may potentially help to prevent collagen breakdown. These hypotheses suggest that Syn-coll peptide may promote the formation of Type I and Type III collagen while inhibiting collagen breakdown by the enzymes, as mentioned earlier.
+[p] Syn-coll, a synthetic peptide component, has been hypothesized to have two primary effects. It appears to increase collagen production by replicating the activation of latent transforming growth factor beta, TGF (Tissue Growth Factor), considered a critical component in collagen synthesis. It appears to protect collagen from breakdown by inhibiting matrix metalloproteinases (MMP). Both activities may work together to keep the skin’s structural integrity intact. Compared to a placebo, Syn-coll peptide may be up to 3.5 times more impactful in wrinkle depth reduction. According to the researchers, Palmitoyl Tripeptide-5 may be 60% more effective than Palmitoyl Pentapeptide (5).
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Errante F, Ledwoń P, Latajka R, Rovero P, Papini AM. Cosmeceutical Peptides in the Framework of Sustainable Wellness Economy. Front Chem. 2020 Oct 30;8:572923. doi: 10.3389/fchem.2020.572923.
+[a https://pubmed.ncbi.nlm.nih.gov/33195061/] doi: 10.3389/fchem.2020.572923.
+[li] Varga J, Rosenbloom J, Jimenez SA. Transforming growth factor beta (TGF beta) causes a persistent increase in steady-state amounts of type I and type III collagen and fibronectin mRNAs in normal human dermal fibroblasts. Biochem J. 1987 Nov 1;247(3):597-604
+[li] Resende DISP, Ferreira MS, Sousa-Lobo JM, Sousa E, Almeida IF. Usage of Synthetic Peptides in Cosmetics for Sensitive Skin. Pharmaceuticals (Basel). 2021 Jul 21;14(8):702. doi: 10.3390/ph14080702.
+[a https://pubmed.ncbi.nlm.nih.gov/34451799/] doi: 10.3390/ph14080702.
+[li] Fadilah NIM, Rahman MBA, Yusof LM, Mustapha NM, Ahmad H. The Therapeutic Effect and In Vivo Assessment of Palmitoyl-GDPH on the Wound Healing Process. Pharmaceutics. 2021 Feb 1;13(2):193. doi: 10.3390/pharmaceutics13020193.
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7912838/] doi: 10.3390/pharmaceutics13020193.
+[li] Bucay VW, Day D. Adjunctive skin care of the brow and periorbital region. Clin Plast Surg. 2013 Jan;40(1):225-36. doi: 10.1016/j.cps.2012.09.003
+[a https://pubmed.ncbi.nlm.nih.gov/23186772/] doi: 10.1016/j.cps.2012.09.003
+[li] Resende DISP, Ferreira MS, Sousa-Lobo JM, Sousa E, Almeida IF. Usage of Synthetic Peptides in Cosmetics for Sensitive Skin. Pharmaceuticals (Basel). 2021 Jul 21;14(8):702. doi: 10.3390/ph14080702
+[a https://pubmed.ncbi.nlm.nih.gov/34451799/] doi: 10.3390/ph14080702
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

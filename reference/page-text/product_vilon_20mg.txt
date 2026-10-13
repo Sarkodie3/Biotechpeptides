@@ -1,0 +1,131 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/Vilon-1.webp] 
+[img] Vilon (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Vilon-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Vilon_3140102_20260721_BP_page-0001.webp] 
+[img] Vilon (20mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Vilon_3140102_20260721_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Vilon_3140102_20260721_BP_page-0002.webp] 
+[img] Vilon (20mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Vilon_3140102_20260721_BP_page-0002.webp
+[h1] Vilon (20mg)
+[p] $65.00 Original price was: $65.00.$61.00Current price is: $61.00.
+[p] Vilon peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_5978 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $57.95
+[input name=wccs_tier_select_5978 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $54.90
+[label] Vilon (20mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Vilon_3140102_20260721_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Vilon Peptide
+[p] Vilon (or Lyslglutamic Acid) is a peptide with apparent immunomodulatory and anti-aging bioregulation potential. It is a short peptide with just two amino acids in length. Scientific research suggests it may potentially act to regulate the vascular system and encourage hemostasis. Its functions may be more widespread, with studies indicating its possible influence in reducing the prevalence and growth of spontaneous tumors. Advocate researchers like Dr. Vladimir Anisimov believe that the peptide may become more widespread in contemporary research within the context of geroprotection.
+[h3] Specifications
+[p] Sequence Formula: H-Lys-Glu-OH
+[p] Molecular Formula: C11N21N3O5
+[p] Molecular Weight: 257.30g/mol
+[p] Synonyms: Lysylglutamate, normophthal, Lyslglutamic acid
+[h3] Vilon Research
+[p] Vilon Peptide and Cancer Cells Vilon, according to research findings in murine models, may reduce the prevalence of cancer cells. Studies report that exposure to the peptide may potentially have reduced tumor prevalence and inhibited growth in mice, suggesting that Vilon may warrant further examination within the context of chemotherapeutic research, as outlined below.[1] Scientific studies reported negative results when Vilon was combined with a platinum-based chemotherapeutic agent. The anti-cancer potential of Vilon and its potential within chemotherapy research is still under investigation, and studies are not yet conclusive. The scientists revealed that “Vilon stimulated apoptosis both in young and old rats, but the inhibitory effect of cyclophosphan was abolished in the presence of vilon in culture media.”[2] Further research investigated the potential impact of Vilon against a placebo on urinary bladder cancer cell dynamics in murine models exposed to N-butyl-N-(4-hydroxybutyl)nitrosamine (BBNA). This compound may trigger bladder cancer cell formation.[3] Initial results indicate that Vilon may reduce the emergence of cancer cells, with 56% of the Vilon-exposed murine models showing cancer cell development compared to 75.5% in the control group. These findings imply that Vilon might modulate cancer cell evolution in the presence of BBNA. The study also observed potential changes in the bladder mucosa of the Vilon-exposed murine models, including reduced frequency and severity of early cancerous and pre-cancerous alterations. Notably, there were fewer instances of hyperplasia—an abnormal increase in cell numbers—and a slower rate of malignant transformation, suggesting Vilon's potential to delay or alter the transition of cells from normal to malignant states. Further, the average number of tumors per Vilon-exposed mouse was lower (1.5) compared to the control group (2.6), and the tumor cells displayed a less aggressive growth pattern. These observations imply that Vilon might interfere with the cancer-promoting mechanisms of BBNA. Thus, the data suggest that Vilon might act as an immunomodulator, potentially inhibiting the initiation and progression of cancer in this model.
+[p] Vilon Peptide and Immunity Studies in Vilon expression suggest that it may be a potent chromatin structure regulator.[4] Studies reported that Vilon exposure may lead to potential activation of chromatin unrolling, release of repressed genes, and activation of synthetic processes through the reactivation of ribosomal genes in the unrolled chromatin. It does not appear to cause structural chromatin decondensation. The research that led to the development of these hypotheses further suggests that Vilon may induce the reactivation of silenced DNA genes. Generally, Chromatin presents as heterochromatin and euchromatin. Genes in the heterochromatin aspect of DNA are considered to be inaccessible to the production of proteins. The condensation of Chromatin may occur due to cellular aging and senescence, and points to why cells and tissues lose functionality over time. The possible ability of Vilon in symbiosis with other peptide bioregulators to reactivate specific genes by unrolling heterochromatin may improve immune function in aged animal models.[5] The researchers reported that “peptide bioregulators Epitalon, Livagen, and Vilon [may] cause activation (deheterochromatinization) of chromatin in lymphocytes of [older research models].” Furthermore, Interleukin-2 may be vital in immune response coordination to microbial infection, as it may inhibit the prevalence of autoimmune reactions. The activation of interleukin-2 signaling is one suggested action of Vilon peptide in the spleen. Vilon may reinstate the immune system to a more effective state and potentially activate lymphocytes and splenocytes—boosting natural prevention against the prevalence of autoimmune reactions. Vilon, according to research, may enhance the propagation of CD5 T-cells in the thymus. CD5 is a potent immunohistochemical marker for T-helper cells and cytotoxic CD8 T-cells found on the surface of certain immune cells and may play a significant role in the growth and differentiation of T-cells within the thymus.[6] The researchers observed an apparent rise of 78% in CD5 expression in thymic cells derived from murine models, and a 45% elevation in cells taken from embryonic thymus, when compared to the baseline figures recorded in the control specimens. The research suggests that Vilon might impact the differentiation processes in thymic cells. This may guide the precursors of T-cells toward differentiating into CD4+ T-helper cells. These CD4+ T-helper cells are considered crucial elements of the adaptive immune system, supporting and orchestrating responses of other immune cells. Thus, it is hypothesized that Vilon's action might influence the immune system and prevent the prevalence of autoimmune reactions. Vilon appears to function only to reactivate the immune system through genes that have been silenced via Chromatin changes. It doesn’t appear to actuate genes that would be silent in the cells it modifies.
+[p] Vilon Peptide and the Kidneys, Heart Vilon’s impact on vasculature hasn’t been well studied, but some research data suggests that it may exhibit action within these organs. Research in murine models posits that Vilon may alter more than 36 gene expressions in the heart. Combined with Epitalon, this number was reported to elevate to 144 genes. These results indicate that Vilon may influence gene expression trends in the cardiovascular system, improving hemodynamic function. Research suggests that Vilon may reduce concentrations of TGF-beta 1 in the kidneys and highly vascular organs, allowing for permeability of microvessels.[7] The final result may be increased hemostasis during kidney failure, positing that Vilon may impact the vascular system. Research in research models of diabetes reports that Vilon (Lyslglutamic Acid) may bolster coagulation by enhancing the antithrombin III anticoagulant levels and Protein C, even as it stimulates fibrinolysis. The consequence of this may be lessened blood clots in clotting-prone conditions.[8]
+[a https://biotechpeptides.com/product/epithalon-25mg/] Epitalon
+[p] Vilon Peptide and Cellular Aging Exposure to the Vilon peptide appears to enhance contractile force and endurance within muscle tissues even as it potentially decreases the prevalence of cancer cells. In murine models, these two apparent peptide functions were hypothesized to have extended overall muscle cell longevity. According to research, the exposure of Vilon in early developmental stages may have increased the longevity of the animal research models under observation. The hypothesis holds that the introduction of Vilon in later stages may reverse senescence in existing cells but may not do the same for cells discarded via apoptosis. In the same sense, the early exposure of Vilon in murine models may have increased a degree of protection, with modification lowered. Consequently, many cells may remain stable and viable for extended periods, retaining limited stem cell lines.[9] Another study has explored the potential of Vilon on tissue explants from murine models at various life stages—neonatal, juvenile, and mature.[10] The study speculates that Vilon might help preserve tissue structure and potentially boost the cells' regenerative abilities and overall function. Notably, its impact appears more pronounced in tissues from older mice, suggesting that Vilon could be crucial for cellular aging and regeneration research. This raises the possibility that Vilon may adjust or stabilize age-related cellular functions in older tissues. Further research has investigated Vilon’s capability to mitigate the accelerated aging in murine thymus and spleen induced by low levels of ionizing radiation.[11] Preliminary results tentatively suggest that Vilon might partially counteract the aging actions of radiation. This insight positions Vilon as a valuable compound for further exploration in studies aimed at managing radiation-driven cellular aging in key immune organs like the thymus. The findings emphasize the importance of Vilon in preserving organ functionality under radiative stress, hinting at strategies for addressing radiation-induced cellular deterioration. Vilon’s anti-aging hypothesis is multifaceted—extending to gastrointestinal (GI) functions, where it appears to support the enzyme activity in the GI tracts of aged murine models. It also may improve the cell barrier functions—reducing the prevalence of leaky gut, and increasing resistance to diseases. Vilon may mitigate nutrient extraction by enhancing glucose and glycine absorption, improving overall cell function and extending longevity. According to research by Dr. Vladimir N. Anisimov, two glands, the thymus and pineas, are vital regulators of cell aging.[12] It is important to note that Vilon is classified as a thymic peptide and appears to act on lymphocytes and other cells produced in the thymus.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Khavinson VKh, Anisimov VN. A synthetic dipeptide vilon (L-Lys-L-Glu) inhibits growth of spontaneous tumors and increases life span of mice. Dokl Biol Sci. 2000 May-Jun;372:261-3. PMID: 10944717.
+[li] Barykina OP, Iuzhakov VV, Chalisova NI, Kvetnoĭ IM, Konovalov SS. Sochetannoe vliianie vilona i tsiklofosfana na transplanty opukholeĭ i éksplantaty limfoidnoĭ tkani mysheĭ i krys raznogo vozrasta [Combined effect of vilon and cyclophosphane on tumor transplants and lymphoid tissue explants in mice and rats of various age]. Adv Gerontol. 2003;12:128-31. Russian. PMID: 14743610.
+[li] Pliss GB, Mel'nikov AS, Malinin VV, Khavinson VK. Inhibitory effect of peptide vilon on the development of induced rat urinary bladder tumors in rats. Bull Exp Biol Med. 2001 Jun;131(6):558-60. doi: 10.1023/a:1012354603132. PMID: 11586406.
+[li] Lezhava T, Khavison V, Monaselidze J, Jokhadze T, Dvalishvili N, Bablishvili N, Barbakadze S. Bioregulator Vilon-induced reactivation of chromatin in cultured lymphocytes from old people. Biogerontology. 2004;5(2):73-9. doi: 10.1023/B:BGEN.0000025070.90330.7f. PMID: 15105581.
+[a https://doi.org/10.1023/B:BGEN.0000025070.90330.7f] doi: 10.1023/B:BGEN.0000025070.90330.7f
+[li] Lezhava T, Monaselidze J, Kadotani T, Dvalishvili N, Buadze T. Anti-aging peptide bioregulators induce reactivation of chromatin. Georgian Med News. 2006 Apr;(133):111-5. PMID: 16705247.
+[li] Sevostianova NN, Linkova NS, Polyakova VO, Chervyakova NA, Kostylev AV, Durnova AO, Kvetnoy IM, Abdulragimov RI, Khavinson VH. Immunomodulating effects of Vilon and its analogue in the culture of human and animal thymus cells. Bull Exp Biol Med. 2013 Feb;154(4):562-5.
+[li] Gavrisheva NA, Malinin VV, Ses TP, Kozlov KL, Panchenko AV, Titkov AY. Effect of peptide Vilon on the content of transforming growth factor-beta and permeability of microvessels during experimental chronic renal failure. Bull Exp Biol Med. 2005 Jan;139(1):24-6. doi: 10.1007/s10517-005-0202-9. PMID: 16142267.
+[a https://doi.org/10.1007/s10517-005-0202-9] doi: 10.1007/s10517-005-0202-9
+[li] Kuznik BI, Isakova NV, Kliuchereva NN, Maleeva NV, Pinelis IS. [Effect of vilon on the immunity status and coagulation hemostasis in patients of different age with diabetes mellitus]. Adv Gerontol. 2007;20(2):106-15. Russian. PMID: 18306698
+[li] Anisimov VN, Loktionov AS, Khavinson VK, Morozov VG. Effect of low-molecular-weight factors of thymus and pineal gland on life span and spontaneous tumour development in female mice of different age. Mech Ageing Dev. 1989 Sep;49(3):245-57. doi: 10.1016/0047-6374(89)90075-4. PMID: 2682058.
+[a https://doi.org/10.1016/0047-6374(89)90075-4] doi: 10.1016/0047-6374(89)90075-4
+[li] Kniaz'kin IV, Iuzhakov VV, Chalisova NI, Grigor'ev EI. Funktsional'naia morfologiia organotipicheskoĭ kul'tury selezenkoi krys razlichnogo vozrasta pri deĭstvii vilona [Functional morphology of organotypic culture of spleens from rats of various ages exposed to vilon]. Adv Gerontol. 2002;9:110-5. Russian. PMID: 12096432.
+[li] Kniaz'kin IV, Poliakova VO. Deĭstvie vilona na timus i selezenku v radiatsionnoĭ modeli prezhdevremennogo stareniia [The effect of vilon on the thymus and spleen in a radiation model of premature aging]. Adv Gerontol. 2002;9:105-9. Russian. PMID: 12096431.
+[li] Anisimov VN, Khavinson VKh. [The use of peptide bioregulators for cancer prevention: results of 35 years of research experience and perspectives]. Vopr Onkol. 2009;55(3):291-304. Russian. PMID: 19670728.
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] MOTS-c (10mg) $99.00
+[a https://biotechpeptides.com/product/mots-c-10mg/] MOTS-c (10mg) $99.00
+[img] MOTS-c (10mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/MOTS-c-1-238x317.webp
+[h2] MOTS-c (10mg)
+[li] Thymosin Alpha-1 (10mg) $130.00
+[a https://biotechpeptides.com/product/thymosin-alpha-1-10mg/] Thymosin Alpha-1 (10mg) $130.00
+[img] Thymosin Alpha-1 (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Thymosin-Alpha-1-1-238x317.webp
+[h2] Thymosin Alpha-1 (10mg)
+[li] Thymalin (25mg) $114.00
+[a https://biotechpeptides.com/product/thymalin-25mg/] Thymalin (25mg) $114.00
+[img] Thymalin (25mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Thymalin-1-238x317.webp
+[h2] Thymalin (25mg)
+[li] Epithalon (25mg) $94.00
+[a https://biotechpeptides.com/product/epithalon-25mg/] Epithalon (25mg) $94.00
+[img] Epithalon (25mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Epithalon-1-238x317.webp
+[h2] Epithalon (25mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

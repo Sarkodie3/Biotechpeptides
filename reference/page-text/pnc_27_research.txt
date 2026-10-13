@@ -1,0 +1,116 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] PNC-27 Research
+[p] by Dr. Usman | Sep 2, 2022 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] PNC-27 Research :: https://biotechpeptides.com/wp-content/uploads/2022/09/PNC-27-Research.avif
+[p] PNC-27 consists of an HDM-2 binding domain similar to p53 residues 12-26 and a transmembrane-penetrating portion. PNC-27 peptide has been suggested by researchers to bind to and kills cancerous cells via membrane lysis, or the breakdown of the cell membrane, according to study findings.
+[a https://biotechpeptides.com/product/pnc-27-5mg/] PNC-27
+[p] Contents:
+[li] PNC-27 Peptide Overview
+[a #Overview] PNC-27 Peptide Overview
+[li] PNC-27 Peptide Action
+[a #Action] PNC-27 Peptide Action
+[li] PNC-27 Research Studies
+[a #Research] PNC-27 Research Studies
+[li] Examining PNC-27 in Relation to Cancer Cells
+[a #benefits] Examining PNC-27 in Relation to Cancer Cells
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/pnc-27-5mg/] 
+[img] Buy PNC-27 Peptide (5mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/PNC-27.png
+[h2] PNC-27 Peptide Overview
+[p] Dr. Ehsan Sarafraz-Yazdi and other researchers have suggested that PNC-27 may impact cancer cells, in a 2010 research article published by the American Association for Cancer.
+[p] According to the study’s authors, the mechanism of action of PNC-27 appears to result from oligomeric pores developing in the plasma membrane of tumor cells. Untransformed or non-tumor cells do not appear to form oligomeric pores. PNC-27 perceived selectivity on cancer cells may be caused by MDM2’s mis-localization to cancerous cell plasma membranes.
+[p] These hypotheses are believed by scientists to describe the distinct localization of MDM2 variants in cancerous cell plasma membranes.
+[h2] PNC-27 Peptide Action
+[p] PNC-27 was initially developed for employment in HIV research, but its anti-cancer potential, which included killing cancer cells while leaving normal cells alone, emerged and thus changed its initial research focus.
+[p] The PNC-27 peptide does not appear to impact cells other than cancerous cells. PNC-27 has been suggested to bind to individual cancer cell membranes, causing holes to form. Due to the difference in osmotic pressure between the inside and outside of the tumor cells, the holes may cause a rapid implosion, resulting in immediate cell death.
+[p] HDM-2 is considered to be found in the cell membranes of cancer cells. When PNC-27 is introduced, the peptide may immediately move to bind to the HDM-2 peptide in the plasma membrane of cancerous cells. PNC-27 may induce damage by inducing membrane lysis and, thus, cancer cell death by binding to the HDM-2 peptides.
+[h2] PNC-27 Research Studies
+[p] According to PNC-27 research in animal research models, the peptide may reduce pain perception on a short term basis. The animal models developed flu-like consequences during the third week of exposure, indicating that the animal’s immune system may have reacted to the death of cancerous cells.
+[p] Bilirubin and lactate dehydrogenase appear to levels rise during the sixth week of PNC-27 exposure. Around the tenth week, the tumors may potentially soften and become more pliable, resulting in significant tumor breakdown.
+[p] The tumor’s size may grow more extensive in the tenth week. In any case, it may be due to inflammation due to the immune system’s response. Animal research models’ energy levels reportedly increased, and cancer-related symptoms decreased in the third month.
+[p] The results of the PNC-27 studies suggested that the peptide may potentially impact the cell membranes of cancerous cells. Furthermore, the noncancerous or non-transformed cells surrounding the cancerous cells appeared to remain unimpacted. Moreover, research results suggest that PNC-27 may influence specific markers in cancerous cell membranes and that PNC-27 may exhibit a longer half-life via this mechanism of action.
+[h3] Examining PNC-27 in Relation to Cancer Cells
+[p] According to research, the peptide may potentially inhibit pancreatic cancer cell growth. In different tumor cell lines, including BMRPA—ras transformed rat acinar pancreatic carcinoma cell line, PNC-27 induces necrosis but not apoptosis. Notably, PNC-27 was not suggested to affect noncancerous cells. According to scientific findings, the peptide appeared to induce a complete blockade of tumor growth during the second week of and after exposure, resulting in weak growth of tumor cells that plateaued at small tumor sizes compared to tumor growth in the absence of the peptide. PNC-27 exposure after the appearance of tumor growth at a distant site reportedly resulted in a decrease in tumor size followed by a slow increase in tumor growth.
+[p] According to studies, PNC-27 may potentially induce tumor cell necrosis in a poorly developed non-solid leukemia cell line based on HDM-2 expression in the cells’ plasma membrane. PNC-27 peptide may kill solid tumor cells by binding to HDM-2 proteins within their cell membranes, bypassing the p53 pathway. PNC-27 peptide might also induce necrosis via membrane lysis in solid tissue tumor cells by binding to HDM-2, independent of the p53 pathway.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Sarafraz-Yazdi E, Bowne WB, Adler V, Sookraj KA, Wu V, Shteyler V, Patel H, Oxbury W, Brandt-Rauf P, Zenilman ME, Michl J, Pincus MR. Anticancer peptide PNC-27 adopts an HDM-2-binding conformation and kills cancer cells by binding to HDM-2 in their membranes. Proc Natl Acad Sci U S A. 2010 Feb 2;107(5):1918-23. doi: 10.1073/pnas.0909364107. Epub 2010 Jan 11. PMID: 20080680; PMCID: PMC2836618.
+[a https://pubmed.ncbi.nlm.nih.gov/20080680/] doi: 10.1073/pnas.0909364107
+[li] Sarafraz-Yazdi E, Mumin S, Cheung D, Fridman D, Lin B, Wong L, Rosal R, Rudolph R, Frenkel M, Thadi A, Morano WF, Bowne WB, Pincus MR, Michl J. PNC-27, a Chimeric p53-Penetratin Peptide Binds to HDM-2 in a p53 Peptide-like Structure, Induces Selective Membrane-Pore Formation and Leads to Cancer Cell Lysis. Biomedicines. 2022 Apr 20;10(5):945. doi: 10.3390/biomedicines10050945. PMID: 35625682; PMCID: PMC9138867.
+[a https://pubmed.ncbi.nlm.nih.gov/35625682/] doi: 10.3390/biomedicines10050945
+[li] Davitt K, Babcock BD, Fenelus M, Poon CK, Sarkar A, Trivigno V, Zolkind PA, Matthew SM, Grin’kina N, Orynbayeva Z, Shaikh MF, Adler V, Michl J, Sarafraz-Yazdi E, Pincus MR, Bowne WB. The anti-cancer peptide, PNC-27, induces tumor cell necrosis of a poorly differentiated non-solid tissue human leukemia cell line that depends on expression of HDM-2 in the plasma membrane of these cells. Ann Clin Lab Sci. 2014 Summer;44(3):241-8. PMID: 25117093.
+[li] Alagkiozidis I, Gorelick C, Shah T, Chen YA, Gupta V, Stefanov D, Amarnani A, Lee YC, Abulafia O, Sarafraz-Yazdi E, Michl J. Synergy between Paclitaxel and Anti-Cancer Peptide PNC-27 in the Treatment of Ovarian Cancer. Ann Clin Lab Sci. 2017 May;47(3):271-281. PMID: 28667027.
+[li] Thadi A, Lewis L, Goldstein E, Aggarwal A, Khalili M, Steele L, Polyak B, Seydafkan S, Bluth MH, Ward KA, Styler M, Campbell PM, Pincus MR, Bowne WB. Targeting Membrane HDM-2 by PNC-27 Induces Necrosis in Leukemia Cells But Not in Normal Hematopoietic Cells. Anticancer Res. 2020 Sep;40(9):4857-4867. doi: 10.21873/anticanres.14488. PMID: 32878773.
+[a https://pubmed.ncbi.nlm.nih.gov/32878773/] doi: 10.21873/anticanres.14488
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

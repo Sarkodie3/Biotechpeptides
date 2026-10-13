@@ -1,0 +1,145 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2026/01/BPC-157-TB-500-GHK-Cu-Blend-70mg.webp] 
+[img] BPC-157 & TB-500 & GHK-Cu Blend (70mg) :: https://biotechpeptides.com/wp-content/uploads/2026/01/BPC-157-TB-500-GHK-Cu-Blend-70mg-460x587.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/01/COA_GLOW_3141011_BP_page-0001.webp] 
+[img] BPC-157 & TB-500 & GHK-Cu Blend (70mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2026/01/COA_GLOW_3141011_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/01/COA_GLOW_3141011_BP_page-0002.webp] 
+[img] BPC-157 & TB-500 & GHK-Cu Blend (70mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2026/01/COA_GLOW_3141011_BP_page-0002.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/01/COA_GLOW_3141011_BP_page-0003.webp] 
+[img] BPC-157 & TB-500 & GHK-Cu Blend (70mg) - Image 4 :: https://biotechpeptides.com/wp-content/uploads/2026/01/COA_GLOW_3141011_BP_page-0003.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/01/COA_GLOW_3141011_BP_page-0004.webp] 
+[img] BPC-157 & TB-500 & GHK-Cu Blend (70mg) - Image 5 :: https://biotechpeptides.com/wp-content/uploads/2026/01/COA_GLOW_3141011_BP_page-0004.webp
+[h1] BPC-157 & TB-500 & GHK-Cu Blend (70mg)
+[p] $205.00
+[p] BPC-157 & TB-500 & GHK-Cu peptide blend is Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_134871 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $194.75
+[input name=wccs_tier_select_134871 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $184.50
+[label] BPC-157 & TB-500 & GHK-Cu Blend (70mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2026/01/COA_GLOW_3141011_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] BPC-157, TB-500 & GHK-Cu Peptide Blend
+[p] The GHK-Cu, TB 500, and BPC 157 peptide blend, is a composite research formulation studied for its relevance to cellular repair signaling, angiogenic modulation, and extracellular matrix regulation. The formulation integrates three mechanistically distinct peptides that are frequently examined in regenerative and cytoprotective research models. BPC 157 is a 15-amino acid peptide fragment originally isolated from mammalian gastric juice.[1] It is investigated for its potential role in nitric oxide pathway modulation, growth factor signaling, and extracellular matrix remodeling. Experimental research suggests that BPC 157 may support angiogenic responses and cytoprotective mechanisms under cellular stress conditions. If found to be the case, this peptide may prove to be a relevant molecular model for regeneration-focused studies. TB 500 is a synthetic peptide corresponding to a 43 amino acid sequence of thymosin beta 4.[2.] It is studied for its involvement in actin binding and cytoskeletal organization as observed in mammalian models. Preclinical findings suggest that TB 500 may regulate cell migration, angiogenesis, and tissue remodeling through modulation of actin polymerization and growth factor-associated signaling pathways. These properties position TB 500 as a model peptide for investigating cellular motility and structural repair processes. GHK-Cu is a copper II-coordinated tripeptide composed of glycine, histidine, and lysine.[3] It is examined for its role in peptide-metal interactions, redox signaling, and metalloproteinase regulation. Research suggests that GHK-Cu may support collagen synthesis, antioxidant enzyme activity, and gene expression related to extracellular matrix maintenance through copper-mediated biochemical pathways. When examined collectively, this peptide blend is sometimes relevant in research exploring molecular regeneration, cytoprotection, angiogenic signaling, and peptide metal complex behavior. The combined formulation provides a framework for studying interconnected pathways involved in tissue remodeling, cellular communication, and regenerative biochemistry relevant to mammalian models.
+[h3] BPC-157[4] Specifications
+[p] Molecular Formula: C62H98N16O22
+[p] Molecular Weight: 1419.5 g/mol
+[p] Other known titles: Booly protection compound 15, Bepecin
+[h3] TB-500[5] Specifications
+[p] Molecular Formula: C212H350N56O78S
+[p] Molecular Weight: 4963 g/mol
+[p] Other known titles: Thymosin Beta 4
+[h3] GHK-Cu[6] Specifications
+[p] Molecular Formula: C28H48CuN12O8
+[p] Molecular Weight: 744.3 g/mol
+[h3] BPC-157, TB-500 & GHK-Cu Research
+[p] BPC 157 and Tendon Fibroblast Signaling Pathways An in vitro study[1] investigated the implications of BPC 157 on cultured tendon fibroblasts isolated from murine tendon tissue. Fibroblast cultures were divided into control conditions and peptide-exposed conditions. Observational findings suggest that BPC 157 may support fibroblast outgrowth and cellular organization associated with tendon tissue repair. Under experimentally induced oxidative stress conditions using hydrogen peroxide, BPC 157 appeared to support fibroblast survival relative to untreated controls. Additional observations potentiate that the peptide might promote fibroblast migration, a process relevant to cytoskeletal dynamics and tissue remodeling. Molecular analysis using Western blot techniques suggested increased phosphorylation of p21-activated kinase and paxillin following exposure to BPC 157, while total protein expression levels remained unchanged. These findings imply that BPC 157 may support intracellular signaling through post-translational modification rather than protein synthesis. Further interpretation of the data suggests that BPC 157 might modulate focal adhesion kinase and paxillin-associated pathways involved in F-actin formation. Since F-actin is a structural component of the cytoskeleton and plays a role in cell adhesion and motility, these mechanisms may be relevant for studying tendon fibroblast migration and organization during tissue repair processes.
+[p] BPC 157 and systemic tissue damage signaling models A separate experimental investigation examined the angiogenic and cytoprotective characteristics of BPC 157 across multiple tissue injury models. These included gastrointestinal lesions, pancreatic injury, hepatic damage, cardiac tissue impairment, endothelial disruption, and alterations in vascular pressure regulation. The findings suggest that BPC 157 may support a broad network of biological responses rather than isolated local implications.[7] Researchers proposed that BPC 157 might function within a broader peptidergic defense signaling system that coordinates tissue protection and repair mechanisms. Observational data suggest potential involvement in inflammatory modulation, mammalian wound-associated signaling, and processes related to bone and connective tissue repair observed in laboratory settings. Additional analysis explored the interaction between BPC 157 and several neurotransmitter and signaling systems, including dopaminergic, nitric oxide, prostaglandin, and somatosensory pathways. Dysregulation of these systems is commonly associated with organ-specific lesions in experimental models. The study suggests that BPC 157 may counteract excessive activation or mitigation within these signaling networks.
+[p] GHK-Cu and tissue repair-associated signaling An experimental investigation[8] evaluated the implications of the GHK-Cu peptide complex on tissue repair-related processes using preclinical wound models. New Zealand white rabbits were allocated into groups receiving either the GHK-Cu peptide complex, zinc oxide, or a control formulation. Standardized tissue injuries were introduced, and comparative outcomes were assessed over a defined observation period. The findings suggest that specimens exposed to the GHK-Cu peptide complex may exhibit better-supported tissue organization and repair-associated characteristics relative to comparator groups. These observations support the continued study of GHK-Cu as a peptide metal complex involved in extracellular matrix-related signaling and regenerative pathway modulation. A separate investigation compared the biological activity of the GHK-Cu peptide complex with helium-neon laser-based stimulation in similar preclinical wound models. Distinct experimental groups were observed under controlled conditions over an extended evaluation period. The analysis suggests that exposure to GHK-Cu may support inflammatory cell dynamics and neovascular-associated signaling in mammalian models. Specifically, observations suggest a potential reduction in neutrophil-associated responses alongside increased markers linked to vascular formation in GHK-Cu-exposed groups. These findings position GHK-Cu as a research model for examining peptide-mediated regulation of inflammatory signaling and angiogenic processes.
+[p] GHK-Cu and reactive oxygen species modulation An in vitro study[9] examined the role of the tripeptide glycyl-L-histidyl-L-lysine in the regulation of intracellular reactive oxygen species observed in mammalian models. The research focused on oxidative stress models induced by prooxidant compounds and evaluated the capacity of GHK to support radical-associated signaling pathways. Cellular analysis using flow cytometry suggested that GHK may reduce overall reactive oxygen species levels under oxidative challenge conditions. Complementary electron spin resonance spin trapping techniques suggested selective interactions between GHK and specific radical species. The data suggested that GHK may preferentially interact with hydroxyl and peroxyl radicals, while exhibiting more limited activity toward superoxide-related species. Comparative analysis with other antioxidant peptides and molecules suggested that GHK might indicate a higher relative affinity for hydroxyl radical neutralization under laboratory settings. Collectively, these findings support the interactions of GHK and GHK-Cu complexes with mammalian models as research tools for studying redox regulation, peptide-mediated antioxidant signaling, and oxidative stress modulation.
+[p] TB 500 and inflammation-related signaling pathways A study conducted by researchers[10] examined potential support that thymosin beta 4 may provide to inflammation-associated molecular signaling pathways. TB 500, as a synthetic peptide corresponding to thymosin beta 4, was evaluated for its potential role in microRNA-mediated regulatory mechanisms. The findings suggest that thymosin beta 4 may potentially support the expression of microRNA 146a, a regulatory microRNA associated with the modulation of inflammatory signaling cascades. MicroRNA 146a is believed to interact with intracellular mediators such as interleukin 1 receptor-associated kinase 1 and mammal-affiliated tumor necrosis factor receptor-associated factor 6, both of which are involved in cytokine-related signal transduction. Experimental observations suggest that the mitigation of microRNA 146a expression may reverse the suppressive implications of thymosin beta 4 on IRAK1 and TRAF6 signaling activity. These results suggest a potential regulatory relationship between thymosin beta 4, microRNA 146a expression, and downstream inflammatory pathway modulation. Collectively, the study proposes that TB 500 may serve as a research model for examining microRNA-driven regulation of inflammation-associated signaling pathways.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Chang, Chung-Hsun et al. “The promoting effect of pentadecapeptide BPC 157 on tendon healing involves tendon outgrowth, cell survival, and cell migration.” Journal of applied physiology (Bethesda, Md.: 1985) vol. 110,3 (2011): 774-80. doi:10.1152/japplphysiol.00945.2010. https://pubmed.ncbi.nlm.nih.gov/21030672/
+[a https://pubmed.ncbi.nlm.nih.gov/21030672/] https://pubmed.ncbi.nlm.nih.gov/21030672/
+[li] Kleinman HK, Sosne G. Thymosin β4 Promotes Dermal Healing. Vitam Horm. 2016;102:251-75. doi: 10.1016/bs.vh.2016.04.005. Epub 2016 May 24. https://pubmed.ncbi.nlm.nih.gov/27450738/
+[a https://pubmed.ncbi.nlm.nih.gov/27450738/] https://pubmed.ncbi.nlm.nih.gov/27450738/
+[li] Pickart, Loren, and Anna Margolina. “Regenerative and Protective Actions of the GHK-Cu Peptide in the Light of the New Gene Data.” International journal of molecular sciences vol. 19,7 1987. 7 Jul. 2018, doi:10.3390/ijms19071987. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6073405/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6073405/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6073405/
+[li] BPC-157 Overview: National Center for Biotechnology Information (2026). PubChem Compound Summary for CID 9941957, Bpc-157. https://pubchem.ncbi.nlm.nih.gov/compound/Bpc-157
+[a https://pubchem.ncbi.nlm.nih.gov/compound/Bpc-157] https://pubchem.ncbi.nlm.nih.gov/compound/Bpc-157
+[li] TB-500 Overview: National Center for Biotechnology Information (2026). PubChem Compound Summary for CID 45382195, Thymosin Beta 4. https://pubchem.ncbi.nlm.nih.gov/compound/Thymosin-beta-4
+[a https://pubchem.ncbi.nlm.nih.gov/compound/Thymosin-beta-4] https://pubchem.ncbi.nlm.nih.gov/compound/Thymosin-beta-4
+[li] GHK-Cu Overview: National Center for Biotechnology Information (2026). PubChem Compound Summary for CID 133697840, GHK-Cu. https://pubchem.ncbi.nlm.nih.gov/compound/GHK-Cu
+[a https://pubchem.ncbi.nlm.nih.gov/compound/GHK-Cu] https://pubchem.ncbi.nlm.nih.gov/compound/GHK-Cu
+[li] Sikiric P. (1999). The pharmacological properties of the novel peptide BPC 157 (PL-10). Inflammopharmacology, 7(1), 1–14. https://doi.org/10.1007/s10787-999-0022-z https://pubmed.ncbi.nlm.nih.gov/17657443/
+[a https://pubmed.ncbi.nlm.nih.gov/17657443/] https://pubmed.ncbi.nlm.nih.gov/17657443/
+[li] Cangul IT, Gul NY, Topal A, Yilmaz R. Evaluation of the effects of tripeptide-copper complex and zinc oxide on open-wound healing in rabbits. Vet Dermatol. 2006 Dec;17(6):417-23. doi: 10.1111/j.1365-3164.2006.00551.x. PMID: 17083573. https://pubmed.ncbi.nlm.nih.gov/17083573/
+[a https://pubmed.ncbi.nlm.nih.gov/17083573/] https://pubmed.ncbi.nlm.nih.gov/17083573/
+[li] Sakuma, S., Ishimura, M., Yuba, Y., Itoh, Y., & Fujimoto, Y. (2018). The peptide glycyl-ʟ-histidyl-ʟ-lysine is an endogenous antioxidant in living organisms, possibly by diminishing hydroxyl and peroxyl radicals. International journal of physiology, pathophysiology and pharmacology, 10(3), 132–138
+[li] Santra, M., Zhang, Z. G., Yang, J., Santra, S., Santra, S., Chopp, M., & Morris, D. C. (2014). Thymosin β4 up-regulation of microRNA-146a promotes oligodendrocyte differentiation and suppression of the Toll-like proinflammatory pathway. The Journal of Biological Chemistry, 289(28), 19508–19518. https://doi.org/10.1074/jbc.M113.529966
+[a https://doi.org/10.1074/jbc.M113.529966] https://doi.org/10.1074/jbc.M113.529966
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] TB-500 (Thymosin Beta-4) (10mg) $124.00
+[a https://biotechpeptides.com/product/tb-500-10mg/] TB-500 (Thymosin Beta-4) (10mg) $124.00
+[img] TB-500 (Thymosin Beta-4) :: https://biotechpeptides.com/wp-content/uploads/2020/04/TB-500-1-238x317.webp
+[h2] TB-500 (Thymosin Beta-4) (10mg)
+[li] BPC-157 & TB-500 Blend (10mg) $115.00
+[a https://biotechpeptides.com/product/bpc-157-tb-500-10mg-blend-2/] BPC-157 & TB-500 Blend (10mg) $115.00
+[img] BPC-157 & TB-500 Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/BPC-157-TB-500-1-238x317.webp
+[h2] BPC-157 & TB-500 Blend (10mg)
+[li] GHK-CU (Copper) (50mg) $64.00
+[a https://biotechpeptides.com/product/ghk-cu-50mg-copper/] GHK-CU (Copper) (50mg) $64.00
+[img] GHK-CU (Copper) (50mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/GHK-Cu-2-238x317.webp
+[h2] GHK-CU (Copper) (50mg)
+[li] BPC-157 (5mg & 10mg) $52.00 – $92.00Price range: $52.00 through $92.00
+[a https://biotechpeptides.com/product/bpc-157/] BPC-157 (5mg & 10mg) $52.00 – $92.00Price range: $52.00 through $92.00
+[img] BPC-157 :: https://biotechpeptides.com/wp-content/uploads/2020/03/BPC-157-2-238x317.webp
+[h2] BPC-157 (5mg & 10mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

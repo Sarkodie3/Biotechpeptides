@@ -1,0 +1,140 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/LL-37-1.webp] 
+[img] LL-37 (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/LL-37-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_LL-37_3141045_BP_page-0001.webp] 
+[img] LL-37 (5mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_LL-37_3141045_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_LL-37_3141045_BP_page-0002.webp] 
+[img] LL-37 (5mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_LL-37_3141045_BP_page-0002.webp
+[h1] LL-37 (5mg)
+[p] $86.00
+[p] LL-37 peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_713 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $81.70
+[input name=wccs_tier_select_713 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $77.40
+[label] LL-37 (5mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_LL-37_3141045_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] LL-37 Peptide
+[p] LL-37 is a Cathelicidin, a protein family of unique and diverse functions. These peptides, produced by macrophages and polymorphonuclear leukocytes (both types of white blood cells), have been suggested to exhibit bactericidal action. The entire group is classified as antimicrobial peptides (AMPs). The peptide, in particular, has been researched in relation to autoimmune disease, cancer, and wound recovery.[1] For example, researchers note that “Corneal and conjunctival epithelia express LL-37 as part of mucosal innate immunity to protect against bacterial and viral ocular infections.”
+[h3] Specifications
+[p] Other Known Titles: CAP-18
+[p] Molecular Formula: C205H340N50O53
+[p] Molecular Weight: 4493.34 g/mol
+[p] Sequence: Leu-Leu-Gly-Asp-Phe-Phe-Arg-Lys-Ser-Lys-GluLys-Ile-Gly-Lys-Glu-Phe-Lys-Arg-Ile-Val-Gln-Arg-Ile-Lys-Asp-Phe-Leu-Arg-Asn-Leu-Val-Pro-ArgThr-Glu-Ser
+[h3] LL-37 Peptide Research
+[p] LL-37 and Inflammatory Disease Models LL-37, although essentially researched as an antimicrobial peptide, has also been examined in research related to different inflammatory diseases such as lupus, rheumatoid arthritis, psoriasis, and atherosclerosis. LL-37 researchers suggest the peptide’s diverse immune system modulating behaviors based on the type of cells involved and the local inflammatory environment. It has been suggested to reduce apoptotic death of keratinocytes, improve IFN-alpha synthesis, suppress signaling through toll-like receptor 4 (TLR4), modify chemotaxis of neutrophils and eosinophils,[2] trigger IL-18 production, and potentially reduce levels of atherosclerotic plaques. Interestingly, LL-37 (aka CAP-18) appears to stimulate the immune system in a different manner depending on the trigger. Cell culture studies have observed the importance of the inflammatory environment in determining the immune response to LL-37. T-cells appear to improve inflammatory action via LL-37 when not activated but minimize the inflammatory action when activated. The peptide appears to mediate homeostasis of immunological response, thus controlling it from being hyperactive in instances of infection. There appears to be a strong correlation between the peptide levels and the extent of the disease. Initially, CAP-18 was thought to promote autoimmune disorders, but recent results have suggested it may help to abate the damage.[3] The researchers outline that the peptide has a role “in the modulation of immune and inflammatory pathways and their effects on autoimmune and inflammatory diseases.” High levels of the peptide may thus help check further increased inflammation.
+[p] LL-37 and Antimicrobial Characteristics LL-37 appears to be an important biomolecule of innate immunity and one of the initial proteins to activate during infection. Research findings in skin infection studies suggest that the peptide, though present in limited skin cells, appears to accumulate very fast when invading pathogens are present.[4] It may work with other proteins, like beta-defensin 2, to fight infection. The peptide appears to bind to bacterial lipopolysaccharide (LPS) of the outer membrane of gram-negative bacteria. LPS is considered critical for the membrane integrity of these bacteria. The possible action of LL-37 to bind to and interfere with LPS may make it toxic for certain bacteria. LL-37 may act against gram-positive pathogens, as research on staph infections and other serious bacteria suggested. Research indicates that LL-37 / CAP-18 may improve lysozyme’s action, which destroys gram-positive bacteria like Staph aureus. LL-37 may also be heightened and exert antimicrobial actions against nearby potential threats in models of gastrointestinal ulcers, as they report increased peptide expression.[5] This heightened production of LL-37 is likely influenced by the activation of Toll-like receptor 3 (TLR-3). TLR-3 is a type of receptor involved in the immune response, which may be activated by its specific ligand, polyinosinic-polycytidylic acid (poly(I)), a synthetic analog of double-stranded RNA. The interaction with poly(I) may trigger a series of intracellular signaling events that include the involvement of proteins such as Toll/IL-1 receptor (TIR) domain-containing adaptor-inducing interferon (TRIF), tumor necrosis factor receptor-associated factor 6 (TRAF6), and transforming growth factor β-activated kinase 1 (TAK1). These proteins appear to play crucial roles in immune signaling pathways that might lead to the enhanced expression of LL-37. The peptide's role in the gastrointestinal tract extends to possibly mitigating microbial damage to the gastrointestinal (GI) mucosa via the interactions of the peptide with LPS. Furthermore, the presence of LL-37 may help reduce the secretion of pro-inflammatory cytokines such as interleukin-6 (IL-6) and IL-8, which are significant in the inflammatory response. This reduction is potentially observed in colonic subepithelial myofibroblasts (SEMFs), cells that are part of the connective tissue and may play a role in wound recovery and fibrosis. By moderating the inflammatory response through these interactions, LL-37 might contribute to safeguarding the integrity of the GI tract lining.
+[p] LL-37 and Lung Disease Models LPS is found in several different organisms and, in some instances, may become airborne when an environment is contaminated by mold or other fungi. Normal lung tissue responds by producing mucus upon LPS inhalation. Unfortunately, the response is often insufficient to intercept toxic dust syndrome and respiratory diseases like asthma and COPD. LL-37 has been studied in research on toxic dust syndrome.[6] LL-37 appears to promote the proliferation of epithelial cells and the closure of wounds in lung diseases. The peptide may attract airway epithelial cells to injury sites and help vascularization, wound recovery, and supply of nutrition to the newly formed tissue.
+[p] LL-37 Peptide and Arthritis Models Research in murine models observed high LL-37 levels in the joints of rat models of rheumatoid arthritis. Whether the peptide exerts positive or negative actions in such models is unknown. However, several findings indicate the potential of the peptide in inflammation. LL-37 deficiency does not appear to change the outcomes in animal models of arthritis or lupus.[7] Animals expressing the peptide may show the same disease outcome as those lacking the peptide. These results indicate that the physiological reactions in enhanced levels of cathelicidins in arthritis are incidental. Peptides derived from LL-37 may reduce collagen damage, which occurs in inflammatory arthritis. Direct exposure of these peptides to arthritic joints in rats was observed to reduce both the severity of the disease and serum levels of antibodies against type II collagen. Direct interleukin-32 (IL-32) involvement in the severity of inflammatory arthritis has been reported. LL-37 and its derivatives may be able to regulate the level of IL-32 response. Researchers consider it reasonable to speculate that the peptide is protective in this disease scenario. Synovial fluid fibroblasts increase toll-like receptor 3 levels, which scientists consider worsens the arthritic condition by increasing inflammatory cytokine expression. LL-37 may interact with TLR4 and either promote pro-inflammatory or anti-inflammatory outcomes.[8] It is yet to be confirmed if LL-37 / CAP-18 mediates the same actions against the backdrop of increased TLR3. The peptide has been examined in experimental studies to selectively decrease pro-inflammatory macrophage responses, and researchers suggest its regulation of inflammation to be selective.
+[p] LL-37 and Intestinal Cancer Cell culture-based research studies have suggested potential multifaceted functions of the peptide in the intestine. The peptide appears to improve the migration of cells necessary for epithelial barrier maintenance of the intestine. LL-37 may reduce apoptosis when there is intestinal inflammation, helping to reduce inflammation's causes and associated pathogenesis. Studies suggest LL-37 pairs with beta-defensin 2 to help in wound recovery. Research indicates that the peptides may work simultaneously to repair and maintain the intestinal epithelium while decreasing TNF-related cell death.[9] Despite being the principal compounds researched in inflammatory bowel conditions, TNF-alpha inhibitors have been reported to exhibit adverse ancillary impacts. LL-37-exposure may potentially reduce the dependence on TNF-alpha inhibitors. Research in the peptide action on cancer cells has generated mixed reports.
+[p] LL-37 and Blood Vessel Growth The peptide appears to produce prostaglandin E2 (PGE2) in endothelial cells, which are cells that line the interior surface of blood vessels.[10] In endothelial cells, PGE2 promotes the development of blood vessels via a process called angiogenesis. It is considered crucial to regulate angiogenesis as it impacts cancer development, stroke outcomes, heart disease, and wound recovery, among others. LL-37 helps to study angiogenesis in-depth to promote it in cardiac disease and discourage cancer milieu. Further research suggests that the peptide appears to support several critical functions of endothelial cells.[11] These functions include cell proliferation, which is the process of cells multiplying; cell migration, which involves the movement of cells from one location to another; and the creation of tube-like structures that resemble small capillaries. Research conducted on mouse models with induced catabolism—where the mouse body breaks down molecules for energy—employed synthetic and natural recombinant versions of LL-37. This research tentatively indicates that exposure to LL-37 may promote the development of new blood vessels and the recovery of epithelial tissues, which include skin and organ linings. Such preliminary findings tentatively support the theory that LL-37 may play a vital role in enhancing wound recovery by possibly influencing the new blood vessel formation process, known as vascularization.
+[p] LL-37 and Immune Cells Studies suggest that LL-37 may potentially enhance the immune system's ability to respond to cellular damage.[12] This enhancement might occur through the modulation of the immune system's recognition mechanisms for self-nucleic acids, which include DNA and RNA. It is speculated that this modulation occurs when LL-37 interacts with particular types of cellular receptors, notably scavenger receptors (SRs). These receptors are deemed key in a process known as clathrin-dependent endocytosis, which is believed to be crucial for activating inflammatory pathways in cells. In addition, the peptide LL-37 is thought to facilitate the association of double-stranded RNA (dsRNA) with scavenger receptors. This interaction might initiate a cascade of signaling events that ultimately lead to the expression of cytokines, important signaling molecules in the immune response. The study further suggests that the specific interaction between LL-37 and certain scavenger receptors, such as SR-A6 and SR-B1, may be vital. The research also explores the idea that LL-37 might influence the immune system by potentially altering the function of intracellular signaling pathways. These pathways include Toll-like receptors (TLRs) and interferon regulatory factors (IRFs), which are commonly activated in response to foreign nucleic acids. The study posits that through clathrin-mediated endocytosis, LL-37 may facilitate the entry of immune-modulating molecules into cells, an essential step for initiating an immune response. This suggests a sophisticated mechanism by which LL-37 might regulate immune reactions at a cellular level.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Gordon YJ, Huang LC, Romanowski EG, Yates KA, Proske RJ, McDermott AM. Human cathelicidin (LL-37), a multifunctional peptide, is expressed by ocular surface epithelia and has potent antibacterial and antiviral activity. Curr Eye Res. 2005 May;30(5):385-94. doi: 10.1080/02713680590934111. PMID: 16020269; PMCID: PMC1497871.
+[a https://doi.org/10.1080/02713680590934111] doi: 10.1080/02713680590934111
+[li] Alalwani SM, Sierigk J, Herr C, Pinkenburg O, Gallo R, Vogelmeier C, Bals R. The antimicrobial peptide LL-37 modulates the inflammatory and host defense response of human neutrophils. Eur J Immunol. 2010 Apr;40(4):1118-26. doi: 10.1002/eji.200939275. PMID: 20140902; PMCID: PMC2908514.
+[a https://doi.org/10.1002/eji.200939275] doi: 10.1002/eji.200939275
+[li] Kahlenberg JM, Kaplan MJ. Little peptide, big effects: the role of LL-37 in inflammation and autoimmune disease. J Immunol. 2013 Nov 15;191(10):4895-901. doi: 10.4049/jimmunol.1302005. PMID: 24185823; PMCID: PMC3836506.
+[a https://doi.org/10.4049/jimmunol.1302005] doi: 10.4049/jimmunol.1302005
+[li] Reinholz M, Ruzicka T, Schauber J. Cathelicidin LL-37: an antimicrobial peptide with a role in inflammatory skin disease. Ann Dermatol. 2012 May;24(2):126-35. doi: 10.5021/ad.2012.24.2.126. Epub 2012 Apr 26. PMID: 22577261; PMCID: PMC3346901.
+[a https://doi.org/10.5021/ad.2012.24.2.126] doi: 10.5021/ad.2012.24.2.126
+[li] Kusaka; et al. Expression of human cathelicidin peptide LL-37 in inflammatory bowel disease. Clin Exp Immunol. 2018 Jan;19(11). Epub 2017 Sep 28. https://pubmed.ncbi.nlm.nih.gov/28872665/
+[a https://pubmed.ncbi.nlm.nih.gov/28872665/] https://pubmed.ncbi.nlm.nih.gov/28872665/
+[li] Golec M. Cathelicidin LL-37: LPS-neutralizing, pleiotropic peptide. Ann Agric Environ Med. 2007;14(1):1-4. PMID: 17655171.
+[li] Moreno-Angarita A, Aragón CC, Tobón GJ. Cathelicidin LL-37: A new important molecule in the pathophysiology of systemic lupus erythematosus. J Transl Autoimmun. 2019 Dec 17;3:100029. doi: 10.1016/j.jtauto.2019.100029. PMID: 32743514; PMCID: PMC7388365.
+[a https://doi.org/10.1016/j.jtauto.2019.100029] doi: 10.1016/j.jtauto.2019.100029
+[li] Singh D, Vaughan R, Kao CC. LL-37 peptide enhancement of signal transduction by Toll-like receptor 3 is regulated by pH: identification of a peptide antagonist of LL-37. J Biol Chem. 2014 Oct 3;289(40):27614-24. doi: 10.1074/jbc.M114.582973. Epub 2014 Aug 4. PMID: 25092290; PMCID: PMC4183800.
+[a https://doi.org/10.1074/jbc.M114.582973] doi: 10.1074/jbc.M114.582973
+[li] Piktel E, Niemirowicz K, Wnorowska U, Wątek M, Wollny T, Głuszek K, Góźdź S, Levental I, Bucki R. The Role of Cathelicidin LL-37 in Cancer Development. Arch Immunol Ther Exp (Warsz). 2016 Feb;64(1):33-46. doi: 10.1007/s00005-015-0359-5. Epub 2015 Sep 22. PMID: 26395996; PMCID: PMC4713713.
+[a https://doi.org/10.1007/s00005-015-0359-5] doi: 10.1007/s00005-015-0359-5
+[li] Salvado MD, Di Gennaro A, Lindbom L, Agerberth B, Haeggström JZ. Cathelicidin LL-37 induces angiogenesis via PGE2-EP3 signaling in endothelial cells, in vivo inhibition by aspirin. Arterioscler Thromb Vasc Biol. 2013 Aug;33(8):1965-72. doi: 10.1161/ATVBAHA.113.301851. Epub 2013 Jun 13. PMID: 23766266.
+[li] Ramos R, Silva JP, Rodrigues AC, Costa R, Guardão L, Schmitt F, Soares R, Vilanova M, Domingues L, Gama M. Wound healing activity of the human antimicrobial peptide LL37. Peptides. 2011 Jul;32(7):1469-76. doi: 10.1016/j.peptides.2011.06.005. Epub 2011 Jun 13. https://pubmed.ncbi.nlm.nih.gov/21693141/
+[a https://pubmed.ncbi.nlm.nih.gov/21693141/] https://pubmed.ncbi.nlm.nih.gov/21693141/
+[li] Takahashi, T., Kulkarni, N.N., Lee, E.Y. et al. Cathelicidin promotes inflammation by enabling binding of self-RNA to cell surface scavenger receptors. Sci Rep 8, 4032 (2018). https://doi.org/10.1038/s41598-018-22409-3
+[a https://doi.org/10.1038/s41598-018-22409-3] https://doi.org/10.1038/s41598-018-22409-3
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] KPV (4mg) $39.00
+[a https://biotechpeptides.com/product/kpv-4mg/] KPV (4mg) $39.00
+[img] KPV (4mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/KPV-1-238x317.webp
+[h2] KPV (4mg)
+[li] PNC-27 (5mg) $142.00
+[a https://biotechpeptides.com/product/pnc-27-5mg/] PNC-27 (5mg) $142.00
+[img] PNC-27 (5mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/PNC-27-1-238x317.webp
+[h2] PNC-27 (5mg)
+[li] B7-33 (6mg) $62.00
+[a https://biotechpeptides.com/product/b7-33-6mg/] B7-33 (6mg) $62.00
+[img] B7-33 (6mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/B7-33-1-238x317.webp
+[h2] B7-33 (6mg)
+[li] ARA-290 (16mg) $88.00
+[a https://biotechpeptides.com/product/ara-290-16mg/] ARA-290 (16mg) $88.00
+[img] ARA-290 (16mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/ARA-290-1-238x317.webp
+[h2] ARA-290 (16mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

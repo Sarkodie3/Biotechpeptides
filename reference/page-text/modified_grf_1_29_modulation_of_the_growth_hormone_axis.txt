@@ -1,0 +1,145 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Modified GRF 1-29: Modulation of the Growth Hormone Axis
+[p] by Dr. Usman | Dec 15, 2025 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2025/12/Modified-GRF-1-29-Modulation-of-the-Growth-Hormone-Axis.webp
+[a https://biotechpeptides.com/product/mod-grf-1-29-5mg-cjc-1295-no-dac/] CJC 1295 without DAC
+[a https://biotechpeptides.com/product/sermorelin-5mg/] Sermorelin
+[p] To support overall stability, four amino acid substitutions were introduced at positions 2, 8, 15, and 27.[3] These substitutions were intended to reduce proteolytic cleavage, limit oxidative changes, decrease spontaneous rearrangements, and increase resistance to hydrolysis.
+[p] The modified fragment, later termed Modified GRF 1-29, preserves the structural domains believed to be required for GHRH receptor binding while indicating potentially increased persistence in experimental systems. Its development traces back to work in the 1980s on truncated GHRH derivatives. Research has explored its potential involvement in metabolic and regenerative pathways, though findings remain model-dependent.
+[p] Contents:
+[li] Mechanism of Action
+[a #ma] Mechanism of Action
+[li] Scientific and Research Studies
+[a #research] Scientific and Research Studies
+[li] Regulatory Modulation of the Growth Hormone Axis by Modified GRF 1-29
+[a #rm] Regulatory Modulation of the Growth Hormone Axis by Modified GRF 1-29
+[li] Receptor Level Interactions between Modified GRF 1-29 and Pituitary Signaling Pathways
+[a #rli] Receptor Level Interactions between Modified GRF 1-29 and Pituitary Signaling Pathways
+[li] Intestinal and Enteric Receptor Activity Linked to Modified GRF 1-29
+[a #ier] Intestinal and Enteric Receptor Activity Linked to Modified GRF 1-29
+[li] Cardiac Indicators in Models Exposed to Modified GRF 1-29
+[a #ci] Cardiac Indicators in Models Exposed to Modified GRF 1-29
+[li] Clinical Studies Implying Interaction Between Growth Hormones and Thyroid
+[a #cs] Clinical Studies Implying Interaction Between Growth Hormones and Thyroid
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/mod-grf-1-29-5mg-cjc-1295-no-dac/] 
+[img] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Mod-GRF-5MG-1.webp
+[h2] Mechanism of Action
+[p] Modified GRF 1-29 is engineered to bind growth hormone releasing hormone receptors, which are class B G protein-coupled receptors located in the anterior pituitary. The 29 amino acid sequence reflects the N-terminal region associated with receptor activation in endogenous GHRH.[4] The structural substitutions are theorized to support receptor interaction and reduce degradation, supporting more sustained signaling.
+[p] Receptor engagement is proposed to activate adenylate cyclase through Gs protein coupling, increasing intracellular cyclic adenosine monophosphate. This signaling route may interact with protein kinase A pathways involved in growth hormone synthesis and vesicular release. Studies conducted in laboratory settings suggest that stabilized GHRH fragments may support pulsatile secretion patterns, although temporal dynamics vary across studies.
+[p] Reported downstream pathways include those linked to tissue repair, extracellular matrix modulation, energy metabolism, and musculoskeletal adaptation. Additional research has examined possible roles in glucose regulation and immune-related processes. These observations remain dependent on experimental context and peptide stability.
+[h2] Scientific Research and Studies
+[h3] Regulatory Modulation of the Growth Hormone Axis by Modified GRF 1-29
+[p] Research on fully tetrasubstituted GRF 1-29, often referenced as CJC 1295 without DAC, remains limited. Available studies have instead examined related analogs of GRF 1-29 with partial substitutions. One study by Khorram and colleagues evaluated a Modified GRF 1-29 construct and reported findings that might offer indirect insight into the behavior of tetrasubstituted variants.
+[p] The study[5] suggested that Modified GRF 1-29 may support growth hormone pulsatility through interactions with somatotroph cells in the anterior pituitary. Average growth hormone output over twelve hours may indicate an approximate increase of 70% to 107%, suggesting a potential interaction with endogenous pulsatile dynamics. Parallel changes in insulin-like growth factor 1 were also observed, with concentrations rising by roughly 28%. These findings may reflect upstream modulation of the growth hormone IGF 1 axis.
+[p] The researchers also recorded changes in tissue characteristics. Dermal thickness increased in association with elevated growth hormone and IGF 1 activity. This pattern might relate to anabolic signaling in dermal fibroblasts and extracellular matrix-producing cell types. Muscle hypertrophy in mammalian models was also noted, and the net gain in lean muscular tissue suggested a possible anabolic response. The biological mechanisms driving these observations were not fully defined, and the relationship between peptide structure, receptor engagement, and downstream intracellular signaling remains an open area for further study.
+[p] Overall, the reported data suggest that modified GRF 1-29 analogs may participate in regulatory pathways connected to growth hormone and IGF 1 secretion. Future experiments focused specifically on tetrasubstituted GRF 1-29 will be required to clarify its mechanistic profile and potential research implications.
+[h3] Receptor Level Interactions between Modified GRF 1-29 and Pituitary Signaling Pathways
+[p] Modified GRF 1-29 is thought to interact with the growth hormone releasing hormone receptor located on anterior pituitary cells. This interaction may involve engagement with specific receptor binding domains, which might induce subtle conformational adjustments in the receptor structure. Such changes might initiate intracellular signaling events consistent with G protein-coupled receptor activation.[6]
+[p] Once the receptor undergoes this conformational shift, associated G proteins on the intracellular surface may become activated. These G proteins may stimulate the formation of secondary messengers such as cAMP or IP3. These molecules are considered intermediary signaling mediators that may amplify intracellular responses.[7] In particular, cAMP may activate protein kinases that participate in phosphorylation reactions involving designated intracellular targets.
+[p] Protein kinases are implicated in the regulation of diverse cellular processes. Their activation may lead to phosphorylation of transcription factors that support gene expression. Phosphorylated transcription factors may enter the nucleus and modify the transcription of genes associated with growth hormone synthesis and secretion.
+[p] As a result, the cumulative molecular activity triggered by Modified GRF 1-29 may support the fusion of growth hormone-containing vesicles with the plasma membrane. This vesicular fusion may allow the extracellular release of growth hormone from pituitary cells and support downstream physiological signaling pathways.
+[h3] Intestinal and Enteric Receptor Activity Linked to Modified GRF 1-29
+[p] Experimental and pre-clinical studies have suggested that growth hormone releasing hormone analogs may support gastrointestinal physiology. Peptides such as Modified GRF 1-29, as GHRH analogs, are under investigation to determine whether they might modulate bowel motility and smooth muscle function.
+[p] Some branches of primate research suggest that CJC 1295 without DAC interacts with VPAC1 receptors on gastric smooth muscle cells. This receptor engagement may interact with contractile activity and support mammalian bowel motility, which may have implications for gastrointestinal disorders such as constipation. Prior work has noted that species-specific differences are substantial, emphasizing the importance of receptor affinity assessments in mammalian cells or closely related species to assess translational potential.
+[p] Scientists believe that these studies “[indicate] significant species differences [may] exist for possible therapeutic peptide agonists of the VIP/PACAP/GRF receptor family and that it is essential that receptor affinity assessments be performed in [mammalian] cells or from a closely related species.”[7]
+[h3] Cardiac Indicators in Models Exposed to Modified GRF 1-29
+[p] Murine research[9] suggested that Modified GRF 1-29 and related analogs might interact in some way with mammalian cardiac performance under post-strenuous or muscular overuse-causing activity conditions. Findings included potential support for heart rate, contractile function, and signals related to myocardial tissue repair, along with possible changes in ejection fraction. These observations are preliminary and require additional mechanistic study.
+[h3] Clinical Studies Implying Interaction Between Growth Hormones and Thyroid
+[p] Clinical observations have suggested that thyroid hormone status may modulate growth hormone synthesis and secretion. In a study, 10 mammalian research models with primary hypothyroidism were analyzed. Fourteen research models of various levels of cellular age and overall function were examined before and after mammalian models undergo forms of thyroid hormone replacement.
+[p] Administration of CJC 1295 without DAC was associated with increased growth hormone responsiveness following thyroid replacement. These findings suggest that thyroid hormone availability may support somatotroph sensitivity to GHRH analogs, including tetrasubstituted GRF 1 29.
+[p] As per R Valcavi et al., “These data indicate that thyroid hormone replacement therapy [supports] the responsiveness of the somatotroph to GRF 1-29 in [mammalian research models] with primary hypothyroidism.” [10]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] National Center for Biotechnology Information (2025). PubChem Compound Summary for CID 91976842, CJC1295 Without DAC. https://pubchem.ncbi.nlm.nih.gov/compound/CJC1295-Without-DAC.
+[a https://pubchem.ncbi.nlm.nih.gov/compound/CJC1295-Without-DAC] https://pubchem.ncbi.nlm.nih.gov/compound/CJC1295-Without-DAC
+[li] Clark RG, Robinson IC. Growth induced by pulsatile infusion of an amidated fragment of human growth hormone releasing factor in normal and GHRF-deficient rats. Nature. 1985 Mar 21-27;314(6008):281-3. doi: 10.1038/314281a0. PMID: 2858818. https://pubmed.ncbi.nlm.nih.gov/2858818/
+[a https://pubmed.ncbi.nlm.nih.gov/2858818/] https://pubmed.ncbi.nlm.nih.gov/2858818/
+[li] Martin, B., Lopez de Maturana, R., Brenneman, R., Walent, T., Mattson, M. P., & Maudsley, S. (2005). Class II G protein-coupled receptors and their ligands in neuronal function and protection. Neuromolecular medicine, 7(1-2), 3–36. https://doi.org/10.1385/nmm:7:1-2:003
+[a https://doi.org/10.1385/nmm:7:1-2:003] https://doi.org/10.1385/nmm:7:1-2:003
+[li] The Discovery of Growth Hormone-Releasing Hormone: An Update https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2826.2008.01740.x
+[a https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2826.2008.01740.x] https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2826.2008.01740.x
+[li] Khorram, O., Laughlin, G. A., & Yen, S. S. (1997). Endocrine and metabolic effects of long-term administration of [Nle27]growth hormone-releasing hormone-(1-29)-NH2 in age-advanced men and women. The Journal of clinical endocrinology and metabolism, 82(5), 1472–1479. https://doi.org/10.1210/jcem.82.5.3943
+[a https://doi.org/10.1210/jcem.82.5.3943] https://doi.org/10.1210/jcem.82.5.3943
+[li] Newton, A. C., Bootman, M. D., & Scott, J. D. (2016). Second Messengers. Cold Spring Harbor perspectives in biology, 8(8), a005926. https://doi.org/10.1101/cshperspect.a005926
+[a https://doi.org/10.1101/cshperspect.a005926] https://doi.org/10.1101/cshperspect.a005926
+[li] Ito T, Igarashi H, Pradhan TK, Hou W, Mantey SA, Taylor JE, Murphy WA, Coy DH, Jensen RT. GI side-effects of a possible therapeutic GRF analogue in monkeys are likely due to VIP receptor agonist activity. Peptides. 2001 Jul;22(7):1139-51. https://pubmed.ncbi.nlm.nih.gov/11445245/
+[a https://pubmed.ncbi.nlm.nih.gov/11445245/] https://pubmed.ncbi.nlm.nih.gov/11445245/
+[li] Schally AV, Zhang X, Cai R, Hare JM, Granata R, Bartoli M. Actions and Potential Therapeutic Applications of Growth Hormone-Releasing Hormone Agonists. Endocrinology. 2019 Jul 1;160(7):1600-1612. https://pubmed.ncbi.nlm.nih.gov/31070727/
+[a https://pubmed.ncbi.nlm.nih.gov/31070727/] https://pubmed.ncbi.nlm.nih.gov/31070727/
+[li] Sinha, D. K., Balasubramanian, A., Tatem, A. J., Rivera-Mirabal, J., Yu, J., Kovac, J., Pastuszak, A. W., & Lipshultz, L. I. (2020). Beyond the androgen receptor: the role of growth hormone secretagogues in the modern management of body composition in hypogonadal males. Translational andrology and urology, 9(Suppl 2), S149–S159. https://doi.org/10.21037/tau.2019.11.30
+[a https://doi.org/10.21037/tau.2019.11.30] https://doi.org/10.21037/tau.2019.11.30
+[li] Valcavi R, Jordan V, Dieguez C, John R, Manicardi E, Portioli I, Rodriguez-Arnao MD, Gomez-Pan A, Hall R, Scanlon MF. Growth hormone responses to GRF 1-29 in patients with primary hypothyroidism before and during replacement therapy with thyroxine. Clin Endocrinol (Oxf). 1986 Jun;24(6):693-8. https://pubmed.ncbi.nlm.nih.gov/3098458/
+[a https://pubmed.ncbi.nlm.nih.gov/3098458/] https://pubmed.ncbi.nlm.nih.gov/3098458/
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

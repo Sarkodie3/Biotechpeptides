@@ -1,0 +1,134 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/PE-22-28-1.webp] 
+[img] PE-22-28 (8mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/PE-22-28-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/COA_PE_22-28_3140067_20260722_BP_page-0001.webp] 
+[img] PE-22-28 (8mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2021/12/COA_PE_22-28_3140067_20260722_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/COA_PE_22-28_3140067_20260722_BP_page-0002.webp] 
+[img] PE-22-28 (8mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2021/12/COA_PE_22-28_3140067_20260722_BP_page-0002.webp
+[h1] PE-22-28 (8mg)
+[p] $55.00
+[p] PE-22-28 peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_3420 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $52.25
+[input name=wccs_tier_select_3420 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $49.50
+[label] PE-22-28 (8mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/COA_PE_22-28_3140067_20260722_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] PE-22-28 Peptide
+[p] PE-22-28 is a synthetic variant of the naturally occurring peptide Spadin. Spadin is a secreted peptide obtained from Sortilin. It appears to act as an antagonist of the TREK-1 (TWIK-related-potassium channel) receptor, a two-pore potassium channel identified as a potential target in the context of depression research and as a possible neurogenic regulator. Studies in mice have suggested that TREK-1 receptor deletion may make them resistant to depressive behavior and corresponding chemical imbalances in the brain.[1] PE-22-28 represents a shorter seven amino acid synthetic Spadin analog with potentially higher efficacy and stability. Research in animal models is ongoing.
+[h3] Specifications
+[p] Other Known Titles: Spadin Analog, PE2228, TREK-1 Antagonist, PE 22 28, Sortilin Derivative, PE 2228
+[p] Sequence: GVSWGLR
+[p] Molecular Formula: C35H55N11O9
+[p] Molecular Weight: 773.8947 g/mol
+[h3] PE-22-28 Research
+[p] Unfortunately, PE-22-28 research is highly limited due to lack of experiments. Considering the PE-22-28 is a shorter spadin version with posited increased affinity and stability, we have highlighted the properties of spadin below, which we may expect to apply for PE-22-28 as well.
+[p] PE-22-28 and TREK-1 Receptors TREK-1 is a cognate receptor for Spadin and, therefore, researchers suggest it may be for PE-22-28 as well.[1] It is a two-pore potassium channel regulated by several different molecules and is considered to regulate neuronal excitability.[2] TREK-1 appears to be abundant in the prefrontal cortex, the amygdala, and the hippocampus. By reducing the neuron’s excitability, TREK-1 may help protect against excitotoxicity. Researchers suggest spadin has the potential to relieve neurogenic depression controlled by the TREK-1 channel. spadin may potentially reverse the loss of hippocampal volume by stimulating neurogenesis.[3,4] Considering the similarities between the potential of spadin and PE-22-28, it can be posited that a similar hypothesis applies for PE-22-28 as well.
+[p] PE-22-28 and BDNF It has been hypothesized that PE-22-28 may potentially interact with BDNF, based on research suggesting such as interaction between spadin and BDNF. Brain-Derived Neurotrophic Factor (BDNF) is a protein that may play a role in the survival, growth, and maintenance of neurons, and is heavily involved in synaptic plasticity. A study suggests that Spadin might have a role in modulating BDNF levels, potentially contributing to its hypothesized antidepressant actions.[5] Spadin may potentially influence BDNF pathways indirectly, possibly through its impact on serotonin (5-HT) neurotransmission and the regulation of TREK-1 channel activity. NTSR3/Sortilin, from which spadin is derived, is also posited to interact with neurotrophins like pro-BDNF, which are deemed crucial for neurotrophic regulation, cell survival, and programmed cell death (apoptosis). Although the available research does not directly measure BDNF levels or associated pathways, it suggests that further exploration into how Spadin may influence BDNF at both the mRNA and protein levels may provide valuable insights. Similarly, PE-22-28 is expected to have similar or greater potential on BDNF but research is yet to investigate it.
+[p] PE-22-28 Peptide and Neurogenesis PE-22-28 appears to promote neurogenesis in a short duration of time. Studies in mice suggest that PE-22-28 has the potential to increase neurogenesis and synaptogenesis in as little as four days of experimentation.[6] CREB (cAMP response element-binding protein) is a transcription factor associated with neuronal plasticity, memory formation, and the development of spatial memory.[7] CREB appears to be a necessary component in not just the growth of neurons but also in their protection. The analysis suggests that short-term exposure to spadin appears to lead to a marked increase in phosphorylated CREB (pCREB) levels, which were observed to be approximately four times higher compared to those in placebo-exposed controls. This increase in phosphorylation likely indicates CREB activation, as supported by Western blot results, which revealed the active form of CREB, while the total CREB levels remained unchanged. Additionally, there was a notable colocalization of pCREB with doublecortin (DCX), a protein commonly associated with neuronal precursor cells. This colocalization implies that CREB activation might be intricately involved in the process of neurogenesis, with a particular influence on neuronal, rather than glial, cells. Thus, it is hypothesized that spadin, potentially via rapid CREB activation, might considerably promote both the magnitude and pace of hippocampal neurogenesis.[5] Consequently, it is conceivable that PE-22-28 might exert similar actions on neurogenesis through comparable mechanisms. Findings also suggest that spadin might also increase the number of bromodeoxyuridine (BrdU) positive cells in the hippocampus when compared to placebo, which may indicate an enhancement in the formation of new neurons, likely originating from dividing progenitor cells. BrdU, a thymidine analog, is incorporated into the DNA of cells during the S-phase of the cell cycle, thus serving as an indicator of cell proliferation. The apparent rapid rise in BrdU-positive cells within 4 days following spadin exposure suggests an expedited activation of neurogenic processes. It is again postulated that PE-22-28 might similarly affect neurogenesis through these pathways. Further, spadin and analogs like PE-22-28 may lack some of the downsides observed in models that are simply devoid of the TREK-1 channels. It has been suggested by research in animal models that removing the TREK-1 channel may be disastrous for the organism. In previous mouse models, knockout of TREK-1 increased the likelihood of seizure activity significantly and reduced the normal ability of this two-pore potassium channel to protect neurons from excitotoxicity. It came as a surprise then that neither Spadin nor PE-22-28 appeared to enhance seizure activity following these experiments. Even more interesting is the fact that mice exposed to Spadin were reported by researchers to appear more resistant to developing generalized seizures. Research in animal models is ongoing.
+[p] PE-22-28 Peptide and Serotonin As noted, spadin might modulate serotonin (5-HT) neurotransmission through its interaction with the TREK-1 potassium channel, raising the question if PE-22-28 may have a similar potential. It is hypothesized that spadin's action could involve the inhibition of TREK-1, leading to an increase in the firing rate of 5-HT neurons located in the Dorsal Raphe Nucleus (DRN), which is a central hub for serotonin signaling in the brain. This potential blockade might diminish the inhibitory feedback normally mediated by 5-HT1A autoreceptors, which could, in turn, amplify serotonin neurotransmission.[5] Moreover, further research suggests that the actions of spadin and serotonin receptor agonists may be additive and independently mediated.[8] Notably, when an antagonist of mGluR2/3 (metabotropic glutamate receptors 2 and 3) is implemented, it appears to diminish the impact of spadin, implying that spadin’s influence could be linked to TREK-1 channels within the medial prefrontal cortex (mPFC) and their interaction with mGluR2/3 receptors. Additionally, immunohistochemical analyses indicate that spadin, in conjunction with the selective serotonin agonist RS 67333, may alter Zif268 expression in the DRN, a marker related to neuronal activity. Both spadin and RS 67333 alone increased the number of Zif268-positive neurons, but their combination led to a significantly greater increase, suggesting a robust depolarization action on a subset of DRN neurons. Interestingly, when the mGluR2/3 antagonist LY 341495 was applied, it increased the firing rate of DRN serotonin neurons. However, this action was not observed following an electrolytic lesion in the mPFC, highlighting the possible role of mPFC TREK-1 channels, potentially linked to mGluR2/3 receptors, in modulating this activity. Complementary findings from fluorescence microscopy, using the Fura2-AM dye to measure intracellular calcium (Ca2+) levels in cultured cortical neurons, revealed that the combination of spadin with either LY 341495 or RS 67333 raised intracellular Ca2+ levels more than experimentation with either alone. The most pronounced increase was seen with the spadin and RS 67333 combination. This action appears to rely on serotonin receptor activation. It may only be posited that PE-22-28, as a potent spadin analog, may exhibit similar interactions with mGluR2/3 receptors and serotonin neurons, potentially mirroring the actions observed with spadin.
+[p] PE-22-28 Peptide and Muscle Function There is some research to suggest that TREK-1 plays a role in the ability of a muscle to respond to mechanical stimulation.[9] Scientists note that “Application of negative pressure to cell-attached patches (-20 mmHg) caused a 19-fold increase in the open probability (NPo) of … TREK-1 channels.” In particular, TREK-1 blockade appears to increase contractility in muscle tissue, while activation of the channel appears to promote muscle relaxation. While this particular aspect of the TREK-1 channel is still in the early stages of the investigation, it is becoming increasingly important. There is hope that understanding the role of molecules like PE-22-28 in muscle contraction and relaxation may provide new research modalities for conditions like myogenic bladder dysfunction and may also open up new pathways for understanding the physiology of muscle tissue development.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Djillani A, Pietri M, Moreno S, Heurteaux C, Mazella J, Borsotto M. Shortened Spadin Analogs Display Better TREK-1 Inhibition, In Vivo Stability and Antidepressant Activity. Front Pharmacol. 2017 Sep 12;8:643. doi: 10.3389/fphar.2017.00643. PMID: 28955242; PMCID: PMC5601071.
+[a https://doi.org/10.3389/fphar.2017.00643] doi: 10.3389/fphar.2017.00643
+[li] A. Djillani, J. Mazella, C. Heurteaux, and M. Borsotto, “Role of TREK-1 in Health and Disease, Focus on the Central Nervous System,” Front. Pharmacol., vol. 10, Apr. 2019, doi: 10.3389/fphar.2019.00379.
+[a https://doi.org/10.3389/fphar.2019.00379] doi: 10.3389/fphar.2019.00379
+[li] R. S. Duman, S. Nakagawa, and J. Malberg, “Regulation of adult neurogenesis by antidepressant treatment,”Neuropsychopharmacol. Off. Publ. Am. Coll. Neuropsychopharmacol., vol. 25, no. 6, pp. 836–844, Dec. 2001, doi: 10.1016/S0893-133X(01)00358-X.
+[a https://doi.org/10.1016/S0893-133X(01)00358-X] doi: 10.1016/S0893-133X(01)00358-X
+[li] H. Moha Ou Maati et al., “Spadin as a new antidepressant: absence of TREK-1-related side effects,” Neuropharmacology, vol. 62, no. 1, pp. 278–288, Jan. 2012, doi: 10.1016/j.neuropharm.2011.07.019.
+[a https://doi.org/10.1016/j.neuropharm.2011.07.019] doi: 10.1016/j.neuropharm.2011.07.019
+[li] Mazella J, Pétrault O, Lucas G, Deval E, Béraud-Dufour S, Gandin C, El-Yacoubi M, Widmann C, Guyon A, Chevet E, Taouji S, Conductier G, Corinus A, Coppola T, Gobbi G, Nahon JL, Heurteaux C, Borsotto M. Spadin, a sortilin-derived peptide, targeting rodent TREK-1 channels: a new concept in the antidepressant drug design. PLoS Biol. 2010 Apr 13;8(4):e1000355. doi: 10.1371/journal.pbio.1000355. PMID: 20405001; PMCID: PMC2854129.
+[a https://doi.org/10.1371/journal.pbio.1000355] doi: 10.1371/journal.pbio.1000355
+[li] C. Devader et al., “In vitro and in vivo regulation of synaptogenesis by the novel antidepressant spadin,” Br. J. Pharmacol., vol. 172, no. 10, pp. 2604–2617, May 2015, doi: 10.1111/bph.13083.
+[a https://doi.org/10.1111/bph.13083] doi: 10.1111/bph.13083
+[li] A. J. Silva, J. H. Kogan, P. W. Frankland, and S. Kida, “CREB and memory,” Annu. Rev. Neurosci., vol. 21, pp. 127–148,1998, doi: 10.1146/annurev.neuro.21.1.127.
+[a https://doi.org/10.1146/annurev.neuro.21.1.127] doi: 10.1146/annurev.neuro.21.1.127
+[li] Moha ou Maati, Hamid et al. “The peptidic antidepressant spadin interacts with prefrontal 5-HT(4) and mGluR(2) receptors in the control of serotonergic function.” Brain structure & function vol. 221,1 (2016): 21-37. doi:10.1007/s00429-014-0890-x
+[li] Q. Lei, X.-Q. Pan, S. Chang, S. B. Malkowicz, T. J. Guzzo, and A. P. Malykhina, “Response of the human detrusor to stretch is regulated by TREK-1, a two-pore-domain (K2P) mechano-gated potassium channel,” J. Physiol., vol. 592, no. 14, pp. 3013–3030, Jul. 2014, doi: 10.1113/jphysiol.2014.271718.
+[a https://doi.org/10.1113/jphysiol.2014.271718] doi: 10.1113/jphysiol.2014.271718
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] N-Acetyl Semax (25mg) $57.00
+[a https://biotechpeptides.com/product/n-acetyl-semax-25mg/] N-Acetyl Semax (25mg) $57.00
+[img] N-Acetyl Semax (25mg) :: https://biotechpeptides.com/wp-content/uploads/2023/01/N-Acetyl-Semax-3-238x317.webp
+[h2] N-Acetyl Semax (25mg)
+[li] Semax (25mg) $53.00
+[a https://biotechpeptides.com/product/semax-25mg/] Semax (25mg) $53.00
+[img] Semax (25mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Semax-1-238x317.webp
+[h2] Semax (25mg)
+[li] N-Acetyl Selank (10mg) $65.00
+[a https://biotechpeptides.com/product/n-acetyl-selank-10mg/] N-Acetyl Selank (10mg) $65.00
+[img] N-Acetyl Selank (10mg) :: https://biotechpeptides.com/wp-content/uploads/2023/01/N-Acetyl-Selank-1-238x317.webp
+[h2] N-Acetyl Selank (10mg)
+[li] Selank (10mg) $46.00
+[a https://biotechpeptides.com/product/selank-10mg/] Selank (10mg) $46.00
+[img] Selank (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Selank-1-238x317.webp
+[h2] Selank (10mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

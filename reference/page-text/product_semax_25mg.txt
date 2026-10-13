@@ -1,0 +1,137 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/04/Semax-1.webp] 
+[img] Semax (25mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Semax-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Semax-25mg-COA-scaled.webp] 
+[img] Semax (25mg) COA :: https://biotechpeptides.com/wp-content/uploads/2026/04/Semax-25mg-COA-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Semax-25mg-LC-scaled.webp] 
+[img] Semax (25mg) LC :: https://biotechpeptides.com/wp-content/uploads/2026/04/Semax-25mg-LC-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Semax-25mg-MS-scaled.webp] 
+[img] Semax (25mg) MS :: https://biotechpeptides.com/wp-content/uploads/2026/04/Semax-25mg-MS-scaled.webp
+[h1] Semax (25mg)
+[p] $53.00
+[p] Semax peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_818 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $50.35
+[input name=wccs_tier_select_818 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $47.70
+[label] Semax (25mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2026/06/Semax-25mg-.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h2] Semax Peptide
+[p] Semax is a synthetic analog of adrenocorticotropic hormone (ACTH) comprising the amino acids 4 through 10 of ACTH. Semax has primarily been implicated in research on cognitive impairment and stroke. The peptide has also been studied closely within the context of dementia and certain inflammations of the optic nerve. Researchers posit that the peptide may exert neurotrophic action, suggesting that the peptide may act to increase the production of brain-derived neurotrophic factor (BDNF) in the central nervous system, with potential consequences in serotonin and dopamine release. Some researchers also suggest that Semax may interact with serotonin and enkephalin levels in the central nervous system.
+[h3] Specifications
+[p] Molecular Formula: C39H54N10O10S
+[p] Molecular Weight: 854.99 g/mol
+[p] Sequence: Ac-Ser-Asp-Lys-Pro-Asp-Met-Ala-Glu-lle-GluLys-Phe-Asp-Lys-Ser-Lys-Leu-Lys-LysThr-Glu-Thr-Gin-Glu-Lys-Asn-Pro-Leu-Pro-Ser-Lys-GluThy-lleGlu-Gin-Glu-Lys-Gin-Ala-Gly-Glu-Ser
+[h3] Semax Research
+[p] Semax and the Blood-Brain Barrier Semax is a synthetic heptapeptide consisting of the amino acid sequence Met-Glu-His-Phe, a partial sequence derived from the naturally occurring adrenocorticotropic hormone (ACTH). This primary sequence is further augmented by appending a Pro-Gly-Pro (PGP) tripeptide at the C-terminal end, a modification hypothesized to potentially increase the molecule's lipophilicity. Enhanced lipophilicity might, in turn, improve the peptide’s capacity for passive diffusion or uptake through the brain's protective blood-brain barrier (BBB). Such facilitation might occur via lipid raft-mediated endocytosis mechanisms, potentially allowing the peptide to bypass the tight junctions that normally impede substances from entering the brain. Additionally, incorporating the PGP sequence at the C-terminus of the peptide is posited to influence its interaction with specific transporters or receptors located on the BBB, which might promote its entry into the brain through receptor-mediated transcytosis. Furthermore, acetylating Semax may confer increased molecular stability, potentially rendering the peptide more resistant to enzymatic degradation. This alteration might result in an extended half-life of Semax within biological systems, allowing for a prolonged period of activity before breakdown occurs.
+[p] Semax and Stroke In Russia, Semax has been researched in the context of acute cerebral hypoxia resulting from stroke or traumatic brain injury. As per studies in murine models, Semax appears to promote the expression of 24 genes in the brain and spinal cord through various molecular mechanisms. These genes are believed to modulate various functions, from smooth muscle cell migration to red blood cell formation and angiogenesis. The peptide has been suggested to promote the survival of neurons and potentially stabilize mitochondria.[1] Scientists report that “The immunomodulating effect of the peptide discovered in our research and its impact on the vascular system during ischemia is likely to be the key mechanisms underlying the neuroprotective effects of the peptide.” [2] Gusev et al. observed, “early rehabilitation and [introduction] of Semax increased BDNF plasma levels, speed functional recovery, and improve motor performance.” BDNF is a natural brain peptide that some researchers believe may aid in cognitive development. There is data to suppose that BDNF stimulation may support neuroplasticity as well.
+[a https://biotechpeptides.com/2021/04/16/semax-and-correlation-in-brain-and-memory-function/] brain peptide
+[p] Semax and Brain Structure Semax has been suggested by researchers via functional magnetic resonance imaging to trigger the function of what is known as the default mode network.[3] The default mode network includes areas of the brain that remain more active during rest than during conscious activity. It is considered a general-purpose system for monitoring the organism’s environment without focusing on specific elements. The network is an important aspect of an organism’s attention capacity as it is believed to support the change from a “resting” state to alertness.[4] Researchers suggest that increased activity in the default mode network may correspond to improved neural connections within the brain. These connections may support cognitive processes. Through closer research into Semax, researchers speculate that the peptide may support global brain function through a domino chain of cognitive functioning.
+[p] Semax and Gene Expression Semax appears to mediate changes in gene expression in the brain. Study findings indicate that introducing the peptide may trigger differential gene regulation in rats’ frontal cortex and hippocampus. This is relevant as the hippocampus regulates memory and learning, whereas the frontal cortex helps process and organize information. In both brain regions, scientists observed that gene expression spiked within 20 minutes of Semax exposure and specifically appeared to influence nerve growth factor (NGF) and BDNF.[5] The researchers concluded that “Semax … results in rapid, long-term, and specific activation of Bdnf and Ngf expression changes in different rat brain departments.”
+[p] Semax and Cognitive Function ACTH, the natural protein source of Semax, appears to preserve memory function and learning in murine models of epilepsy, as suggested in studies published in Canada, China, and the United States. It has also been an object of speculation for its potential in epileptic disorder research. According to Dr. Scantlebury, Semax is a potentially potent derivative of ACTH and may provide ancillary action that is absent in the natural peptide.[6] Preliminary reports suggest that even low concentrations of ACTH may mitigate the risk of dysfunction following a seizure. This research indicates ACTH and Semax may possess nootropic characteristics. Research is ongoing.
+[p] Semax and Serotonin Signaling Semax might potentially interact with and elevate serotonin levels, which may contribute to improved mood and reduced anxiety. The potential for Semax to affect neurotransmitter systems includes the possibility of restoring or stabilizing neural pathways. This action has the potential to balance the excitatory and inhibitory signals within the brain, fostering an environment more favorable to alleviating anxiety. This implies that the peptide's influence on neural circuits related to anxiety might be prolonged, thereby suggesting a lasting impact on these pathways.[7] Furthermore, the sustained actions of Semax suggest it may play a role in either protecting or correcting neural circuits over an extended period beyond the initial exposure to the peptide. For example, in a series of murine model experiments, exposure to Semax was linked to altered levels of 5-hydroxyindoleacetic acid (5-HIAA), a major serotonin metabolite. This change suggests an enhancement of serotonergic activity, which is believed to be crucial for the neurotransmitter serotonin, which influences mood and cognitive functions. After exposure to Semax, a gradual increase in 5-HIAA levels was observed, rising to 180% over four hours.[8] Additionally, it was observed that exposure to Semax 20 minutes prior to experimenting with D-amphetamine led to higher levels of 5-HIAA compared to when Semax was tested alone. Such findings indicate that Semax might play a role in modulating serotonin metabolism, potentially impacting serotonin-dependent pathways essential for regulating mood, cognitive processes, and overall brain function in test models.
+[p] Semax and Enkephalin Signaling Recent studies propose that specific enzymes, which may play a role in the breakdown of enkephalins, might be impeded by Semax, potentially leading to unique outcomes under laboratory conditions.[9] Enkephalins are neurotransmitter substances produced in the brain that might play key roles in managing various biological processes. These neurotransmitters are thought to significantly impact nociception, which is the process by which pain is sensed by neurons and in stress response. Further, an increase in the levels of enkephalins may possibly influence the functioning of other neurotransmitter systems. This is due to the complex relationships between the opioid system, which includes enkephalins, and other neurotransmitter systems, such as those involving dopamine and serotonin. These relationships might manifest as changes in the release of neurotransmitters, variations in receptor activities, or alterations in signal transduction pathways.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Medvedeva EV, Dmitrieva VG, Povarova OV, et al. The peptide semax affects the expression of genes related to the immune and vascular systems in rat brain focal ischemia: genome-wide transcriptional analysis. BMC Genomics. 2014;15:228. Published 2014 Mar 24. doi:10.1186/1471-2164-15-228.
+[a https://doi.org/10.1186/1471-2164-15-228] doi:10.1186/1471-2164-15-228
+[li] Gusev EI, Martynov MY, Kostenko EV, Petrova LV, Bobyreva SN. Éffektivnost’ semaksa pri lechenii bol’nykh na raznykh stadiiakh ishemicheskogo insul’ta [The efficacy of semax in the treatment of patients at different stages of ischemic stroke]. Zh Nevrol Psikhiatr Im S S Korsakova. 2018;118(3. Vyp. 2):61-68. doi:10.17116/jnevro20181183261-68.
+[a https://doi.org/10.17116/jnevro20181183261-68] doi:10.17116/jnevro20181183261-68
+[li] Lebedeva IS, Panikratova YR, Sokolov OY, et al. Effects of Semax on the Default Mode Network of the Brain. Bull Exp Biol Med. 2018;165(5):653-656. doi:10.1007/s10517-018-4234-3.
+[a https://doi.org/10.1007/s10517-018-4234-3] doi:10.1007/s10517-018-4234-3
+[li] Mars RB, Neubert FX, Noonan MP, Sallet J, Toni I, Rushworth MF. On the relationship between the “default mode network” and the “social brain”. Front Hum Neurosci. 2012;6:189. Published 2012 Jun 21. doi:10.3389/fnhum.2012.00189.
+[a https://doi.org/10.3389/fnhum.2012.00189] doi:10.3389/fnhum.2012.00189
+[li] Agapova TIu, Agniullin IaV, Silachev DN, et al. Mol Gen Mikrobiol Virusol. 2008;(3):28-32.
+[li] Scantlebury MH, Chun KC, Ma SC, Rho JM, Kim DY. Adrenocorticotropic hormone protects learning and memory function in epileptic Kcna1-null mice. Neurosci Lett. 2017;645:14-18. doi:10.1016/j.neulet.2017.02.069
+[a https://doi.org/10.1016/j.neulet.2017.02.069] doi:10.1016/j.neulet.2017.02.069
+[li] Nataliya Yu. Glazova, Daria M. Manchenko, Maria A. Volodina, Svetlana A. Merchieva, Ludmila A. Andreeva, Vladimir S. Kudrin, Nikolai F. Myasoedov, Natalia G. Levitskaya, Semax, synthetic ACTH(4–10) analogue, attenuates behavioural and neurochemical alterations following early-life fluvoxamine exposure in white rats, Neuropeptides, Volume 86, 2021, 102114, ISSN 0143-4179. https://doi.org/10.1016/j.npep.2020.102114
+[a https://doi.org/10.1016/j.npep.2020.102114] https://doi.org/10.1016/j.npep.2020.102114
+[li] Eremin KO, Kudrin VS, Saransaari P, Oja SS, Grivennikov IA, Myasoedov NF, Rayevsky KS. Semax, an ACTH(4-10) analogue with nootropic properties, activates dopaminergic and serotoninergic brain systems in rodents. Neurochem Res. 2005 Dec;30(12):1493-500. doi: 10.1007/s11064-005-8826-8. PMID: 16362768.
+[a https://doi.org/10.1007/s11064-005-8826-8] doi: 10.1007/s11064-005-8826-8
+[li] Kost NV, Sokolov OIu, Gabaeva MV, Grivennikov IA, Andreeva LA, Miasoedov NF, Zozulia AA. Ingibiruiushchee deĭstvie semaksa i selanka na énkefalindegradiruiushchie fermenty syvorotki krovi cheloveka [Semax and selank inhibit the enkephalin-degrading enzymes from human serum]]. Bioorg Khim. 2001 May-Jun;27(3):180-3. Russian. doi: 10.1023/a:1011373002885. PMID: 11443939. https://pubmed.ncbi.nlm.nih.gov/11443939/
+[a https://pubmed.ncbi.nlm.nih.gov/11443939/] https://pubmed.ncbi.nlm.nih.gov/11443939/
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] N-Acetyl Selank (10mg) $65.00
+[a https://biotechpeptides.com/product/n-acetyl-selank-10mg/] N-Acetyl Selank (10mg) $65.00
+[img] N-Acetyl Selank (10mg) :: https://biotechpeptides.com/wp-content/uploads/2023/01/N-Acetyl-Selank-1-238x317.webp
+[h2] N-Acetyl Selank (10mg)
+[li] TRH Thyrotropin (Protirelin) (25mg) $93.00
+[a https://biotechpeptides.com/product/trh-thyrotropin-protirelin-25mg/] TRH Thyrotropin (Protirelin) (25mg) $93.00
+[img] TRH Thyrotropin (Protirelin) (25mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Thyrotropin-TRH-1-238x317.webp
+[h2] TRH Thyrotropin (Protirelin) (25mg)
+[li] Selank (10mg) $46.00
+[a https://biotechpeptides.com/product/selank-10mg/] Selank (10mg) $46.00
+[img] Selank (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Selank-1-238x317.webp
+[h2] Selank (10mg)
+[li] N-Acetyl Semax (25mg) $57.00
+[a https://biotechpeptides.com/product/n-acetyl-semax-25mg/] N-Acetyl Semax (25mg) $57.00
+[img] N-Acetyl Semax (25mg) :: https://biotechpeptides.com/wp-content/uploads/2023/01/N-Acetyl-Semax-3-238x317.webp
+[h2] N-Acetyl Semax (25mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

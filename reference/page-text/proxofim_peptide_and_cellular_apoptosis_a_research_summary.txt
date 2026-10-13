@@ -1,0 +1,149 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Proxofim Peptide and Cellular Apoptosis: A Research Summary
+[p] by Dr. Usman | Mar 12, 2025 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Proxofim Peptide and Cellular Apoptosis: A Research Summary :: https://biotechpeptides.com/wp-content/uploads/2025/03/Proxofim-Peptide-Cellular-Apoptosis-A-Research-Summary.avif
+[a https://biotechpeptides.com/product/foxo4-dri-proxofim-10mg/] FOXO4-D-Retro-Inverso (FOXO4-DRI)
+[p] Despite these structural alterations, FOXO4-DRI appears to retain an ability to modulate transcription and cellular signaling pathways. As a retro-inverso peptide, researchers report that it mirrors the structural topology of the native peptide while exhibiting potentially more robust resistance to enzymatic breakdown.
+[p] Retro-inverso peptides, such as FOXO4-DRI, are synthesized by reversing the amino acid sequence and altering the chirality of the peptide backbone. This design appears to confer several advantages, including possible prolonged stability and preserved bioactivity. Due to their structural resilience, these peptides have been explored in various biological contexts, particularly in understanding protein-protein interactions.
+[p] Contents:
+[li] Mechanism of Action
+[a #ma] Mechanism of Action
+[li] Scientific and Research Studies
+[a #research] Scientific and Research Studies
+[li] Proxofim Peptide and Cellular Senescence
+[a #cs] Proxofim Peptide and Cellular Senescence
+[li] Proxofim Peptide and Cellular Healthspan
+[a #ch] Proxofim Peptide and Cellular Healthspan
+[li] Proxofim Peptide and Cardiovascular Function
+[a #cf] Proxofim Peptide and Cardiovascular Function
+[li] Proxofim Peptide and Insulin Signaling Regulation
+[a #isr] Proxofim Peptide and Insulin Signaling Regulation
+[li] Proxofim and Cellular Age-Related Male Hypogonadism
+[a #camh] Proxofim and Cellular Age-Related Male Hypogonadism
+[li] Proxofim and Neurodegenerative Pathophysiology
+[a #np] Proxofim and Neurodegenerative Pathophysiology
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/foxo4-dri-proxofim-10mg/] 
+[img] FOXO4-DRI (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/FOX04-DRI-.png
+[h2] Mechanism of Action
+[p] FOXO4-DRI is believed to function by modulating the interaction between the FOXO4 protein and the tumor suppressor protein p53.
+[p] Under normal conditions, FOXO4 is suggested to bind to p53, thereby inhibiting its role in promoting apoptosis. However, FOXO4-DRI is thought to disrupt this interaction by potentially competitively binding to p53. It is believed that this reduces instances of FOXO4 successfully exerting its regulatory effects. This disruption facilitates p53-mediated apoptosis and is thought to selectively target senescent cells— particularly those that have lost their functional capacity due to cellular aging.[2]
+[p] The selective elimination through immune and waste removal biological systems that impact senescent cells through FOXO4-DRI-mediated apoptosis is thought to contribute to improved cellular turnover and tissue homeostasis. Research suggests that this process may support overall cellular function by removing old or dysfunctional cells, allowing for the proliferation of more functional cells. This mechanism has been a focal point for researchers studying the potential role of FOXO4-DRI in modulating cellular senescence.
+[h2] Scientific Research and Studies
+[h3] Proxofim Peptide and Cellular Senescence
+[p] The FOXO4 protein is considered to play a crucial role in maintaining the viability of senescent cells by preventing the tumor suppressor protein p53 from binding to DNA and initiating apoptosis. Proxofim is hypothesized to disrupt this interaction and is thought to allow the engagement of p53 with DNA and promote the selective elimination of senescent cells. This process, often described as the rejuvenation of biological systems, is believed to support cellular homeostasis by facilitating the clearance of dysfunctional cells.[3]
+[p] Elimination of senescent cells may lead to a redistribution of metabolic resources toward functional cells, potentially supporting cellular growth, maintenance, and function. While Proxofim does not appear to halt the senescence process entirely, research suggests it may mitigate FOXO4-mediated cellular aging and may thereby decelerate the accumulation of non-functional cells. The biological process of senescence is impacted by various intrinsic and extrinsic factors, which may have contributed to cellular apoptosis or the secretion of inflammatory mediators implicated in cellular aging and cellular age-related pathologies.
+[h3] Proxofim Peptide and Cellular Healthspan
+[p] Cellular aging is characterized by the progressive accumulation of irreparable cellular damage, which ultimately diminishes the healthspan of the cell—the period during which cells maintain optimal function. Distinct from lifespan, which denotes the total duration of life, healthspan is a critical determinant of physiological function. Proxofim is proposed to modulate cellular senescence by mitigating the adverse impacts of FOXO4 signaling, thereby preserving cellular integrity and function. While the peptide’s impact on overall lifespan remains inconclusive, its potential role in supporting cellular function and delaying cellular age-associated deterioration warrants further investigation.
+[p] A 2017 study conducted on aging cells of murine research models explored the impacts of Proxofim on physiological parameters. Murine models receiving the peptide appeared to exhibit improvements in physical endurance, renal function, and hair density compared to the control group. Although no significant extension in cellular lifespan was observed, the findings suggest that Proxofim may contribute to better-supported tissue function and a reduction in cellular age-associated dysfunction.
+[p] Furthermore, research by Baar et al. (2017) highlights the broader implications of FOXO4-DRI analogs. The research states the following about cells observed in laboratory settings;
+[p] “independent of aging and age-related diseases, FOXO4-DRI may be useful against the progression, stemness, and migration of cancer. Given that SASP factors influence these, it will be particularly interesting to determine whether FOXO4-DRI affects those p53-wt cancer cells that have adopted a more migratory and stem-like state due to reprogramming by chronic SASP exposure. In any case, the here reported beneficial effects of FOXO4-DRI provide a wide range of possibilities for studying the potential of … removal of senescence against diseases for which few options are available.”[4]
+[h3] Proxofim Peptide and Cardiovascular Function
+[p] Cellular age-related decline in proteasome activity has been associated with an increased risk of cardiovascular disorders. The proteasome enzyme reportedly plays a critical role in maintaining cellular homeostasis by facilitating the degradation of damaged or dysfunctional proteins. Research suggests that reduced proteasome activity may contribute to the accumulation of senescent cells, which may negatively impact cardiovascular function as cells age.[5]
+[p] The FOXO4 protein is considered to be a key regulator of proteasome activity; however, its endogenous function may be insufficient in mitigating cellular damage associated with cellular aging. Preliminary findings suggest that the Proxofim peptide may support the selective clearance of senescent cells, thereby potentially impacting cellular age-related cardiovascular processes.[6] While these insights provide a foundation for further investigation, additional studies are required to elucidate the precise mechanisms and potential implications of Proxofim in cardiovascular function.
+[h3] Proxofim Peptide and Insulin Signaling Regulation
+[p] Research[7] suggests that FOXO proteins may be critical regulators of the insulin signaling pathway. These proteins may play a role in the regulation of cellular metabolism, cell cycle progression, oxidative stress responses, and cellular senescence. Dysregulation of FOXO protein expression has been correlated in studies with pathological conditions, including metabolic disorders, oncogenesis, and premature death of cells. Altered FOXO activity is particularly relevant in insulin resistance and diabetes, where disruptions in insulin signaling are said to contribute to hyperlipidemia and hyperglycemia. This may, in some way, increase the risk of vascular complications, nephropathy, and other metabolic dysfunctions.
+[p] While further investigation is required to elucidate the precise mechanisms, preliminary studies suggest that Proxofim peptide may modulate insulin signaling by impacting downstream metabolic pathways. Research suggests that this interaction could contribute to improved glucose homeostasis by mitigating excessive blood glucose accumulation. By modulating FOXO-associated pathways, Proxofim may hold the potential to address metabolic imbalances linked to insulin resistance.
+[h3] Proxofim and Cellular Age-Related Male Hypogonadism
+[p] Cellular age-related male hypogonadism, also referred to by researchers as late-onset hypogonadism (LOH), is characterized by a progressive decline in serum testosterone levels. The condition is often accompanied by reduced libido, dysfunction with the physical ability to mate, increased adiposity, and disturbances in behavioral patterns. This decline is said to be primarily associated with the dysfunction of senescent Leydig cells, which reside in the interstitial compartment of the testes. Leydog cells are considered to play a crucial role in testosterone biosynthesis.
+[p] A recent in vitro study[8] studied the potential impacts of Proxofim peptide on senescent Leydig cells. The study exposed peptides to a cellular model in which Leydig cells, previously isolated from male murine models, were induced into a senescent state through hydrogen peroxide exposure. Findings suggested that FOXO4 protein plays a role in maintaining the viability of these senescent cells by mitigating apoptosis. Exposure to Proxofim peptide appeared to disrupt FOXO4 activity and may facilitate p53-mediated apoptosis, thereby selectively eliminating dysfunctional Leydig cells.
+[p] Subsequent studies in endogenously aged murine cell cultures further supported these observations. Proxofim peptide exposure was associated with improved Leydig cell function, better-supported testicular function, and increased testosterone secretion. These findings suggest that Proxofim peptide may hold potential as a targeted approach for addressing cellular senescence in Leydig cells and mitigating the physiological effects of cellular age-related hypogonadism. Further research is necessary to elucidate its precise mechanisms and broader implications.
+[h3] Proxofim and Neurodegenerative Pathophysiology
+[p] Cellular age-related cognitive decline is a multifactorial process, and the precise mechanisms underlying neurodegenerative disorders, such as Alzheimer’s disease, remain incompletely understood. Research[9] suggests that alterations in proteasome enzyme activity may contribute to neurodegeneration, as proteasomal function declines with cellular age. This enzymatic downregulation has been observed in conditions such as Parkinson’s disease, Alzheimer’s disease, and prion-related disorders. However, it remains unclear whether this reduction in proteasome activity is a causative factor or a secondary consequence of disease progression.
+[p] Emerging studies[10] suggest that FOXO transcription factors exhibit altered expression patterns in the central nervous system of individuals affected by neurodegenerative disorders. Given the regulatory role of FOXO proteins in cellular homeostasis, it has been hypothesized that exogenous FOXO-modulating peptides, including Proxofim, may help restore FOXO equilibrium and mitigate neurodegenerative processes. However, further research is necessary to elucidate the extent of this potential intervention.
+[p] Scientific reports suggest that:
+[p] “Forkhead box O (FoxO) transcription factors have been implicated in the mechanisms regulating aging and longevity. The functions of FoxOs are regulated by diverse post-translational modifications (e.g., phosphorylation, acetylation, ubiquitination, methylation, and glycosylation). FoxOs exert both detrimental and protective effects on NDDs (Neurodegenerative diseases). Therefore, an understanding of the precise function of FoxOs in NDDs will be helpful for developing appropriate treatment strategies.”
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] Huang, Yuzhao, et al. “Senolytic Peptide FOXO4-DRI (Proxofim) Selectively Removes Senescent Cells From in vitro Expanded Human Chondrocytes.” Frontiers in bioengineering and biotechnology vol. 9 677576. 29 Apr. 2021, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8116695/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8116695/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8116695/
+[li] Sun, Yan et al. “FOXO4 Inhibits the Migration and Metastasis of Colorectal Cancer by Regulating the APC2/β-Catenin Axis.” Frontiers in cell and developmental biology vol. 9 659731. 23 Sep. 2021. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8495124/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8495124/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8495124/
+[li] Krimpenfort P, Berns A. Rejuvenation by Therapeutic Elimination of Senescent Cells. Cell. 2017 Mar 23;169(1):3-5. https://pubmed.ncbi.nlm.nih.gov/28340347/
+[a https://pubmed.ncbi.nlm.nih.gov/28340347/] https://pubmed.ncbi.nlm.nih.gov/28340347/
+[li] Marjolein P. Baar et al, Targeted Apoptosis of Senescent Cells Restores Tissue Homeostasis in Response to Chemotoxicity and Aging. Vol 169 Issue 1, https://doi.org/10.1016/j.cell.2017.02.031
+[a https://doi.org/10.1016/j.cell.2017.02.031] https://doi.org/10.1016/j.cell.2017.02.031
+[li] Anne-Laure Bulteau, Luke I. Szweda, Bertrand Friguet, Age-Dependent Declines in Proteasome Activity in the Heart, Archives of Biochemistry and Biophysics, Volume 397, Issue 2, 2002, Pages 298-304, ISSN 0003-9861, https://doi.org/10.1006/abbi.2001.2663
+[a https://doi.org/10.1006/abbi.2001.2663] https://doi.org/10.1006/abbi.2001.2663
+[li] Murtaza G, Khan AK, Rashid R, Muneer S, Hasan SMF, Chen J. FOXO Transcriptional Factors and Long-Term Living. Oxid Med Cell Longev. 2017;2017:3494289. doi: 10.1155/2017/3494289. Epub 2017 Aug 15. https://pubmed.ncbi.nlm.nih.gov/28894507
+[a https://pubmed.ncbi.nlm.nih.gov/28894507] https://pubmed.ncbi.nlm.nih.gov/28894507
+[li] Lee, S., & Dong, H. H. (2017). FoxO integration of insulin signaling with glucose and lipid metabolism. The Journal of Endocrinology, 233(2), R67–R79.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5480241/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5480241/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5480241/
+[li] Zhang, C., Xie, Y., Chen, H., Lv, L., Yao, J., Zhang, M., Xia, K., Feng, X., Li, Y., Liang, X., Sun, X., Deng, C., & Liu, G. (2020). FOXO4-DRI alleviates age-related testosterone secretion insufficiency by targeting senescent Leydig cells in aged mice. Aging, 12(2), 1272–1284. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7053614/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7053614/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7053614/
+[li] Ciechanover A, Brundin P. The ubiquitin-proteasome system in neurodegenerative diseases: sometimes the chicken, sometimes the egg. Neuron. 2003 Oct 9;40(2):427-46. https://pubmed.ncbi.nlm.nih.gov/14556719
+[a https://pubmed.ncbi.nlm.nih.gov/14556719] https://pubmed.ncbi.nlm.nih.gov/14556719
+[li] Wei Hu, Zhi Yang, Wenwen Yang, Mengzhen Han, Baoping Xu, Zihao Yu, Mingzhi Shen, Yang Yang, Roles of forkhead box O (FoxO) transcription factors in neurodegenerative diseases: A panoramic view, Progress in Neurobiology, Volume 181, 2019, 101645, ISSN 0301-0082, https://doi.org/10.1016/j.pneurobio.2019.101645
+[a https://doi.org/10.1016/j.pneurobio.2019.101645] https://doi.org/10.1016/j.pneurobio.2019.101645
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

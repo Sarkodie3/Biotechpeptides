@@ -1,0 +1,119 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/Chonluten-1.webp] 
+[img] Chonluten (T-34) (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Chonluten-1-460x580.webp
+[h1] Chonluten (T-34) (20mg)
+[p] $62.00
+[p] Chonluten (T-34) peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_5937 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $58.90
+[input name=wccs_tier_select_5937 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $55.80
+[label] Chonluten (T-34) (20mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Description
+[a #tab-description] Description
+[h3] Chonluten (T-34) Peptide
+[p] Chonluten is also known as Tripeptide T-34 or EDG, due to its sequence (Glu-Asp-Gly). It is a cytogenetic complex consisting of short peptides that are suggested to normalize the mucous membrane cells of the lungs and the bronchial tube. It is a gene regulator associated with inflammation and antioxidant activity, and is considered to be involved in proliferation responses.[1] It appears to function in animal test models as an anti-inflammatory in the lungs, normalizing the mucosal functions of the lungs in conditions like asthma and chronic obstructive pulmonary disease (COPD).
+[h3] Specifications
+[p] Molecular Formula: C11H17N3O8
+[p] Molecular Weight: 319.27g/mol
+[p] Components: Peptide complex AC-7, microcrystalline cellulose, raw sugar, milk sugar (lactose), potato starch and twin-80
+[h3] Chonluten (T-34) Research
+[p] Chonluten Peptide and Bioregulation Research studies have suggested that several peptides (di- and tri- peptides) may play a role in slowing cell aging. These peptides are researched for their potential to suppress oncogenes (genes that code for abnormal growth and spontaneous and induced tumors). These tripeptides may also play a role in regulating gene expression, including their role in cellular processes such as apoptosis. According to Dr. Khavinson, Chonluten and several other short peptides may bind to DNA and elicit their potential.[3]
+[p] Chonluten Peptide and Lungs Research studies have explored changes in tissue activity of the lungs and alterations in DNA expression in ways that normalize the mucosal tissue of the bronchi due to the apparent action of Chonluten.[2] According to Avolio et al., peptides like Choluten may “cooperate as natural inducers of TNF tolerance in monocyte, and act on macrophages as anti-inflammatory molecules during inflammatory and microbial-mediated activity.” Studies suggest that it may provide protection regardless of infectious or non-infectious etiology and may help maintain the respiratory system in laboratory test models. Chonluten in the lung appears to function to regulate genes such as the c-Fos, health shock protein gene HSP70, SOD, COX-2, TNF-alpha, and genes in the antioxidant system. The c-FOS protein is considered to be a regulator of cell proliferation, survival, and differentiation. This gene appears to be most active in conditions like hypoxia and cellular destruction, and its impacts may be seen in the thickening of the mucosal wall of the bronchi. The potential for Chonluten to regulate c-FOS activity may improve positive pathophysiological changes in asthma cases and COPD. Experimental studies on Chonluten in test models exhibiting chronic bronchitis associated with an asthmatic component appeared to contribute to a reduction in coughing and asthmatic attacks, and decreased the amount of sputum. These symptoms indicated an overall reduction in the inflammatory and bronchospastic presentations of the condition.
+[p] Chonluten and the Gastrointestinal Tract Conluten has been closely examined within the context of the gastrointestinal tract (GIT). One study examined the potential role of Chonluten in possibly influencing mRNA expression of diverse genes in murine models with induced peptic ulcers. It was thought to be involved in possibly modulating the synthesis of superoxide dismutase (SOD), TNF-α, and Cox-2 mRNA. SOD is typically described as an enzyme that may catalyze the dismutation of superoxide into oxygen and hydrogen peroxide, which may be crucial in cellular defense against reactive oxygen species. TNF-α is frequently considered a cell signaling protein (cytokine) that is possibly involved in systemic inflammation and is believed to be part of the immune system's acute phase reaction. On the other hand, Cox-2 is posited as an enzyme potentially responsible for the formation of prostanoids, including prostaglandins, prostacyclin, and thromboxane, which might play roles in inflammation.[4]
+[p] Chonluten and the Pulmonary System Research seems to indicate that the tripeptide might potentially boost physical performance index and possibly bring the functional state of the organism closer to normal when exposed to conditions of low oxygen partial pressure.[5] This theory posits that the Chonluten tripeptide may potentially enhance function under hypoxic conditions. Moreover, the study also appears to suggest that Chonluten might enhance pulmonary function in murine models of chronic bronchitis incorporating an asthmatic component. The perceived stress-protective action of Chonluten seems to be associated with its purported ability to regulate the expression of certain genes. These might include the c-Fos gene, which is reportedly involved in cell proliferation and survival; the heat shock protein gene HSP70, which is thought to help shield cells from stress; the genes that encode the enzymes of the antioxidant system, such as SOD and COX-2, which are believed to aid in protecting from oxidative damage; and the tumor necrosis factor gene TNF-α, which is speculated to play a part in inflammation and immune response. These observations may suggest that Chonluten may hypothetically influence these diverse biological processes to exert in what appears to be a stress-protective effect.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Khavinson, V. K., Lin’kova, N. S., & Tarnovskaya, S. I. (2016). Short Peptides Regulate Gene Expression. Bulletin of experimental biology and medicine, 162(2), 288–292. https://doi.org/10.1007/s10517-016-3596-7
+[a https://doi.org/10.1007/s10517-016-3596-7] https://doi.org/10.1007/s10517-016-3596-7
+[li] Avolio, F., Martinotti, S., Khavinson, V. K., Esposito, J. E., Giambuzzi, G., Marino, A., Mironova, E., Pulcini, R., Robuffo, I., Bologna, G., Simeone, P., Lanuti, P., Guarnieri, S., Trofimova, S., Procopio, A. D., & Toniato, E. (2022). Peptides Regulating Proliferative Activity and Inflammatory Pathways in the Monocyte/Macrophage THP-1 Cell Line. International journal of molecular sciences, 23(7), 3607. https://doi.org/10.3390/ijms23073607
+[a https://doi.org/10.3390/ijms23073607] https://doi.org/10.3390/ijms23073607
+[li] Khavinson, V., Linkova, N., Kozhevnikova, E., Dyatlova, A., & Petukhov, M. (2022). Transport of Biologically Active Ultrashort Peptides Using POT and LAT Carriers. International journal of molecular sciences, 23(14), 7733. https://doi.org/10.3390/ijms23147733
+[a https://doi.org/10.3390/ijms23147733] https://doi.org/10.3390/ijms23147733
+[li] Khavinson, V. K.h, Lin'kova, N. S., Dudkov, A. V., Polyakova, V. O., & Kvetnoi, I. M. (2012). Peptidergic regulation of expression of genes encoding antioxidant and anti-inflammatory proteins. Bulletin of experimental biology and medicine, 152(5), 615–618. https://doi.org/10.1007/s10517-012-1590-2
+[a https://doi.org/10.1007/s10517-012-1590-2] https://doi.org/10.1007/s10517-012-1590-2
+[li] Khavinson, V., Linkova, N., Dyatlova, A., Kuznik, B., & Umnov, R. (2020). Peptides: Prospects for Use in the Treatment of COVID-19. Molecules (Basel, Switzerland), 25(19), 4389. https://doi.org/10.3390/molecules25194389
+[a https://doi.org/10.3390/molecules25194389] https://doi.org/10.3390/molecules25194389
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Cardiogen (20mg) $62.00
+[a https://biotechpeptides.com/product/cardiogen-20mg/] Cardiogen (20mg) $62.00
+[img] Cardiogen (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Cardiogen-1-238x317.webp
+[h2] Cardiogen (20mg)
+[li] Sale! Vilon (20mg) $65.00 Original price was: $65.00.$61.00Current price is: $61.00.
+[a https://biotechpeptides.com/product/vilon-20mg/] Sale! Vilon (20mg) $65.00 Original price was: $65.00.$61.00Current price is: $61.00.
+[img] Vilon (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Vilon-1-238x317.webp
+[h2] Vilon (20mg)
+[li] Pinealon (20mg) $68.00
+[a https://biotechpeptides.com/product/pinealon-20mg/] Pinealon (20mg) $68.00
+[img] Pinealon (20mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Pinealon-1-238x317.webp
+[h2] Pinealon (20mg)
+[li] Livagen (20mg) $62.00
+[a https://biotechpeptides.com/product/livagen-20mg/] Livagen (20mg) $62.00
+[img] Livagen (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Livagen-1-238x317.webp
+[h2] Livagen (20mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

@@ -1,0 +1,124 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Syn-AKE Tripeptide and Dermal Wrinkles
+[p] by Dr. Usman | Oct 2, 2025 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Syn-AKE Tripeptide and Dermal Wrinkles :: https://biotechpeptides.com/wp-content/uploads/2025/10/Syn-AKE-Tripeptide-and-Dermal-Wrinkles.webp
+[a https://biotechpeptides.com/product/syn-ake-topical-200mg/] Syn-AKE
+[p] The peptide has been investigated primarily in preclinical studies for its potential to modulate neuromuscular activity through interaction with cholinergic receptors. This mechanism is conceptually analogous to that of botulinum neurotoxin, which is widely studied for its inhibitory action on acetylcholine release. Unlike Waglerin-1, which induces paralysis in prey animals, Syn-AKE reportedly represents a simplified synthetic construct designed for controlled biological research into neuromuscular antagonism and muscle relaxation.
+[p] Contents:
+[li] General Overview of Syn-AKE Tripeptide
+[a #research] General Overview of Syn-AKE Tripeptide
+[li] Scientific and Research Studies
+[a #research] Scientific and Research Studies
+[li] Syn-AKE Tripeptide and Neuromuscular Receptor Interaction
+[a #nri] Syn-AKE Tripeptide and Neuromuscular Receptor Interaction
+[li] Syn-AKE Tripeptide and Wrinkle Reduction Research
+[a #wr] Syn-AKE Tripeptide and Wrinkle Reduction Research
+[li] Syn-AKE Tripeptide and Molecular Anti-Aging Pathways
+[a #map] Syn-AKE Tripeptide and Molecular Anti-Aging Pathways
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/syn-ake-topical-200mg/] 
+[img] Syn-AKE (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/Syn-ake-200mg-1-1.webp
+[h2] General Overview of Syn-AKE Tripeptide
+[p] Research suggests that Syn-AKE may function as a competitive antagonist at the muscular nicotinic acetylcholine receptor.[3] Acetylcholine is considered to serve as the primary neurotransmitter responsible for conveying excitatory signals between motor neurons and skeletal muscle fibers. When acetylcholine binds to its receptor, ion channel opening allows for depolarization and subsequent muscle contraction.
+[p] By occupying the receptor’s binding site, Syn-AKE is speculated to prevent acetylcholine from interacting with the receptor, thereby potentially inhibiting downstream ion flux and electrical signal propagation. This blockade appears to lead to a reversible suppression of muscle fiber contraction. Studies suggest that this potential may reduce the frequency and intensity of neuromuscular signaling, aligning with the peptide’s design goal of mimicking Waglerin-1’s muscle-relaxing activity in a more targeted and manageable molecular form.
+[h2] Scientific Research and Studies
+[h3] Syn-AKE Tripeptide and Neuromuscular Receptor Interaction
+[p] Reports suggest that Waglerin-1, the polypeptide that Syn-AKE mimics, may influence central neurotransmission through interactions with γ-aminobutyric acid (GABA) receptors, an action that could complicate its application in controlled experimental models.
+[p] In contrast, preliminary studies[4] suggest Syn-AKE may not exhibit affinity for GABA receptors, as it was designed instead to selectively interact with nAChRs in peripheral neuromuscular pathways. Structurally, Syn-AKE is a tripeptide that incorporates the minimal sequence elements of Waglerin-1’s active region, thereby potentially conferring receptor-targeting activity without retaining the broader neuropharmacological profile of the parent peptide.
+[p] Investigations into Syn-AKE further reports that it m ay reduce responsiveness of muscle-associated nAChRs to acetylcholine, leading to a transient reduction in contraction frequency. For example, one experimental model reported an approximate 80% decrease in the contractile activity of innervated muscle cells within two hours of peptide exposure.[4]
+[p] This possible action may also be reversible, as receptor activity has been reported in some studies to recover following peptide withdrawal. Such findings suggest that the tripeptide may serve as a controlled molecular tool for examining reversible antagonism of cholinergic signaling at the neuromuscular junction.
+[h3] Syn-AKE Tripeptide and Wrinkle Reduction Research
+[p] Investigations into Syn-AKE have focused on its potential to attenuate muscle activity and thereby influence the appearance of fine lines and wrinkles. In a controlled three-month trial[5] involving 37 research models of wrinkling classified as mild-to-moderate, statistically significant improvements were observed in wrinkle parameters shortly after exposure and at subsequent evaluations at one and three months. These findings suggest both immediate and progressive effects over the study period.
+[p] Further comparative research[6] evaluated Syn-AKE alongside other peptides and a placebo in a cohort of 45 models. Results indicated a gradual increase in activity with continued exposure, reaching a reported reduction of up to 52% in wrinkle size on a specified location following four weeks of exposure to a 4% peptide preparation. These studies suggest that repeated exposure may enhance the observed outcomes, with measurable reductions in wrinkle depth and expression line visibility over time.
+[p] Preclinical investigations in animal models using topical concentrations between 1% and 4% also reported notable decreases in the appearance of mimic wrinkles. Collectively, these studies highlight the peptide’s potential as a modulator of neuromuscular activity in skin research, though findings remain dependent on experimental context and require cautious interpretation.
+[h3] Syn-AKE Tripeptide and Molecular Anti-Aging Pathways
+[p] Beyond its researched potential as a neuromuscular antagonist, Syn-AKE has been evaluated for possible activity in other molecular pathways relevant to cellular aging research.
+[p] A 2023 study[7] employed molecular docking and dynamics simulations to assess the peptide’s interaction with matrix metalloproteinases (MMP-1, -8, and -13) and Sirtuin-1 (SIRT1), proteins implicated in extracellular matrix degradation and cellular aging processes. Results suggested that Syn-AKE exhibited favorable binding stability, particularly with MMP-13 and SIRT1, indicating potential modulatory action on collagen turnover and cellular stress responses.
+[p] Complementary in vitro assays provided further insights. Syn-AKE appeared to indicate antioxidant potential in free-radical scavenging assays (DPPH), and apparently exhibited no significant cytotoxic or genotoxic activity in MTT and Ames tests, respectively.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] Balaev, A. N., Okhmanovich, K. A., & Osipov, V. N. (2014). A shortened, protecting group free, synthesis of the anti-wrinkle venom analogue Syn-Ake exploiting an optimized Hofmann-type rearrangement. Tetrahedron Letters, 55(42), 5745-5747. https://www.researchgate.net/publication/265967863_A_shortened_protecting_group_free_synthesis_of_the_anti-wrinkle_venom_analogue_Syn-Ake_R_exploiting_an_optimized_Hofmann-type_rearrangement
+[li] Molles, B. E., Tsigelny, I., Nguyen, P. D., Gao, S. X., Sine, S. M., & Taylor, P. (2002). Residues in the epsilon subunit of the nicotinic acetylcholine receptor interact to confer selectivity of waglerin-1 for the alpha-epsilon subunit interface site. Biochemistry, 41(25), 7895–7906. https://doi.org/10.1021/bi025732d
+[a https://doi.org/10.1021/bi025732d] https://doi.org/10.1021/bi025732d
+[li] Gorouhi, F., & Maibach, H. I. (2009). Role of peptides in preventing or treating aged skin. International journal of cosmetic science, 31(5), 327–345. https://doi.org/10.1111/j.1468-2494.2009.00490.x
+[a https://doi.org/10.1111/j.1468-2494.2009.00490.x] https://doi.org/10.1111/j.1468-2494.2009.00490.x
+[li] Reddy, B., Jow, T., & Hantash, B. M. (2012). Bioactive oligopeptides in dermatology: Part I. Experimental dermatology, 21(8), 563–568. https://doi.org/10.1111/j.1600-0625.2012.01528.x
+[a https://doi.org/10.1111/j.1600-0625.2012.01528.x] https://doi.org/10.1111/j.1600-0625.2012.01528.x
+[li] Reddy, B. Y., Jow, T., & Hantash, B. M. (2012). Bioactive oligopeptides in dermatology: Part II. Experimental dermatology, 21(8), 569–575. https://doi.org/10.1111/j.1600-0625.2012.01527.x
+[a https://doi.org/10.1111/j.1600-0625.2012.01527.x] https://doi.org/10.1111/j.1600-0625.2012.01527.x
+[li] Pai, V. V., Bhandari, P., & Shukla, P. (2017). Peptides as cosmeceuticals. Indian Journal of Dermatology, Venereology and Leprology, 83, 9. https://pubmed.ncbi.nlm.nih.gov/27451932/
+[a https://pubmed.ncbi.nlm.nih.gov/27451932/] https://pubmed.ncbi.nlm.nih.gov/27451932/
+[li] Gok B, Budama-Kilinc Y, Kecel-Gunduz S. Anti-aging activity of Syn-AKE Tripeptide by in silico approaches and in vitro tests. J Biomol Struct Dyn. 2024 Jul;42(10):5015-5029. doi: 10.1080/07391102.2023.2223681. Epub 2023 Jun 22. PMID: 37349941. https://pubmed.ncbi.nlm.nih.gov/37349941/
+[a https://pubmed.ncbi.nlm.nih.gov/37349941/] https://pubmed.ncbi.nlm.nih.gov/37349941/
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

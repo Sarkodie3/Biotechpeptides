@@ -1,0 +1,145 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-6-1.webp] 
+[img] GHRP-6 :: https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-6-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/GHRP-6-10mg-COA-scaled.webp] 
+[img] GHRP-6 (10mg) COA :: https://biotechpeptides.com/wp-content/uploads/2026/04/GHRP-6-10mg-COA-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/GHRP-6-10mg-LC-scaled.webp] 
+[img] GHRP-6 (10mg) LC :: https://biotechpeptides.com/wp-content/uploads/2026/04/GHRP-6-10mg-LC-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/GHRP-6-10mg-MS-scaled.webp] 
+[img] GHRP-6 (10mg) MS :: https://biotechpeptides.com/wp-content/uploads/2026/04/GHRP-6-10mg-MS-scaled.webp
+[h1] GHRP-6 (10mg)
+[p] $39.00
+[p] GHRP-6 peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_707 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $37.05
+[input name=wccs_tier_select_707 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $35.10
+[label] GHRP-6 (10mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-6-10mg-.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] GHRP-6 Peptide
+[p] GHRP-6 (Growth hormone-releasing peptide-6) has been studied for its potential as a stimulant to release endogenously produced growth hormone (hGH) from the anterior pituitary gland cells. It appears to achieve that by acting as a ghrelin receptor agonist. Ghrelin, also known as the hunger hormone, is naturally produced by the stomach when empty. This ghrelin receptor is also known as growth hormone secretagogue (GHS) receptor 1a (aka GHS-R1a) and is classified amongst the group of growth hormone secretagogues. It has been suggested to positively influence cardiac muscle cells, scar formation, and memory processing, though it has been involved in research in other areas.
+[h3] Specifications
+[p] Molecular Formula: C46H56N12O6
+[p] Molecular Weight: 873.032 g/mol
+[p] Sequence: His-D-Trp-Ala-Trp-D-Phe-Lys
+[h3] GHRP-6 Research
+[p] GHRP-6 and Growth Hormone Synthesis Experiments suggest that GHRP-6 may actively engage with the GHS receptors in the anterior pituitary gland cells and stimulate them to produce growth hormone (hGH). Researchers have compared the potential of the peptide to the natural trigger of hGH synthesis, which is the growth hormone-regulating hormone (GHRH). It may be important to note that GHRH appears to trigger hGH synthesis via another pathway - by triggering the GHRH receptors on the anterior pituitary cells. The scientists reported a mean hGH peak of 15.7 ng/ml, and the total mean amount of hGH released during the first 90 minutes of the experiment was estimated to be 674 ng/ml. These values were considerably higher when compared to the hGH peak of 6.8 ng/ml and the 412 ng/ml total hGH released after GHRH.[1] Another experiment also compared GHRP-6 to placebo, suggesting that the peptide was associated with the release of 15.4 ng/ml hGH, while the control group measured at 5.5 ng/ml.[2]
+[p] GHRP-6 and Memory Studies on rodent models have highlighted how GHRP-6 may help to consolidate newly created memories and transform short-term memories into long-term storage. Significant scientific observations further posit the role of ghrelin/GHRP-6 in spatial learning tasks. Growth hormone secretagogues such as ghrelin may bring about activity-induced cognitive improvements. Hence, the role of growth hormone may be possibly indirect and perhaps secondary to these peptides.
+[p] GHRP-6 and Brain Tissue In scientific investigations, the peptide known as GHRP-6 has been tentatively linked to the protection and recovery of brain tissues. For example, the potential of the GHRP-6 peptide in the amelioration of stroke has been studied using animal models. The timely exposure of the peptide appears to protect the brain tissue from reduced blood supply (following a stroke) and may help in recovery from memory lapses due to stroke.[3] At a molecular level, the peptide and its analogs may prevent apoptosis of neurons of the central nervous system, which might prevent genetic reprogramming and inflammation. Another study has examined the potential influence of GHRP-6 on brain tissue via its ability to upregulate hGH synthesis and elevate local insulin-like growth factor-1 (IGF-1) levels.[4] IGF-1, a protein resembling insulin, may play a crucial role in growth and development. The preliminary results from this study suggested that GHRP-6 may increase the messenger RNA (mRNA) levels of IGF-1 in certain brain regions such as the hypothalamus, cerebellum, and hippocampus. Interestingly, this increase was not observed in the cerebral cortex. This pattern implies that GHRP-6 (via hGH) might potentially promote IGF-1 synthesis in selective parts of the brain. Additionally, the study assessed the expression of the IGF-1 receptor and insulin-like growth factor-binding protein 2 (IGFBP-2), which is deemed responsible for regulating IGF-1's availability by binding to it. There were no significant changes detected in their activities following the peptide's presentation. However, there was a noticeable phosphorylation of protein kinase B (Akt) and the Bcl-2-associated death promoter (BAD) in regions showing increased IGF-1 levels. This phosphorylation might suggest that hGH and GHRP-6 might trigger cell survival pathways in response to growth factors. BAD is part of the Bcl-2 family, which plays essential roles in the regulation of cell death, while Akt is involved in various cellular functions, including metabolism, apoptosis, growth, transcription, and cell migration. The study observed an uptick in the levels of Bcl-2, an antiapoptotic protein, in areas with elevated IGF-1, whereas the levels of the proapoptotic protein Bax remained unchanged. This finding suggests a potential shift towards cellular preservation rather than programmed cell death (apoptosis).
+[p] GHRP-6 Peptide and Parkinson’s Disease A study conducted in 2018 highlighted the prevalence of ghrelin receptors in substantia nigra, a part of the brain considered to be affected in the course of Parkinson’s Disease.[5] Organisms genetically predisposed to the disease exhibited an apparent significant reduction in ghrelin receptors in their substantia nigra. It was observed that genetically modulated rats also exhibited Parkinson’s symptoms when an antagonist was introduced. The researchers concluded, "These findings suggest that the down-regulation of GHSRs in SNc-DA neurons induced the initial dysfunction of DA neurons, leading to extrapyramidal disorder under PD.” Scientists hypothesize that the peptide associated with receptors present in the substantia nigra may decrease neuronal apoptosis.
+[p] GHRP-6 Peptide and Cardiac Issues The GHRP-6 peptide was suggested to inhibit free radical-mediated cytotoxicity of cardiac cells in porcine models.[6] It may be employed in ongoing research into viable cardiac tissue damaged following a cardiac arrest. Research in this focus is preliminary.
+[p] GHRP-6 and Sexual Behavior Studies on male rats have suggested the role of ghrelin receptors in the central nervous system in modulating sexual behavior and motivation. Increased amounts of ghrelin have been suggested to stimulate sexual impulses. Research findings in GHRP-6 and its modified counterpart (which may antagonize the ghrelin receptor) have suggested that ghrelin receptors in specific brain areas may influence sexual and reward-seeking conduct. There is also data to suggest that ghrelin may influence mood. The peptide and its analogs appear to help improve brain function associated with lifting moods, diminishing the secretion of stress hormones, and overcoming depressive behavior in murine models.[7]
+[p] GHRP-6 and CD36 receptors Researchers hypothesize that GHRP-6 might interact with receptor sites beyond those associated with ghrelin (GHS-R1a receptors). It is speculated that these additional receptor sites might include the CD36 receptors, which are implicated in various biological functions.[8] CD36 receptors are belie ed to potentially facilitate lipid metabolism by serving as scavenger receptors that assist in the uptake and transport of lipids. They may also play a role in modulating immune responses, particularly in processes like phagocytosis and inflammation, and may be involved in the regulation of angiogenesis, the formation of new blood vessels. In a particular preclinical study evaluating murine models, exposure to GHRP-6 hinted at the possibility that activation of CD36 receptors might lead to improved wound healing processes and reduced development of hypertrophic scars.[9] This is thought to occur through a decrease in inflammation and the expression of fibrotic cytokines, which collectively suggest potential benefits in enhancing the appearance of wounds. Another study explored the actions of stimulating ghrelin receptors in murine models that had experienced combined radiation and burn injuries.[10] Preliminary findings indicated improvements in wound healing, potentially due to decreased levels of pro-inflammatory markers such as TNF-α, and modifications in the signaling pathways that govern inflammation and tissue regeneration. Additionally, data from an experiment where rodents were exposed to GHRP-6 for 60 days showed a potential reduction in liver fibrosis.[11] Observations included a decrease in the expression of fibrogenic factors like transforming growth factor-beta (TGF-β) and connective tissue growth factor (CTGF). In these instances, the extent of fibrotic areas and nodularity was reduced significantly by approximately 75% and over 60%, respectively. These findings propose that GHRP-6 might be capable of attenuating fibrosis and promoting recovery in experimental models.
+[p] GHRP-6 and Scarring GHRP-6 researchers hypothesize the peptide may aid in the survival of diverse cells by decreasing programmed cell death. The peptide has been associated with the CD36 receptor and may help to promote blood vessel growth, particularly in wounds. Experiments with GHRP-6 and rat models also suggest it may hold potential for faster wound closure in rats. It appears to help in rapid wound healing and the formation of extracellular matrix proteins such as collagen, promoting the overall correct organization of tissue around a scar and thus reducing the appearance of scar marks. Hypertrophic scars, like keloids, are considered to occur due to improper deposition of matrix proteins. Scientists suggest that GHRP-6 may block this aberrant wound-healing process.[12]
+[p] GHRP-6 and Muscle Tissue Emerging studies tentatively propose that the peptide GHRP-6 might exhibit anabolic potential, likely by ostensibly stimulating the secretion of growth hormone and IGF-1. These are considered to be critical components in muscle development and repair processes. In laboratory experiments utilizing cultured myoblast cells, which are precursors to muscle cells, it was observed that GHRP-6 may contribute to increased levels of myogenic marker proteins.[13] These proteins are indicators of muscle cell differentiation and development. Additionally, the peptide was associated with elevated production of IGF-1 and collagen type I, a primary structural protein essential in connective tissue and skeletal muscle fortification. The observed enhancements in metabolic activity within the myoblasts further support these findings. Based on these observations, it has been hypothesized that GHRP-6 may potentially facilitate the improvement of muscle tissue by fostering the synthesis of collagen type I and other vital proteins essential for muscle function and structure.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Cordido F, Peñalva A, Dieguez C, Casanueva FF. Massive growth hormone (GH) discharge in obese subjects after the combined administration of GH-releasing hormone and GHRP-6: evidence for a marked somatotroph secretory capability in obesity. J Clin Endocrinol Metab. 1993 Apr;76(4):819-23. doi: 10.1210/jcem.76.4.8473389. PMID: 8473389.
+[a https://doi.org/10.1210/jcem.76.4.8473389] doi: 10.1210/jcem.76.4.8473389
+[li] Frieboes RM, Murck H, Maier P, Schier T, Holsboer F, Steiger A. Growth hormone-releasing peptide-6 stimulates sleep, growth hormone, ACTH and cortisol release in normal man. Neuroendocrinology. 1995 May;61(5):584-9. doi: 10.1159/000126883. PMID: 7617137.
+[a https://doi.org/10.1159/000126883] doi: 10.1159/000126883
+[li] Subirós N, Pérez-Saad HM, Berlanga JA, Aldana L, García-Illera G, Gibson CL, García-Del-Barco D. Assessment of dose-effect and therapeutic time window in preclinical studies of rhEGF and GHRP-6 coadministration for stroke therapy. Neurol Res. 2016 Mar;38(3):187-95. doi: 10.1179/1743132815Y.0000000089. Epub 2016 Apr 19. PMID: 26311576.
+[a https://doi.org/10.1179/1743132815Y.0000000089] doi: 10.1179/1743132815Y.0000000089
+[li] Frago LM, Pañeda C, Dickson SL, Hewson AK, Argente J, Chowen JA. Growth hormone (GH) and GH-releasing peptide-6 increase brain insulin-like growth factor-I expression and activate intracellular signaling pathways involved in neuroprotection. Endocrinology. 2002 Oct;143(10):4113-22. doi: 10.1210/en.2002-220261. PMID: 12239123.
+[li] Suda Y, Kuzumaki N, Sone T, Narita M, Tanaka K, Hamada Y, Iwasawa C, Shibasaki M, Maekawa A, Matsuo M, Akamatsu W, Hattori N, Okano H, Narita M. Down-regulation of ghrelin receptors on dopaminergic neurons in the substantia nigra contributes to Parkinson’s disease-like motor dysfunction. Mol Brain. 2018 Feb 20;11(1):6. doi: 10.1186/s13041-018-0349-8. PMID: 29458391; PMCID: PMC5819262.
+[a https://doi.org/10.1186/s13041-018-0349-8] doi: 10.1186/s13041-018-0349-8
+[li] Berlanga J, Cibrian D, Guevara L, Dominguez H, Alba JS, Seralena A, Guillén G, López-Mola E, López-Saura P, Rodriguez A, Perez B, Garcia D, Vispo NS. Growth-hormone-releasing peptide 6 (GHRP6) prevents oxidant cytotoxicity and reduces myocardial necrosis in a model of acute myocardial infarction. Clin Sci (Lond). 2007 Feb;112(4):241-50. doi: 10.1042/CS20060103. PMID: 16989643.
+[a https://doi.org/10.1042/CS20060103] doi: 10.1042/CS20060103
+[li] Huang HJ, Zhu XC, Han QQ, Wang YL, Yue N, Wang J, Yu R, Li B, Wu GC, Liu Q, Yu J. Ghrelin alleviates anxiety- and depression-like behaviors induced by chronic unpredictable mild stress in rodents. Behav Brain Res. 2017 May 30;326:33-43. doi: 10.1016/j.bbr.2017.02.040. Epub 2017 Feb 27. PMID: 28245976.
+[a https://doi.org/10.1016/j.bbr.2017.02.040] doi: 10.1016/j.bbr.2017.02.040
+[li] Demers, A., McNicoll, N., Febbraio, M., Servant, M., Marleau, S., Silverstein, R., & Ong, H. (2004). Identification of the growth hormone-releasing peptide binding site in CD36: a photoaffinity cross-linking study. The Biochemical journal, 382(Pt 2), 417–424. https://doi.org/10.1042/BJ20040036
+[a https://doi.org/10.1042/BJ20040036] https://doi.org/10.1042/BJ20040036
+[li] Mendoza Marí, Y., Fernández Mayola, M., Aguilera Barreto, A., García Ojalvo, A., Bermúdez Alvarez, Y., Mir Benítez, A. J., & Berlanga Acosta, J. (2016). Growth Hormone-Releasing Peptide 6 Enhances the Healing Process and Improves the Esthetic Outcome of the Wounds. Plastic surgery international, 2016, 4361702. https://doi.org/10.1155/2016/4361702
+[a https://doi.org/10.1155/2016/4361702] https://doi.org/10.1155/2016/4361702
+[li] Liu, C., Huang, J., Li, H., Yang, Z., Zeng, Y., Liu, J., Hao, Y., & Li, R. (2016). Ghrelin accelerates wound healing through GHS-R1a-mediated MAPK-NF-κB/GR signaling pathways in combined radiation and burn injury in rats. Scientific reports, 6, 27499. https://doi.org/10.1038/srep27499
+[a https://doi.org/10.1038/srep27499] https://doi.org/10.1038/srep27499
+[li] Berlanga-Acosta, J., Vázquez-Blomquist, D., Cibrián, D., Mendoza, Y., Ochagavía, M. E., Miranda, J., ... & Guillén-Nieto, G. E. (2012). Growth Hormone Releasing Peptide 6 (GHRP6) reduces liver fibrosis in CCl4 chronically intoxicated rats. Biotecnología Aplicada, 29(2), 60-72.
+[li] Berlanga-Acosta J, Abreu-Cruz A, Herrera DGB, Mendoza-Marí Y, Rodríguez-Ulloa A, García-Ojalvo A, Falcón-Cama V, Hernández-Bernal F, Beichen Q, Guillén-Nieto G. Synthetic Growth Hormone-Releasing Peptides (GHRPs): A Historical Appraisal of the Evidences Supporting Their Cytoprotective Effects. Clin Med Insights Cardiol. 2017 Mar 2;11:1179546817694558. doi: 10.1177/1179546817694558. PMID: 28469491; PMCID: PMC5392015.
+[a https://doi.org/10.1177/1179546817694558] doi: 10.1177/1179546817694558
+[li] Lim, C. J., Jeon, J. E., Jeong, S. K., Yoon, S. J., Kwon, S. D., Lim, J., Park, K., Kim, D. Y., Ahn, J. K., & Kim, B. W. (2015). Growth hormone-releasing peptide-biotin conjugate stimulates myocytes differentiation through insulin-like growth factor-1 and collagen type I. BMB reports, 48(9), 501–506. https://doi.org/10.5483/bmbrep.2015.48.9.258
+[a https://doi.org/10.5483/bmbrep.2015.48.9.258] https://doi.org/10.5483/bmbrep.2015.48.9.258
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Mod GRF 1-29 & GHRP-6 (10mg) $86.00
+[a https://biotechpeptides.com/product/mod-grf-1-29-ghrp-6-10mg/] Mod GRF 1-29 & GHRP-6 (10mg) $86.00
+[img] Mod GRF 1-29 & GHRP-6 (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Mod-GRF-GHRP-6--238x317.webp
+[h2] Mod GRF 1-29 & GHRP-6 (10mg)
+[li] Sale! Hexarelin (5mg) $64.00 Original price was: $64.00.$49.00Current price is: $49.00.
+[a https://biotechpeptides.com/product/hexarelin-5mg/] Sale! Hexarelin (5mg) $64.00 Original price was: $64.00.$49.00Current price is: $49.00.
+[img] Hexarelin (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Hexarelin-1-238x317.webp
+[h2] Hexarelin (5mg)
+[li] CJC-1295 & GHRP-6 Blend (10mg) $86.00
+[a https://biotechpeptides.com/product/cjc-1295-ghrp-6-10mg-blend-2/] CJC-1295 & GHRP-6 Blend (10mg) $86.00
+[img] CJC-1295 & GHRP-6 Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-GHRP-6-1-238x317.webp
+[h2] CJC-1295 & GHRP-6 Blend (10mg)
+[li] GHRP-6 (5mg) $21.00
+[a https://biotechpeptides.com/product/ghrp-6-5mg/] GHRP-6 (5mg) $21.00
+[img] GHRP-6 :: https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-6-1-238x317.webp
+[h2] GHRP-6 (5mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

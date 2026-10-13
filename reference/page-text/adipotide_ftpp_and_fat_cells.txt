@@ -1,0 +1,124 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Adipotide (FTPP) and Fat Cells
+[p] by Dr. Usman | Dec 15, 2022 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Adipotide (FTPP) and Fat Cells :: https://biotechpeptides.com/wp-content/uploads/2022/12/Adipotide-FTPP-and-Fat-Cells.avif
+[p] Contents:
+[li] Adipotide Overview
+[a #work] Adipotide Overview
+[li] Research on Adipotide
+[a #potential] Research on Adipotide
+[li] Adipotide and Prostate Cancer
+[a #cancer] Adipotide and Prostate Cancer
+[li] Conclusion
+[a #conclusion] Conclusion
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/adipotide-ftpp-10mg/] 
+[img] Adipotide FTPP (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Adipotide-FTPP.png
+[h2] Adipotide Peptide Overview
+[p] Adipotide FTPP appears to act by binding to the receptors for 2 specific proteins, ANXA2 (annexin A2) and prohibitin. Either of these receptors is expressed in various cells, but immunohistochemical analysis suggests that they form specific ANXA2-prohibitin receptor systems in white fat tissue.[1]
+[a https://biotechpeptides.com/product/adipotide-ftpp-10mg/] Adipotide FTPP
+[p] Research suggests that these receptors may play a role in regulating fatty acid transport in white adipose tissues.[2] Inhibiting the ANXA2 protein may lead to hypertrophy of white adipose cells due to reduced uptake of fatty acids.
+[p] On the other hand, prohibitin is a multifunctional membrane-associated protein that is thought to regulate cell survival and growth. It may trigger apoptosis by shuttling from the cell’s membrane to its nucleus.
+[p] Adipotide peptide has a unique structure consisting of the amino-acid sequence GKGGRAKDC-GG-D(KLAKLAK)2. The 9 amino acid sequence CKGGRAKDC appears to bear a specific affinity to the ANXA2-prohibitin receptor system found in the blood vessels supporting white adipose cells.[3] At the same time, (KLAKLAK)2 may disrupt mitochondrial membranes upon receptor-mediated cell internalization and induce programmed cell death.
+[p] As Adipotide peptide appears to bind to prohibitin in white adipose vasculature, it may trigger apoptosis and can result in the ablation of white fat cells.
+[p] According to research, Adipotide peptide and other similar peptidomimetics may potentially reduce subcutaneous and visceral fat and even target intra-organ fat, such as in fatty liver diseases.[4]
+[h2] Research on Adipotide Peptide
+[p] Adipotide peptide may hold potential for two major research focuses – obesity and cancer. Regarding its metabolic potential and the potential to induce fat loss, the peptidomimetic has been tested in mice, rats, and rhesus monkeys. In obese rats, 28 days of Adipotide peptide exposure led to a 30% reduction in body weight.[5] It also appeared to significantly suppress their appetite, even though the leptin levels of the animals plummeted. Furthermore, the energy expenditure of the animals was not apparently affected.
+[p] In another study, the researchers suggested that Adipotide peptide may have led to metabolic improvements as soon as the 3rd day of the study, even before there was a noticeable reduction in the body weight of the tested mice. Kim et al. concluded that Adipotide “rapidly and potently improved the glucose tolerance of obese mice in a weight- and food intake-independent manner.”[6] The peptidomimetic appeared to have reduced triglyceride and insulin levels as well.
+[p] In obese rhesus monkeys, Adipotide peptide exposure may have caused white adipose tissue blood vessels to undergo targeted apoptosis.[7] As a result, the tested animals lost weight and improved their insulin sensitivity within the first month of study. A significant decrease in white adipose tissue was noted by dual-energy x-ray absorptiometry and magnetic resonance imaging.
+[h2] Adipotide Peptide and Prostate Cancer
+[p] The destruction of white fat may also have positive consequences for prostate cancer. This is suggested to be so, due to a high level of white fat that has been implicated as a critical contributing factor in poor prostate cancer outcomes.[8]
+[p] Studied have attempted to examine the impact of Adipotide peptide exposure in research models of prostate cancer. The study evaluated the action of a single cycle of Adipotide peptide in research models of castrate-resistant prostate cancer. According to the study, the models were put through the entire study cycle, but the study was terminated before completion.[9, 10]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Staquicini FI, Cardó-Vila M, Kolonin MG, Trepel M, Edwards JK, Nunes DN, Sergeeva A, Efstathiou E, Sun J, Almeida NF, Tu SM, Botz GH, Wallace MJ, O’Connell DJ, Krajewski S, Gershenwald JE, Molldrem JJ, Flamm AL, Koivunen E, Pentz RD, Dias-Neto E, Setubal JC, Cahill DJ, Troncoso P, Do KA, Logothetis CJ, Sidman RL, Pasqualini R, Arap W. Vascular ligand-receptor mapping by direct combinatorial selection in cancer patients. Proc Natl Acad Sci U S A. 2011 Nov 15;108(46):18637-42. doi: 10.1073/pnas.1114503108. Epub 2011 Nov 2. PMID: 22049339; PMCID: PMC3219136.
+[a https://pubmed.ncbi.nlm.nih.gov/22049339/] doi: 10.1073/pnas.1114503108
+[li] Salameh A, Daquinag AC, Staquicini DI, An Z, Hajjar KA, Pasqualini R, Arap W, Kolonin MG. Prohibitin/annexin 2 interaction regulates fatty acid transport in adipose tissue. JCI Insight. 2016 Jul 7;1(10):e86351. doi: 10.1172/jci.insight.86351. PMID: 27468426; PMCID: PMC4959783.
+[a https://pubmed.ncbi.nlm.nih.gov/27468426/] doi: 10.1172/jci.insight.86351
+[li] Kolonin MG, Saha PK, Chan L, Pasqualini R, Arap W. Reversal of obesity by targeted ablation of adipose tissue. Nat Med. 2004 Jun;10(6):625-32. doi: 10.1038/nm1048. Epub 2004 May 9. PMID: 15133506.
+[a https://pubmed.ncbi.nlm.nih.gov/15133506/] doi: 10.1038/nm1048
+[li] Hossen N, Kajimoto K, Akita H, Hyodo M, Harashima H. A comparative study between nanoparticle-targeted therapeutics and bioconjugates as obesity medication. J Control Release. 2013 Oct 28;171(2):104-12. doi: 10.1016/j.jconrel.2013.07.013. Epub 2013 Jul 18. PMID: 23871959.
+[a https://pubmed.ncbi.nlm.nih.gov/23871959/] doi: 10.1016/j.jconrel.2013.07.013
+[li] Kim DH, Woods SC, Seeley RJ. Peptide designed to elicit apoptosis in adipose tissue endothelium reduces food intake and body weight. Diabetes. 2010 Apr;59(4):907-15. doi: 10.2337/db09-1141. Epub 2010 Jan 26. PMID: 20103704; PMCID: PMC2844838.
+[a https://pubmed.ncbi.nlm.nih.gov/20103704/] doi: 10.2337/db09-1141
+[li] Kim DH, Sartor MA, Bain JR, Sandoval D, Stevens RD, Medvedovic M, Newgard CB, Woods SC, Seeley RJ. Rapid and weight-independent improvement of glucose tolerance induced by a peptide designed to elicit apoptosis in adipose tissue endothelium. Diabetes. 2012 Sep;61(9):2299-310. doi: 10.2337/db11-1579. Epub 2012 Jun 25. PMID: 22733798; PMCID: PMC3425411.
+[a https://pubmed.ncbi.nlm.nih.gov/22733798/] doi: 10.2337/db11-1579
+[li] Barnhart KF, Christianson DR, Hanley PW, Driessen WH, Bernacky BJ, Baze WB, Wen S, Tian M, Ma J, Kolonin MG, Saha PK, Do KA, Hulvat JF, Gelovani JG, Chan L, Arap W, Pasqualini R. A peptidomimetic targeting white fat causes weight loss and improved insulin resistance in obese monkeys. Sci Transl Med. 2011 Nov 9;3(108):108ra112. doi: 10.1126/scitranslmed.3002621. PMID: 22072637; PMCID: PMC3666164.
+[a https://pubmed.ncbi.nlm.nih.gov/22072637/] doi: 10.1126/scitranslmed.3002621
+[li] Allott EH, Masko EM, Freedland SJ. Obesity and prostate cancer: weighing the evidence. Eur Urol. 2013 May;63(5):800-9. doi: 10.1016/j.eururo.2012.11.013. Epub 2012 Nov 15. PMID: 23219374; PMCID: PMC3597763.
+[a https://pubmed.ncbi.nlm.nih.gov/23219374/] doi: 10.1016/j.eururo.2012.11.013
+[li] Smith, T. L., Sidman, R. L., Arap, W., & Pasqualini, R. (2022). Targeting vascular zip codes: from combinatorial selection to drug prototypes. In The Vasculome (pp. 393-401). Academic Press.
+[li] ClinicalTrials.gov [Internet]. National Library of Medicine (US). 2010 Dec 17 – . Identifier NCT01262664, A First-in-Man, Phase I Evaluation of A Single Cycle of Prohibitin Targeting Peptide 1 in Patients With Metastatic Prostate Cancer and Obesity; 2019 Jan 4; http://clinicaltrials.gov/ct2/show/NCT01262664
+[a http://clinicaltrials.gov/ct2/show/NCT01262664] http://clinicaltrials.gov/ct2/show/NCT01262664
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

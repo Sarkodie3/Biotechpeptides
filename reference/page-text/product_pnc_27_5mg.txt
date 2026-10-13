@@ -1,0 +1,121 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/04/PNC-27-1.webp] 
+[img] PNC-27 (5mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/PNC-27-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/04/COA_PNC-27_3140071_20260725_BP_page-0001.webp] 
+[img] PNC-27 (5mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2022/04/COA_PNC-27_3140071_20260725_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/04/COA_PNC-27_3140071_20260725_BP_page-0002.webp] 
+[img] PNC-27 (5mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2022/04/COA_PNC-27_3140071_20260725_BP_page-0002.webp
+[h1] PNC-27 (5mg)
+[p] $142.00
+[p] PNC-27 peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_4595 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $134.90
+[input name=wccs_tier_select_4595 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $127.80
+[label] PNC-27 (5mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/04/COA_PNC-27_3140071_20260725_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] PNC-27 Peptide
+[p] PNC-27 is a synthetic peptide initially developed for its proposed inhibitive action on cancer cell proliferation. It is a member of the PNC family of probe proteins and is designed to attach to malformed cancer cells and induce cell necrosis, but bypass normal functioning cells. The PNC-27 peptide contains the HDM2 binding domain and transmembrane domain corresponding to residue 1226 on p53. Researchers suggest that it exhibits potential to bind to and kill cancer cells through membrane lysis or cell membrane destruction. Research studies have suggested that the PNC-27 peptide may be selective in targeting specific cancer cell types, prompting further research within the context of pancreatic cancer, breast cancer, leukemia, melanoma, and other cancer strains.[1] The PNC protein was first developed in 2000. The PNC-27 peptide appears to be a non-toxic compound, attaching to and puncturing the membranes of individual cancer cells. As a result, rapid implosion may occur, leading to immediate cell death due to differences in osmotic pressure inside and outside the tumor cells. PNC-27 appears to have this potential through an affinity for binding to a protein called HDM2. Cancer cells typically display HDM2 in their cell membranes.[2] According to the researchers “PNC-27 targets HDM-2 in the membranes of cancer cells, allowing it to induce membranolysis of these cells selectively.” Immediately after exposure to the PNC-27 peptide, studies have observed that the peptide appears to move to HDM2. Binding to them creates pores or holes in the cell membrane, causing “membrane lysis” or death of the cell membrane. This process, in turn, may lead to the destruction of cancer cells. Research is ongoing.
+[h3] Specifications
+[p] Molecular Formula: C188H293N53O44S
+[p] Molecular Weight: 4031.7 g/mol
+[p] Sequence: H-Pro-Pro-Leu-Ser-Gln-Glu-Thr-Phe-Ser-Asp-Leu-Trp-Lys-Leu-Leu-Lys-Lys-Trp-Lys-Met-Arg-Arg-Asn-Gln-Phe-Trp-Val-Lys-Val-Gln-Arg-Gly-OH
+[p] Synonyms: membrane residency peptide (MRP)
+[h3] PNC-27 Peptide Research
+[p] PNC-27 and HDM2 Binding In a paper published by the American Association for Cancer Research, Dr. Ehsan Sarafraz Yazdi et al. observed in-depth how the PNC-27 peptide appeared to exert its impacts, and what its apparent novel mechanism of action meant for cancer research in 2010.[3] The authors reported that the mechanism of action for PNC-27 may be due to the formation of oligomeric pores in the plasma membrane of tumor cells. Oligomeric pores are not formed in untransformed or non-tumor cells exposed to PNC-27, underscoring the peptide's potentially selective toxicity towards cancer cells. In addition, the researchers pointed out that HDM2 as a target molecule has been observed to result in PNC-27 selectivity over cancer cells due to its mislocalization of the plasma membrane of cancer cells. The research proposes that the formation of a 1:1 complex between PNC-27, a peptide with potential anticancer properties, and HDM-2, a regulator of the p53 tumor suppressor, could be a crucial step in possibly triggering the formation of transmembrane pores. The study utilized a combination of theoretical modeling and experimental methods to investigate the interactions and structural foundations involved in this pore formation. Conformational energy analysis suggested that PNC-27 may form relatively stable complexes with HDM-2, potentially allowing the leader sequence to align in a way that minimizes interference with the core binding interaction, although its role in the overall pore structure cannot be definitively confirmed. Immuno-electron microscopy provided visual data of these complexes on the surface of cancer cells, where ring-like formations were observed at the putative pore locations. Researchers found in a 2009 study that the three-dimensional structure of the p53 residue of PNC-27 might be directly superimposed on the design of the same residue bound to HDM2.[5] As a result, researchers may be able to exert PNC-27 to target HDM2 with the membrane of cancer cells. In particular, cancer cells appear to exhibit significant levels of HDM2 in their membranes, whereas non-transformed or non-cancerous cells do not appear to have substantial levels of HDM2. This process might allow the peptide to target cancer cells without selectively damaging the surrounding tissue. In further experiments, transplantation of HDM2 containing a membrane localization signal into non-transformed cells that are less susceptible to PNC-27 has appeared to make these cells more sensitive to PNC-27. As a result, this provides further support to the hypothesis that the PNC-27 peptide may selectively attack HDM2 in the membrane of cancer cells, destroying them by membrane lysis while leaving functioning cells intact.
+[p] PNC-27 and Specific Cancer Cell Lines PNC-27 might selectively target specific forms of leukemia cells and induce necrosis, particularly those displaying high levels of HDM-2 on their membranes. A research publication has concentrated on three acute myelogenous leukemia (AML) cell lines—U937, OCI-AML3, and HL60—that are genetically and phenotypically distinct.[6] These cell lines were verified to express elevated levels of membrane-bound HDM-2, which is hypothesized to be a critical factor for the possible cytotoxic action of PNC-27. The study suggested that PNC-27’s interaction with membrane-bound HDM-2 might be essential for its cytotoxic actions, as inferred from the colocalization of PNC-27 with HDM-2 observed through confocal microscopy. In vitro experiments indicated that PNC-27 induced a reduction in the viability of the leukemia cells tested, implying that its cytotoxic actions might be selective for malignant cells, as normal rat mononuclear cells did not show similar vulnerability. The observed mode of cell death was necrosis, as indicated by the release of lactate dehydrogenase (LDH) from exposed leukemia cells, while apoptotic markers such as annexin V and caspase-3 activity were not increased. This observation suggests that PNC-27 likely induces necrosis through pore formation in the cell membrane, rather than triggering apoptosis. However, the study observed some variation in the potential of PNC-27 across different leukemia cell lines, which may be related to differences in HDM-2 isoform expression or other cellular factors that are not yet fully elucidated. This variability suggests that although PNC-27 may exhibit potential influence, its efficacy might not be consistent across all leukemia cell types. A separate study examined the action of the PNC-27 on freshly isolated primary ovarian cancer cells.[7] These cells were specifically harvested from two ovarian cancer subtypes: mucinous cystadenocarcinoma and high-grade papillary serous carcinoma. In this study, PNC-27 appeared to exert an inhibitory influence on the proliferation of these primary ovarian cancer cells, alongside an apparent direct cytotoxic action. This cytotoxicity was inferred from the release of LDH, a biochemical marker associated with cell membrane disruption, suggesting that the peptide might compromise cellular integrity and induce cell death.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Davitt K, Babcock BD, Fenelus M, Poon CK, Sarkar A, Trivigno V, Zolkind PA, Matthew SM, Grin’kina N, Orynbayeva Z, Shaikh MF, Adler V, Michl J, Sarafraz-Yazdi E, Pincus MR, Bowne WB. The anti-cancer peptide, PNC-27, induces tumor cell necrosis of a poorly differentiated non-solid tissue human leukemia cell line that depends on expression of HDM-2 in the plasma membrane of these cells. Ann Clin Lab Sci. 2014 Summer;44(3):241-8. PMID: 25117093.
+[li] Sarafraz-Yazdi E, Bowne WB, Adler V, Sookraj KA, Wu V, Shteyler V, Patel H, Oxbury W, Brandt-Rauf P, Zenilman ME, Michl J, Pincus MR. Anticancer peptide PNC-27 adopts an HDM-2-binding conformation and kills cancer cells by binding to HDM-2 in their membranes. Proc Natl Acad Sci U S A. 2010 Feb 2;107(5):1918-23. doi: 10.1073/pnas.0909364107. Epub 2010 Jan 11. PMID: 20080680; PMCID: PMC2836618.
+[a https://doi.org/10.1073/pnas.0909364107] doi: 10.1073/pnas.0909364107
+[li] Sarafraz-Yazdi, Ehsan, et al. “MDM2 protein variants expression in the plasma membrane of cancer cells: A target for anticancer peptide PNC-27.” Cancer Research 70.8_Supplement (2010): 5770-5770.
+[li] Aguon, Paul Muna, et al. “Experimental PNC-27 Therapy and Massive GI Hemorrhage: A Complication or Coincidence?: 1879.” Official journal of the American College of Gastroenterology| ACG 112 (2017): S1035-S1036.
+[li] Sarafraz-Yazdi, E., Adler, V., Bowne, W., Sookraj, K., North, A., Niharny, P., … & Michl, J. (2009). Abstract# 884: Mechanism of action of PNC-27/-28 anti-cancer peptides. Cancer Research, 69(9_Supplement), 884-884
+[li] Anusha Thadi et al, Targeting Membrane HDM-2 by PNC-27 Induces Necrosis in Leukemia Cells But Not in Normal Hematopoietic Cells, Anticancer Research 40 (9):4857-4867, September 2020
+[li] Sarafraz-Yazdi E, Gorelick C, Wagreich AR, Salame G, Angert M, Gartman CH, Gupta V, Bowne WB, Lee YC, Abulafia O, Pincus MR, Michl J. Ex vivo Efficacy of Anti-Cancer Drug PNC-27 in the Treatment of Patient-Derived Epithelial Ovarian Cancer. Ann Clin Lab Sci. 2015 Fall;45(6):650-8. PMID: 26663795.
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] BPC-157 (5mg & 10mg) $52.00 – $92.00Price range: $52.00 through $92.00
+[a https://biotechpeptides.com/product/bpc-157/] BPC-157 (5mg & 10mg) $52.00 – $92.00Price range: $52.00 through $92.00
+[img] BPC-157 :: https://biotechpeptides.com/wp-content/uploads/2020/03/BPC-157-2-238x317.webp
+[h2] BPC-157 (5mg & 10mg)
+[li] ARA-290 (16mg) $88.00
+[a https://biotechpeptides.com/product/ara-290-16mg/] ARA-290 (16mg) $88.00
+[img] ARA-290 (16mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/ARA-290-1-238x317.webp
+[h2] ARA-290 (16mg)
+[li] KPV (4mg) $39.00
+[a https://biotechpeptides.com/product/kpv-4mg/] KPV (4mg) $39.00
+[img] KPV (4mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/KPV-1-238x317.webp
+[h2] KPV (4mg)
+[li] B7-33 (6mg) $62.00
+[a https://biotechpeptides.com/product/b7-33-6mg/] B7-33 (6mg) $62.00
+[img] B7-33 (6mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/B7-33-1-238x317.webp
+[h2] B7-33 (6mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

@@ -1,0 +1,126 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/04/PT-141-1.webp] 
+[img] PT-141 (Bremelanotide) (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/PT-141-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/04/COA_Bremelanotide_3141068_BP_page-0001.webp] 
+[img] PT-141 (Bremelanotide) (10mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2020/04/COA_Bremelanotide_3141068_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/04/COA_Bremelanotide_3141068_BP_page-0002.webp] 
+[img] PT-141 (Bremelanotide) (10mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2020/04/COA_Bremelanotide_3141068_BP_page-0002.webp
+[h1] PT-141 (Bremelanotide) (10mg)
+[p] $45.00
+[p] PT-141 peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_821 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $42.75
+[input name=wccs_tier_select_821 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $40.50
+[label] PT-141 (Bremelanotide) (10mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/04/COA_Bremelanotide_3141068_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] PT-141 (Bremelanotide) Peptide
+[p] PT-141, also known as Bremelanotide, was derived from a synthetic melanocortin analog known as Melanotan 2 (MT-2). A melanocortin analog, such as PT-141 and MT-2, is considered to be any synthetic compound designed to mimic or influence the functions of natural melanocortin peptides. These peptides, such as the alpha-melanocyte stimulating hormone (α-MSH), may be involved in a range of physiological processes including appetite regulation, energy homeostasis, immune responses, and skin cell pigmentation. PT-141 is a melanocortin analog that was developed to interact with Melanocortin-4 Receptor (MC-4R). It has been studied for a variety of potential characteristics and bioactivities through its interaction with this receptor. Apart from MC-4R, there are other melanocortin receptors like MC-1R, MC-2R, MC-3R, and MC-5R, each associated with different potential functions. For instance, MC-1R may be primarily involved in skin cell and hair follicle pigmentation, MC-2R appears to play a crucial role in the adrenal axis and stress response, MC-3R is implicated in the regulation of energy homeostasis, and MC-5R has been linked to exocrine function and thus impacts processes such as sweating and sebum production.
+[h3] Specifications
+[p] Other Known Titles: Bremelanotide
+[p] Molecular Formula: C50H68N14O10
+[p] Molecular Weight: 1025.18 g/mol
+[p] Sequence: Ac-Nle-Asp(1)-His-D-Phe-Arg-Trp-Lys(1)-OH
+[h3] PT-141 Peptide Research
+[p] PT-141 Peptide (Bremelanotide) and the Melanocortin-4 Receptors PT-141 appears to uniquely stimulate the MC-4R, which may trigger cascades in the central nervous system which impact the brain region that controls reproductive and copulatory behavior.[1] The researchers suggest that “The erectogenic potential of PT-141, its tolerability profile and its [potential] to cause significant erections in [cases that otherwise] do not have an adequate response to a PDE5 inhibitor suggest that PT-141 may provide an alternative [avenue for ED research].” Studies in mice agonist binding to MC-4R reported sexual arousal and increased copulation activity in both males and females.[2] The mechanism of PT-141 appears to be different from compounds that manage blood flow to the genitals.[3][4] Researchers suggest that MC-4R agonism, potentially combined with existing modalities, may encourage both physiological and psychological alterations. In a meticulously designed study, researchers conducted a randomized, double-blinded, placebo-controlled, crossover clinical trial to explore the potential stimulation of the Melanocortin-4 receptor on neural pathways involved in sexual processing. Initial findings suggest that PT-141 as an agonist may potentially enhance sexual desire for a duration up to 24 hours, in comparison to a placebo. During the functional neuroimaging segment of the study, there was an apparent increase in activity observed in the cerebellar and supplementary motor areas. These regions are deemed crucial for motor control and planning. Conversely, there was a possible reduction in activation within the secondary somatosensory cortex, an area involved in processing sensory information, specifically when under the influence of visual stimuli, differing from responses observed with the placebo. Additionally, it was theorized that MC-4R agonists like PT-141 might enhance the functional connectivity between the amygdala, a key region in emotion regulation, and the insula, which is involved in perception and emotional responses, during exposure to the stimuli. This was in contrast to the actions noted with the placebo. These preliminary observations led researchers to suggest that MC-4R agonists could potentially enhance the neural processing associated with sexual arousal and behavior.
+[p] PT-141 Peptide (Bremelanotide) and Cavernous Tissues Despite suggestions that the mechanism of PT-141 appears to be different from compounds that manage blood flow to the genitals, some scholars propose that compounds classified as melanocortin agonists, such as PT-141, might exhibit properties conducive to inducing erections by influencing the concentrations of vasodilators within specific tissues.[5] Research has explored the possible involvement of the nitric oxide (NO)-cyclic guanosine monophosphate (cyclic GMP) pathway in the action of melanocortin agonists on erectile function. This pathway is posited as pivotal in many processes, including the regulation of vascular tone and blood flow within cavernosal tissues. One particular study investigated this by conducting experiments where the pudendal nerves, which are considered vital for erectile function, were bilaterally transected, and nitric oxide synthase (the enzyme responsible for producing NO) was blocked using a specific inhibitor known as L-NAME.[5] The findings from these experiments suggested that disrupting the pudendal nerves or inhibiting nitric oxide synthesis might potentially diminish the Melanocortin-agonist-induced increases in pressure within cavernosal tissues, observed in anesthetized mouse models. These tissues are deemed key structures involved in achieving an erection due to their role in trapping blood within the cavernosal tissues. Consequently, the data cautiously suggest that activating central melanocortin receptors with melanocortin agonists like PT-141 may lead to enhanced cavernosal pressure, presumably through the enhanced release of NO by neurons, although this mechanism remains speculative and requires further confirmation.
+[p] PT-141 Peptide (Bremelanotide) and Cell Survival The MC-1R receptor may be an important stimulus of DNA repair pathways, and is of relevance in cell survival.[6] The scientists reported that “MC1R signalling activates antioxidant, DNA repair and survival pathways.” PT-141 retains some MC-1R activity, despite being biased towards MC-3Rs and MC-4Rs.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Rosen RC, Diamond LE, Earle DC, Shadiack AM, Molinoff PB. Evaluation of the safety, pharmacokinetics and pharmacodynamic effects of subcutaneously administered PT-141, a melanocortin receptor agonist, in healthy male subjects and in patients with an inadequate response to Viagra. Int J Impot Res. 2004 Apr;16(2):135-42. doi: 10.1038/sj.ijir.3901200</>. PMID: 14999221.
+[a https://doi.org/10.1038/sj.ijir.3901200] doi: 10.1038/sj.ijir.3901200</>. PMID: 14999221.
+[li] Rössler AS, Pfaus JG, Kia HK, Bernabé J, Alexandre L, Giuliano F. The melanocortin agonist, melanotan II, enhances proceptive sexual behaviors in the female rat. Pharmacol Biochem Behav. 2006 Nov;85(3):514-21. doi: 10.1016/j.pbb.2006.09.023. Epub 2006 Nov 20. PMID: 17113634.
+[a https://doi.org/10.1016/j.pbb.2006.09.023] doi: 10.1016/j.pbb.2006.09.023
+[li] Clayton AH, Althof SE, Kingsberg S, DeRogatis LR, Kroll R, Goldstein I, Kaminetsky J, Spana C, Lucas J, Jordan R, Portman DJ. Bremelanotide for female sexual dysfunctions in premenopausal women: a randomized, placebo-controlled dose-finding trial. Womens Health (Lond). 2016 Jun;12(3):325-37. doi: 10.2217/whe-2016-0018. Epub 2016 May 16. PMID: 27181790; PMCID: PMC5384512.
+[a https://doi.org/10.2217/whe-2016-0018] doi: 10.2217/whe-2016-0018
+[li] Miller MK, Smith JR, Norman JJ, Clayton AH. Expert opinion on existing and developing drugs to treat female sexual dysfunction. Expert Opin Emerg Drugs. 2018 Sep;23(3):223-230. doi: 10.1080/14728214.2018.1527901. Epub 2018 Oct 11. PMID: 30251897.
+[a https://doi.org/10.1080/14728214.2018.1527901] doi: 10.1080/14728214.2018.1527901
+[li] Pfaus, J. G., Shadiack, A., Van Soest, T., Tse, M., & Molinoff, P. (2004). Selective facilitation of sexual solicitation in the female rat by a melanocortin receptor agonist. Proceedings of the National Academy of Sciences of the United States of America, 101(27), 10201–10204. https://doi.org/10.1073/pnas.0400491101
+[a https://doi.org/10.1073/pnas.0400491101] https://doi.org/10.1073/pnas.0400491101
+[li] Maresca V, Flori E, Picardo M. Skin phototype: a new perspective. Pigment Cell Melanoma Res. 2015 Jul;28(4):378-89. doi: 10.1111/pcmr.12365. Epub 2015 Apr 11. PMID: 25786343.
+[a https://doi.org/10.1111/pcmr.12365] doi: 10.1111/pcmr.12365
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Gonadorelin (GnRH) (10mg) $79.00
+[a https://biotechpeptides.com/product/gonadorelin-gnrh-10mg/] Gonadorelin (GnRH) (10mg) $79.00
+[img] Gonadorelin (GnRH) (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Gonadorelin-GnRH-1-238x317.webp
+[h2] Gonadorelin (GnRH) (10mg)
+[li] Oxytocin (10mg) $45.00
+[a https://biotechpeptides.com/product/oxytocin-10mg/] Oxytocin (10mg) $45.00
+[img] Oxytocin (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Oxytocin-1-238x317.webp
+[h2] Oxytocin (10mg)
+[li] Sale! Melanotan 1 (10mg) $41.00 Original price was: $41.00.$38.00Current price is: $38.00.
+[a https://biotechpeptides.com/product/melanotan-1-10mg/] Sale! Melanotan 1 (10mg) $41.00 Original price was: $41.00.$38.00Current price is: $38.00.
+[img] Melanotan 1 (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Melanotan-1-1-238x317.webp
+[h2] Melanotan 1 (10mg)
+[li] Kisspeptin-10 (10mg) $52.00
+[a https://biotechpeptides.com/product/kisspeptin-10-10mg/] Kisspeptin-10 (10mg) $52.00
+[img] Kisspeptin-10 (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/Kisspeptin-10-1-238x317.webp
+[h2] Kisspeptin-10 (10mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

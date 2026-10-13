@@ -1,0 +1,150 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/Gonadorelin-GnRH-1.webp] 
+[img] Gonadorelin (GnRH) (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Gonadorelin-GnRH-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Gonadorelin_3141037_BP_page-0001.webp] 
+[img] Gonadorelin (GnRH) (10mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Gonadorelin_3141037_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Gonadorelin_3141037_BP_page-0002.webp] 
+[img] Gonadorelin (GnRH) (10mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Gonadorelin_3141037_BP_page-0002.webp
+[h1] Gonadorelin (GnRH) (10mg)
+[p] $79.00
+[p] Gonadorelin (GnRH) peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_3413 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $75.05
+[input name=wccs_tier_select_3413 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $71.10
+[label] Gonadorelin (GnRH) (10mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Gonadorelin_3141037_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Gonadorelin (GnRH) Peptide
+[p] Gonadorelin (GnRH) is a decapeptide gonadotropin-releasing hormone agonist.[1] It appears to work by stimulating the synthesis and release of luteinizing hormone and follicle-stimulating hormone. It is being researched within the context of infertility and reproductive systems, and hypogonadism. It is also studied for its potential as a diagnostic tool to assess pituitary function.[2]
+[h3] Specifications
+[p] Molecular Formula: C55H75N17O13
+[p] Sequence: Pyr-His-Trp-Ser-Tyr-Gly-Leu-Arg-Pro-Gly
+[p] Molecular Weight: 1182.311 g/mol
+[p] Other Known Titles: Growth Hormone Releasing Factor, Somatocrinin, Somatoliberin
+[h3] Gonadorelin Research
+[p] Gonadorelin and GnRH Receptors Similar to GnRH, Gonadorelin is posited to exert its actions through the GnRH receptors. However, these receptors appear to be highly sensitive to downregulation. While intermittent exposure to GnRH and Gonadorelin activates these receptors to produce physiological actions like LH and FSH release, continuous activation via Gonadorelin might downregulate and inactivate the receptors, turning them unresponsive to native GnRH.[3] Therefore, the method of experimentation may be crucial, in whether Gonadorelin will upregulate or downregulate the release of LH and FSH, which are considered crucial in the functioning of the hypothalamic-pituitary-gonadal (HPG) axis. The suppressive actions of Gonadorelin on LH/FSH production may have research potential in experimentation with cancer cells and experimental models of dementia. On the other hand, its stimulating action during intermittent exposure is investigated for kick-starting the HPG axis and in experimental models of cryptorchidism and spermatogenesis problems.
+[p] Gonadorelin Research and Breast Cancer Research studies in Gonadorelin and ovarian cancer have suggested that the peptide may exhibit the potential to mitigate the onset of certain cancers via estrogen production regulation.[3] Scientists report, "Fusion of GnRH to hpRNase1 structure produced an enzyme that could specifically target tumor cells.” [4] Prolonged studies in animal research models of breast cancer have suggested exposure to Gonadorelin may reduce the risk of cancer cell proliferation by up to 70%, depending on duration.[5] Studies have also suggested that estrogen-inhibiting measures may reduce disease progression by 50% if the cancer is estrogen-sensitive. Cancer cells are considered to develop resistance over time, usually resulting from increased expression of estrogen receptors. Gonadorelin may directly reduce the growth of estrogen-sensitive cancers and increase receptor efficacy, as posited by researchers.[6] Studies in research models of hyperandrogenism have suggested further that long-term GnRH exposure may lower total estrogen levels and reduce the risk of breast cancer cell growth and proliferation.[7]
+[p] Gonadorelin and Prostate Cancer Exposure to GnRH in research models of prostate cancer began in 1979. Researchers observed that some androgens are formed locally in the prostate through a mechanism called intracrinology.[8] Researchers posited that GnRH acted as a blockade, and appeared only partially positive in mitigating prostate cancer cell growth and proliferation.
+[p] Gonadorelin and Dementia Scientists consider that Luteinizing Hormone (LH), may act on the brain in ways beyond what is typically associated with the hormone, such as sexual dimorphism and fertility. Indeed, increased LH levels have been suggested to hold a positive correlation with incidences of Alzheimer’s disease and reduced memory capacity. Rats exposed to greater LH levels exhibited poor memory and hippocampal dysfunction. This was a defect that was apparently remedied by the influence of LH blockers.[10] Further research on LH observes that higher hormone levels are associated with increased neuropathology. In particular, LH has been suggested to promote the formation of plaques associated with Alzheimer’s disease.[11] The researchers conclude that “Reducing the LH levels by [exposure] with gonadotropin-releasing hormone agonists could provide [numerous] benefits.” Therefore, researchers assume that lowering LH levels may help slow the progression of Alzheimer’s disease. Testosterone is considered beneficial for maintaining cognitive function. Therefore, blocking the entire hypothalamus-pituitary-gondola axis may not always be recommended for mitigating Alzheimer’s disease. For this reason, scientists have sought to test Gonadorelin derivatives to see if selective disruption of LH production is possible.[12] One ongoing study suggests that Leuprolide, a common substance implicated with uterine fibroids and GnRH receptor agonists, has been suggested by researchers to potentially reduce the risk of Alzheimer’s disease compared to other Gonadotropin analogs. In this situation, Leuprolide may possibly offset the risk of CAB for Alzheimer’s disease. In particular, researchers studied the apparent ability of Leuprolide to downregulate serum gonadotropin levels (especially LH) and found it generally sufficient to offset the actions of decreased testosterone.[13] Researchers are currently working to understand how the genetic interactions of Alzheimer’s disease may be disrupted. Gonadorelin is an important peptide in this study.
+[p] Gonadorelin and Cryptorchidism Research involving pulsatile and intermittent exposure of pituitary cells to Gonadorelin indicates potential positive action in assisting the movement of testes in models of cryptorchidism. Cryptorchidism refers to the absence of one or both testes from the scrotum, and this condition is related to the developmental processes of the HPG axis. This axis plays a critical role in the regulation of reproductive and hormonal functions. The investigative results imply that there is a possibility, though not certain, that Gonadorelin may hold potential in about 40% of cases to promote the development of the HPG axis, particularly concerning the maturation of testicular structures, compared to a control group.[15]
+[p] Gonadorelin and Spermatogenesis Research has explored the possibility that intermittent exposure of pituitary cells with Gonadorelin has been studied in models of hypothalamic dysfunction, a condition characterized by disrupted native GnRH synthesis.[16] It is suggested that Gonadorelin might serve to reactivate the HPG axis under these circumstances. This reactivation process hypothesized to occur involves a series of simulations starting with the pituitary gland, which is prompted to produce LH and FSH. Subsequently, these hormones may stimulate the testicular cells to generate androgens. It has been proposed in experiments lasting at least five months that such intermittent Gonadorelin exposure might lead to successful spermatogenesis.[17] The success of this process is thought to rely significantly on the ability of the testicular cells to produce testosterone endogenously.
+[p] Gonadorelin and PCT Introducing exogenous androgens might potentially inhibit the functions of the HPG axis. Following the cessation of exogenous androgen exposure, the recovery of the HPG axis might occur gradually. Nonetheless, intermittent exposure to the peptide hormone Gonadorelin may potentially accelerate this recovery. Gonadorelin, a hypothalamic peptide that stimulates the release of LH and FSH, has been investigated in various studies. In one particular study, exogenous androgens were observed to depress the levels of LH and FSH to below 0.5 international units per liter (IU/L) and reduce the endogenous testosterone, which is testosterone produced naturally by the testicular cells, to approximately 4.5 nanomoles per liter (nmol/L).[18] A brief experimentation with Gonadorelin, on the other hand, was associated with marked increases in these hormones. Specifically, LH levels were seen to rise to as high as 7.9 IU/L, FSH levels to 2.4 IU/L, and endogenous testosterone levels to 13.3 nmol/L. Notably, these enhanced levels of hormones appeared to persist for over a year without any further exposure to Gonadorelin. Such observations suggest that Gonadorelin might play a significant role in restoring the hormonal balance disrupted by exogenous androgens.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Pace JN, Miller JL, Rose LI. GnRH agonists: gonadorelin, leuprolide and nafarelin. Am Fam Physician. 1991 Nov;44(5):1777-82. PMID: 1835275.
+[li] Meethal SV, Smith MA, Bowen RL, Atwood CS. The gonadotropin connection in Alzheimer’s disease. Endocrine. 2005 Apr;26(3):317-26. doi: 10.1385/ENDO:26:3:317. PMID: 16034187.
+[a https://doi.org/10.1385/ENDO:26:3:317] doi: 10.1385/ENDO:26:3:317
+[li] Bhasin S, Yuan QX, Steiner BS, Swerdloff RS. Hormonal effects of gonadotropin-releasing hormone (GnRH) agonist in men: effects of long term treatment with GnRH agonist infusion and androgen. J Clin Endocrinol Metab. 1987 Sep;65(3):568-74. doi: 10.1210/jcem-65-3-568. PMID: 3114307.
+[li] Maleksabet A, Zarei Jaliani H, Asgari A, Ramezani A, Erfani N. Specific Targeting of Recombinant Human Pancreatic Ribonuclease 1 using Gonadotropin-Releasing Hormone Targeting Peptide toward Gonadotropin-Releasing Hormone Receptor-Positive Cancer Cells. Iran J Med Sci. 2021 Jul;46(4):281-290. doi: 10.30476/ijms.2020.83234.1219. PMID: 34305240; PMCID: PMC8288496.
+[a https://doi.org/10.30476/ijms.2020.83234.1219] doi: 10.30476/ijms.2020.83234.1219
+[li] Secreto G, Girombelli A, Krogh V. Androgen excess in breast cancer development: implications for prevention and treatment. Endocr Relat Cancer. 2019 Feb;26(2):R81-R94. doi: 10.1530/ERC-18-0429. PMID: 30403656.
+[a https://doi.org/10.1530/ERC-18-0429] doi: 10.1530/ERC-18-0429
+[li] Spicer DV, Pike MC. Sex steroids and breast cancer prevention. J Natl Cancer Inst Monogr. 1994;(16):139-47. PMID: 7999456.
+[li] Secreto G, Muti P, Sant M, Meneghini E, Krogh V. Medical ovariectomy in menopausal breast cancer patients with high testosterone levels: a further step toward tailored therapy. Endocr Relat Cancer. 2017 Nov;24(11):C21-C29. doi: 10.1530/ERC-17-0251. Epub 2017 Aug 16. PMID: 28814452.
+[a https://doi.org/10.1530/ERC-17-0251] doi: 10.1530/ERC-17-0251
+[li] Vollaard ES, van Beek AP, Verburg FA, Roos A, Land JA. Gonadotropin-releasing hormone agonist treatment in postmenopausal women with hyperandrogenism of ovarian origin. J Clin Endocrinol Metab. 2011 May;96(5):1197-201. doi: 10.1210/jc.2010-1991. Epub 2011 Feb 9. PMID: 21307133.
+[a https://doi.org/10.1210/jc.2010-1991] doi: 10.1210/jc.2010-1991
+[li] Labrie F. GnRH agonists and the rapidly increasing use of combined androgen blockade in prostate cancer. Endocr Relat Cancer. 2014 Aug;21(4):R301-17. doi: 10.1530/ERC-13-0165. Epub 2014 May 13. PMID: 24825748.
+[a https://doi.org/10.1530/ERC-13-0165] doi: 10.1530/ERC-13-0165
+[li] Labrie F. Combined blockade of testicular and locally made androgens in prostate cancer: a highly significant medical progress based upon intracrinology. J Steroid Biochem Mol Biol. 2015 Jan;145:144-56. doi: 10.1016/j.jsbmb.2014.05.012. Epub 2014 Jun 9. PMID: 24925260.
+[a https://doi.org/10.1016/j.jsbmb.2014.05.012] doi: 10.1016/j.jsbmb.2014.05.012
+[li] Burnham V, Sundby C, Laman-Maharg A, Thornton J. Luteinizing hormone acts at the hippocampus to dampen spatial memory. Horm Behav. 2017 Mar;89:55-63. doi: 10.1016/j.yhbeh.2016.11.007. Epub 2016 Nov 12. PMID: 27847314.
+[a https://doi.org/10.1016/j.yhbeh.2016.11.007] doi: 10.1016/j.yhbeh.2016.11.007
+[li] Rao CV. Involvement of Luteinizing Hormone in Alzheimer Disease Development in Elderly Women. Reprod Sci. 2017 Mar;24(3):355-368. doi: 10.1177/1933719116658705. Epub 2016 Jul 20. PMID: 27436369.
+[a https://doi.org/10.1177/1933719116658705] doi: 10.1177/1933719116658705
+[li] Bowen RL, Butler T, Atwood CS. Not All Androgen Deprivation Therapies Are Created Equal: Leuprolide and the Decreased Risk of Developing Alzheimer’s Disease. J Clin Oncol. 2016 Aug 10;34(23):2800. doi: 10.1200/JCO.2015.66.3997. Epub 2016 Jun 13. PMID: 27298416; PMCID: PMC5019750.
+[a https://doi.org/10.1200/JCO.2015.66.3997] doi: 10.1200/JCO.2015.66.3997
+[li] Smith MA, Bowen RL, Nguyen RQ, Perry G, Atwood CS, Rimm AA. Putative Gonadotropin-Releasing Hormone Agonist Therapy and Dementia: An Application of Medicare Hospitalization Claims Data. J Alzheimers Dis. 2018;63(4):1269-1277. doi: 10.3233/JAD-170847. PMID: 29782310.
+[a https://doi.org/10.3233/JAD-170847] doi: 10.3233/JAD-170847
+[li] Lepor, Herbert. “Comparison of single-agent androgen suppression for advanced prostate cancer.” Reviews in urology vol. 7 Suppl 5,Suppl 5 (2005): S3-S12. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1477619/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1477619/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1477619/
+[li] Zhang, L., Cai, K., Wang, Y., Ji, W., Cheng, Z., Chen, G., & Liao, Z. (2019). The Pulsatile Gonadorelin Pump Induces Earlier Spermatogenesis Than Cyclical Gonadotropin Therapy in Congenital Hypogonadotropic Hypogonadism Men. American journal of men's health, 13(1), 1557988318818280. https://doi.org/10.1177/1557988318818280
+[a https://doi.org/10.1177/1557988318818280] https://doi.org/10.1177/1557988318818280
+[li] Muzzi, G., Bartolotta, E., Cherubini, V., & Lomiento, D. (1990). Effetti del trattamento con LH-RH sintetico spray nasale nel criptorchidismo [Effects of the treatment using synthetic LH-RH nasal spray in cryptorchism]. La Pediatria medica e chirurgica : Medical and surgical pediatrics, 12(1), 53–55.
+[li] Blumenfeld, Z., Makler, A., Frisch, L., & Brandes, J. M. (1988). Induction of spermatogenesis and fertility in hypogonadotropic azoospermic men by intravenous pulsatile gonadotropin-releasing hormone (GnRH). Gynecological endocrinology : the official journal of the International Society of Gynecological Endocrinology, 2(2), 151–164. https://doi.org/10.3109/09513598809023623
+[a https://doi.org/10.3109/09513598809023623] https://doi.org/10.3109/09513598809023623
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Kisspeptin-10 (10mg) $52.00
+[a https://biotechpeptides.com/product/kisspeptin-10-10mg/] Kisspeptin-10 (10mg) $52.00
+[img] Kisspeptin-10 (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/Kisspeptin-10-1-238x317.webp
+[h2] Kisspeptin-10 (10mg)
+[li] Sale! Melanotan 1 (10mg) $41.00 Original price was: $41.00.$38.00Current price is: $38.00.
+[a https://biotechpeptides.com/product/melanotan-1-10mg/] Sale! Melanotan 1 (10mg) $41.00 Original price was: $41.00.$38.00Current price is: $38.00.
+[img] Melanotan 1 (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Melanotan-1-1-238x317.webp
+[h2] Melanotan 1 (10mg)
+[li] Triptorelin (GnRH) (2mg) $36.00
+[a https://biotechpeptides.com/product/triptorelin-gnrh-2mg/] Triptorelin (GnRH) (2mg) $36.00
+[img] Triptorelin (GnRH) (2mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Triptorelin-1-238x317.webp
+[h2] Triptorelin (GnRH) (2mg)
+[li] PT-141 (Bremelanotide) (10mg) $45.00
+[a https://biotechpeptides.com/product/pt-141-10mg-bremelanotide/] PT-141 (Bremelanotide) (10mg) $45.00
+[img] PT-141 (Bremelanotide) (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/PT-141-1-238x317.webp
+[h2] PT-141 (Bremelanotide) (10mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

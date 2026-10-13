@@ -1,0 +1,158 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] PNC-27: Structural Characterization, HDM-2-Dependent Membrane Targeting, and Selective Tumor Cell Necrosis
+[p] by Dr. Usman | Jun 12, 2026 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] PNC-27 Structural Characterization, HDM-2-Dependent Membrane Targeting, and Selective Tumor Cell Necrosis :: https://biotechpeptides.com/wp-content/uploads/2026/06/PNC-27-Structural-Characterization-HDM-2-Dependent-Membrane-Targeting-and-Selective-Tumor-Cell-Necrosis.webp
+[a https://biotechpeptides.com/product/pnc-27-5mg/] PNC-27 is a synthetic chimeric peptide
+[p] The integration of these two domains enables selective engagement with membrane-localized HDM-2, a target that research suggests is preferentially expressed on the plasma membranes of transformed cells and largely absent from the membranes of normal, untransformed counterparts.[2][3]
+[p] Contents:
+[li] PNC-27 Historical Development
+[a #hd] PNC-27 Historical Development
+[li] PNC-27 Proposed Mechanism
+[a #pm] PNC-27 Proposed Mechanism
+[li] PNC-27 Scientific and Research Studies
+[a #research] PNC-27 Scientific and Research Studies
+[li] Conformational Analysis and HDM-2 Binding Domain Characterization
+[a #bdc] Conformational Analysis and HDM-2 Binding Domain Characterization
+[li] Membrane Pore Architecture and Intact PNC-27 Peptide Activit
+[a #mpa] Membrane Pore Architecture and Intact PNC-27 Peptide Activit
+[li] HDM-2-Dependent Selectivity in Normal Cell Exposure
+[a #nce] HDM-2-Dependent Selectivity in Normal Cell Exposure
+[li] Non-Solid Tumor Cell Activity: Leukemia Cell Line Studies
+[a #lcl] Non-Solid Tumor Cell Activity: Leukemia Cell Line Studies
+[li] Acute Myelogenous Leukemia: HDM-2 Membrane Expression and Necrosis Induction
+[a #meni] Acute Myelogenous Leukemia: HDM-2 Membrane Expression and Necrosis Induction
+[li] Structural Homology with PNC-27 and Ovarian Cancer Models
+[a #ocm] Structural Homology with PNC-27 and Ovarian Cancer Models
+[li] Mitochondrial Targeting and Dual-Mechanism Cell Death
+[a #mt] Mitochondrial Targeting and Dual-Mechanism Cell Death
+[li] PNC-27 Peptide-Induced Poptosis: Mechanistic Review and Mammalian Data
+[a #pip] PNC-27 Peptide-Induced Poptosis: Mechanistic Review and Mammalian Data
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/pnc-27-5mg/] 
+[img] PNC-27 (5mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/PNC-27-5MG-1-1.webp
+[h3] PNC-27 Historical Development
+[p] The conceptual foundation for PNC-27 emerged from structural investigations into the p53-MDM-2 interaction. Early research identified that peptides modeled on the amino-terminal MDM-2-binding domain of p53, designed from conformational analysis, exhibited selective cytotoxicity toward transformed but not normal cell populations in vitro.[1] These foundational observations by Kanovsky et al. (2001) established the mechanistic rationale for targeting membrane-associated HDM-2 as a cancer-selective approach, and preceded the formal designation of PNC-27 as a defined chimeric research construct.[1]
+[p] Subsequent work established that PNC-27 was originally conceived as a nuclear decoy peptide intended to enter cancer cells and competitively mitigate the p53-HDM-2 interaction within the nucleus, thereby stabilizing p53-mediated apoptotic signaling.¸ However, experimental observations revealed that the peptide exerted its primary cytotoxic implications at the plasma membrane level rather than intranuclearly, leading researchers to propose a membrane-targeted mechanism involving HDM-2 colocalization and pore formation. Multiple independent structural and imaging investigations have since supported these mechanistic recharacterizations. [2][3][9]
+[h3] PNC-27 Proposed Mechanism
+[p] The cell death pathway induced by PNC-27 has been characterized as mechanistically distinct from classical apoptosis. PNC-27 binding to membrane-expressed HDM-2 initiates a sequential two-step process: first, formation of 1:1 PNC-27 HDM-2 complexes at the membrane surface; second, temperature-dependent dimerization of these complexes into transmembrane channel structures. The resulting pores may support the explosive release of intracellular contents, a process termed “poptosis” (peptide-induced poptosis) to distinguish it from apoptotic and necroptotic pathways.
+[p] Research suggests that poptosis may operate independently of intracellular caspase activation, intracellular p53 signaling, and canonical apoptotic machinery, as tumor cell lines lacking p53 expression have been observed to remain susceptible to PNC-27-induced necrosis.[5] This proposed p53-independence might indicate that the mechanism is principally determined by the presence of membrane-localized HDM-2, rather than by the intracellular tumor suppressor status of the target cell.[5]
+[h2] PNC-27 Scientific Research and Studies
+[h3] Conformational Analysis and HDM-2 Binding Domain Characterization
+[p] A foundational study by Sarafraz-Yazdi et al. (2010)[3] employed conformational energy calculations to evaluate whether the p53-derived residues within PNC-27 adopt a structure consistent with HDM-2 binding. Computational modeling suggested that the p53 segment of PNC-27 may adopt a three-dimensional configuration superimposable on p53 residues in referred to as HDM-2-bound crystal structures, supporting the hypothesis that PNC-27 might target membrane-expressed HDM-2 through a p53 mimicry mechanism.[3]
+[p] To validate this binding model with research, the investigators incubated PNC-27-treated cancer cells with a monoclonal antibody directed against the p53-binding site of HDM-2 (residues 1-109). Findings suggested that this antibody substantially blocked PNC-27-induced necrosis in cancer cells found in mammalian models, while control immune sera did not produce equivalent mitigation.[3] Research suggests these results might indicate that PNC-27 engages the amino-terminal p53-binding domain of membrane-associated HDM-2 as a prerequisite for transmembrane pore formation and tumor cell lysis.
+[h3] Membrane Pore Architecture and Intact PNC-27 Peptide Activity
+[p] A study by Sookraj et al. (2010)[4] investigated whether PNC-27-mediated membranolysis was attributable to the intact peptide or to proteolytic fragments generated following membrane contact. The investigators fluorescently labeled the peptide with FITC at the N-terminal amine and TRITC at the C-terminal carboxyl group, supporting tracking of the two termini independently during membrane interactions with both cancer cells (MCF-7 breast tissue carcinoma) and untransformed control cells (MCF-10-2A).[4]
+[p] Observations indicated that, upon membrane lysis of MCF-7 cancer cells, a yellow fluorescent signal emerged consistent with co-localization of both terminal labels and suggesting that the intact, unfragmented peptide was present at the membrane during lysis events. This yellow fluorescence was not observed in MCF-10-2A cells, where initial uniform membrane fluorescence was followed by peptide degradation without lysis.[4] Research suggests these findings might indicate that the full-length PNC-27 peptide, rather than processed fragments, is the active species responsible for cancer-selective membranolysis.
+[h3] HDM-2-Dependent Selectivity in Normal Cell Exposure
+[p] An in vitro investigation[2] examined the mechanistic basis of PNC-27’s selectivity by artificially introducing HDM-2 expression into normal, untransformed mammalian cells, which do not endogenously express this protein at their plasma membranes. Findings suggested that transfected normal cells expressing membrane-associated HDM-2 became susceptible to PNC-27-induced lysis, whereas untransfected control cells remained viable under identical laboratory conditions.[2]
+[p] These observations, interpreted in the context of the proposed membrane-targeting mechanism, suggest that plasma membrane localization of HDM-2 may represent the critical determinant of PNC-27’s cytotoxic selectivity. Research suggests this experimental model might indicate that the absence of membrane-associated HDM-2 in normal cells might account for their resistance to PNC-27-mediated pore formation, independent of other differences in cellular phenotype between transformed and untransformed populations.[2]
+[h3] Non-Solid Tumor Cell Activity: Leukemia Cell Line Studies
+[p] Davitt et al. (2014)[5] investigated whether PNC-27 might interact with HDM-2 expressed on the membranes of non-solid tissue tumor cells, extending the database beyond solid carcinoma models. The study employed a poorly differentiated non-solid tissue mammalian leukemia cell line (K562 chronic myelogenous leukemia) as the primary experimental model, with murine leukocytes serving as normal control cells.[5]
+[p] Flow cytometric and immunohistochemical analyses suggested that HDM-2 was detectable at the plasma membranes of the leukemia cell population. Following PNC-27 exposure, observations indicated tumor cell necrosis consistent with transmembrane pore formation, while control murine leukocytes did not exhibit comparable lysis. Notably, the K562 cell line is characterized by absent p53 expression, and the observed cytotoxic activity in this model was interpreted as data indicating a p53-independent mechanism driven exclusively by membrane-associated HDM-2.[5.] Research suggests these findings might indicate that PNC-27’s mechanism may operate across both solid and non-solid tumor types, potentially irrespective of p53 mutational status.
+[h3] Acute Myelogenous Leukemia: HDM-2 Membrane Expression and Necrosis Induction
+[p] A study by Thadi et al. (2020)[7] systematically evaluated HDM-2 membrane expression and PNC-27 cytotoxicity across three acute myelogenous leukemia (AML) cell lines: U937 (acute monocytic leukemia), OCI-AML3 (acute myelomonocytic leukemia), and HL-60 (acute promyelocytic leukemia). Cell surface membrane expression of HDM-2 was quantified by flow cytometry, and cytotoxic activity was assessed using MTT viability assay and lactate dehydrogenase (LDH) release as an index of membrane disruption.[7]
+[p] Findings suggested that all three AML cell lines expressed elevated HDM-2 at their plasma membranes and that PNC-27 exposure was associated with measurable LDH release within 4 hours, consistent with rapid membrane pore formation and necrosis. Annexin V and caspase-3 markers were also assessed; patterns of cell death were interpreted as consistent with necrotic rather than apoptotic pathways.[7] Normal hematopoietic cells evaluated in parallel did not exhibit equivalent cytotoxicity. Research suggests these findings might indicate that membrane HDM-2 targeting by PNC-27 may represent a broadly relevant mechanism across hematological malignancies of myeloid lineage.
+[h3] Structural Homology with PNC-27 and Ovarian Cancer Models
+[p] PNC-28, a structurally related peptide sharing the same HDM-2-binding domain but incorporating a shorter penetratin leader, has been studied in parallel as a functional analogue of PNC-27.[6] Bowne et al. (2008)[6] evaluated the penetratin sequence’s contribution to tumour cell death mechanism in mammalian pancreatic cancer cells, finding data that the penetratin component may direct the cell death pathway toward necrosis rather than apoptosis – a distinction of potential significance for tumour cell lysis efficiency.[6]
+[p] A research investigation[10] examined the activity of PNC-27 against research model-derived epithelial ovarian cancer specimens, moving beyond established cancer cell lines to more clinically representative primary tumor material. Observations suggested that PNC-27 may retain selective cytotoxic activity against primary ovarian tumor cells, with normal mammalian ovarian epithelial cells remaining unaffected under comparable conditions.[10] Research suggests these findings might indicate potential relevance of PNC-27’s mechanism to primary tumor material, though further controlled investigations would be required to characterize activity across a broader range of research model-derived samples.
+[h3] Mitochondrial Targeting and Dual-Mechanism Cell Death
+[p] A recent investigation by Krzesaj et al. (2024)[9] extended the mechanistic understanding of PNC-27 beyond plasma membrane interactions. The study examined whether, following plasma membrane pore formation, PNC-27 might also engage intracellular organellar membranes, specifically mitochondria, in cancer cells. MIA-PaCa-2 mammalian pancreatic carcinoma cells were treated with PNC-27 and analyzed using immunoelectron microscopy (IEM) with gold-particle-conjugated anti-PNC-27 antibodies, as well as mitotracker and lysotracker retention assays.[9]
+[p] Findings suggested that gold particles were detectable on mitochondrial membranes of PNC-27-treated cancer cells, indicating intracellular entry of the peptide following plasma membrane disruption. Mitotracker dye was not retained by mitochondria in treated cancer cells, consistent with mitochondrial membrane disruption, while lysotracker dye was retained by lysosomes, suggesting organelle-selective implication.
+[p] Research suggests these findings might indicate a dual-mechanism model in which PNC-27 induces tumor cell death through both plasma membrane pore formation and secondary mitochondrial disruption, potentially amplifying its cytotoxic implications. Normal, untransformed fibroblasts included as controls did not support comparable mitochondrial disruption.[9]
+[h3] PNC-27 Peptide-Induced Poptosis: Mechanistic Review and Mammalian Data
+[p] A comprehensive mechanistic review by Pincus et al. (2024) synthesized accumulated data on the poptosis mechanism and evaluated PNC-27’s potential as a broadly relevant anti-cancer research tool. The review characterized the sequential steps of poptosis: temperature-independent 1:1 PNC-27 HDM-2 complex formation, followed by temperature-dependent dimerization into transmembrane channel structures, and culminating in rapid extrusion of intracellular cancer cell contents.
+[p] The review also cited laboratory settings from nude murine xenograft models in which PNC-27 was reported to mitigate the growth of highly metastatic pancreatic tumors and stem-cell-enriched AML tumors transplanted into bone marrow, with no detectable off-target toxicity in normal tissues.¸ Research suggests these preclinical findings might indicate that PNC-27’s membrane-targeting selectivity may extend to complex laboratory environments and across tumor histotypes. The review characterized poptosis as a mechanistically distinct and potentially generalizable approach to tumor cell elimination, warranting further controlled experimental investigation across additional cancer models.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] Kanovsky M, Raffo A, DeLeo A, Bhatt R, Roy PH, Bhatt M, Bhatt J, Bhatt K, Bhatt L, Bhatt R, Pincus MR, Bhatt D, Bhatt A. Peptides from the amino-terminal MDM-2 binding domain of p53, designed from conformational analysis, are selectively cytotoxic to transformed cells. Proc Natl Acad Sci USA. 2001;98(22):12438-43. doi:10.1073/pnas.211429198. PMID: 11606776. Available from: https://pubmed.ncbi.nlm.nih.gov/11606776/
+[a https://pubmed.ncbi.nlm.nih.gov/11606776/] https://pubmed.ncbi.nlm.nih.gov/11606776/
+[li] Sarafraz-Yazdi E, Mumin S, Cheung D, Fridman D, Lin B, Wong L, Rosal R, Rudolph R, Frenkel M, Thadi A, Morano WF, Bowne WB, Pincus MR, Michl J. PNC-27, a Chimeric p53-Penetratin Peptide Binds to HDM-2 in a p53 Peptide-like Structure, Induces Selective Membrane-Pore Formation and Leads to Cancer Cell Lysis. Biomedicines. 2022;10(5):945. doi:10.3390/biomedicines10050945. Available from: https://doi.org/10.3390/biomedicines10050945
+[a https://doi.org/10.3390/biomedicines10050945] https://doi.org/10.3390/biomedicines10050945
+[li] Sarafraz-Yazdi E, Bowne WB, Adler V, Sookraj KA, Wu V, Shteyler V, Patel H, Oxbury W, Brandt-Rauf P, Zenilman ME, Michl J, Pincus MR. Anticancer peptide PNC-27 adopts an HDM-2-binding conformation and kills cancer cells by binding to HDM-2 in their membranes. Proc Natl Acad Sci USA. 2010;107(4):1526-31. doi:10.1073/pnas.0909364107. PMID: 20080680. Available from: https://pubmed.ncbi.nlm.nih.gov/20080680/
+[a https://pubmed.ncbi.nlm.nih.gov/20080680/] https://pubmed.ncbi.nlm.nih.gov/20080680/
+[li] Sookraj KA, Bowne WB, Adler V, Sarafraz-Yazdi E, Michl J, Pincus MR. The anti-cancer peptide, PNC-27, induces tumor cell lysis as the intact peptide. Cancer Chemother Pharmacol. 2010;66(2):325-31. doi:10.1007/s00280-009-1166-7. PMID: 20182728. Available from: https://pubmed.ncbi.nlm.nih.gov/20182728/
+[a https://pubmed.ncbi.nlm.nih.gov/20182728/] https://pubmed.ncbi.nlm.nih.gov/20182728/
+[li] Davitt K, Babcock BD, Fenelus M, Poon CK, Sarkar A, Trivigno V, Zolkind PA, Matthew SM, Grinkina N, Orynbayeva Z, Shaikh MF, Adler V, Michl J, Sarafraz-Yazdi E, Pincus MR, Bowne WB. The anti-cancer peptide, PNC-27, induces tumor cell necrosis of a poorly differentiated non-solid tissue human leukemia cell line that depends on expression of HDM-2 in the plasma membrane of these cells. Ann Clin Lab Sci. 2014;44(3):241-8. PMID: 25117093. Available from: https://pubmed.ncbi.nlm.nih.gov/25117093/
+[a https://pubmed.ncbi.nlm.nih.gov/25117093/] https://pubmed.ncbi.nlm.nih.gov/25117093/
+[li] Bowne WB, Sookraj KA, Adler V, Sarafraz-Yazdi E, Bhatt F, Farma JM, Bhatt DL, Bhatt A, Michl J, Pincus MR. The penetratin sequence in the anti-cancer PNC-28 peptide causes tumor cell necrosis rather than apoptosis of human pancreatic cancer cells. Ann Surg Oncol. 2008;15(12):3588-3600. doi:10.1245/s10434-008-0147-0. PMID: 18931881. Available from: https://pubmed.ncbi.nlm.nih.gov/18931881/
+[a https://pubmed.ncbi.nlm.nih.gov/18931881/] https://pubmed.ncbi.nlm.nih.gov/18931881/
+[li] Thadi A, Morano WF, Khalili M, Bowne WB, Pincus MR, Sarafraz-Yazdi E. Targeting Membrane HDM-2 by PNC-27 Induces Necrosis in Leukemia Cells But Not in Normal Hematopoietic Cells. Anticancer Res. 2020;40(9):4857-4867. doi:10.21873/anticanres.14489. Available from: https://www.researchgate.net/publication/344117616_Targeting_Membrane_HDM-2_by_PNC-27_Induces_Necrosis_in_Leukemia_Cells_But_Not_in_Normal_Hematopoietic_Cells
+[a https://www.researchgate.net/publication/344117616_Targeting_Membrane_HDM-2_by_PNC-27_Induces_Necrosis_in_Leukemia_Cells_But_Not_in_Normal_Hematopoietic_Cells] https://www.researchgate.net/publication/344117616_Targeting_Membrane_HDM-2_by_PNC-27_Induces_Necrosis_in_Leukemia_Cells_But_Not_in_Normal_Hematopoietic_Cells
+[li] Pincus MR, Silberstein M, Zohar N, Sarafraz-Yazdi E, Bowne WB. Poptosis or Peptide-Induced Transmembrane Pore Formation: A Novel Way to Kill Cancer Cells without Affecting Normal Cells. Biomedicines. 2024;12(6):1144. doi:10.3390/biomedicines12061144. PMID: 38927351. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11201261/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11201261/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11201261/
+[li] Krzesaj P, Adler V, Feinman RD, Miller A, Silberstein M, Yazdi E, Pincus MR. Anti-Cancer Peptide PNC-27 Kills Cancer Cells by Unique Interactions with Plasma Membrane-Bound hdm-2 and with Mitochondrial Membranes Causing Mitochondrial Disruption. Ann Clin Lab Sci. 2024;54(2):137-148. PMID: 38802154. Available from: https://pubmed.ncbi.nlm.nih.gov/38802154/
+[a https://pubmed.ncbi.nlm.nih.gov/38802154/] https://pubmed.ncbi.nlm.nih.gov/38802154/
+[li] Orynbayeva Z, Senkalı D, Bhatt DL, Bhatt A, Michl J, Pincus MR. Ex vivo Efficacy of Anti-Cancer Drug PNC-27 in the Treatment of Patient-Derived Epithelial Ovarian Cancer. Ann Clin Lab Sci. 2015;45(6):650-656. Available from: https://www.annclinlabsci.org/content/45/6/650.long
+[a https://www.annclinlabsci.org/content/45/6/650.long] https://www.annclinlabsci.org/content/45/6/650.long
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

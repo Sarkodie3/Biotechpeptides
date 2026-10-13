@@ -1,0 +1,153 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] From Tuftsin to Selank: Exploring the Neurochemical and Immunological Dimensions of a Synthetic Heptapeptide
+[p] by Dr. Usman | Sep 27, 2025 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] From Tuftsin to Selank Exploring the Neurochemical and Immunological Dimensions of a Synthetic Heptapeptide :: https://biotechpeptides.com/wp-content/uploads/2025/09/From-Tuftsin-to-Selank-Exploring-the-Neurochemical-and-Immunological-Dimensions-of-a-Synthetic-Heptapeptide.webp
+[p] Selank was initially developed in Russia as a synthetic analogue of Tuftsin, designed to improve metabolic stability and prolong half-life relative to the native peptide. Research suggests that Selank might exert modulatory effects on immunological processes, with potential interactions involving T helper cells and interleukin-6 (IL-6) signaling pathways.
+[a https://biotechpeptides.com/product/selank-10mg/] Selank
+[p] The mechanism of action of Selank is hypothesized to involve several interconnected pathways. The peptide may influence monoamine neurotransmitter systems and contribute to the regulation of brain-derived neurotrophic factor (BDNF), suggesting a role in neurotrophic and neuro-regulatory functions. The PGP motif within Selank is thought to facilitate peptide transit across the blood-brain barrier (BBB) by potentially interacting with transport systems or receptors, thereby enabling receptor-mediated endocytosis or active transport. Structural modifications in the tertiary conformation of Selank may further enhance compatibility with the BBB, potentially allowing it to engage central nervous system targets. Additionally, the immunomodulatory properties of Selank, inferred from its Tuftsin component, might influence phagocytic activity, cell motility, and other aspects of immune cell function.[2]
+[p] Contents:
+[li] Scientific and Research Studies
+[a #research] Scientific and Research Studies
+[li] GABAergic Modulation
+[a #gm] GABAergic Modulation
+[li] BDNF Modulation
+[a #bm] BDNF Modulation
+[li] Selank Heptapeptide and Serotonergic Activity
+[a #sa] Selank Heptapeptide and Serotonergic Activity
+[li] Selank Heptapeptide and Cognitive Function
+[a #cf] Selank Heptapeptide and Cognitive Function
+[li] Selank Heptapeptide and Gene Expression
+[a #ge] Selank Heptapeptide and Gene Expression
+[li] Encephalin Pathways
+[a #ep] Encephalin Pathways
+[li] Selank Heptapeptide and Immune Regulation
+[a #ir] Selank Heptapeptide and Immune Regulation
+[li] Selank Heptapeptide and Cardiovascular Dynamics
+[a #cd] Selank Heptapeptide and Cardiovascular Dynamics
+[li] Selank Heptapeptide and Withdrawal-Related Responses
+[a #wrr] Selank Heptapeptide and Withdrawal-Related Responses
+[li] Selank Heptapeptide and Lipid Metabolism
+[a #lm] Selank Heptapeptide and Lipid Metabolism
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/selank-10mg/] 
+[img] Selank (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Selank-10MG-2-1.webp
+[h2] Scientific Research and Studies
+[h3] GABAergic Modulation
+[p] Selank has been proposed to influence gamma-aminobutyric acid (GABA) neurotransmission, a system recognized for its inhibitory role in neuronal excitability. Experimental studies in rodent models suggest that Selank may induce transcriptional changes in genes associated with GABA signaling. In one study,[3] the expression of 84 genes linked to neurotransmission was examined following exposure to Selank or GABA. The results indicated a positive correlation between gene expression patterns, implying that Selank might modulate the GABAergic system indirectly through transcriptional regulation rather than direct receptor activation alone.
+[p] Distinct variations in specific gene expression compared to GABA further suggest potential allosteric or modulatory mechanisms. Such action may contribute to persistent alterations in neurotransmitter dynamics, providing a mechanistic basis for the peptide’s sustained anxiolytic potential observed in experimental settings.
+[p] Additional studies appear to suggest that Selank may alter the functional properties of GABA receptors, potentially modifying receptor affinity for GABA and supporting inhibitory signaling. This modulatory action appears to be synergistic with classical allosteric modulators of GABA receptors, such as benzodiazepines, although Selank may lack the dependence and amnestic effects typically associated with these agents.
+[p] Based on preclinical study reports, it is suggested that Selank might influence enzymatic pathways involved in encephalin degradation, which could indirectly affect GABAergic tone by preserving endogenous anxiolytic peptides. Collectively, these observations highlight a multifaceted mechanism whereby Selank could hypothetically affect both gene expression and receptor-mediated neurotransmission, supporting a complex role in neuro-regulation and potential anxiolytic activity.
+[h3] BDNF Modulation
+[p] Per the preclinical reports, it appears that Selank may affect the expression of brain-derived neurotrophic factor (BDNF), a protein implicated in neuronal survival, growth, and synaptic plasticity.
+[p] Experimental data[3] from rodent models suggest that Selank could increase BDNF mRNA levels in the hippocampus, a region associated with memory processing and emotional regulation. This potential upregulation of BDNF appears particularly relevant under conditions where stress or elevated glucocorticoids are considered to suppress BDNF expression. Such actions imply a possible role for Selank in supporting neuroplasticity and adaptive synaptic function, although the precise molecular mechanisms remain to be elucidated.
+[h3] Selank Heptapeptide and Serotonergic Activity
+[p] Data from murine model studies suggests that Selank may interact with serotonergic pathways, which are widely implicated in mood and anxiety regulation. In models where serotonin synthesis was experimentally reduced, Selank exposure appeared to modulate serotonin metabolism, particularly in brainstem regions involved in neurotransmitter regulation. These findings propose that Selank might facilitate the metabolic processing of serotonin, potentially counteracting diminished serotonergic activity. The modulation of serotonin metabolism by Selank may represent one of several mechanisms through which it influences neural systems associated with emotional and cognitive responses.
+[h3] Selank Heptapeptide and Cognitive Function
+[p] Preclinical investigations[3] suggest that Selank may influence learning and memory processes. In murine models trained in a conditioned avoidance response (CAR) paradigm over four consecutive days, exposure to Selank prior to training appeared to correlate with improved performance, based on the reported reduction in errors and an increase in correct responses by the experiment models. Researchers state that the:
+[p] “results [indicated] that Selank caused a number of alterations in the expression of genes involved in neurotransmission. The data obtained indicate that Selank is characterized by its complex effects on nerve cells, and one of its possible molecular mechanisms is associated with allosteric modulation of the GABAergic system.”
+[p] Selank may also potentially modulate neural circuits associated with memory consolidation, by enhancing synaptic stability and efficiency. By mitigating factors related to anxiety, which may interfere with cognitive performance, the peptide might further support learning outcomes. Additionally, Selank may promote neural plasticity, particularly within cognitive circuits exhibiting suboptimal activity, suggesting a potential to facilitate adaptive changes in neuronal function. These findings pose that Selank may exert multifaceted influence on cognitive regulation, warranting further investigation into its potential impact on neurocognitive pathways.
+[h3] Selank Heptapeptide and Gene Expression
+[p] Preclinical research has investigated the possible influence of Selank on genome expression and its potential involvement in inflammatory regulation. In one study,[4] male murine models were assigned to three groups: control, single exposure to Selank, and repeated Selank exposure. RNA isolated from the spleen and hippocampus was analyzed via PCR. Based on the findings, it was reported that Selank may have modulated gene expression, with pronounced effects observed in both the spleen and hippocampus. Notably, alterations in CX3CR1 expression, a gene implicated in inflammatory pathways, suggest that Selank might influence inflammatory signaling through transcriptional regulation. These observations point to a possible immunomodulatory mechanism mediated at the genomic level.
+[h3] Encephalin Pathways
+[p] Investigations[5] have also explored Selank’s interaction with enkephalin signaling. In experimental models of generalized anxiety disorder, Selank introduction appeared to modulate levels of tau-leu-enkephalins, endogenous opioid peptides involved in mood, stress, and nociceptive regulation. The peptide is hypothesized to suppress enzymatic degradation of enkephalins, thereby potentially supporting their physiological activity. Preclinical findings suggested that such inhibition could elevate enkephalin half-life and availability, suggesting a mechanism by which Selank may contribute to anxiolytic and neuroregulatory effects. Comparisons with classical benzodiazepine compounds suggest that Selank’s influence on enkephalin pathways may represent a complementary or alternative route for modulating stress-related biochemical systems.
+[h3] Selank Heptapeptide and Immune Regulation
+[p] Preclinical studies have explored the potential immune-regulatory properties of Selank. In experimental models[6] of generalized anxiety disorder (GAD) with features of neurasthenia, models were exposed to Selank over a 14-day period. Peripheral blood analysis revealed transient elevations in interleukin-6 (IL-6) concentrations, accompanied by shifts in the Th1/Th2 cytokine ratio. These observations suggest that Selank may influence the balance of pro- and anti-inflammatory signaling pathways, highlighting a potential role in modulating immune responses. The findings point toward a complex interaction between Selank and immune regulatory networks, although the precise cellular mechanisms remain to be fully elucidated.
+[h3] Selank Heptapeptide and Cardiovascular Dynamics
+[p] The potential link between Selank and cardiovascular processes have been evaluated in feline models. Following peptide exposure,[7] arterial blood pressure appeared to exhibit a rapid reduction of over 30% within the first three minutes. Cerebral blood flow reportedly increased by over 20% during the initial 10 minutes, gradually stabilizing to baseline levels. Notably, no significant alterations in heart rate or respiratory parameters were observed. These findings imply that Selank may selectively influence vascular tone and cerebral perfusion without eliciting generalized cardiovascular or respiratory action, suggesting targeted hemodynamic modulation.
+[h3] Selank Heptapeptide and Withdrawal-Related Responses
+[p] Experimental investigations[8] have examined the potential of Selank to influence withdrawal phenomena. In rodent models subjected to chronic ethanol exposure followed by abrupt cessation, exposure to Selank appeared to be “[possibly] effective in eliminating of alcohol withdrawal symptoms,” as per the researchers. Measures of social interaction and performance in maze-based tasks suggested a reduction in withdrawal-associated anxiety and cognitive disruption. These results suggest that Selank may influence neural circuits implicated in stress and reward processing, potentially attenuating withdrawal-related behavioral changes through neuro-modulatory pathways.
+[h3] Selank Heptapeptide and Lipid Metabolism
+[p] Research studies[9] examined the potential interaction of Selank on lipid profiles and weight regulation in murine models subjected to a high-fat diet for six weeks. Following diet induction, subjects were divided into an experimental group receiving Selank, a control group introduced to sodium chloride, and an unexposed baseline group monitored for comparison. Based on the analysis, it can be said that Selank exposure was associated with reductions in total cholesterol, low-density lipoprotein (LDL), very-low-density lipoprotein (VLDL), triglycerides, and overall fat content, with observed decreases ranging from approximately 25% to over 50%.
+[p] Additional findings suggest that Selank may influence lipid and glucose metabolism, as suggested by improvements in hemostatic parameters, including increased total fibrinolytic activity and reduced platelet aggregation. These changes point to potential modulation of clot formation processes. Furthermore, measurements of glucose homeostasis suggested stabilization of blood glucose levels, while fat metabolism rates in the Selank group approached levels observed in baseline control models. Body weight analysis revealed that the experimental group maintained or gradually reduced weight during peptide exposure, whereas the control group experienced an average weight gain of 40g over the study period. Collectively, these observations suggest that Selank may exert multifactorial effects on lipid regulation, hemostasis, and metabolic stability.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] Kozlovskaya MM, Kozlovskii II, Val’dman EA, Seredenin SB. Selank and short peptides of the tuftsin family in the regulation of adaptive behavior in stress. Neurosci Behav Physiol. 2003 Nov;33(9):853-60. https://pubmed.ncbi.nlm.nih.gov/14969422/
+[a https://pubmed.ncbi.nlm.nih.gov/14969422/] https://pubmed.ncbi.nlm.nih.gov/14969422/
+[li] Elena Filatova et al., GABA, Selank, and Olanzapine Affect the Expression of Genes Involved in GABAergic Neurotransmission in IMR-32 Cells. https://doi.org/10.3389/fphar.2017.00089
+[a https://doi.org/10.3389/fphar.2017.00089] https://doi.org/10.3389/fphar.2017.00089
+[li] Volkova, A., Shadrina, M., Kolomin, T., Andreeva, L., Limborska, S., Myasoedov, N., & Slominsky, P. (2016). Selank Administration Affects the Expression of Some Genes Involved in GABAergic Neurotransmission. Frontiers in pharmacology, 7, 31. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4757669/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4757669/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4757669/
+[li] T. T.A Kolomin et al., Transcriptomic Response of Rat Hippocampus and Spleen Cells to Single and Chronic Administration of the Peptide Selank. June 2, 2009. DOI: 10.1134/S1607672910010023
+[a https://doi.org/10.1134/S1607672910010023] DOI: 10.1134/S1607672910010023
+[li] Zozulia AA, Neznamov GG, Siuniakov TS, Kost NV, Gabaeva MV, Sokolov OIu, Serebriakova EV, Siranchieva OA, Andriushenko AV, Telesheva ES, Siuniakov SA, Smulevich AB, Miasoedov NF, Seredenin SB. Efficacy and possible mechanisms of action of a new peptide anxiolytic selank in the therapy of generalized anxiety disorders and neurasthenia. Zh Nevrol Psikhiatr Im S S Korsakova. 2008;108(4):38-48. Russian. https://pubmed.ncbi.nlm.nih.gov/18454096/
+[a https://pubmed.ncbi.nlm.nih.gov/18454096/] https://pubmed.ncbi.nlm.nih.gov/18454096/
+[li] Uchakina ON, Uchakin PN, Miasoedov NF, Andreeva LA, Shcherbenko VE, Mezentseva MV, Gabaeva MV, Sokolov OIu, Zozulia AA, Ershov FI. Immunomodulatory effects of selank in patients with anxiety-asthenic disorders. Zh Nevrol Psikhiatr Im S S Korsakova. 2008;108(5):71-5. Russian. https://pubmed.ncbi.nlm.nih.gov/18577961/
+[a https://pubmed.ncbi.nlm.nih.gov/18577961/] https://pubmed.ncbi.nlm.nih.gov/18577961/
+[li] Gan’shina TS, Kozlovskiĭ II. [Effects of the new peptide anxiolytic drug selank on the cardiovascular system functioning and respiration in cats]. Eksp Klin Farmakol. 2005 Jul-Aug;68(4):33-5. Russian. https://pubmed.ncbi.nlm.nih.gov/16193654/
+[a https://pubmed.ncbi.nlm.nih.gov/16193654/] https://pubmed.ncbi.nlm.nih.gov/16193654/
+[li] Kolik LG, Nadorova AV, Kozlovskaya MM. Efficacy of peptide anxiolytic selank during modeling of withdrawal syndrome in rats with stable alcoholic motivation. Bull Exp Biol Med. 2014 May;157(1):52-5. https://pubmed.ncbi.nlm.nih.gov/24913576/
+[a https://pubmed.ncbi.nlm.nih.gov/24913576/] https://pubmed.ncbi.nlm.nih.gov/24913576/
+[li] N.F. Mjasoedov et al, The Influence of Selank on the Parameters of the Hemostasis System, Lipid Profile, and Blood Sugar Level in the Course of Experimental Metabolic Syndrome. April 14, 2014. https://pubmed.ncbi.nlm.nih.gov/25371249/
+[a https://pubmed.ncbi.nlm.nih.gov/25371249/] https://pubmed.ncbi.nlm.nih.gov/25371249/
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

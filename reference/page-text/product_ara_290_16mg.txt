@@ -1,0 +1,127 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/11/ARA-290-1.webp] 
+[img] ARA-290 (16mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/ARA-290-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/11/COA_ARA-290_3141007_BP_page-0001.webp] 
+[img] ARA-290 (16mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2021/11/COA_ARA-290_3141007_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/11/COA_ARA-290_3141007_BP_page-0002.webp] 
+[img] ARA-290 (16mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2021/11/COA_ARA-290_3141007_BP_page-0002.webp
+[h1] ARA-290 (16mg)
+[p] $88.00
+[p] ARA-290 peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_3274 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $83.60
+[input name=wccs_tier_select_3274 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $79.20
+[label] ARA-290 (16mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/11/COA_ARA-290_3141007_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] ARA-290 Peptide
+[p] Erythropoietin (EPO) is a kidney-derived glycoprotein made of 11 amino acids that has been studied for its potential to promote blood vessel growth and repair, and possible neuroprotection in the case of diabetic neuropathy. ARA-290 is a peptide derived from the beta-helix domain of EPO.[1] ARA-290 was developed with the intention of stimulating pain-mitigating and neuroprotective activity of EPO, though without promoting blood cell formation. ARA-290 has been proposed by researchers to exhibit anti-apoptotic, anti-inflammatory, and anti-permeability characteristics, akin to the endogenous glycoprotein, EPO. The peptide is being evaluated for its potential in neuropathic wound healing, immunomodulation, and within the context of Systemic Lupus Erythematosus (SLE) research.
+[h3] Specifications
+[p] Other Known Titles: Cibinetide, PH-BSP
+[p] Sequence: ZEQLERALNSS
+[p] Molecular Formula: C51H54N16O21
+[p] Molecular Weight: 1257.3 g/mol
+[h3] ARA-290 Research
+[p] ARA-290 and Blood Vessels Retinal ischemia is considered to be a potential consequence of various diseases and may ultimately lead to damage to retinal epithelial cells. The peptide has been studied for its potential to protect endothelial colony-forming cells to repair the blood vessels and rebuild damaged tissue. Results from one study in mice models have suggested the peptide’s potential to enhance the proliferation and migration of blood cells significantly.[2] More specifically, the study delves into the potential role of ARA-290 in possibly exploiting an inherent system of tissue protection and repair that EPO has been hypothesized to mediate. The innate repair receptor (IRR), which is believed to be composed of EPO receptor and CD-131 subunits, may be upregulated in response to cellular stress. This receptor is presumed to be activated by EPO and ARA-290, leading to responses that might be anti-inflammatory and reparative in a variety of cell populations such as macrophages/microglia, endothelial cells, and neurons. These reactions include the potential reduction of pro-inflammatory cytokines, apparent preservation of the blood-retinal barrier (BRB), and a speculated prevention of cell apoptosis. The researchers also share that in murine models of diabetic retinopathy (DR), the influence of ARA-290 might have resulted in the inhibition of vascular leakage and edema, protection against possible retinal degeneration, and probable improvements in metabolic control.[2] Further, one study investigated the mechanisms that boost endothelial colony-forming cells (ECFCs) as another potential method to foster reparative angiogenesis in retinal ischemia, a condition often linked to vision-threatening diseases. This research looked into the capacity of ARA-290 to potentially mitigate the present pro-inflammatory environment in the ischemic retina and its possible impact on ECFC-facilitated vascular regeneration. Tests were performed to estimate the influence of ARA-290 on pro-survival signaling and function within ECFC cultures. According to the findings, it appears that ARA-290 might activate pro-survival signaling and enhance cell viability in ECFCs when subjected to oxidative stress brought about by H2O2. The study ventured to evaluate the potential efficacy of ECFC transplantation in advancing retinal vascular repair in mouse models of retinal ischemia using the oxygen-induced retinopathy (OIR) model. The outcomes of ECFC transplantation with and without ARA-290 were compared. The inflammatory cytokine profile and microglia activation were assessed, which might serve as indicators of inflammation. The results suggested that preconditioning ECFCs with either EPO or ARA-290 before transplantation did not appear to enhance their vasoreparative function in the ischemic retina. However, when ARA-290 was systemically presented to OIR mice, it appeared to reduce the expression of pro-inflammatory cytokines such as IL-1β and TNF-α in the mouse retina, possibly indicating its anti-inflammatory potential. The transplantation of ECFCs into the vitreous humor appeared to result in their incorporation into the damaged retinal vasculature. It may have led to a notable decrease in the avascular area. Interestingly, it seems that the presence of ARA-290 potentially boosted the vasoreparative function of ECFCs, whereas EPO did not exhibit a similar effect. Given these observations, the study posits that ARA-290 might enhance the regulation of the pro-inflammatory environment in the ischemic retina.[3]
+[p] ARA-290 and Inflammatory Cytokines ARA-290 has also been suggested by researchers to inhibit macrophage activation. Thus it may enhance the survival and proliferation of transplanted islet cells in murine models of diabetes. Islet cell transplant has been considered the holy grail of endocrinology for mitigating chronic diabetes symptoms. Islet cell transplant allows for physiological control of blood sugar and helps to avoid the long-term adverse impact of insulin supplementation. However, the host immune response apparently typically leads to the death of the transplanted islet cells. Researchers suggest ARA-290 may suppress the pro-inflammatory cytokines such as IL-6, IL-2, and TNF-Alpha and possibly allow for an acceptance of the graft.[4] The researchers posited that “ARA-290 protected islets from cytokine-induced damage and apoptosis. Secretion of pro-inflammatory cytokines (IL-6, IL-12, and TNF-α) from macrophages was significantly inhibited by ARA-290.” The results suggested that ARA-290 might have preserved the viability and function of cultured islets when exposed to proinflammatory cytokines. The data posited decreased caspase 3/7 activity, implying a possible defense against cytokine-induced apoptosis. In a murine model, ARA-290 presentation appeared to improve glucose metabolism and possibly lower blood glucose levels. It has been hypothesized that the introduction of the peptide may have enhanced the normoglycemic rate and potentially improved the function of transplanted islet grafts. Moreover, ARA-290 seemed to suppress the expression of proinflammatory cytokines in the liver post-PITx, pointing to a potential inhibitory impact on intrahepatic inflammatory responses. As for the mechanisms of action of ARA-290, it is posited to be involved in the activation of the EPOR-βcR complex, which in turn may potentially trigger downstream signaling pathways that inhibit proinflammatory gene transcription and encourage cell survival. It is possible that the PI3K-Akt and JAK2-STAT5 pathways are activated, and the NF-κB-driven gene transcription is suppressed. ARA-290 may bind to the upregulated EPOR-βcR complex, probably expressed in response to tissue or cell injury. Hypothetically, it might protect islets from damage caused by proinflammatory cytokines released by activated macrophages and/or the transplantation process itself.[4] ARA-290 has also been observed to bind to the tissue-protective receptor (TPR) on the cell surface and mediate a protective response against inflammatory cytokines, thereby potentially modulating the immune system response. EPO might also interact with TPR but may not be a suitable candidate for further research in this area due to its ancillary cardiovascular and hematopoietic action. Contrastingly, studies in ARA-290 suggest it may mediate the positive responses of EPO while avoiding the ancillary action. This results in reduced cellular apoptosis and lower levels of inflammatory cytokines. Thus tissue survival and proliferation may significantly improve. This function might lead to faster tissue repair and recovery, decreased mortality and morbidity, reduced scar formation, and rapid post-injury recovery of function.
+[p] ARA-290 and Immune System Regulation TPRs are considered to be prevalent on immune cell surfaces, such as T lymphocytes, mast cells, macrophages, and dendritic cells. Increasingly, scientific studies have suggested that ARA-290 and similar groups of peptides may bind to the receptor to directly affect their function. TPR activation by ARA-290 may lead to macrophage inactivation and lowering of inflammatory cytokines. This might decrease pathogen clearance in infection but lessen the overall disease build-up. With the macrophage chemokine pathway being restricted by TPR-ARA-290, resident macrophages may get recruited to injury sites, which is typically considered to lead to faster tissue healing. ARA-290 appears to modify antigen presentation by dendritic cells to T lymphocytes. Through this action, the peptide may play a potential role in modulating the adaptive immune response. Adaptive immunity is the key determinant of graft acceptance/rejection. Hence, peptides such as ARA-290 may help to fine-tune the immune response to allow kidney, heart, and other experimental grafts. One of the most promising research focuses of ARA-290 is in immune modulation, especially in the context of autoimmune disorders like Colitis. Another significant potentially applicable field of research for ARA-290 is in the mitigation of SLE-Systemic Lupus Erythematosus (SLE).[5] Experimental studies in ARA-290 reports significantly reduced levels of autoantibodies like ANA and anti-ds DNA. The peptide may help to control the chances of kidney damage and renal failure from SLE. The researchers also commented that “ARA-290 inhibited the inflammatory activation of macrophages and promoted the phagocytotic function of macrophages to apoptotic cells.”
+[p] ARA-290 and Pain Perception The immune system is considered to be a prominent pain regulator, especially neuropathic pain. Targeting the IRR may help to alleviate such pain. ARA-290 has been suggested to bind to IRR and, therefore may prove to be of value in studies associated with pain mitigation. The peptide appears to bind to IRR and inhibit TRPV1 channel activity.[6] TRPV1 channel is also known as the capsaicin receptor, which is considered to induce the perception of heat associated with neuropathic pain. The researchers embarked on an exploration to ascertain the impacts of ARA-290 on C57/BL6 murine models. They used dissociated neurons from both the dorsal root ganglion (DRG) and the trigeminal ganglion (TG) which were employed for calcium imaging. Cells were ostensibly loaded with the calcium indicator fluo-4 AM and imaged under a confocal microscope. Neuronal responses to ARA-290, capsaicin, and KCl solutions were measured, with a hypothesis posited about the suppressive impacts of ARA-290 on capsaicin-triggered calcium responses. Behavioral evaluations were also tentatively conducted on the mice. One such test involved the paw withdrawal threshold assay, which hypothesized that introducing varying concentrations of ARA 290 or a control solution (PBS) into the hind paw and subsequently introducing capsaicin might lead to hypersensitivity. The pressure of the von Frey filament applied to the paw was increased incrementally until the withdrawal threshold was attained. The paw withdrawal frequency assay sought to examine the rate of paw withdrawal responses to capsaicin over a hypothetical 24-hour period. ARA-290 was given to the mice post-capsaicin, and the impacts on hypersensitivity were assessed. Statistical examinations were conducted using specific software, with the data presented as mean ± SEM. The results suggested that ARA-290 specifically inhibited capsaicin-evoked calcium responses in DRG and TG neurons. It didn't appear to impact the activity of other thermo-receptors, which may indicate a potential specific targeting of TRPV1 channels. ARA-290 might have elevated the threshold of TRPV1 channels, as indicated by the potential shift in the concentration-response curve of capsaicin. The suppressive potential of ARA-290 on TRPV1 channels was further speculated upon in TRPV1 over-expressed HEK293 cells. Finally, ARA-290 may have reversed capsaicin-induced mechanical hypersensitivity in live mice, as gauged by the paw withdrawal threshold and frequency tests.[6] Small nerve fiber loss is prevalent in diseases like HIV, diabetes, celiac disease, thyroid dysfunction, etc. The small nerve fibers in the skin are considered to lead to pain and heat sensation. The onset of neuropathy may lead to a burning sensation in the region affected. ARA-290 peptide research has suggested that the peptide may be fruitful in some respects, for controlling neuropathy.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Brines, M., Dunne, A. N., van Velzen, M., Proto, P. L., Ostenson, C. G., Kirk, R. I., Petropoulos, I. N., Javed, S., Malik, R. A., Cerami, A., & Dahan, A. (2015). ARA-290, a nonerythropoietic peptide engineered from erythropoietin, improves metabolic control and neuropathic symptoms in patients with type 2 diabetes. Molecular medicine (Cambridge, Mass.), 20(1), 658–666. https://doi.org/10.2119/molmed.2014.00215
+[a https://doi.org/10.2119/molmed.2014.00215] https://doi.org/10.2119/molmed.2014.00215
+[li] Lois, N., Gardner, E., McFarland, M., Armstrong, D., McNally, C., Lavery, N. J., Campbell, C., Kirk, R. I., Bajorunas, D., Dunne, A., Cerami, A., & Brines, M. (2020). A Phase 2 Clinical Trial on the Use of Cibinetide for the Treatment of Diabetic Macular Edema. Journal of clinical medicine, 9(7), 2225. https://doi.org/10.3390/jcm9072225
+[a https://doi.org/10.3390/jcm9072225] https://doi.org/10.3390/jcm9072225
+[li] O'Leary, O. E., Canning, P., Reid, E., Bertelli, P. M., McKeown, S., Brines, M., Cerami, A., Du, X., Xu, H., Chen, M., Dutton, L., Brazil, D. P., Medina, R. J., & Stitt, A. W. (2019). The vasoreparative potential of endothelial colony-forming cells in the ischemic retina is enhanced by cibinetide, a non-hematopoietic erythropoietin mimetic. Experimental eye research, 182, 144–155. https://doi.org/10.1016/j.exer.2019.03.001
+[a https://doi.org/10.1016/j.exer.2019.03.001] https://doi.org/10.1016/j.exer.2019.03.001
+[li] Watanabe, M., Lundgren, T., Saito, Y., Cerami, A., Brines, M., Östenson, C. G., & Kumagai-Braesch, M. (2016). A Nonhematopoietic Erythropoietin Analogue, ARA-290, Inhibits Macrophage Activation and Prevents Damage to Transplanted Islets. Transplantation, 100(3), 554–562. https://doi.org/10.1097/TP.0000000000001026
+[a https://doi.org/10.1097/TP.0000000000001026] https://doi.org/10.1097/TP.0000000000001026
+[li] Huang, B., Jiang, J., Luo, B., Zhu, W., Liu, Y., Wang, Z., & Zhang, Z. (2018). Non-erythropoietic erythropoietin-derived peptide protects mice from systemic lupus erythematosus. Journal of cellular and molecular medicine, 22(7), 3330–3339. https://doi.org/10.1111/jcmm.13608
+[a https://doi.org/10.1111/jcmm.13608] https://doi.org/10.1111/jcmm.13608
+[li] Zhang, W., Yu, G., & Zhang, M. (2016). ARA-290 relieves pathophysiological pain by targeting TRPV1 channel: Integration between immune system and nociception. Peptides, 76, 73–79. https://doi.org/10.1016/j.peptides.2016.01.003
+[a https://doi.org/10.1016/j.peptides.2016.01.003] https://doi.org/10.1016/j.peptides.2016.01.003
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Thymosin Alpha-1 (10mg) $130.00
+[a https://biotechpeptides.com/product/thymosin-alpha-1-10mg/] Thymosin Alpha-1 (10mg) $130.00
+[img] Thymosin Alpha-1 (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Thymosin-Alpha-1-1-238x317.webp
+[h2] Thymosin Alpha-1 (10mg)
+[li] KPV (4mg) $39.00
+[a https://biotechpeptides.com/product/kpv-4mg/] KPV (4mg) $39.00
+[img] KPV (4mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/KPV-1-238x317.webp
+[h2] KPV (4mg)
+[li] Selank (10mg) $46.00
+[a https://biotechpeptides.com/product/selank-10mg/] Selank (10mg) $46.00
+[img] Selank (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Selank-1-238x317.webp
+[h2] Selank (10mg)
+[li] Thymalin (25mg) $114.00
+[a https://biotechpeptides.com/product/thymalin-25mg/] Thymalin (25mg) $114.00
+[img] Thymalin (25mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Thymalin-1-238x317.webp
+[h2] Thymalin (25mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

@@ -1,0 +1,138 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Chonluten (T-34) Peptide: Inflammation, Gene Expression Regulation & Oxidative Stress Modulation
+[p] by Dr. Usman | Aug 15, 2025 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Chonluten (T-34) Peptide Inflammation, Gene Expression Regulation & Oxidative Stress Modulation :: https://biotechpeptides.com/wp-content/uploads/2025/08/Chonluten-T-34-Peptide-Inflammation-Gene-Expression-Regulation-Oxidative-Stress-Modulation.avif
+[a https://biotechpeptides.com/product/chonluten-t-34-20mg/] EDG tripeptide
+[p] The peptide’s primary activity has been observed in lung tissues, where it may support bronchial mucosal function through molecular signaling pathways. These regulatory implications may be linked to transcriptional control of genes involved in immune modulation and epithelial regeneration. Secondary implications have also been noted in the gastrointestinal tract by researchers, although at lower activity levels compared to pulmonary tissues.[1]
+[p] Contents:
+[li] Mechanisms of Action
+[a #ma] Mechanisms of Action
+[li] Scientific and Research Studies
+[a #research] Scientific and Research Studies
+[li] Chonluten Peptide and Pulmonary Inflammatory Modulation
+[a #pim] Chonluten Peptide and Pulmonary Inflammatory Modulation
+[li] Chonluten Peptide and Gastrointestinal Tissue Regulation
+[a #gtr] Chonluten Peptide and Gastrointestinal Tissue Regulation
+[li] Chonluten Peptide and Aerobic Function under Hypoxic Stress
+[a #af] Chonluten Peptide and Aerobic Function under Hypoxic Stress
+[li] Chonluten Peptide and Gene Expression
+[a #ge] Chonluten Peptide and Gene Expression
+[li] Chonluten Peptide and the Immune System
+[a #is] Chonluten Peptide and the Immune System
+[li] Chonluten Peptide and Oxidative Stress Modulation
+[a #osm] Chonluten Peptide and Oxidative Stress Modulation
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/chonluten-t-34-20mg/] 
+[img] Buy Chonluten (T-34) Peptide - 20mg :: https://biotechpeptides.com/wp-content/uploads/2022/06/Chonluten-20mg.webp
+[h2] Mechanism of Action
+[p] Mechanistically, Chonluten has been hypothesized to restore disrupted anabolic and catabolic processes in epithelial cells, potentially.[2] Its potential to support or mimic the endogenous regulatory peptides secreted by bronchial structures may contribute to homeostatic balance at the cellular level. Some in vitro models also suggest Chonluten may support the lifespan of mesenchymal stem cells by modulating senescence-associated molecular pathways. These findings point to a peptide with multifaceted regulatory potential in tissues subject to chronic inflammatory or oxidative stress environments
+[h2] Scientific Research and Studies
+[h3] Chonluten Peptide and Pulmonary Inflammatory Modulation
+[p] Research suggests that Chonluten may exert modulatory implications on inflammatory responses within bronchial tissues of mammalian research models. Declines in pulmonary function are often associated with cellular damage and altered mucosal integrity; preliminary findings propose that Chonluten may attenuate apoptotic processes while supporting proliferative activity in bronchial epithelial cells.[1] The bronchial mucosa, serving as the primary interface between environmental exposure and internal systems, undergoes structural alterations under chronic inflammatory stimuli. This is said to include potentially disrupted extracellular matrix and dysregulated mucus production.
+[p] Proposed mechanisms of action for Chonluten include modulation of intracellular signaling pathways associated with immune activation in mammalian research models. In particular, Chonluten appears to support phosphorylation events in Signal Transducer and Activator of Transcription (STAT) molecules, specifically STAT1 within macrophages. STAT1 is hypothesized to mediate transcriptional activity related to immune regulation, and its activation may be altered by peptide exposure. Additionally, Chonluten is thought to potentially suppress the activity of STAT3, a molecule implicated in mammalian rapid-phase immune responses and associated with transcription of pro-inflammatory cytokines such as interleukin-6 (IL-6).
+[p] Reportedly, studies of research models have hinted at a possible reduction in IL-6, tumor necrosis factor-alpha (TNF-α), and interleukin-17 (IL-17) levels following exposure to Chonluten in immune cells activated by lipopolysaccharide (LPS) and other microbial components. In vitro, the peptide reportedly decreased TNF-α production in monocytes, a response linked to TNF tolerance mechanisms that may mitigate sustained inflammatory signaling.[1]
+[p] Moreover, Chonluten may alter adhesion dynamics between endothelial and immune cells. Observations from endothelial cell co-culture systems suggest that Chonluten potentially supports leukocyte-endothelium interactions, which may play a role in modulating immune cell migration and systemic inflammatory responses observable in research models.
+[h3] Chonluten Peptide and Gastrointestinal Tissue Regulation
+[p] Research suggests that Chonluten (T-34) may exert regulatory implications on gastrointestinal (GI) tissues, potentially mirroring its proposed activity within the pulmonary system. Preliminary studies suggest a capacity to support gene expression pathways involved in antioxidant defense, cellular proliferation, and inflammation.
+[p] Chonluten may modulate genes associated with enzymatic antioxidants such as superoxide dismutase (SOD), a key component in mitigating oxidative stress within the gastric epithelium. By normalizing these gene expression pathways, Chonluten may support cellular integrity under conditions of oxidative imbalance.
+[p] Data collected by observing research models proposes that Chonluten may support inflammatory mediators by supporting transcriptional regulators of pro-inflammatory genes, including tumor necrosis factor-alpha (TNF-α) and cyclooxygenase-2 (COX-2). These proteins are associated with gastrointestinal inflammatory processes, and their downregulation may suggest a potential role in epithelial homeostasis.
+[p] Further mechanistic studies hint that Chonluten may facilitate fibroblast proliferation and angiogenic activity, possibly contributing to the structural restoration of damaged mucosal layers. This proliferative support may be linked to peptide-induced stimulation of epithelial regeneration in ulcerated tissues.
+[p] Moreover, Chonluten appears to support apoptosis regulatory pathways.[3] It is hypothesized that the peptide modulates heat shock protein 70 (HSP70), a molecular chaperone believed to confer cytoprotection under cellular stress. By regulating HSP70 expression, Chonluten may potentially mitigate apoptosis and promote tissue repair within the gastrointestinal lining.
+[h3] Chonluten Peptide and Aerobic Function under Hypoxic Stress
+[p] Emerging research suggests that Chonluten (T-34) may exhibit regulatory support over physiological processes under aerobic and hypoxic conditions. Preliminary findings have noted that certain bioactive peptides, including Chonluten, may play a role in muscle cell recovery and adaptation by modulating cellular stress responses and supporting tissue resilience to oxygen deficiency.
+[p] Chonluten’s potential involvement in stress adaptation may be attributed to its capacity to modulate the expression of genes associated with inflammation, oxidative stress, and cellular protection. Studies suggest that Chonluten may support transcriptional activity of c-Fos, a gene linked to cellular proliferation and stress response, and HSP70, a heat shock protein implicated in cytoprotection during hypoxic states.[3 ]Additionally, Chonluten may potentially support the expression of genes encoding superoxide dismutase (SOD) and cyclooxygenase-2 (COX-2), key components of endogenous antioxidant systems. These pathways may support tissue protection by mitigating oxidative stress in mammalian research models.
+[p] Research also proposes that Chonluten may downregulate the transcription of tumor necrosis factor-alpha (TNF-α), a cytokine familiar to researchers for its role in systemic inflammation. Through modulation of these molecular markers, Chonluten might support mammalian cellular adaptation under low oxygen availability, potentially supporting mitochondrial efficiency and muscular tissue endurance in mammalian research models.[4] While further investigations are required, current data suggest a possible role for Chonluten in promoting homeostasis and reducing physiological strain under aerobic and hypoxic stress conditions.
+[h3] Chonluten Peptide and Gene Expression
+[p] Short-chain peptides such as Chonluten have been studied for their capacity to support mammalian gene regulation through epigenetic mechanisms, particularly DNA methylation processes. Studies propose that di- and tripeptides may enter cellular nuclei and nucleoli, where they may interact with nucleosomal structures, including histone proteins and both single- and double-stranded DNA. These interactions may facilitate peptide-mediated modulation of DNA activity, including transcriptional and replicative events.
+[p] Chonluten has been implicated in the potential regulation of gene promoter regions, suggesting a capacity to support template-specific processes by modulating the structural accessibility of chromatin. As per the research, “[these] peptides [might] regulate the status of DNA methylation, which is an epigenetic mechanism for the activation or repression of genes in both the normal condition, as well as in cases of pathology and senescence. This situation [supports] the prospects of developing [functional] immunoregulatory, neuroprotective, antimicrobial, antiviral, and other [compounds] based on short peptides.”[5]
+[h3] Chonluten Peptide and the Immune System
+[p] Chonluten has been studied for its potential immunomodulatory properties, particularly in the context of oxidative stress and inflammation. Research conducted by scientists suggests that its proposed biological activity may involve the modulation of genes associated with stress response, immune signaling, and cellular proliferation. Among these are heat shock protein 70 (HSP70), superoxide dismutase (SOD), c-Fos, and tumor necrosis factor-alpha (TNF-α), which are considered critical regulators of immune homeostasis and inflammatory responses.[2]
+[p] HSP70 is posited to function as a cytoprotective molecule, potentially involved in maintaining cellular integrity during stress. SOD is a key antioxidant enzyme that catalyzes the dismutation of superoxide radicals, thus mitigating oxidative damage. The c-Fos proto-oncogene has been implicated in regulating transcriptional responses to environmental stimuli and cellular injury, particularly through its involvement in the AP-1 transcription factor complex.
+[p] Research data suggest that transient expression of c-Fos may support tissue regeneration via localized angiogenesis and cell proliferation. However, sustained activation of c-Fos pathways has been associated with aberrant tissue remodeling and uncontrolled cell growth, suggesting a potential dual role in immunophysiological regulation.
+[p] The peptide may also exert support over TNF-α expression, a pro-inflammatory cytokine involved in immune surveillance and acute-phase responses. Modulation of TNF-α levels may contribute to the attenuation of inflammatory signaling cascades under certain pathological conditions. Collectively, these findings are thought to suggest that Chonluten may exert multifaceted implications on immune regulation through epigenetic and transcriptional mechanisms.
+[h3] Chonluten Peptide and Oxidative Stress Modulation
+[p] Preclinical investigations studied the peptide for its implication in nitric oxide (NO) metabolism. Dysregulated expression of inducible nitric oxide synthase (iNOS) and constitutive nitric oxide synthase (cNOS) may contribute to nitrosative stress during acute injury. Chonluten is suggested to support this axis by moderating the expression of both isoforms, potentially mitigating the formation of peroxynitrite, a cytotoxic compound formed from NO and superoxide anions. This mechanism may support the protection of DNA, lipids, and proteins from nitrative damage and reduce epithelial cell apoptosis.[1]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] Avolio F, Martinotti S, Khavinson VK, Esposito JE, Giambuzzi G, Marino A, Mironova E, Pulcini R, Robuffo I, Bologna G, Simeone P, Lanuti P, Guarnieri S, Trofimova S, Procopio AD, Toniato E. Peptides Regulating Proliferative Activity and Inflammatory Pathways in the Monocyte/Macrophage THP-1 Cell Line. Int J Mol Sci. 2022 Mar 25;23(7):3607. https://pubmed.ncbi.nlm.nih.gov/35408963/
+[a https://pubmed.ncbi.nlm.nih.gov/35408963/] https://pubmed.ncbi.nlm.nih.gov/35408963/
+[li] V. K. Khavinson, N. S. Lin’kova, A. V. Dudkov, V. O. Polyakova, and I. M. Kvetnoi, Peptidergic regulation of expression of genes encoding antioxidant and anti-inflammatory proteins, Bull. Exp. Biol. Med., vol. 152, no. 5, pp. 615–618, Mar. 2012, DOI: 10.1007/s10517-012-1590-2 https://link.springer.com/article/10.1007/s10517-012-1590-2
+[a https://link.springer.com/article/10.1007/s10517-012-1590-2] https://link.springer.com/article/10.1007/s10517-012-1590-2
+[li] König D, Kohl J, Jerger S, Centner C. Potential Relevance of Bioactive Peptides in Sports Nutrition. Nutrients. 2021 Nov 10;13(11):3997. DOI: 10.3390/nu13113997. https://pmc.ncbi.nlm.nih.gov/articles/PMC8622853/
+[a https://pmc.ncbi.nlm.nih.gov/articles/PMC8622853/] https://pmc.ncbi.nlm.nih.gov/articles/PMC8622853/
+[li] Khavinson, V., Linkova, N., Dyatlova, A., Kuznik, B., & Umnov, R. (2020). Peptides: Prospects for Use in the Treatment of COVID-19. Molecules (Basel, Switzerland), 25(19), 4389. https://doi.org/10.3390/molecules25194389
+[a https://doi.org/10.3390/molecules25194389] https://doi.org/10.3390/molecules25194389
+[li] Khavinson VK, Popovich IG, Linkova NS, Mironova ES, Ilina AR. Peptide Regulation of Gene Expression: A Systematic Review. Molecules. 2021 Nov 22;26(22):7053. https://pubmed.ncbi.nlm.nih.gov/34834147/
+[a https://pubmed.ncbi.nlm.nih.gov/34834147/] https://pubmed.ncbi.nlm.nih.gov/34834147/
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

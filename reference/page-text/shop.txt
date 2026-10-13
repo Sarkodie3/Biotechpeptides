@@ -1,0 +1,195 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h6] Free same day priority shipping
+[h1] Buy quality peptides, made in the USA
+[h2] Leading the research industry
+[input name=wpf type=hidden ph=]
+[input name=orderby type=hidden ph=]
+[input name=wpf_cols type=hidden ph=]
+[input name=wpf_page type=hidden ph=]
+[label] Price
+[input name=wpf_price-from type=hidden ph=]
+[input name=wpf_price-to type=hidden ph=]
+[label] In Stock
+[input name=wpf_in-stock type=checkbox ph=]
+[label] Categories
+[li] Peptide Blends 16
+[input name=wpf_categories[] type=checkbox ph=]
+[label] Peptide Blends
+[li] Peptides 73
+[input name=wpf_categories[] type=checkbox ph=]
+[label] Peptides
+[input name=undefined type=reset ph=]
+[p] No products were found matching your selection.
+[p] Showing 1–28 of 89 results
+[select name=orderby type=undefined ph=]
+[input name=paged type=hidden ph=]
+[li] ACE-031 (1mg) $161.00
+[a https://biotechpeptides.com/product/ace-031-1mg/] ACE-031 (1mg) $161.00
+[img] ACE-031 (1mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/ACE-031-1-238x317.webp
+[h2] ACE-031 (1mg)
+[li] Acetyl Hexapeptide-3 (Argireline) (200mg) $210.00
+[a https://biotechpeptides.com/product/acetyl-hexapeptide-3-argireline-200mg/] Acetyl Hexapeptide-3 (Argireline) (200mg) $210.00
+[img] Acetyl Hexapeptide-3 (Argireline) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Acetyl-Hexapeptide-3-1-238x317.webp
+[h2] Acetyl Hexapeptide-3 (Argireline) (200mg)
+[li] Adipotide FTPP (10mg) $77.00
+[a https://biotechpeptides.com/product/adipotide-ftpp-10mg/] Adipotide FTPP (10mg) $77.00
+[img] Adipotide FTPP (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Adipotide-FTPP-1-238x317.webp
+[h2] Adipotide FTPP (10mg)
+[li] AHK-Cu (200mg) $192.00
+[a https://biotechpeptides.com/product/ahk-cu-topical-200mg/] AHK-Cu (200mg) $192.00
+[img] AHK-Cu (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/AHK-Cu-1-238x317.webp
+[h2] AHK-Cu (200mg)
+[li] AICAR (50mg) $56.00
+[a https://biotechpeptides.com/product/aicar-50mg/] AICAR (50mg) $56.00
+[img] AICAR (50mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/AICAR-1-238x317.webp
+[h2] AICAR (50mg)
+[li] AOD 9604 (5mg) $44.00
+[a https://biotechpeptides.com/product/aod-9604-5mg/] AOD 9604 (5mg) $44.00
+[img] AOD 9604 (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/AOD-9604-1-238x317.webp
+[h2] AOD 9604 (5mg)
+[li] ARA-290 (16mg) $88.00
+[a https://biotechpeptides.com/product/ara-290-16mg/] ARA-290 (16mg) $88.00
+[img] ARA-290 (16mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/ARA-290-1-238x317.webp
+[h2] ARA-290 (16mg)
+[li] B7-33 (6mg) $62.00
+[a https://biotechpeptides.com/product/b7-33-6mg/] B7-33 (6mg) $62.00
+[img] B7-33 (6mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/B7-33-1-238x317.webp
+[h2] B7-33 (6mg)
+[li] BPC-157 (5mg & 10mg) $52.00 – $92.00Price range: $52.00 through $92.00
+[a https://biotechpeptides.com/product/bpc-157/] BPC-157 (5mg & 10mg) $52.00 – $92.00Price range: $52.00 through $92.00
+[img] BPC-157 :: https://biotechpeptides.com/wp-content/uploads/2020/03/BPC-157-2-238x317.webp
+[h2] BPC-157 (5mg & 10mg)
+[li] BPC-157 & TB-500 & GHK-Cu Blend (70mg) $205.00
+[a https://biotechpeptides.com/product/bpc-157-tb-500-ghk-cu-blend-70mg/] BPC-157 & TB-500 & GHK-Cu Blend (70mg) $205.00
+[img] BPC-157 & TB-500 & GHK-Cu Blend (70mg) :: https://biotechpeptides.com/wp-content/uploads/2026/01/BPC-157-TB-500-GHK-Cu-Blend-70mg-238x317.webp
+[h2] BPC-157 & TB-500 & GHK-Cu Blend (70mg)
+[li] BPC-157 & TB-500 Blend (10mg) $115.00
+[a https://biotechpeptides.com/product/bpc-157-tb-500-10mg-blend-2/] BPC-157 & TB-500 Blend (10mg) $115.00
+[img] BPC-157 & TB-500 Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/BPC-157-TB-500-1-238x317.webp
+[h2] BPC-157 & TB-500 Blend (10mg)
+[li] Cardiogen (20mg) $62.00
+[a https://biotechpeptides.com/product/cardiogen-20mg/] Cardiogen (20mg) $62.00
+[img] Cardiogen (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Cardiogen-1-238x317.webp
+[h2] Cardiogen (20mg)
+[li] Chonluten (T-34) (20mg) $62.00
+[a https://biotechpeptides.com/product/chonluten-t-34-20mg/] Chonluten (T-34) (20mg) $62.00
+[img] Chonluten (T-34) (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Chonluten-1-238x317.webp
+[h2] Chonluten (T-34) (20mg)
+[li] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg) $80.00
+[a https://biotechpeptides.com/product/cjc-1295-ipamorelin-ghrp2-9mg-blend/] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg) $80.00
+[img] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-Ipamorelin-GHRP-2-1-238x317.webp
+[h2] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg)
+[li] CJC-1295 & GHRP-2 Blend (10mg) $84.00
+[a https://biotechpeptides.com/product/cjc-1295-ghrp-2-blend-10mg/] CJC-1295 & GHRP-2 Blend (10mg) $84.00
+[img] CJC-1295 & GHRP-2 Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2023/06/CJC-1295-GHRP-2-1-238x317.webp
+[h2] CJC-1295 & GHRP-2 Blend (10mg)
+[li] CJC-1295 & GHRP-6 Blend (10mg) $86.00
+[a https://biotechpeptides.com/product/cjc-1295-ghrp-6-10mg-blend-2/] CJC-1295 & GHRP-6 Blend (10mg) $86.00
+[img] CJC-1295 & GHRP-6 Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-GHRP-6-1-238x317.webp
+[h2] CJC-1295 & GHRP-6 Blend (10mg)
+[li] CJC-1295 & Ipamorelin Blend (10mg) $81.00
+[a https://biotechpeptides.com/product/cjc-1295-ipamorelin-10mg-blend-2/] CJC-1295 & Ipamorelin Blend (10mg) $81.00
+[img] CJC-1295 & Ipamorelin Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-Ipamorelin-1-238x317.webp
+[h2] CJC-1295 & Ipamorelin Blend (10mg)
+[li] CJC-1295 DAC (5mg) $52.00
+[a https://biotechpeptides.com/product/cjc-1295-dac-5mg/] CJC-1295 DAC (5mg) $52.00
+[img] CJC-1295 DAC (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-DAC-1-238x317.webp
+[h2] CJC-1295 DAC (5mg)
+[li] Sale! Decapeptide-12 (200mg) $239.00 Original price was: $239.00.$226.00Current price is: $226.00.
+[a https://biotechpeptides.com/product/decapeptide-12-topical-200mg/] Sale! Decapeptide-12 (200mg) $239.00 Original price was: $239.00.$226.00Current price is: $226.00.
+[img] Decapeptide-12 (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Decapeptide-12-1-238x317.webp
+[h2] Decapeptide-12 (200mg)
+[li] DSIP (5mg) $44.00
+[a https://biotechpeptides.com/product/dsip-5mg/] DSIP (5mg) $44.00
+[img] DSIP (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/DSIP-1-238x317.webp
+[h2] DSIP (5mg)
+[li] Epithalon (25mg) $94.00
+[a https://biotechpeptides.com/product/epithalon-25mg/] Epithalon (25mg) $94.00
+[img] Epithalon (25mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Epithalon-1-238x317.webp
+[h2] Epithalon (25mg)
+[li] Follistatin-344 (1mg) $162.00
+[a https://biotechpeptides.com/product/follistatin-344-1mg/] Follistatin-344 (1mg) $162.00
+[img] Follistatin-344 (1mg) :: https://biotechpeptides.com/wp-content/uploads/2022/01/Follistatin-344-1-238x317.webp
+[h2] Follistatin-344 (1mg)
+[li] FOXO4-DRI (Proxofim) (10mg) $270.00
+[a https://biotechpeptides.com/product/foxo4-dri-proxofim-10mg/] FOXO4-DRI (Proxofim) (10mg) $270.00
+[img] FOXO4-DRI (Proxofim) (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/FOX04-DRI-1-1-238x317.webp
+[h2] FOXO4-DRI (Proxofim) (10mg)
+[li] Sale! Fragment 176-191 (5mg) $47.00 Original price was: $47.00.$44.00Current price is: $44.00.
+[a https://biotechpeptides.com/product/fragment-176-191-5mg/] Sale! Fragment 176-191 (5mg) $47.00 Original price was: $47.00.$44.00Current price is: $44.00.
+[img] Fragment 176-191 (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Fragment-176-191-1-238x317.webp
+[h2] Fragment 176-191 (5mg)
+[li] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg) $87.00
+[a https://biotechpeptides.com/product/fragment-cjc-1295-ipamorelin-12mg-blend/] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg) $87.00
+[img] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Fragment-176-191-CJC-1295-Ipamorelin-238x317.webp
+[h2] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg)
+[li] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg) $87.00
+[a https://biotechpeptides.com/product/fragment-176-191-mod-grf-1-29-ipamorelin-12mg/] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg) $87.00
+[img] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Fragment-Mod-GRF-Ipamorelin-1-238x317.webp
+[h2] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg)
+[li] GHK Basic (50mg) $51.00
+[a https://biotechpeptides.com/product/ghk-basic-50mg/] GHK Basic (50mg) $51.00
+[img] GHK Basic (50mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/GHK-Basic-2-238x317.webp
+[h2] GHK Basic (50mg)
+[li] GHK Basic (Tripeptide-1) (200mg) $165.00
+[a https://biotechpeptides.com/product/ghk-basic-tripeptide-1-topical-200mg/] GHK Basic (Tripeptide-1) (200mg) $165.00
+[img] Buy GHK Basic (Tripeptide-1) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/GHK-Basic-3-238x317.webp
+[h2] GHK Basic (Tripeptide-1) (200mg)
+[li] 1
+[li] 2
+[a /buy-peptides/?product-page=2] 2
+[li] 3
+[a /buy-peptides/?product-page=3] 3
+[li] 4
+[a /buy-peptides/?product-page=4] 4
+[li] →
+[a /buy-peptides/?product-page=2] →
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

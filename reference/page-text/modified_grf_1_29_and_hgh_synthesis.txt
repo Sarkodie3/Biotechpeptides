@@ -1,0 +1,114 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Modified GRF (1-29) and Growth Hormone Synthesis
+[p] by Dr. Usman | Mar 1, 2023 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Modified GRF (1-29) and Growth Hormone Synthesis :: https://biotechpeptides.com/wp-content/uploads/2023/03/Modified-GRF-1-29-and-Growth-Hormone-Synthesis.avif
+[a https://biotechpeptides.com/product/mod-grf-1-29-5mg-cjc-1295-no-dac/] CJC-1295 without DAC
+[p] Contents:
+[li] Overview of Modified GRF (1-29)
+[a #overview] Overview of Modified GRF (1-29)
+[li] Modified GRF (1-29) and Growth Hormone Synthesis
+[a #hgh] Modified GRF (1-29) and Growth Hormone Synthesis
+[li] Modified GRF (1-29) and Composition
+[a #bc] Modified GRF (1-29) and Composition
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/mod-grf-1-29-5mg-cjc-1295-no-dac/] 
+[img] Mod GRF 1-29 (CJC-1295 NO DAC) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Mod-GRF-1-29-1.png
+[h2] Overview of Modified GRF (1-29)
+[p] Modified GRF (1-29) is a modified version of GRF (1-29), the smallest amino-acid sequence from the original GHRH that may still retain the ability to trigger the receptors in the pituitary gland and induce an hGH spike. As the name suggests, GRF (1-29) and modified GRF (1-29) are made of 29 amino acids. However, Modified GRF (1-29) has 4 of the original 29 amino acids replaced with the intention to make the peptide more resistant to rapid cleavage by the enzyme dipeptidyl peptidase-4. This cleavage was previously reported to result in peptide inactivation.[1] More specifically, the replaced amino acids are the 2nd, 8th, 15th, and 27th amino acids.
+[p] Due to this replacement, the peptide is also known as tetrasubstituted GRF (1-29), and its sequence is Tyr-D-Ala-Asp-Ala-Ile-Phe-Thr-Gln-Ser-Tyr-Arg-Lys-Val-Leu-Ala-Gln-Leu-Ser-Ala-Arg-Lys-Leu-Leu-Gln-Asp-Ile-Leu-Ser-Arg. As a result, the half-life of the peptide has been anticipated to last from 10 – 30 mins. One of the main modifications is the replacement of L-alanine with D-alanine in the 2nd spot.[2] According to the researchers, “the disappearance half-time of the D-Ala2 analog was 6.7 +/- 0.5, whereas that of GHRH-(1-29)-NH2 was 4.3 +/- 1.4 min (P < 0.05). These findings [suggest] that the D-Ala2 substitution contributes to the enhancement of biological activity by reducing metabolic clearance.“
+[h2] Modified GRF (1-29) and Growth Hormone Synthesis
+[p] Modified GRF (1-29) was developed to have a longer half-life but retain identical potential to GRF (1-29), also known as Sermorelin. Since no studies investigate the effects of Modified GRF (1-29) without DAC, the following reports will be based on GRF (1-29) research. Researchers have reported GRF (1-29) to have the potential to increase HGH pulse synthesis.[3] Repeated dosing may lead to a significant increase in growth hormone levels.
+[p] A study investigating the action of Modified GRF (1-29) found that it might lead to significant improvements in muscular contractile force.[8] Decline and alterations in muscle mass may result in decreased mobility, and interventions such as GRF (1-29) therapy may potentially mitigate the rapidity or onset of muscular atrophy. Another growth hormone-related impact may be the promotion of skin cell proliferation and increased collagen deposition within the derma.
+[h2] Modified GRF (1-29) and Composition
+[p] One study focused on the impact of Modified GRF (1-29) exposure reported the peptide’s potential to increase growth velocity by 74%, maintained for up to a year of exposure studies.[4] Further studies suggest that exposure to GRF (1-29) for a duration of 4 months resulted in a significant increase in lean body mass. However, it is important to note that such effects were only observed in male research models and were not observed in females.[5] This could be attributed to the fact that GRF (1-29) may not cause growth hormone (hGH) peaks to exceed the physiological limits, which may differ between genders due to biological variations. For example, as the growth hormone remains within its physiological limits in female organisms, it may still significantly be impacted by the negative action of estrogens on IGF-1 production, the main anabolic mediator of hGH.[6] Researchers reported that estrogen appears to impact the HGH-IGF-1 axis “by decreasing liver secretion of insulin-like growth factor-I (IGF-I).“[7]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Scarborough R, Gulyas J, Schally AV, Reeves JJ. Analogs of growth hormone-releasing hormone induce release of growth hormone in the bovine. J Anim Sci. 1988 Jun;66(6):1386-92. doi: 10.2527/jas1988.6661386x. PMID: 3135287.
+[a https://doi.org/10.2527/jas1988.6661386x] doi: 10.2527/jas1988.6661386x
+[li] Soule S, King JA, Millar RP. Incorporation of D-Ala2 in growth hormone-releasing hormone-(1-29)-NH2 increases the half-life and decreases metabolic clearance in normal men. J Clin Endocrinol Metab. 1994 Oct;79(4):1208-11. doi: 10.1210/jcem.79.4.7962295. PMID: 7962295.
+[a https://doi.org/10.1210/jcem.79.4.7962295] doi: 10.1210/jcem.79.4.7962295
+[li] Achermann JC, Hindmarsh PC, Robinson IC, Matthews DR, Brook CG. The relative roles of continuous growth hormone-releasing hormone (GHRH(1-29)NH2) and intermittent somatostatin(1-14)(SS) in growth hormone (GH) pulse generation: studies in normal and post cranial irradiated individuals. Clin Endocrinol (Oxf). 1999 Nov;51(5):575-85. doi: 10.1046/j.1365-2265.1999.00839.x. PMID: 10594518.
+[a https://doi.org/10.1046/j.1365-2265.1999.00839.x] doi: 10.1046/j.1365-2265.1999.00839.x
+[li] Thorner M, Rochiccioli P, Colle M, Lanes R, Grunt J, Galazka A, Landy H, Eengrand P, Shah S. Once daily subcutaneous growth hormone-releasing hormone therapy accelerates growth in growth hormone-deficient children during the first year of therapy. Geref International Study Group. J Clin Endocrinol Metab. 1996 Mar;81(3):1189-96. doi: 10.1210/jcem.81.3.8772599. PMID: 8772599.
+[a https://doi.org/10.1210/jcem.81.3.8772599] doi: 10.1210/jcem.81.3.8772599
+[li] Khorram O, Laughlin GA, Yen SS. Endocrine and metabolic effects of long-term administration of [Nle27]growth hormone-releasing hormone-(1-29)-NH2 in age-advanced men and women. J Clin Endocrinol Metab. 1997 May;82(5):1472-9. doi: 10.1210/jcem.82.5.3943. PMID: 9141536.
+[a https://doi.org/10.1210/jcem.82.5.3943] doi: 10.1210/jcem.82.5.3943
+[li] Cook DM. Growth hormone and estrogen: a clinician’s approach. J Pediatr Endocrinol Metab. 2004 Sep;17 Suppl 4:1273-6. PMID: 15506073.
+[li] Corpas E, Harman SM, Piñeyro MA, Roberson R, Blackman MR. Growth hormone (GH)-releasing hormone-(1-29) twice daily reverses the decreased GH and insulin-like growth factor-I levels in old men. J Clin Endocrinol Metab. 1992 Aug;75(2):530-5. doi: 10.1210/jcem.75.2.1379256. PMID: 1379256.
+[a https://doi.org/10.1210/jcem.75.2.1379256] doi: 10.1210/jcem.75.2.1379256
+[li] Vittone J, Blackman MR, Busby-Whitehead J, Tsiao C, Stewart KJ, Tobin J, Stevens T, Bellantoni MF, Rogers MA, Baumann G, Roth J, Harman SM, Spencer RG. Effects of single nightly injections of growth hormone-releasing hormone (GHRH 1-29) in healthy elderly men. Metabolism. 1997 Jan;46(1):89-96. doi: 10.1016/s0026-0495(97)90174-8. PMID: 9005976.
+[a https://doi.org/10.1016/s0026-0495(97)90174-8] doi: 10.1016/s0026-0495(97)90174-8
+[li] Khorram O, Laughlin GA, Yen SS. Endocrine and metabolic effects of long-term administration of [Nle27]growth hormone-releasing hormone-(1-29)-NH2 in age-advanced men and women. J Clin Endocrinol Metab. 1997 May;82(5):1472-9. doi: 10.1210/jcem.82.5.3943. PMID: 9141536.
+[a https://doi.org/10.1210/jcem.82.5.3943] doi: 10.1210/jcem.82.5.3943
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

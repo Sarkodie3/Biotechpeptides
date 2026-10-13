@@ -1,0 +1,125 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/04/KPV-1.webp] 
+[img] KPV (4mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/KPV-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/04/COA_KPV_3141042_BP_page-0001.webp] 
+[img] KPV (4mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2022/04/COA_KPV_3141042_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/04/COA_KPV_3141042_BP_page-0002.webp] 
+[img] KPV (4mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2022/04/COA_KPV_3141042_BP_page-0002.webp
+[h1] KPV (4mg)
+[p] $39.00
+[p] KPV peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_4592 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $37.05
+[input name=wccs_tier_select_4592 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $35.10
+[label] KPV (4mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/04/COA_KPV_3141042_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] KPV Peptide
+[p] KPV is the C-terminal peptide stretch of alpha-melanocyte-stimulating hormone (alpha-MSH). The peptide consists of the last three amino acids of the alpha-MSH hormone. It has been explored for its potential anti-inflammatory properties at the cellular level. Comprising the amino acids L-Lys-L-Pro-L-Val, KPV represents the minimal sequence that may mitigate inflammation in experimental models. However, the precise mechanisms of its action still need to be further studied in order to be more fully understood. This peptide’s various mechanisms may potentially differentiate from that of alpha-MSH, which researchers believe interacts with the melanocortin-1 receptors by theoretically activating the cAMP pathway. Instead, studies suggest a rapid and acute increase in intracellular calcium when KPV is introduced alongside N6-(L-2-phenyl isopropyl) adenosine (PIA), an adenosine agonist that inhibits the cAMP pathway. Further data-gathering investigations using cells transfected with melanocortin-1 receptors have indicated that KPV may, in theory, elevate intracellular calcium levels. This may imply an additional type of interaction with this receptor. This calcium signaling is thought to contribute to the inhibition of the activation of nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB), a transcription factor involved in inflammatory responses. By potentially inhibiting NF-κB activation, KPV might modulate inflammatory processes within cells.[1]
+[h3] Specifications
+[p] Molecular Weight: 342.43 g/mol
+[p] Molecular Formula: C16H30N4O4
+[p] Sequence: Lys-Pro-Val
+[p] Other Known Titles: MSH(11-13), ACTH(11-13), alpha-MSH(11-13)
+[h3] KPV Peptide Research
+[p] KPV Peptide and Intestinal Inflammation The primary subject of KPV research to date has been focused on th peptide’s potential for reducing intestinal inflammation. In murine models of inflammatory bowel disease (IBD), it appeared to reduce inflammatory infiltrates, MPO activity (Myeloperoxidase activity, which is a marker of inflammation in gut tissue samples), and overall histological data concerning inflammation. KPV appeared to help murine models to recover faster and gain weight. Delivery of KPV using nanoparticles functionalized with hyaluronic acid appeared to help direct inflammation to targeted intestinal locations.[2] It is thought that the suppression of TNF-alpha may potentially reduce inflammation and cause mucosal cell recovery. The researchers note that: “These results collectively [indicate] that our HA-KPV-NP/hydrogel system [may] release HA-KPV-NPs in the colonic lumen and that these NPs subsequently penetrate into colitis tissues and enable KPV to be internalized into target cells, thereby alleviating [models of] ulcerative colitis.” Studies have suggested that the peptide also may reduce NF-kappaB and mitogen-activated protein kinase (MAPK) activity.[3] Together, TNF-alpha, NF-kappaB, and MAPK inhibition may exert significant potential to facilitate inflammatory changes in the intestinal cells. Murine models exposed to KPV appeared to exhibit less colonic infiltration and average colon lengths than the control group. In cellular studies, KPV appeared to decrease the activation of these pathways in intestinal epithelial cells and activated T cells.[4] This inhibition was believed to be associated with a reduction in the secretion of pro-inflammatory cytokines such as interleukin-8 (IL-8). The mechanism by which KPV exerts this action seems to involve the peptide transporter PepT1, a di/tripeptide transporter typically expressed in the small intestine and possibly upregulated in the colon during inflammatory conditions. Researchers have posited that KPV is transported into cells via PepT1, leading to its intracellular accumulation and subsequent inhibition of inflammatory signaling pathways. This hypothesis is supported by observations that the anti-inflammatory actions of KPV were diminished when other substrates blocking the PepT1 pathway were present, implying that KPV's uptake through PepT1 is critical for its activity. Additionally, KPV did not appear to act through melanocortin receptors, as it did not increase intracellular cyclic adenosine monophosphate (cAMP) levels, which would be expected if it were acting via these receptors. The scientists reported that “This study indicates that KPV is transported into cells by PepT1 and might be a new [research] agent for IBD.”[4]
+[p] KPV Peptide and Wound Healing Research suggests that most of the cells involved in wound healing express a Melanocortin 1 receptor that binds alpha-melanocyte-stimulating hormone and analogs like KPV. Researchers suggest that the KPV peptide appears to reduce the levels of inflammation during healing without inducing the pigmentation associated with endogenous scar formation. Researchers suggest that the action of KPV in reducing inflammation and promoting healing in research models may be mediated via nitric oxide (NO) signaling pathways. One such experiment involved mechanical abrasion intended to bare the entire corneal epithelium, followed by the introduction of KPV to the research models.[5] Researchers measured the area of the corneal epithelial defect before and at regular intervals after the peptide. The mean percent of epithelial defect remaining at each time point was apparently smaller in samples exposed to KPV compared to controls, suggesting a potential acceleration of the healing process. To explore the role of NO, sodium nitroprusside (SP), an NO donor, was examined, and the potential of KPV was challenged by pre-exposition with the nitric oxide synthase inhibitor L-NAME. Pre-exposure with L-NAME inhibited KPV's facilitative action on corneal epithelial wound healing. This observation may indicate that NO plays a role in KPV's mechanism of action. In vitro, corneal epithelial cells were exposed to KPV in a medium containing 15% fetal bovine serum. Certain concentrations of KPV stimulated cell viability, suggesting a potential direct action on epithelial cells. Thus, KPV may facilitate corneal epithelial wound healing through mechanisms that might involve NO disposition.
+[p] KPV Peptide and Scar Formation It is thought that KPV may decrease chronic inflammation, which appears to lead to hypertrophic scarring (e.g., keloid).[6] Hypertrophic scarring is considered to be caused by widespread macrophage infiltration, TNF immunoreactivity, and neutrophil abundance. It is hypothesized the implications of alpha-MSH in this setting may induce comparatively more minor scars and a less harsh inflammatory response. Compared to hormones with similar qualities, Alpha-MSH appears to exhibit a greater potential impact than KPV in certain areas. Still, researchers posit that the molecule may have one serious potential disadvantage compared to KPV—the potential for an increase in melanin production and pigmentation along the surface of the epidermal layer. The possible anti-inflammatory actions of KPV are mediated through a different pathway compared to those of alpha-MSH. Whereas alpha-MSH binds to specific melanocortin receptors, KPV does not appear to.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Elliott RJ, Szabo M, Wagner MJ, Kemp EH, MacNeil S, Haycock JW. alpha-Melanocyte-stimulating hormone, MSH 11-13 KPV and adrenocorticotropic hormone signalling in human keratinocyte cells. J Invest Dermatol. 2004 Apr;122(4):1010-9. doi: 10.1111/j.0022-202X.2004.22404.x. PMID: 15102092.
+[a https://doi.org/10.1111/j.0022-202X.2004.22404.x] doi: 10.1111/j.0022-202X.2004.22404.x
+[li] Xiao B, Xu Z, Viennois E, Zhang Y, Zhang Z, Zhang M, Han MK, Kang Y, Merlin D. Orally Targeted Delivery of Tripeptide KPV via Hyaluronic Acid-Functionalized Nanoparticles Efficiently Alleviates Ulcerative Colitis. Mol Ther. 2017 Jul 5;25(7):1628-1640. doi: 10.1016/j.ymthe.2016.11.020. Epub 2017 Jan 28. PMID: 28143741; PMCID: PMC5498804.
+[a https://doi.org/10.1016/j.ymthe.2016.11.020] doi: 10.1016/j.ymthe.2016.11.020
+[li] Zhu W, Ren L, Zhang L, Qiao Q, Farooq MZ, Xu Q. The Potential of Food Protein-Derived Bioactive Peptides against Chronic Intestinal Inflammation. Mediators Inflamm. 2020 Sep 9;2020:6817156. doi: 10.1155/2020/6817156. PMID: 32963495; PMCID: PMC7499337.
+[a https://doi.org/10.1155/2020/6817156] doi: 10.1155/2020/6817156
+[li] Dalmasso G, Charrier-Hisamuddin L, Nguyen HT, Yan Y, Sitaraman S, Merlin D. PepT1-mediated tripeptide KPV uptake reduces intestinal inflammation. Gastroenterology. 2008 Jan;134(1):166-78. doi: 10.1053/j.gastro.2007.10.026. Epub 2007 Oct 17. PMID: 18061177; PMCID: PMC2431115.
+[a https://doi.org/10.1053/j.gastro.2007.10.026] doi: 10.1053/j.gastro.2007.10.026
+[li] Bonfiglio V, Camillieri G, Avitabile T, Leggio GM, Drago F. Effects of the COOH-terminal tripeptide alpha-MSH(11-13) on corneal epithelial wound healing: role of nitric oxide. Exp Eye Res. 2006 Dec;83(6):1366-72. doi: 10.1016/j.exer.2006.07.014. Epub 2006 Sep 11. PMID: 16965771.
+[li] Song J, Li X, Li J. Emerging evidence for the roles of peptide in hypertrophic scar. Life Sci. 2020 Jan 15;241:117174. doi: 10.1016/j.lfs.2019.117174. Epub 2019 Dec 13. PMID: 31843531.
+[a https://doi.org/10.1016/j.lfs.2019.117174] doi: 10.1016/j.lfs.2019.117174
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] TB-500 (Thymosin Beta-4) (10mg) $124.00
+[a https://biotechpeptides.com/product/tb-500-10mg/] TB-500 (Thymosin Beta-4) (10mg) $124.00
+[img] TB-500 (Thymosin Beta-4) :: https://biotechpeptides.com/wp-content/uploads/2020/04/TB-500-1-238x317.webp
+[h2] TB-500 (Thymosin Beta-4) (10mg)
+[li] BPC-157 (5mg & 10mg) $52.00 – $92.00Price range: $52.00 through $92.00
+[a https://biotechpeptides.com/product/bpc-157/] BPC-157 (5mg & 10mg) $52.00 – $92.00Price range: $52.00 through $92.00
+[img] BPC-157 :: https://biotechpeptides.com/wp-content/uploads/2020/03/BPC-157-2-238x317.webp
+[h2] BPC-157 (5mg & 10mg)
+[li] B7-33 (6mg) $62.00
+[a https://biotechpeptides.com/product/b7-33-6mg/] B7-33 (6mg) $62.00
+[img] B7-33 (6mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/B7-33-1-238x317.webp
+[h2] B7-33 (6mg)
+[li] LL-37 (5mg) $86.00
+[a https://biotechpeptides.com/product/ll-37-5mg/] LL-37 (5mg) $86.00
+[img] LL-37 (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/LL-37-1-238x317.webp
+[h2] LL-37 (5mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

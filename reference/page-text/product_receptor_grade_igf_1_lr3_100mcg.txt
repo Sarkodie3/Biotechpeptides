@@ -1,0 +1,128 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/IGF-1-LR3-Receptor-Grade-1.webp] 
+[img] Receptor Grade IGF-1 LR3 :: https://biotechpeptides.com/wp-content/uploads/2020/03/IGF-1-LR3-Receptor-Grade-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_IGF-1_LR3_100mcg_3140074_20260725_BP_page-0001.webp] 
+[img] Receptor Grade IGF-1 LR3 (100mcg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_IGF-1_LR3_100mcg_3140074_20260725_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_IGF-1_LR3_100mcg_3140074_20260725_BP_page-0002.webp] 
+[img] Receptor Grade IGF-1 LR3 (100mcg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_IGF-1_LR3_100mcg_3140074_20260725_BP_page-0002.webp
+[h1] Receptor Grade IGF-1 LR3 (100mcg)
+[p] $27.00
+[p] Receptor Grade IGF-1 LR3 peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_711 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $25.65
+[input name=wccs_tier_select_711 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $24.30
+[label] Receptor Grade IGF-1 LR3 (100mcg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_IGF-1_LR3_100mcg_3140074_20260725_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Receptor Grade IGF-1 LR3 Peptide
+[p] Receptor Grade IGF-1 LR3 peptide is a research reagent examined in studies on cellular growth, IGF receptors, and IGF binding proteins. It contains an extended N-terminal structure of 13 amino acids and a replacement of the glutamic acid at residue 3. Additionally, the addition of arginine in the original sequence of recombinant IGF-1 (rhIGF-1), which ultimately leads to the formation of an 83 amino acid peptide. Hence, it is named IGF-1 Long R3.[1,2] It appears to be potentially more influential on cellular activities than rhIGF-1 due to an apparent significant improvement in its biological activity. This is since it exhibits a stronger affinity for the IGF receptor and lower affinity towards other proteins that may inactivate it. Moreover, the classification of Receptor Grade refers to the purity of the material, which is considered higher than the standard Media Grade IGF-1 LR3. Media grate IGF-1 LR3 is routinely studied in cell cultures and as a research reagent, at an economical cost, for studies where biological potency is not crucial. Receptor Grade IGF-1 LR3 is considered the reagent of choice to achieve optimum results when performing any animal study and cell-based assays. Growth of mammalian cells in the presence of low concentrations of Long R3 IGF-1 appears to result in better productivity than standard concentrations of insulin and/or standard IGF-1.[1] Researchers report that the peptide exhibited “equivalent or better performance using two recombinant CHO cell lines.” IGF-1 LR3 may be more capable of inducing the type 1 IGF receptor, potentially promoting an elevated level of intracellular signaling, cellular proliferation, and apoptosis inhibition.
+[h3] Specifications
+[p] Molecular Formula: C400H625N111O115S9
+[p] Molecular Weight: 9117.5 g/mol
+[p] Sequence: MFPAMPLSSL FVNGPRTLCG AELVDALQFV CGDRGFYFNK PTGYGSSSRR APQTGIVDEC CFRSCDLRRL EMYCAPLKPA KSA
+[h3] Receptor Grade IGF-1 LR3 Research
+[p] Receptor Grade IGF-1 LR3 and Biological Activity The peptide appears to bring about a more pronounced but short-lived impact than IGF-1 through a potential resistance in the association of inactivating proteins such as IGF binding proteins (IGFBPs).[2] Insulin-like Growth Factor Binding Proteins (IGFBPs) are a category of proteins that may regulate the availability of Insulin-like Growth Factors (IGFs) within the bloodstream, possibly influencing their interactions with various tissues. It is conceivable that a decrease in the binding affinity of IGF-1 LR3 for IGFBPs might affect its bioavailability, potentially reducing its duration of action. Additionally, this weakened binding might alter how IGF-1 LR3 engages with targeted tissues in experimental settings. These changes could potentially enhance the potency of IGF-1 LR3, although possibly shortening its active duration. This suggests that the interactions between IGF-1 LR3 and IGFBPs might determine the functional outcomes of IGF-1 LR3 in specific experimental contexts. Consequently, this may result in IGF-1 LR3 being more potent but with a shorter duration of action compared to recombinant Insulin-like Growth Factor 1 (rhIGF-1). Studies in murine models indicate that IGF-1 LR3 may be cleared from the plasma faster, to be destributed more quickly into various tissue models as compared to IGF-1.[3] The investigation into the tissue distribution patterns of IGF-1 LR3 suggested it might localize differently from IGF-1. Notably, elevated levels of IGF-1 LR3 were observed in specific tissues, including the kidneys, ovaries, and adrenal glands in murine models. [1] This distinct localization pattern implies that organs primarily involved in metabolic and reproductive functions might have different abilities to absorb or retain IGF-1 LR3 compared to IGF-1. It is speculated that these observed differences might be due to IGF-1 LR3's reduced tendency to bind with IGF-binding proteins (IGFBPs). This reduced binding may affect its bioavailability and interactions with target tissues in experimental models. However, there is a hypothesis that a peptide with similar modifications, specifically the R3 modification found in IGF-1 LR3, may possess greater anabolic potential than regular IGF-1 despite a shorter duration of action. Further research is necessary to understand these mechanisms and their implications fully.[4]
+[p] Receptor Grade IGF-1 LR3 and Insulin-Like Growth Factor Receptor Interactions Naturally produced IGF-1 hormones interact with at least two cell surface receptors: the IGF-1 receptor (IGF-1R) and the insulin receptor.[5] The researchers also note that “IR and IGF1R act as identical portals to the regulation of gene expression, with differences between insulin and IGF-1 effects due to a modulation of the amplitude of the signal created by the specific ligand-receptor interaction.” The IGF-1R is referred to as the “physiologic” receptor due to its potential higher affinity (approximately 100 times higher) for IGF-1 as compared to the insulin receptor. The association of IGF-1 and IGF-1R apparently leads to changes in metabolism, prevention of cell death (apoptosis), promotion of cell growth (hypertrophy), differentiation and cell division (hyperplasia), normal development, and even malignant growth. IGF-1R has been researched for its involvement in diverse types of cancer, such as prostate, breast, and lung cancer.[6] IGF-1 also appears to stimulate insulin receptors and activate them, thereby promoting glucose uptake from the bloodstream by cells. IGF-1 displays a three-fold influence on muscle cells.
+[p] Receptor Grade IGF-1 LR3 and Muscle Cells Preliminary research utilizing murine models suggests that IGF-1 LR3 might have significant anabolic (muscle-building) actions. Specifically, a study examined its impact on both normal mice and those experiencing catabolic (muscle-wasting) conditions induced by dexamethasone, a synthetic steroid.[7] The researchers noted that IGF-1 LR3 appeared to be roughly 2.5 times more potent than regular IGF-1 in producing anabolic actions. These observed actions included weight gain, an increase in the weight of internal organs (visceral organs), and possibly improved efficiency in converting feed into body mass. These findings were noted when the murine models were subjected to continuous exposure to IGF-1 LR3. Unfortunately, there are no studies investigating the direct potential of IGF-1 LR3 on muscle cells. Considering the similaritied between the two peptides, IGF-1 LR3 is expected to have similar actions on muscle cells as IGF-1. Based on research, studies posit that IGF-1 may promote an increase in the number of muscle cells, also known as hyperplasia. Secondly, IGF-1 appears to influence the lifespan of satellite cells of the skeletal muscles.[8] Satellite cells appear to provide nutritional support to muscle cells, helping them to operate efficiently. IGF-1 may help to build muscle tissue by improving the lifespan of these cells. Finally, IGF-1 appears to promote the differentiation of myoblasts.[9] In other words, it may encourage the commitment of stem cell progeny from non-specific pluripotent stem cells to dedicated muscle tissue. To conclude, IGF-1 may improve muscle development by enhancing the rate at which generic stem cells are transformed into muscle cells.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Thomas, James N., and Victor Fung. “Comparison of long R3 IGF-1 with insulin in the support of cell growth and recombinant protein expression in CHO cells.” Animal Cell Technology. Butterworth-Heinemann, 1994. 91-95.
+[li] Assefa, Biruhalem, et al. “Insulin-like growth factor (IGF) binding protein-2, independently of IGF-1, induces GLUT-4 translocation and glucose uptake in 3T3-L1 adipocytes.” Oxidative Medicine and Cellular Longevity 2017 (2017).
+[li] Bastian SE, Walton PE, Wallace JC, Ballard FJ. Plasma clearance and tissue distribution of labelled insulin-like growth factor-I (IGF-I) and an analogue LR3IGF-I in pregnant rats. J Endocrinol. 1993 Aug;138(2):327-36. doi: 10.1677/joe.0.1380327. PMID: 7693845.
+[a https://doi.org/10.1677/joe.0.1380327] doi: 10.1677/joe.0.1380327
+[li] Elis S, Wu Y, Courtland HW, Cannata D, Sun H, Beth-On M, Liu C, Jasper H, Domené H, Karabatas L, Guida C, Basta-Pljakic J, Cardoso L, Rosen CJ, Frystyk J, Yakar S. Unbound (bioavailable) IGF1 enhances somatic growth. Dis Model Mech. 2011 Sep;4(5):649-58. doi: 10.1242/dmm.006775. Epub 2011 May 31. PMID: 21628395; PMCID: PMC3180229.
+[a https://doi.org/10.1242/dmm.006775] doi: 10.1242/dmm.006775
+[li] Boucher J, Tseng YH, Kahn CR. Insulin and insulin-like growth factor-1 receptors act as ligand-specific amplitude modulators of a common pathway regulating gene transcription. J Biol Chem. 2010 May 28;285(22):17235-45. doi: 10.1074/jbc.M110.118620. Epub 2010 Apr 1. PMID: 20360006; PMCID: PMC2878077.
+[a https://doi.org/10.1074/jbc.M110.118620] doi: 10.1074/jbc.M110.118620
+[li] Shanmugalingam T, Bosco C, Ridley AJ, Van Hemelrijck M. Is there a role for IGF-1 in the development of second primary cancers? Cancer Med. 2016 Nov;5(11):3353-3367. doi: 10.1002/cam4.871. Epub 2016 Oct 13. PMID: 27734632; PMCID: PMC5119990.
+[a https://doi.org/10.1002/cam4.871] doi: 10.1002/cam4.871
+[li] Tomas, F. M., Knowles, S. E., Owens, P. C., Chandler, C. S., Francis, G. L., Read, L. C., & Ballard, F. J. (1992). Insulin-like growth factor-I (IGF-I) and especially IGF-I variants are anabolic in dexamethasone-treated rats. The Biochemical journal, 282 ( Pt 1)(Pt 1), 91–97.
+[li] Yoshida T, Delafontaine P. Mechanisms of IGF-1-Mediated Regulation of Skeletal Muscle Hypertrophy and Atrophy. Cells. 2020 Aug 26;9(9):1970. doi: 10.3390/cells9091970. PMID: 32858949; PMCID: PMC7564605.
+[a https://doi.org/10.3390/cells9091970] doi: 10.3390/cells9091970
+[li] Aboalola D, Han VKM. Different Effects of Insulin-Like Growth Factor-1 and Insulin-Like Growth Factor-2 on Myogenic Differentiation of Human Mesenchymal Stem Cells. Stem Cells Int. 2017;2017:8286248. doi: 10.1155/2017/8286248. Epub 2017 Dec 14. PMID: 29387091; PMCID: PMC5745708.
+[a https://doi.org/10.1155/2017/8286248] doi: 10.1155/2017/8286248
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Sale! Hexarelin (5mg) $64.00 Original price was: $64.00.$49.00Current price is: $49.00.
+[a https://biotechpeptides.com/product/hexarelin-5mg/] Sale! Hexarelin (5mg) $64.00 Original price was: $64.00.$49.00Current price is: $49.00.
+[img] Hexarelin (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Hexarelin-1-238x317.webp
+[h2] Hexarelin (5mg)
+[li] Receptor Grade IGF-1 LR3 (1mg) $145.00
+[a https://biotechpeptides.com/product/receptor-grade-igf-1-lr3-1mg/] Receptor Grade IGF-1 LR3 (1mg) $145.00
+[img] Receptor Grade IGF-1 LR3 :: https://biotechpeptides.com/wp-content/uploads/2020/03/IGF-1-LR3-Receptor-Grade-1-238x317.webp
+[h2] Receptor Grade IGF-1 LR3 (1mg)
+[li] PEG-MGF (Pegylated MGF) (5mg) $79.00
+[a https://biotechpeptides.com/product/peg-mgf-5mg/] PEG-MGF (Pegylated MGF) (5mg) $79.00
+[img] PEG-MGF (Pegylated MGF) (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/PEG-MGF-1-238x317.webp
+[h2] PEG-MGF (Pegylated MGF) (5mg)
+[li] Sale! Tesamorelin (5mg & 10mg) $38.00 – $92.00Price range: $38.00 through $92.00 $38.00 – $73.00Price range: $38.00 through $73.00
+[a https://biotechpeptides.com/product/tesamorelin/] Sale! Tesamorelin (5mg & 10mg) $38.00 – $92.00Price range: $38.00 through $92.00 $38.00 – $73.00Price range: $38.00 through $73.00
+[img] Tesamorelin (5mg & 10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Tesamorelin-1-238x317.webp
+[h2] Tesamorelin (5mg & 10mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

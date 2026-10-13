@@ -1,0 +1,137 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h6] Free same day priority shipping
+[h1] made in the USA
+[input name=wpf type=hidden ph=]
+[input name=orderby type=hidden ph=]
+[input name=wpf_cols type=hidden ph=]
+[input name=wpf_page type=hidden ph=]
+[label] Price
+[input name=wpf_price-from type=hidden ph=]
+[input name=wpf_price-to type=hidden ph=]
+[label] In Stock
+[input name=wpf_in-stock type=checkbox ph=]
+[label] Categories
+[li] Peptide Blends 16
+[input name=wpf_categories[] type=checkbox ph=]
+[label] Peptide Blends
+[li] Peptides 73
+[input name=wpf_categories[] type=checkbox ph=]
+[label] Peptides
+[input name=undefined type=reset ph=]
+[p] No products were found matching your selection.
+[p] Showing all 16 results
+[select name=orderby type=undefined ph=]
+[input name=paged type=hidden ph=]
+[li] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg) $87.00
+[a https://biotechpeptides.com/product/fragment-176-191-mod-grf-1-29-ipamorelin-12mg/] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg) $87.00
+[img] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Fragment-Mod-GRF-Ipamorelin-1-238x317.webp
+[h2] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg)
+[li] BPC-157 & TB-500 Blend (10mg) $115.00
+[a https://biotechpeptides.com/product/bpc-157-tb-500-10mg-blend-2/] BPC-157 & TB-500 Blend (10mg) $115.00
+[img] BPC-157 & TB-500 Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/BPC-157-TB-500-1-238x317.webp
+[h2] BPC-157 & TB-500 Blend (10mg)
+[li] CJC-1295 & GHRP-6 Blend (10mg) $86.00
+[a https://biotechpeptides.com/product/cjc-1295-ghrp-6-10mg-blend-2/] CJC-1295 & GHRP-6 Blend (10mg) $86.00
+[img] CJC-1295 & GHRP-6 Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-GHRP-6-1-238x317.webp
+[h2] CJC-1295 & GHRP-6 Blend (10mg)
+[li] CJC-1295 & Ipamorelin Blend (10mg) $81.00
+[a https://biotechpeptides.com/product/cjc-1295-ipamorelin-10mg-blend-2/] CJC-1295 & Ipamorelin Blend (10mg) $81.00
+[img] CJC-1295 & Ipamorelin Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-Ipamorelin-1-238x317.webp
+[h2] CJC-1295 & Ipamorelin Blend (10mg)
+[li] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg) $80.00
+[a https://biotechpeptides.com/product/cjc-1295-ipamorelin-ghrp2-9mg-blend/] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg) $80.00
+[img] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-Ipamorelin-GHRP-2-1-238x317.webp
+[h2] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg)
+[li] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg) $87.00
+[a https://biotechpeptides.com/product/fragment-cjc-1295-ipamorelin-12mg-blend/] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg) $87.00
+[img] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Fragment-176-191-CJC-1295-Ipamorelin-238x317.webp
+[h2] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg)
+[li] Mod GRF 1-29 & GHRP-2 Blend (10mg) $84.00
+[a https://biotechpeptides.com/product/mod-grf-1-29-ghrp-2-blend-10mg/] Mod GRF 1-29 & GHRP-2 Blend (10mg) $84.00
+[img] Mod GRF 1-29 & GHRP-2 Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Mod-GRF-GHRP-2-1-238x317.webp
+[h2] Mod GRF 1-29 & GHRP-2 Blend (10mg)
+[li] Mod GRF 1-29 & Ipamorelin Blend (10mg) $81.00
+[a https://biotechpeptides.com/product/mod-grf-1-29-ipamorelin-10mg-blend/] Mod GRF 1-29 & Ipamorelin Blend (10mg) $81.00
+[img] Mod GRF 1-29 & Ipamorelin Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Mod-GRF-1-29-Ipamorelin-1-238x317.webp
+[h2] Mod GRF 1-29 & Ipamorelin Blend (10mg)
+[li] Sermorelin & Ipamorelin Blend (10mg) $81.00
+[a https://biotechpeptides.com/product/sermorelin-ipamorelin-10mg-blend-2/] Sermorelin & Ipamorelin Blend (10mg) $81.00
+[img] Sermorelin & Ipamorelin Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Sermorelin-Ipamorelin-238x317.webp
+[h2] Sermorelin & Ipamorelin Blend (10mg)
+[li] Mod GRF 1-29 & GHRP-6 (10mg) $86.00
+[a https://biotechpeptides.com/product/mod-grf-1-29-ghrp-6-10mg/] Mod GRF 1-29 & GHRP-6 (10mg) $86.00
+[img] Mod GRF 1-29 & GHRP-6 (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Mod-GRF-GHRP-6--238x317.webp
+[h2] Mod GRF 1-29 & GHRP-6 (10mg)
+[li] CJC-1295 & GHRP-2 Blend (10mg) $84.00
+[a https://biotechpeptides.com/product/cjc-1295-ghrp-2-blend-10mg/] CJC-1295 & GHRP-2 Blend (10mg) $84.00
+[img] CJC-1295 & GHRP-2 Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2023/06/CJC-1295-GHRP-2-1-238x317.webp
+[h2] CJC-1295 & GHRP-2 Blend (10mg)
+[li] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin Blend (12mg) $109.00
+[a https://biotechpeptides.com/product/tesamorelin-mod-grf-ipamorelin-blend-12mg/] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin Blend (12mg) $109.00
+[img] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin Blend (12mg) :: https://biotechpeptides.com/wp-content/uploads/2023/06/Tesamorelin-Mod-GRF-Ipamorelin-1-238x317.webp
+[h2] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin Blend (12mg)
+[li] Tesamorelin & Ipamorelin Blend (8mg) $90.00
+[a https://biotechpeptides.com/product/tesamorelin-ipamorelin-blend-8mg/] Tesamorelin & Ipamorelin Blend (8mg) $90.00
+[img] Tesamorelin & Ipamorelin Blend (8mg) :: https://biotechpeptides.com/wp-content/uploads/2023/06/Tesamorelin-Ipamorelin-238x317.webp
+[h2] Tesamorelin & Ipamorelin Blend (8mg)
+[li] BPC-157 & TB-500 & GHK-Cu Blend (70mg) $205.00
+[a https://biotechpeptides.com/product/bpc-157-tb-500-ghk-cu-blend-70mg/] BPC-157 & TB-500 & GHK-Cu Blend (70mg) $205.00
+[img] BPC-157 & TB-500 & GHK-Cu Blend (70mg) :: https://biotechpeptides.com/wp-content/uploads/2026/01/BPC-157-TB-500-GHK-Cu-Blend-70mg-238x317.webp
+[h2] BPC-157 & TB-500 & GHK-Cu Blend (70mg)
+[li] Sermorelin & GHRP-6 & GHRP-2 Blend (9mg) $88.00
+[a https://biotechpeptides.com/product/sermorelin-ghrp-6-ghrp-2-blend-9mg/] Sermorelin & GHRP-6 & GHRP-2 Blend (9mg) $88.00
+[img] Sermorelin & GHRP-6 & GHRP-2 Blend (9mg) :: https://biotechpeptides.com/wp-content/uploads/2026/01/Sermorelin-GHRP-6-GHRP-2-Blend-9mg-238x317.webp
+[h2] Sermorelin & GHRP-6 & GHRP-2 Blend (9mg)
+[li] KLOW Blend (80mg) $220.00
+[a https://biotechpeptides.com/product/klow-blend-80mg/] KLOW Blend (80mg) $220.00
+[img] BPC-157 & KPV & TB-500 & GHK-Cu Blend (KLOW) - 80mg :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC-157-KPV-TB-500-GHK-Cu-blend-KLOW-238x317.webp
+[h2] KLOW Blend (80mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

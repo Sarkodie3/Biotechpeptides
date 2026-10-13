@@ -1,0 +1,137 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Comprehensive Research on ACE-031 Peptide Across Metabolism, Cancer, and Muscle
+[p] by Dr. Usman | Apr 11, 2024 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Comprehensive Research on ACE-031 Peptide Across Metabolism, Cancer, and Muscle :: https://biotechpeptides.com/wp-content/uploads/2024/04/Comprehensive-Research-on-ACE-031-Peptide-Across-Metabolism-Cancer-and-Muscle.webp
+[p] ACE-031 peptide, referred to as ActRIIB-IgG1 peptide, is identified as a myostatin inhibitor. Structurally, it constitutes a fusion compound merging activin receptor type IIB (ACV2RB) with recombinant immunoglobulin IgG1 FC, an antibody variant.[1]
+[p] Research[2] suggests its solubility and potential to impede circulating myostatin, ostensibly averting the inhibitory action that native ACV2RB receptors are considered to have, fostering muscle growth. Myostatin, or growth and differentiation factor 8 (GDF8), is subject to inhibition by certain compounds termed inhibitors, targeting its action as a putative negative regulator of muscle growth primarily localized in skeletal muscle tissues.
+[p] Notably, myostatin’s influence appears absent in cardiac or smooth muscle tissues. Its discovery dates back to 1997, rooted in its observed inhibitory role in muscle growth, which was elucidated through murine studies. Myostatin purportedly restrains murine satellite cell activation, representing partially committed stem cells within muscle tissue. Experimental models suggest myostatin overexpression may lead to diminished muscle mass.
+[p] Myostatin is presumed to bind with a high affinity to ActR2B receptors, initiating a signaling cascade involving Smad2/3 pivotal for muscle regulation. Other ligands within the transforming growth factor-beta (TGF-β) superfamily, such as various GDFs and activins, may bind ActR2B and regulate muscle growth. ACE-031’s mechanism appears to involve binding with circulating members of the TGF-β superfamily, particularly myostatin, potentially leaving ACV2RB receptors uninhibited[3], thereby triggering muscle hypertrophy and augmenting skeletal muscle tissue size. Additionally, ACE-031 may exert positive effects on metabolism, fat storage, and bone density.
+[a https://biotechpeptides.com/product/ace-031-1mg/] ACE-031
+[p] Contents:
+[li] ACE-031 Peptide and Lipid Metabolism
+[a #lm] ACE-031 Peptide and Lipid Metabolism
+[li] ACE-031 Peptide and Muscle Tissue Hypertrophy
+[a #mth] ACE-031 Peptide and Muscle Tissue Hypertrophy
+[li] ACE-031 Peptide and Muscle Contractility
+[a #mc] ACE-031 Peptide and Muscle Contractility
+[li] ACE-031 Peptide and Energy Metabolism
+[a #em] ACE-031 Peptide and Energy Metabolism
+[li] ACE-031 Peptide and Bone Density
+[a #bd] ACE-031 Peptide and Bone Density
+[li] ACE-031 Peptide and Cancer
+[a #ca] ACE-031 Peptide and Cancer
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/ace-031-1mg/] 
+[img] ACE-031 (1mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/ACE-031.png
+[h2] ACE-031 Peptide and Lipid Metabolism
+[p] Investigations[4] into ACE-031’s impact on fat metabolism within the context of obesity research have unveiled intriguing insights. Recent studies have hinted at a potential correlation between myostatin expression and obesity, suggesting its involvement in metabolic pathways. Notably, in murine obesity models, elevated levels of myostatin and its receptor ActR2b have been observed compared to lean counterparts. Experimental manipulations inducing myostatin overexpression in these models have suggested a concurrent decline in muscle and myocardial mass alongside an increase in adipose tissue, implying a possible role of myostatin in promoting adiposity and reducing muscle mass.
+[p] Conversely, myostatin depletion in select murine models presents a possible research path for mitigating age-related adipose tissue accumulation and partially alleviating obesity-related traits. Furthermore, observations in mice subjected to high-calorie diets suggest that myostatin deficiency may lead to “enhanced peripheral tissue fatty acid oxidation and increased thermogenesis, culminating in increased fat utilisation and reduced adipose tissue mass.”
+[p] In light of these findings, researchers are exploring the potential of ACE-031 in obesity-related complications in murine models. Preliminary findings[5] suggest that ACE-031 may have promise in preventing and mitigating obesity-associated phenotypes.
+[h2] Research in Muscle Tissue Hypertrophy
+[p] In a rigorously designed experimental framework structured as a double-blind, placebo-controlled research study,[6] the potential of ACE-031 in muscle tissue was explored alongside a comprehensive pharmacokinetic analysis. According to the pharmacokinetic analysis report, ACE-031 exhibited a half-life estimated to range between 10 to 15 days. The findings of this study suggested a potential augmentation in muscle mass following exposure to ACE-031. This inference was drawn from meticulous assessments of muscle tissue alterations, quantified through precise measurement techniques, including dual-energy X-ray absorptiometry (DEXA) and magnetic resonance imaging (MRI) conducted 29 days post-peptide exposure.
+[p] The results indicated a possible surge in muscle mass, seen in a 3.3% escalation in total lean mass and a 5.1% increase in quadriceps femoris muscle volume. Furthermore, notable shifts in serum biomarkers were observed, suggesting potential bone and fat metabolism enhancements. These percentages underscore profound alterations in muscle tissue, indicative of ACE-031’s potential to stimulate hypertrophy.
+[h2] ACE-031 Peptide and Muscle Contractility
+[p] Ongoing research[7] has proposed that the peptide’s action may extend beyond myostatin inhibition. ACE-031 may enhance muscle contractile force by potentially mitigating oxidative stress within muscle tissues, conserving energy, and fostering oxidative respiration within muscles. These hypotheses stem from observations conducted in murine models, with assessments facilitated through magnetic resonance imaging (MRI) and dynamic [31P]-magnetic resonance spectroscopy ([31P]-MRS).
+[p] Specifically, exposure to ACE-031 appeared to yield a marked increase in muscle volume, with no discernible alteration in the distribution of muscle fiber types. This suggests a potential role for the peptide in promoting muscle growth. Furthermore, murine models exhibited a notable elevation in basal oxygen consumption and energy expenditure, indicative of heightened metabolic activity. During standardized fatiguing exercises, animal models exposed to ACE-031 reportedly exhibited enhanced muscle performance in a significantly higher maximum and total absolute contractile forces compared to the control group.
+[p] However, it is pertinent to note that while ACE-031 appeared to boost muscle contractile forces, it did not seem to affect the specific force-generating capacity or fatigue resistance. Moreover, metabolic fluxes, adenosine triphosphate (ATP) homeostasis, and contractile efficiency during exercise appeared to have remained largely unaffected. Intriguingly, ACE-031 seemed to diminish the intrinsic mitochondrial capacity for ATP production, hinting at potential alterations in energy generation pathways within muscle cells. However, the precise implications of this finding warrant further investigation.
+[h2] Studies on Energy Metabolism
+[p] Studies have indicated that inhibiting endogenous ACE-031 proteins might not effectively lower serum lactate levels, potentially impeding the occurrence of metabolic damage to muscles and the vascularization of muscle tissue. However, supplementation with ACE-031 may potentially mitigate such impacts. ACE-031 supplementation is speculated to foster muscle cell growth by thwarting myostatin-mediated wasting. Moreover, it may postpone the onset of fatigue and oxidative damage by enhancing muscle tissue oxygenation.
+[h2] ACE-031 Peptide and Bone Density
+[p] A study[8] delved into the potential action of ACE-031 on bone tissue in murine models of Duchenne Muscular Dystrophy (DMD), or muscle degeneration and heightened fracture susceptibility. The models were categorized into groups based on their activity level (running or sedentary) and further subdivided into active or placebo cohorts.
+[p] The research indicated that ACE-031 led to noticeable increases in body and muscle weights in sedentary and exercising murine models. Notably, researchers reported that femoral micro-CT analysis appeared to exhibit a substantial bone volume and trabecular number enhancement within the ACE-031 groups. While running also seemed to enhance these bone parameters in the control group, it did not notably improve trabecular bone structure or volumetric bone mineral density.
+[p] Furthermore, ACE-031 was implicated in augmenting bone mass in vertebral tissue. According to research, “the number of osteoclasts was decreased in histological analysis and the expression of several osteoblast marker genes was increased in ActRIIB-Fc treated mice, suggesting decreased bone resorption and increased bone formation in these mice.”
+[h2] ACE-031 Peptide and Cancer
+[p] Molecular pathways contributing to muscle loss, often attributed to apoptosis or necrosis, are frequently observed in cancer research. The principal instigator is the metabolic strain on muscles induced by alterations in aerobic respiration status. Concurrently, an elevation in intracellular free radical levels appears to indirectly exacerbate muscle damage. Intervention with ACE-031 appears to activate the ERK1/2 pathway, thereby potentially mitigating muscle fiber atrophy stemming from apoptosis. Moreover, research indicates possible enhancements in energy utilization efficiency and mitochondrial metabolism following ACE-031 exposure, concomitant with a reduction in free radical concentration.
+[p] Furthermore, certain cancers may produce myostatin, exacerbating muscle wasting. These malignancies are often characterized by deactivated activin receptors, mitochondrial loss, and subsequently, diminished ATP levels. Studies suggest a reversal of these detrimental effects upon exposure to ACE-031. Beyond mitigating myostatin-induced muscle wasting, ACE-031 inhibition may potentially exert various ancillary downstream impacts, including enhanced insulin sensitivity, reduced fat deposition, attenuated inflammation, and improved bone metabolism and strength. Research is still ongoing.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] National Center for Biotechnology Information (2024). PubChem Compound Summary for CID 118732224, Myostatin inhibitory peptide 7. https://pubchem.ncbi.nlm.nih.gov/compound/Myostatin-inhibitory-peptide-7.
+[a https://pubchem.ncbi.nlm.nih.gov/compound/Myostatin-inhibitory-peptide-7] https://pubchem.ncbi.nlm.nih.gov/compound/Myostatin-inhibitory-peptide-7
+[li] McPherron AC, Lawler AM, Lee SJ. Regulation of skeletal muscle mass in mice by a new TGF-beta superfamily member. Nature. 1997 May 1; 387(6628):83-90. https://pubmed.ncbi.nlm.nih.gov/9139826/
+[a https://pubmed.ncbi.nlm.nih.gov/9139826/] https://pubmed.ncbi.nlm.nih.gov/9139826/
+[li] Ozawa T, Morikawa M, Morishita Y, Ogikubo K, Itoh F, Koinuma D, Nygren PÅ, Miyazono K. Systemic administration of monovalent follistatin-like 3-Fc-fusion protein increases muscle mass in mice. iScience. 2021 May 14;24(5):102488. doi: 10.1016/j.isci.2021.102488. PMID: 34113826; PMCID: PMC8170004. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8170004/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8170004/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8170004/
+[li] Yang M, Liu C, Jiang N, Liu Y, Luo S, Li C, Zhao H, Han Y, Chen W, Li L, Xiao L, Sun L. Myostatin: a potential therapeutic target for metabolic syndrome. Front Endocrinol (Lausanne). 2023 May 23;14:1181913. doi: 10.3389/fendo.2023.1181913. PMID: 37288303; PMCID: PMC10242177. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10242177/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10242177/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10242177/
+[li] Zhang C, McFarlane C, Lokireddy S, Masuda S, Ge X, Gluckman PD, Sharma M, Kambadur R. Inhibition of myostatin protects against diet-induced obesity by enhancing fatty acid oxidation and promoting a brown adipose phenotype in mice. Diabetologia. 2012 Jan;55(1):183-93. doi: 10.1007/s00125-011-2304-4. Epub 2011 Sep 17. Erratum in: Diabetologia. 2015 Mar;58(3):643. PMID: 21927895. https://pubmed.ncbi.nlm.nih.gov/21927895/
+[a https://pubmed.ncbi.nlm.nih.gov/21927895/] https://pubmed.ncbi.nlm.nih.gov/21927895/
+[li] Attie KM, Borgstein NG, Yang Y, Condon CH, Wilson DM, Pearsall AE, Kumar R, Willins DA, Seehra JS, Sherman ML. A single ascending-dose study of muscle regulator ACE-031 in healthy volunteers. Muscle Nerve. 2013 Mar;47(3):416-23. https://pubmed.ncbi.nlm.nih.gov/23169607/
+[a https://pubmed.ncbi.nlm.nih.gov/23169607/] https://pubmed.ncbi.nlm.nih.gov/23169607/
+[li] Béchir N, Pecchi E, Vilmen C, Le Fur Y, Amthor H, Bernard M, Bendahan D, Giannesini B. ActRIIB blockade increases force-generating capacity and preserves energy supply in exercising mdx mouse muscle in vivo. FASEB J. 2016 Oct;30(10):3551-3562. https://pubmed.ncbi.nlm.nih.gov/27416839/
+[a https://pubmed.ncbi.nlm.nih.gov/27416839/] https://pubmed.ncbi.nlm.nih.gov/27416839/
+[li] Puolakkainen, Tero et al. “Treatment with soluble activin type IIB-receptor improves bone mass and strength in a mouse model of Duchenne muscular dystrophy.” BMC musculoskeletal disorders vol. 18,1 20. 19 Jan. 2017. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5244551/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5244551/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5244551/
+[li] Image 1 Source: https://pubchem.ncbi.nlm.nih.gov/compound/Myostatin-inhibitory-peptide-7#section=2D-Structure
+[a https://pubchem.ncbi.nlm.nih.gov/compound/Myostatin-inhibitory-peptide-7#section=2D-Structure] https://pubchem.ncbi.nlm.nih.gov/compound/Myostatin-inhibitory-peptide-7#section=2D-Structure
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

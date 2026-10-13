@@ -1,0 +1,134 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Decapeptide-12 and Tyrosinase: Interactions in Dermatological Studies
+[p] by Dr. Usman | Oct 14, 2025 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Decapeptide-12 and Tyrosinase Interactions in Dermatological Studies :: https://biotechpeptides.com/wp-content/uploads/2025/10/Decapeptide-12-and-Tyrosinase-Interactions-in-Dermatological-Studies.webp
+[a https://biotechpeptides.com/product/decapeptide-12-topical-200mg/] Decapeptide-12 is a synthetic oligopeptide
+[p] Chemically, Decapeptide-12 has a molecular formula of C₆₅H₉₀N₁₈O₁₇ and a molecular weight of approximately 1311.46 g/mol. Its structural configuration and sequence are designed to allow interactions with the catalytic domains of tyrosinase, thereby influencing pigment production.
+[p] Research interest in Decapeptide-12 extends beyond studies belonging to dermatological and pigmentation contexts. It has also been explored by researchers for its potential role in food preservation, given the apparent involvement of tyrosinase in the oxidation of phenolic compounds in fruits and vegetables. This can lead to discoloration, reduced palatability, and decreased nutritional value. Furthermore, compounds classified as tyrosinase inhibitors, such as Decapeptide-12, have been explored in entomological studies under the hypothesis that the enzyme may be involved in wound healing, immune responses, and cuticle hardening.
+[p] Contents:
+[li] General Overview of Syn-AKE Tripeptide
+[a #research] General Overview of Syn-AKE Tripeptide
+[li] Scientific and Research Studies
+[a #research] Scientific and Research Studies
+[li] Decapeptide-12 and Sirtuin Pathway Regulation
+[a #spr] Decapeptide-12 and Sirtuin Pathway Regulation
+[li] Decapeptide-12 and Pigmentary Dysregulation
+[a #pd] Decapeptide-12 and Pigmentary Dysregulation
+[li] Decapeptide-12 and Hyperpigmentation with Inflammation and Photodamage
+[a #hip] Decapeptide-12 and Hyperpigmentation with Inflammation and Photodamage
+[li] Decapeptide-12 on Oxidative Stress
+[a #os] Decapeptide-12 on Oxidative Stress
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/decapeptide-12-topical-200mg/] 
+[img] Decapeptide-12 (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Decapeptide-12-200mg-2-1.webp
+[h2] General Overview of Decapeptide-12
+[p] The biological activity of Decapeptide-12 is attributed to its potential capacity to interfere with the catalytic function of tyrosinase. Tyrosinase catalyzes the ortho-hydroxylation of L-tyrosine to L-3,4-dihydroxyphenylalanine (L-DOPA), followed by the oxidation of L-DOPA to dopaquinone. These initial reactions constitute the rate-limiting steps of melanogenesis and are deemed indispensable for the subsequent biosynthesis of eumelanin and pheomelanin.
+[p] Decapeptide-12 has been reported to inhibit these reactions, potentially by reversibly binding to the active site of tyrosinase and reducing enzymatic turnover of phenolic substrates. This interaction is thought to alter the conformation of the enzyme and limit catalytic efficiency. Additional studies suggest that Decapeptide-12 may influence the transcriptional or translational regulation of the TYR gene, located on chromosome 11, thereby modulating overall tyrosinase expression within melanocytes.
+[p] The suggested inhibitory activity of Decapeptide-12 is not restricted to mammalian systems. In plants and food substrates, suppression of tyrosinase-mediated oxidation of phenolic compounds may attenuate enzymatic browning and degradation of organoleptic properties. In insects, where tyrosinase is considered to contribute to wound repair, melanotic encapsulation, and exoskeleton sclerotization, Decapeptide-12 and related inhibitors have been investigated as potential disruptors of developmental and immune pathways.
+[h2] Scientific Research and Studies
+[h3] Decapeptide-12 and Sirtuin Pathway Regulation
+[p] Sirtuins constitute a conserved family of NAD⁺-dependent deacetylases that are generally believed to modulate cellular metabolism, genomic stability, and stress responses. Members of this family, particularly SIRT1, have been implicated in glucose and lipid homeostasis, DNA repair, and oxidative stress resistance. Experimental models suggest that sirtuin activation may contribute to delayed cellular senescence and extended lifespan in lower organisms. Compounds such as resveratrol have been suggested to influence sirtuin activity, highlighting the relevance of this pathway in longevity research.
+[p] A recent study examined the effect of Decapeptide-12 on sirtuin gene expression in keratinocyte progenitors.[2] Reverse transcription polymerase chain reaction (RT-PCR) assays were employed to quantify transcriptional responses of seven sirtuin isoforms following 72-hour exposure to varying concentrations of the peptide. The data suggested an apparent upregulation of multiple sirtuin genes with minimal cytotoxicity. Specifically, per the researchers, “Decapeptide-12 [appeared to have] increased transcription of SIRT1 by 141 ± 11% relative to control cells, whereas levels of SIRT3, SIRT6, and SIRT7 were increased by 121 ± 13%, 147 ± 8% and 95± 14%, respectively.”
+[p] The observed elevation in SIRT1 expression suggests increased cellular capacity to mitigate oxidative and inflammatory stressors, potentially delaying molecular hallmarks of cell aging and senescence. Increased SIRT3 transcription could imply a role in mitochondrial regulation, energy metabolism, and antioxidant defenses. The strong induction of SIRT6 may be relevant to genomic stability, as this isoform is associated with DNA repair, chromatin regulation, and telomere maintenance. Although the increase in SIRT7 expression appeared modest, it may still reflect modulation of nucleolar activity, ribosomal biogenesis, and cellular stress-sensing. Collectively, these findings suggest that Decapeptide-12 may influence transcriptional regulation of sirtuins, thereby intersecting with pathways linked to cellular longevity and homeostasis.
+[h3] Decapeptide-12 and Pigmentary Dysregulation
+[p] Decapeptide-12 has been studied for its potential influence on hyperpigmentation, including melasma, solar lentigines, and other pigmentary irregularities.
+[p] A 24-week clinical evaluation[3] involving 25 models of moderate to severe melasma, periocular lines, and wrinkles suggested apparent improvements across the measured outcomes, with action reported as sustained over the study period.
+[p] In a separate 16-week trial, 33 models exhibiting mild-to-moderate melasma were assessed.[4] The results suggested a visible reduction in the clinical appearance of hyperpigmented lesions. Another study[5] reported that approximately 25% of the models experienced “complete clearance of melasma after six weeks of [exposure to Decapeptide-12].”
+[p] Additional observations highlighted potential in Fitzpatrick phototype IV, a demographic commonly affected by recalcitrant melasma. Across these studies, scientists noted statistically significant improvements in both hyperpigmentation severity and overall aesthetic parameters, suggesting that Decapeptide-12 may modulate pathways associated with melanogenesis and pigmentary homeostasis.
+[h3] Decapeptide-12 and Hyperpigmentation with Inflammation and Photodamage
+[p] Decapeptide-12 has been studied for its potential on hyperpigmented lesions arising from both inflammatory events and chronic photodamage.
+[p] In research models of Fitzpatrick phototype IV, post-inflammatory hyperpigmentation has been reported to respond to Decapeptide-12 exposure, with observations suggesting an accelerated reduction of hyperpigmented areas relative to placebo. This is hypothesized to involve the peptide’s inhibitory potential on tyrosinase, possibly attenuating melanogenesis in response to inflammatory stimuli.[6]
+[p] Similarly, Decapeptide-12 has been evaluated in the context of solar lentigines, hyperpigmented lesions associated with cumulative ultraviolet exposure. In a 24-week study,[7] approximately 38.5% of research models exhibited apparent complete clearance of lesions, while all models exhibited some degree of improvement. Subgroup analyses reported improvements from moderate to mild severity in 30.7% of cases, from severe to moderate in 15.4%, and from severe to mild in another 15.4%.
+[p] Collectively, these observations suggest that Decapeptide-12 may modulate melanogenic pathways involved in both inflammation-induced and UV-induced hyperpigmentation, supporting its potential role in attenuating pigmentary irregularities across multiple dermatological contexts.
+[h3] Decapeptide-12 on Oxidative Stress
+[p] Decapeptide-12 has been studied for its potential to modulate oxidative stress in epidermal keratinocytes. A 2024 study[8] examined HaCaT cells subjected to hydrogen peroxide (H₂O₂), a widely used model for inducing reactive oxygen species (ROS)-mediated cellular damage. Exposure to Decapeptide-12 was reportedly associated with enhanced cell viability, suggesting a cytoprotective effect under oxidative conditions.
+[p] Intracellular ROS levels were apparently markedly reduced following peptide exposure, suggesting a potential attenuation of oxidative stress at the cellular level. Complementary in vitro assays, including ferric reducing antioxidant power (FRAP) and ABTS radical scavenging, further indicated the peptide’s antioxidative potential. These data suggest that Decapeptide-12 may exert a dual function: directly scavenging free radicals and supporting endogenous cellular defenses.
+[p] Collectively, these observations suggest that Decapeptide-12 could contribute to the preservation of cellular integrity in the epidermis, potentially mitigating biochemical processes linked to skin aging and photo-induced cellular stress.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] National Center for Biotechnology Information (2025). PubChem Compound Summary for CID 25087629, Decapeptide-12.
+[li] Basil, M. H., & Anan, A. U. (2019). Tyrosinase inhibitors with potent anti-senescence activity in human neonatal keratinocyte progenitors. J Dermatol Surg Res Ther, 2019, 30-39.
+[li] Jiang, L., Hino, P. D., Bhatia, A., Stephens, T. J., & Jimenez, F. (2018). Efficacy of Trifecting Night Cream, a Novel Triple acting Skin Brightening Product: A Double-blind, Placebo-controlled Clinical Study. The Journal of clinical and aesthetic dermatology, 11(12), 21–25. https://pmc.ncbi.nlm.nih.gov/articles/PMC6334832/
+[a https://pmc.ncbi.nlm.nih.gov/articles/PMC6334832/] https://pmc.ncbi.nlm.nih.gov/articles/PMC6334832/
+[li] Ramírez, S. P., Carvajal, A. C., Salazar, J. C., Arroyave, G., Flórez, A. M., & Echeverry, H. F. (2013). Open-label evaluation of a novel skin brightening system containing 0.01% decapeptide-12 in combination with 20% buffered glycolic acid for the treatment of mild to moderate facial melasma. Journal of drugs in dermatology : JDD, 12(6), e106–e110. https://pubmed.ncbi.nlm.nih.gov/23839199/
+[a https://pubmed.ncbi.nlm.nih.gov/23839199/] https://pubmed.ncbi.nlm.nih.gov/23839199/
+[li] Hantash, B. M., & Jimenez, F. (2012). Treatment of mild to moderate facial melasma with the Lumixyl brightening system. Journal of drugs in dermatology : JDD, 11(5), 660–662. https://pubmed.ncbi.nlm.nih.gov/22527440/
+[a https://pubmed.ncbi.nlm.nih.gov/22527440/] https://pubmed.ncbi.nlm.nih.gov/22527440/
+[li] Chen, J., Bian, J., Hantash, B. M., Albakr, L., Hibbs, D. E., Xiang, X., Xie, P., Wu, C., & Kang, L. (2021). Enhanced skin retention and permeation of a novel peptide via structural modification, chemical enhancement, and microneedles. International journal of pharmaceutics, 606, 120868. https://doi.org/10.1016/j.ijpharm.2021.120868
+[a https://doi.org/10.1016/j.ijpharm.2021.120868] https://doi.org/10.1016/j.ijpharm.2021.120868
+[li] Kassim, A. T., Hussain, M., & Goldberg, D. J. (2012). Open-label evaluation of the skin-brightening efficacy of a skin-brightening system using decapeptide-12. Journal of cosmetic and laser therapy : official publication of the European Society for Laser Dermatology, 14(2), 117–121. https://doi.org/10.3109/14764172.2012.672745
+[a https://doi.org/10.3109/14764172.2012.672745] https://doi.org/10.3109/14764172.2012.672745
+[li] Lee SG, Hwang JW, Kang H. Antioxidant and Skin-Whitening Efficacy of a Novel Decapeptide (DP, KGYSSYICDK) Derived from Fish By-Products. Mar Drugs. 2024 Aug 20;22(8):374. doi: 10.3390/md22080374. PMID: 39195491; PMCID: PMC11355700. https://pubmed.ncbi.nlm.nih.gov/39195491/
+[a https://pubmed.ncbi.nlm.nih.gov/39195491/] https://pubmed.ncbi.nlm.nih.gov/39195491/
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

@@ -1,0 +1,131 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/Acetyl-Hexapeptide-3-1.webp] 
+[img] Acetyl Hexapeptide-3 (Argireline) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Acetyl-Hexapeptide-3-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Acetyl_Hexapeptide-3_3140002_20260721_BTP_page-0001.webp] 
+[img] Acetyl Hexapeptide-3 (Argireline) (200mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Acetyl_Hexapeptide-3_3140002_20260721_BTP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Acetyl_Hexapeptide-3_3140002_20260721_BTP_page-0002.webp] 
+[img] Acetyl Hexapeptide-3 (Argireline) (200mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Acetyl_Hexapeptide-3_3140002_20260721_BTP_page-0002.webp
+[h1] Acetyl Hexapeptide-3 (Argireline) (200mg)
+[p] $210.00
+[p] Acetyl Hexapeptide-3 (Argireline) peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_5985 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $199.50
+[input name=wccs_tier_select_5985 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $189.00
+[label] Acetyl Hexapeptide-3 (Argireline) (200mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Acetyl_Hexapeptide-3_3140002_20260721_BTP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Acetyl Hexapeptide-3 (Argireline) Peptide
+[p] Acetyl Hexapeptide-3 (Argireline) is a peptide chain of amino acids with the following sequence: Ac-Glu-Glu-Met-Gln-Arg-Arg-NH2. It is a fragment of the SNAP-25 (synaptosome-associated protein 25 kDa).[1] SNAP-25 is a key component of the SNARE (Soluble N-ethylmaleimide-sensitive factor Attachment protein Receptor)-Synaptotagmin-1 complex. This is a protein assembly that facilitates the release of neurotransmitters, such as acetylcholine, into the synaptic cleft between nerve cells and muscle cells. SNAP-25 is considered to be critical in this process because it appears to be in the assembly of the SNARE complex. This may also lead to the release of acetylcholine, thus triggering muscle contraction. Acetyl Hexapeptide-3 resembles the SNAP-25 protein, particularly the portion that is believed essential for SNARE complex formation. By inhibiting its formation, the peptide may also prevent neurotransmitter release and muscle contraction. Researchers have investigated Acetyl Hexapeptide-3 (Argireline) for its potential to support skin cell structure and reduce wrinkling along the stratum corneum. Continuous muscle movements result in wrinkling, and the devitalization of muscle contractions may possibly inhibit the development of new lines and decrease the depth of existing skin tissue creases and wrinkles. Acetyl Hexapeptide-3 (Argireline) may prevent muscles from moving or contracting. Researchers also posit that the peptide may support endogenous collagen production to preserve the skin’s extracellular matrix.
+[h3] Specifications
+[p] Sequence: Ac-Glu-Glu-Met-Gln-Arg-Arg-NH2
+[p] Molecular Formula: C34H60N14O12S
+[p] Molecular Weight: 888.99 g/mol
+[p] Synonyms: Acetyl hexapeptide, Argireline, Argireline Acetate
+[h3] Acetyl Hexapeptide-3 (Argireline) Research
+[p] Acetyl Hexapeptide-3 (Argireline) and Wrinkles Acetyl Hexapeptide-3 (Argireline) appears to have the potential to halt the production of the neurotransmitters that influence and control the contractile force of certain muscle groups. Acetyl Hexapeptide-3 (Argireline) may hamper the protein complex that controls muscle movement and limit muscle contractions via reducing the action of nerves that control contractions. According to research, the peptide may potentially act to reduce the depth of wrinkles and lines along the surface of skin tissues through supporting the endogenous synthesis of proteins integral to the skin’s extracellular matrix, such as collagen.[2] Researchers noted that introducing the peptide alongside “functional [symbiotic compounds] [may] improve wrinkle” depth and breadth. Scientific research suggests that it may be a vital ancillary for reducing existing creases along the skin barrier, even as it works to support collagen production. Acetyl Hexapeptide-3 (Argireline) studies report a range of findings, from its actions on wrinkles appearing minimal, to definitive and evident.[3,4] According to the research, a cream with a 10% concentration of Acetyl Hexapeptide-3 (Argireline) decreased the wrinkle formations of laboratory models in a specific area by 30% after one month of exposure. Researchers studied a serum consisting of Acetyl Hexapeptide-3 (Argireline) twice a day for a month. After which, the results posited a total decrease in periorbital wrinkle depth at 27%. The in vitro experiment suggests that the actions of Acetyl Hexapeptide-3 may potentially halt the release of neurotransmitters. Blanes-Mira et al. noted that “Taken together, these findings [indicate] that Argireline is a non-toxic, anti-wrinkle peptide that emulates the action of currently used BoNTs” suggesting a reduction in wrinkle formation due to limited muscle contraction.[5]
+[p] Acetyl Hexapeptide-3 (Argireline) and Skin Hydration Acetyl Hexapeptide-3 experiments suggest that the peptide may influence the properties of skin tissue models and potentially increase water retention within skin tissues of test models. Once study posited that there was a decrease in transepidermal water loss (TEWL) following Acetyl Hexapeptide-3 exposition, when compared to placebo.[6]
+[p] Acetyl Hexapeptide-3 (Argireline) and Muscle Twitching In a study, Acetyl Hexapeptide-3 has been investigated for its potential to ameliorate muscle twitching models.[7] More specifically, the researchers suggested that the peptide may interact with the mechanisms behind different neurotoxins typically employed in such models, potentially enhancing and prolonging their actions. The data from the study indicated that models exposed to both Acetyl Hexapeptide-3 and the neurotoxin experienced a delayed return to baseline twitching compared to those in the neurotoxin-only group. Specifically, the average time until return to baseline was 3.7 months for the Acetyl Hexapeptide-3 group versus 3.0 months for the control cohort. Although this difference did not achieve statistical significance, it suggests a trend where Acetyl Hexapeptide-3 may extend the neurotoxin's potential. Furthermore, in one-third of the models in the active group, the duration between required neurotoxin exposure was notably extended, ranging from 3.3 to 7.1 months. This suggests that Acetyl Hexapeptide-3 may contribute to a prolonged reduction in muscle twitching by possibly stabilizing the neurotoxin's suppression of neurotransmitter release.
+[p] Acetyl Hexapeptide-3 (Argireline) and Modifications with Palmitic Acid Researchers have modified Acetyl Hexapeptide-3 with palmitic acid, producing Palmitoyl Hexapeptide-3 to modify its potential, particularly in research related to nociception. In murine models, including models of chronic inflammatory pain and neuropathic pain, the palmitoylated version of Acetyl Hexapeptide-3 appears linked to a notable reduction in thermal hyperalgesia and mechanical allodynia.[8] Interestingly, the study suggests that this palmitoylation might be also linked to a prolonged antinociceptive action. The prolonged activity might be attributed to the peptide's stabilization within the neuronal membrane, potentially extending its presence at the target site. The researchers also posit that the peptide may block the exocytotic recruitment of TRPV1 channels to the plasma membrane. TRPV1 channels are considered to play a role in the transmission of pain signals, particularly in the context of inflammation. By preventing these channels from being inserted into the membrane, the peptide may reduce the overall excitability of the nociceptors.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Wang Y, Wang M, Xiao XS, Huo J, Zhang WD. The anti-wrinkle efficacy of Argireline. J Cosmet Laser Ther. 2013 Aug;15(4):237-41. doi: 10.3109/14764172.2013.769273. Epub 2013 Mar 6. PMID: 23464592.
+[a https://doi.org/10.3109/14764172.2013.769273] doi: 10.3109/14764172.2013.769273
+[li] An JH, Lee HJ, Yoon MS, Kim DH. Anti-Wrinkle Efficacy of Cross-Linked Hyaluronic Acid-Based Microneedle Patch with Acetyl Hexapeptide-8 and Epidermal Growth Factor on Korean Skin. Ann Dermatol. 2019 Jun;31(3):263-271. doi: 10.5021/ad.2019.31.3.263. Epub 2019 May 1. PMID: 33911590; PMCID: PMC7992733.
+[a https://doi.org/10.5021/ad.2019.31.3.263] doi: 10.5021/ad.2019.31.3.263
+[li] Wang Y, Wang M, Xiao S, Pan P, Li P, Huo J. The anti-wrinkle efficacy of argireline, a synthetic hexapeptide, in Chinese subjects: a randomized, placebo-controlled study. Am J Clin Dermatol. 2013 Apr;14(2):147-53. doi: 10.1007/s40257-013-0009-9. PMID: 23417317.
+[a https://doi.org/10.1007/s40257-013-0009-9] doi: 10.1007/s40257-013-0009-9
+[li] Blanes-Mira C, Clemente J, Jodas G, Gil A, Fernández-Ballester G, Ponsati B, Gutierrez L, Pérez-Payá E, Ferrer-Montiel A. A synthetic hexapeptide (Argireline) with antiwrinkle activity. Int J Cosmet Sci. 2002 Oct;24(5):303-10. doi: 10.1046/j.1467-2494.2002.00153.x. PMID: 18498523
+[a https://doi.org/10.1046/j.1467-2494.2002.00153.x] doi: 10.1046/j.1467-2494.2002.00153.x
+[li] Lim SH, Sun Y, Thiruvallur Madanagopal T, Rosa V, Kang L. Enhanced Skin Permeation of Anti-wrinkle Peptides via Molecular Modification. Sci Rep. 2018 Jan 25;8(1):1596. doi: 10.1038/s41598-017-18454-z. Erratum in: Sci Rep. 2018 Apr 20;8(1):6500. PMID: 29371611; PMCID: PMC5785486.
+[a https://doi.org/10.1038/s41598-017-18454-z] doi: 10.1038/s41598-017-18454-z
+[li] Raikou, V., Varvaresou, A., Panderi, I., & Papageorgiou, E. (2017). The efficacy study of the combination of tripeptide-10-citrulline and acetyl hexapeptide-3. A prospective, randomized controlled study. Journal of cosmetic dermatology, 16(2), 271–278. https://doi.org/10.1111/jocd.12314
+[a https://doi.org/10.1111/jocd.12314] https://doi.org/10.1111/jocd.12314
+[li] Lungu, C., Considine, E., Zahir, S., Ponsati, B., Arrastia, S., & Hallett, M. (2013). Pilot study of topical acetyl hexapeptide-8 in the treatment for blepharospasm in patients receiving botulinum toxin therapy. European journal of neurology, 20(3), 515–518. https://doi.org/10.1111/ene.12009
+[a https://doi.org/10.1111/ene.12009] https://doi.org/10.1111/ene.12009
+[li] Ponsati, B., Carreño, C., Curto-Reyes, V., Valenzuela, B., Duart, M. J., Van den Nest, W., Cauli, O., Beltran, B., Fernandez, J., Borsini, F., Caprioli, A., Di Serio, S., Veretchy, M., Baamonde, A., Menendez, L., Barros, F., de la Pena, P., Borges, R., Felipo, V., Planells-Cases, R., … Ferrer-Montiel, A. (2012). An inhibitor of neuronal exocytosis (DD04107) displays long-lasting in vivo activity against chronic inflammatory and neuropathic pain. The Journal of pharmacology and experimental therapeutics, 341(3), 634–645. https://doi.org/10.1124/jpet.111.190678
+[a https://doi.org/10.1124/jpet.111.190678] https://doi.org/10.1124/jpet.111.190678
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Sale! Decapeptide-12 (200mg) $239.00 Original price was: $239.00.$226.00Current price is: $226.00.
+[a https://biotechpeptides.com/product/decapeptide-12-topical-200mg/] Sale! Decapeptide-12 (200mg) $239.00 Original price was: $239.00.$226.00Current price is: $226.00.
+[img] Decapeptide-12 (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Decapeptide-12-1-238x317.webp
+[h2] Decapeptide-12 (200mg)
+[li] Matrixyl (200mg) $190.00
+[a https://biotechpeptides.com/product/matrixyl-topical-200mg/] Matrixyl (200mg) $190.00
+[img] Matrixyl (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Matrixyl-1-238x317.webp
+[h2] Matrixyl (200mg)
+[li] Syn-AKE (200mg) $210.00
+[a https://biotechpeptides.com/product/syn-ake-topical-200mg/] Syn-AKE (200mg) $210.00
+[img] Syn-AKE (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/Syn-AKE-1-238x317.webp
+[h2] Syn-AKE (200mg)
+[li] SNAP-8 (200mg) $172.00
+[a https://biotechpeptides.com/product/snap-8-topical-200mg/] SNAP-8 (200mg) $172.00
+[img] Snap-8 (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/SNAP-8-2-238x317.webp
+[h2] SNAP-8 (200mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

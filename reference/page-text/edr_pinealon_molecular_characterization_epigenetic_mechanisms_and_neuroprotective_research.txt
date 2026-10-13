@@ -1,0 +1,162 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[p] by Dr. Usman | Aug 3, 2026 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research.webp
+[a https://biotechpeptides.com/product/pinealon-20mg/] Pinealon
+[p] The term EDR reflects early hypotheses regarding the peptide’s proposed support for neuroendocrine functions associated with the pineal gland, including circadian rhythm regulation and melatonin biosynthesis pathways. However, the compound was isolated from Cortexin, a polypeptide complex derived from the cerebral cortex of bovine neonates, rather than from pineal tissue directly.[3] This isolation positioned EDR within a broader class of neuroprotective peptide bioregulators hypothesized to reproduce the regulatory activity of endogenous CNS short peptides at the transcriptional level.
+[p] Contents:
+[li] EDR Historical Development
+[a #hd] EDR Historical Development
+[li] EDR Proposed Mechanism of Action
+[a #ma] EDR Proposed Mechanism of Action
+[li] EDR Scientific and Research Studies
+[a #research] EDR Scientific and Research Studies
+[li] Free Radical Suppression and Cell Viability in Neural Models
+[a #nm] Free Radical Suppression and Cell Viability in Neural Models
+[li] Prenatal Neuroprotection in Hyperhomocysteinemia Models
+[a #hm] Prenatal Neuroprotection in Hyperhomocysteinemia Models
+[li] Cytokine Regulation and Caspase-3 Activity Under Hypoxic Conditions
+[a #cr] Cytokine Regulation and Caspase-3 Activity Under Hypoxic Conditions
+[li] Serotonin Expression in Brain Cortex Cells
+[a #bcc] Serotonin Expression in Brain Cortex Cells
+[li] Dendritic Spine Restoration in Alzheimer’s Disease Cell Models
+[a #dsr] Dendritic Spine Restoration in Alzheimer’s Disease Cell Models
+[li] Dendritic Spine Preservation and Neuroplasticity in Transgenic Alzheimer’s Disease Murine Models
+[a #dsp] Dendritic Spine Preservation and Neuroplasticity in Transgenic Alzheimer’s Disease Murine Models
+[li] Neuroprotection in Huntington’s Disease Models
+[a #hdm] Neuroprotection in Huntington’s Disease Models
+[li] Protection of Fibroblast-Derived Neurons from Age-Related Changes
+[a #arc] Protection of Fibroblast-Derived Neurons from Age-Related Changes
+[li] EDR Peptide Regulation of Alzheimer’s Disease-Relevant Gene Networks
+[a #drgn] EDR Peptide Regulation of Alzheimer’s Disease-Relevant Gene Networks
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/pinealon-20mg/] 
+[img] Pinealon (20mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Pinealon-1.webp
+[h3] EDR Historical Development
+[p] Pinealon was identified and characterized by Vladimir Khavinson and colleagues at the Saint Petersburg Institute of Bioregulation and Gerontology (Russia). Its development forms part of a systematic research program initiated in the 1970s to investigate short peptide fractions isolated from organ-specific polypeptide preparations and their capacity to modulate tissue-specific gene expression.[3] The biological rationale underlying Pinealon’s development rested on observations that endogenous di- and tripeptides within the CNS may participate in transcriptional regulation of genes relevant to neuronal survival, antioxidant defense, and neuroendocrine signaling.[3]
+[h3] EDR Proposed Mechanism of Action
+[p] The proposed mechanism of Pinealon’s biological activity diverges from receptor-mediated signaling paradigms. Research suggests the peptide may cross both plasma membranes and the nuclear envelope, facilitated by its small molecular size and the physicochemical properties of the arginine residue.[3] Once intranuclear, Pinealon is hypothesized to interact with chromatin and modulate transcription factor binding at specific gene promoter sequences, functioning as an epigenetic regulator rather than a classical receptor agonist.[3,4]
+[p] Research data collected in laboratory settings suggests that EDR may regulate the expression of MAPK signaling pathway components, specifically ERK1/2, which may in turn support oxidative stress responses, anti-apoptotic gene programs, and neuroplasticity-related transcription in neural cell populations.[2,3] Research suggests this ERK1/2-associated signaling might provide a mechanistic link between Pinealon’s proposed DNA interactions and its observed downstream implications on ROS accumulation, cell cycle dynamics, and neuronal morphological integrity.[2]
+[h2] EDR Scientific and Research Studies
+[h3] Free Radical Suppression and Cell Viability in Neural Models
+[p] A foundational in vitro investigation[2] examined the implications of Pinealon on cell viability and oxidative stress parameters in three cell models: cerebellar granule cells, neutrophils, and PC12 pheochromocytoma cells exposed to receptor-dependent and receptor-independent oxidative stress conditions. The study characterized dose-dependent implications of the EDR peptide on ROS accumulation, necrotic cell death (assessed by propidium iodide positivity), and ERK1/2 activation.[2]
+[p] Findings suggested that EDR produced concentration-dependent restriction of ROS accumulation and reduced the proportion of propidium-iodide-positive necrotic cells across the evaluated cell types under oxidative challenge. The antioxidant and cytoprotective implications were reported to saturate at lower peptide concentrations, while cell-cycle modulatory implications associated with delayed ERK1/2 activation continued at higher concentrations. Research suggests these differential concentration-response profiles might indicate mechanistically distinct implications at the antioxidant and genomic levels, potentially consistent with a dual mode of action involving both direct free radical quenching and downstream transcriptional regulation.
+[h3] Prenatal Neuroprotection in Hyperhomocysteinemia Models
+[p] Arutjunyan et al. (2012)[6] investigated the neuroprotective capacity of Pinealon in a murine model of prenatal hyperhomocysteinemia, a condition associated with elevated maternal homocysteine levels, oxidative CNS stress, and adverse neurodevelopmental outcomes in offspring. Pregnant rats were exposed to elevated homocysteine during gestation, and offspring were subsequently evaluated for markers of oxidative neuronal injury and behavioral parameters.
+[p] Findings suggested that Pinealon may attenuate oxidative stress markers in the brains of offspring from hyperhomocysteinaemic dams, with associated implications for ROS levels and indices of neuronal integrity. Behavioral assessments suggested partial preservation of motor coordination and cognitive parameters relative to hyperhomocysteinaemic control groups that received no intervention. Research suggests these findings might indicate that EDR may exert neuroprotective implications during critical neurodevelopmental windows under conditions of oxidative CNS insult. However, further independent replication in comparable prenatal models would be required to substantiate these observations.
+[h3] Cytokine Regulation and Caspase-3 Activity Under Hypoxic Conditions
+[p] Another study[8] examined the implications of Pinealon in combination with the polypeptide complex Cortexin on cytokine profiles in blood serum and caspase-3 activity in the brains of aged rats subjected to acute hypoxia. The experimental model employed 18-month-old rats, representing an aged cohort with heightened susceptibility to hypoxia-induced neuronal injury.
+[p] Observations suggested that the combined Pinealon and Cortexin intervention was associated with modulation of pro-inflammatory cytokine concentrations in serum and attenuation of caspase-3 activity in brain tissue relative to hypoxia-exposed controls. Caspase-3 is a terminal protease in apoptotic cascades, and its activity serves as a widely employed surrogate marker of apoptotic neuronal death in preclinical models. Research suggests these findings might indicate that Pinealon may contribute to anti-apoptotic signaling in aged neural tissue under acute hypoxic challenge, potentially through regulation of upstream pro-inflammatory or oxidative stress pathways that converge on caspase-3 activation.
+[h3] Serotonin Expression in Brain Cortex Cells
+[p] Khavinson et al. (2014)[9] investigated the support of short peptides, including EDR, on serotonin expression in cortical brain cells. Serotonin (5-hydroxytryptamine, 5-HT) is a monoamine neurotransmitter with pleiotropic functions in CNS signaling, including roles in behavioral regulation, circadian rhythm entrainment, and neuroprotective signaling cascades. The study evaluated whether Pinealon exposure might modulate serotonergic gene expression or serotonin synthesis in cortical cell preparations.
+[p] Findings suggested that EDR and related short peptides may support serotonin expression levels in cortical brain cell cultures. Research suggests these observations might indicate a potential neuromodulatory role for Pinealon within cortical serotonergic pathways, providing a mechanistic connection between EDR’s proposed transcriptional regulatory activity and neuroendocrine signaling networks in the central nervous system. These findings may be relevant to broader investigations of circadian biology and neuroendocrine axis regulation in the context of peptide bioregulator research.
+[h3] Dendritic Spine Restoration in Alzheimer’s Disease Cell Models
+[p] Kraskovskaya et al. (2017)[7] examined the capacity of EDR and the related tripeptide KED (Lys-Glu-Asp) to restore dendritic spine density in neuronal cultures under conditions modeling Alzheimer’s disease (AD) synaptotoxicity. Dendritic spines constitute the postsynaptic sites of excitatory synaptic contacts, and their progressive loss is a recognized early pathological feature of AD, correlating with cognitive decline in preclinical and clinical settings.
+[p] In vitro observations suggested that the EDR peptide was associated with partial restoration of neuronal spine number in AD-model preparations, with implications attributed to modulation of gene expression networks involved in synaptic plasticity and cytoskeletal organization.[7] Research suggests these findings might indicate that Pinealon may attenuate synaptotoxic processes in AD-relevant neuronal models, potentially through the proposed epigenetic regulatory mechanism involving promoter-region DNA interactions. Independent replication of these findings in additional AD cell models would be required to establish the generalisability of these observations.
+[h3] Dendritic Spine Preservation and Neuroplasticity in Transgenic Alzheimer’s Disease Murine Models
+[p] Khavinson et al. (2021)[4] extended the investigation of EDR neuroprotection to a 5xFAD transgenic murine model of Alzheimer’s disease, a model characterized by five familial AD mutations producing aggressive amyloid accumulation, progressive synapse loss, and cognitive impairment. The study examined whether EDR and KED tripeptides may preserve dendritic spines and neuroplasticity markers in this stringent transgenic model.
+[p] Findings suggested that EDR peptide exposure was associated with mitigation of dendritic spine loss in 5xFAD mice compared to transgenic controls receiving no intervention, with implications for hippocampal neuroplasticity markers. Molecular docking analyses conducted within the same study identified putative binding sites for the EDR peptide within the promoter sequences of genes including CASP3, NES, GAP43, APOE, SOD2, PPARA, PPARG, and GPX1, providing computational support for the proposed epigenetic mechanism. Research suggests these preclinical data might indicate a potential role for Pinealon in attenuating synaptic pathology in AD-relevant research models, though translation to clinical settings would require further investigation.
+[h3] Neuroprotection in Huntington’s Disease Models
+[p] Khavinson et al. (2017)[10] evaluated the neuroprotective activity of the EDR peptide in a murine model of Huntington’s disease (HD), a neurodegenerative disorder characterized by polyglutamine-expanded huntingtin protein aggregation, striatal neurodegeneration, and progressive motor and cognitive deterioration. The model employed 3-nitropropionic acid (3-NPA) to recapitulate key aspects of HD-associated neuronal injury.[10]
+[p] Observations suggested that EDR exposure was associated with attenuation of HD-relevant neuronal pathology in the experimental model, with findings interpreted as consistent with the peptide’s proposed anti-apoptotic and antioxidant mechanisms. Research suggests these findings might indicate that Pinealon’s neuroprotective activity may extend across neurodegeneration-relevant models beyond Alzheimer’s disease, potentially reflecting the broad genomic regulatory targets proposed by computational docking investigations.
+[h3] Protection of Fibroblast-Derived Neurons from Age-Related Changes
+[p] A recent study[5] employed a novel in vitro model of neuronal aging based on the direct transdifferentiation of aged dermal fibroblasts from elderly donors into induced cortical neurons. This experimental design offered a methodological advance over rodent or established cell line models, as the resulting neurons retained epigenetic aging signatures from the original donor fibroblasts, enabling investigation of neuroprotective implications in a cellular context reflective of biological aging.
+[p] Findings suggested that EDR peptide promoted arborization of the dendritic tree in the induced neurons, increasing both the number of primary processes and the total length of dendrites relative to controls receiving no intervention. Additionally, immunofluorescent analysis indicated that EDR reduced oxidative DNA damage in the aged induced neurons, with a reported reduction in 8-hydroxydeoxyguanosine (8-OHdG) levels, a validated biomarker of oxidative DNA lesions, relative to aged neuron controls receiving no intervention. Research suggests these findings might indicate that Pinealon exerts dendritogenic and DNA-protective implications in neuronal populations exhibiting age-associated epigenetic signatures, supporting its further investigation as a research tool for studying neuroprotective mechanisms in the context of cellular aging.
+[h3] EDR Peptide Regulation of Alzheimer’s Disease-Relevant Gene Networks
+[p] A comprehensive mechanistic review[3] analyzed the molecular and genetic dimensions of EDR’s proposed neuroprotective action in the context of Alzheimer’s disease pathogenesis. The review integrated computational modeling data, experimental in vitro observations, and pathway analysis to characterize the gene regulatory networks potentially modulated by EDR–DNA interactions.
+[p] The review proposed that EDR may regulate gene expression associated with the MAPK signaling pathway, including ERK1/2, and may support the expression of genes encoding antioxidant enzymes (SOD2, GPX1), nuclear receptors (PPARA, PPARG), and apoptotic mediators (CASP3) through direct interaction with their respective promoter sequences.
+[p] Research suggests this multi-target gene regulatory profile might confer pleiotropic neuroprotective implications in AD-relevant experimental contexts. The review further noted that molecular docking studies identified contact sites between EDR and specific hexanucleotide sequences within gene promoter regions, providing structural specificity to the proposed transcriptional regulatory mechanism.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] National Center for Biotechnology Information. PubChem Compound Summary for CID 71462546, Pinealon (Glu-Asp-Arg). 2024. Available from: https://pubchem.ncbi.nlm.nih.gov/compound/71462546
+[a https://pubchem.ncbi.nlm.nih.gov/compound/71462546] https://pubchem.ncbi.nlm.nih.gov/compound/71462546
+[li] Khavinson VKh, Ribakova Y, Kulebiakin K, Vladychenskaya E, Kozina L, Arutjunyan A, Boldyrev A. Pinealon increases cell viability by suppression of free radical levels and activating proliferative processes. Rejuvenation Res. 2011;14(5):535-41. doi:10.1089/rej.2011.1172. PMID: 22117547. Available from: https://pubmed.ncbi.nlm.nih.gov/22117547/
+[a https://pubmed.ncbi.nlm.nih.gov/22117547/] https://pubmed.ncbi.nlm.nih.gov/22117547/
+[li] Khavinson V, Linkova N, Kozhevnikova E, Trofimova S. EDR Peptide: Possible Mechanism of Gene Expression and Protein Synthesis Regulation Involved in the Pathogenesis of Alzheimer’s Disease. Molecules. 2021;26(1):159. doi:10.3390/molecules26010159. PMID: 33383957. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7795577/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7795577/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7795577/
+[li] Khavinson V, Ilina A, Kraskovskaya N, Linkova N, Cai H, Burman A, Morozov A, Tarnovskaya S, Beeraka NM. Neuroprotective Effects of Tripeptides—Epigenetic Regulators in Mouse Model of Alzheimer’s Disease. Pharmaceuticals (Basel). 2021;14(6):515. doi:10.3390/ph14060515. PMID: 34072073. Available from: https://www.mdpi.com/1424-8247/14/6/515
+[a https://www.mdpi.com/1424-8247/14/6/515] https://www.mdpi.com/1424-8247/14/6/515
+[li] Kraskovskaya NA, Linkova NS, Sakhenberg EI, Umnov RS, Petukhov MG, Khavinson VKh. Short Peptides Protect Fibroblast-Derived Induced Neurons from Age-Related Changes. Int J Mol Sci. 2024;25(21):11363. doi:10.3390/ijms252111363. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC11546785/
+[a https://pmc.ncbi.nlm.nih.gov/articles/PMC11546785/] https://pmc.ncbi.nlm.nih.gov/articles/PMC11546785/
+[li] Arutjunyan A, Kozina L, Stvolinskiy S, Bulygina Y, Mashkina A, Khavinson V. Pinealon protects the rat offspring from prenatal hyperhomocysteinemia. Int J Clin Exp Med. 2012;5(2):179-85. PMID: 22567179. Available from: https://pubmed.ncbi.nlm.nih.gov/22567179/
+[a https://pubmed.ncbi.nlm.nih.gov/22567179/] https://pubmed.ncbi.nlm.nih.gov/22567179/
+[li] Kraskovskaya NA, Kukanova EO, Linkova NS, Korf EA, Khavinson VKh. Tripeptides Restore the Number of Neuronal Spines under Conditions of In Vitro Modeled Alzheimer’s Disease. Bull Exp Biol Med. 2017;163(6):741-744. doi:10.1007/s10517-017-3886-z. Available from: https://pubmed.ncbi.nlm.nih.gov/29038981/
+[a https://pubmed.ncbi.nlm.nih.gov/29038981/] https://pubmed.ncbi.nlm.nih.gov/29038981/
+[li] Mendzheritskii AM, Karantysh GV, Ryzhak GA, Dem’ianenko SV. Regulation of content of cytokines in blood serum and of caspase-3 activity in brains of old rats in model of sharp hypoxic hypoxia with Cortexin and Pinealon. Adv Gerontol. 2014;27(1):94-97. PMID: 25006604. Available from: https://pubmed.ncbi.nlm.nih.gov/25006604/
+[a https://pubmed.ncbi.nlm.nih.gov/25006604/] https://pubmed.ncbi.nlm.nih.gov/25006604/
+[li] Khavinson VKh, Linkova NS, Tarnovskaya SI, Diatlova AS. Short Peptides Stimulate Serotonin Expression in Cells of Brain Cortex. Bull Exp Biol Med. 2014;157(1):77-80. doi:10.1007/s10517-014-2496-y. PMID: 24824757. Available from: https://pubmed.ncbi.nlm.nih.gov/24824757/
+[a https://pubmed.ncbi.nlm.nih.gov/24824757/] https://pubmed.ncbi.nlm.nih.gov/24824757/
+[li] Khavinson VKh, Linkova NS, Kukanova EO, Kraskovskaya NA, Ilina A, Korf EA. Neuroprotective Effect of EDR Peptide in Mouse Model of Huntington’s Disease. J Behav Brain Sci. 2017;7:321-338. doi:10.4236/jbbs.2017.79023. Available from: https://khavinson.info/assets/files/skan/2017-khavinson_lin_kukanova.pdf
+[a https://khavinson.info/assets/files/skan/2017-khavinson_lin_kukanova.pdf] https://khavinson.info/assets/files/skan/2017-khavinson_lin_kukanova.pdf
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

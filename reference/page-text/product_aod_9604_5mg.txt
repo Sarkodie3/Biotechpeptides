@@ -1,0 +1,135 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/AOD-9604-1.webp] 
+[img] AOD 9604 (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/AOD-9604-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/AOD-9604-5mg-COA-scaled.webp] 
+[img] AOD 9604 (5mg) COA :: https://biotechpeptides.com/wp-content/uploads/2026/04/AOD-9604-5mg-COA-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/AOD-9604-5mg-LC-scaled.webp] 
+[img] AOD 9604 (5mg) LC :: https://biotechpeptides.com/wp-content/uploads/2026/04/AOD-9604-5mg-LC-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/AOD-9604-5mg-MS-scaled.webp] 
+[img] AOD 9604 (5mg) MS :: https://biotechpeptides.com/wp-content/uploads/2026/04/AOD-9604-5mg-MS-scaled.webp
+[h1] AOD 9604 (5mg)
+[p] $44.00
+[p] AOD 9604 peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_686 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $41.80
+[input name=wccs_tier_select_686 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $39.60
+[label] AOD 9604 (5mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2026/06/AOD-9604-5mg-.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] AOD 9604 Peptide
+[p] AOD 9604 is a modified peptide initially developed as an offshoot in obesity research. It modifies the peptide Fragment 176-191 of the growth hormone hGH by adding a tyrosine residue to the N-terminus. The proposed mode of action of AOD 9604 has been suggested by researchers to be restricted to promoting lipolysis, thus linking the synthetic compound to obesity research.[1] The peptide does not appear to affect levels of insulin or IGF1 in studies thus far; therefore, it does not appear to trigger diabetes development or induce glucose intolerance in test models, though further studies are necessary to explore this aspect.[2]
+[a https://biotechpeptides.com/product/fragment-176-191-10mg/] Fragment 176-191
+[h3] Specifications
+[p] Other Known Titles: AOD-9604
+[p] Molecular Formula: C78H123N23O23S2
+[p] Molecular Weight: 1815.1 g/mol
+[p] Sequence: Tyr-Leu-Arg-Ile-Val-Gln-Cys-Arg-Ser-Val-Glu-Gly-Ser-Cys-Gly-Phe
+[h3] AOD 9604 Research
+[p] AOD 9604 Structure Scientists hypothesize that different parts of the hGH molecule may possess different properties and induce different effects in test models.[3] It has been suggested that only the last 15 amino acids may mediate any fat-burning potential of the hormone. The fragment was initially named hGH 177-191 and was subsequently modified by adding tyrosine to create AOD 9401, potentially to help stabilize the molecule. This modification led to the production of a 16-amino acid fragment called AOD 9604.[4] Interestingly, the researchers comment, "AOD 9604 does not interact with the hGH receptor.” This modification may have made the hGH Fragment 176-191 relatively more stable than other peptides.
+[p] AOD 9604 Mechanism of Action AOD 9604 has mainly been studied in murine models, and significant experiments have involved relatively large amounts of AOD 9604.[5] These experiments reportedly resulted in a 50% reduction in weight following exposure to the research models. However, it is important to note that the fragment appears to lack any other associated action of hGH, such as a potential increase of IGF-1 (insulin-like growth factor-1), insulin resistance, or cell proliferation. Therefore, the compound may not possess the potential muscle-preserving and anabolic action typically associated with growth hormones. Nevertheless, it appears that AOD 9604 may stimulate weight loss through mechanisms similar to hGH, as it may trigger various cellular pathways that might lead to the release of fatty acids from adipose cells. Additionally, researchers have posited that the peptide may affect the activity of lipases, a group of enzymes that prevent the return of fat to adipose tissues.[6] It is worth noting that AOD 9604 does not appear to affect natural hGH production and does not appear to act as a growth hormone secretagogue. Moreover, it does not appear to impact hunger hormone signaling to either increase or decrease appetite. Murine models comparing AOD 9604 and hGH have reported different outcomes in lean and obese cases.[4] In lean murine models, hGH appears to increase lean body mass, whereas AOD 9604 or a placebo did not appear to produce the same action. Hence, researchers have speculated that AOD 9604 may not be effective in increasing the size of muscle cells and contributing to muscle hypertrophy. However, in obese murine models, both hGH and AOD 9604 appear to exert a weight loss potential. The scientists also commented that there was an apparent 40% reduction in adipose tissue in the hGH group compared to 28% with AOD 9604. Therefore, experiments suggest that AOD 9604 may hold reduced potential compared to hGH in stimulating the release of fats from adipose cells.[7] The researchers also posit that “the lipolytic actions of both hGH and AOD 9604 are not mediated directly through the β3-AR although both compounds increase β3-AR expression, which may subsequently contribute to enhanced lipolytic sensitivity.” Growth hormone likely promotes a greater release of fats from adipose cells due to its proposed impact on insulin resistance. By reducing glucose uptake, it may force cells to potentially utilize more fat instead. In contrast, the fragment AOD 9604 does not appear to increase insulin resistance. Additionally, anecdotal data suggests that AOD 9604 may potentially offer some impact, including modest improvements in cholesterol levels and insulin sensitivity, but it is yet to be confirmed by murine models.
+[p] AOD 9604 and Obesity AOD 9604 has been brought into clinical trials with the objective of targeting obesity using a peptide similar to hGH. Phase 2b clinical trials conducted on 300 obese test subjects in Australia observed that the peptide appeared to result in consistent weight loss over 12 weeks when introduced once daily.[8] The rate of weight reduction in test subjects was consistently compared to the placebo cohort, and weight loss appeared to hold steady over the entire study period. This observation indicated that the peptide is unlikely to generate resistance, and thus continued influence of the peptide might result in a pronounced effect. Study in this area is ongoing. Researchers have also utilized mice models to explore the underlying mechanism of AOD 9604. An initial hypothesis proposed that AOD 9604 may bind and activate β-3-adrenergic receptors, which are present on the surface of white adipose tissues. Upon binding to the cognate receptors, the peptide may trigger downstream signaling, which may mobilize the fat cells from storage mode to a usable state by enhancing the rate of metabolism. Interestingly, mice genetically mutated in β-3-adrenergic receptors underwent fat loss, possibly through apoptosis of the white adipose tissues.
+[p] AOD 9604 and Cardiac Disease AOD 9604 may host the potential to improve cardiac function indirectly by mobilizing fat and reducing obesity. The peptide may reduce the chances of cardiac disease induced by obesity. Apart from its proposed principal function of decreasing fat burden, research teams have suggested other mechanisms by which the peptide might improve cardiac conditions. These pathways are independent of β-3-adrenergic receptors and appear to improve general metabolism, improving cardiac function.[9]
+[p] AOD 9604 and Joints Research suggests that AOD 9604 may influence arthritic joints in rabbits, and may have contributed to an improvement in pain perception and decreased movement disability.[10] Researchers have speculated that AOD 9604 may promote the growth of cartilage tissue in the arthritic joints but have yet to fully investigate this hypothesis. Experimental examination and microscopic cartilage structure analysis in affected joints have indicated positive results upon AOD 9604 influence in osteoarthritis test subjects.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Ng, F. M., Sun, J., Sharma, L., Libinaka, R., Jiang, W. J., & Gianello, R. (2000). Metabolic studies of a synthetic lipolytic domain (AOD 9604) of human growth hormone. Hormone research, 53(6), 274–278. https://doi.org/10.1159/000053183
+[a https://doi.org/10.1159/000053183] https://doi.org/10.1159/000053183
+[li] Cox, H. D., Smeal, S. J., Hughes, C. M., Cox, J. E., & Eichner, D. (2015). Detection and in vitro metabolism of AOD 9604. Drug testing and analysis, 7(1), 31–38. https://doi.org/10.1002/dta.1715
+[a https://doi.org/10.1002/dta.1715] https://doi.org/10.1002/dta.1715
+[li] Ng, F. M., Jiang, W. J., Gianello, R., Pitt, S., & Roupas, P. (2000). Molecular and cellular actions of a structural domain of human growth hormone (AOD9401) on lipid metabolism in Zucker fatty rats. Journal of molecular endocrinology, 25(3), 287-298.
+[li] Heffernan, M. A., Thorburn, A. W., Fam, B., Summers, R., Conway-Campbell, B., Waters, M. J., & Ng, F. M. (2001). Increase of fat oxidation and weight loss in obese mice caused by chronic treatment with human growth hormone or a modified C-terminal fragment. International journal of obesity and related metabolic disorders : journal of the International Association for the Study of Obesity, 25(10), 1442–1449. https://doi.org/10.1038/sj.ijo.0801740
+[a https://doi.org/10.1038/sj.ijo.0801740] https://doi.org/10.1038/sj.ijo.0801740
+[li] Ng, F. M., Sun, J., Sharma, L., Libinaka, R., Jiang, W. J., & Gianello, R. (2000). Metabolic studies of a synthetic lipolytic domain (AOD9604) of human growth hormone. Hormone research, 53(6), 274–278. https://doi.org/10.1159/000053183
+[a https://doi.org/10.1159/000053183] https://doi.org/10.1159/000053183
+[li] Kopchick, J. J., Berryman, D. E., Puri, V., Lee, K. Y., & Jorgensen, J. O. (2020). The effects of growth hormone on adipose tissue: old observations, new mechanisms. Nature Reviews Endocrinology, 16(3), 135-146.
+[li] Heffernan, M., Summers, R. J., Thorburn, A., Ogru, E., Gianello, R., Jiang, W. J., & Ng, F. M. (2001). The Effects of Human GH and Its Lipolytic Fragment (AOD9604) on Lipid Metabolism Following Chronic Treatment in Obese Mice andβ 3-AR Knock-Out Mice. Endocrinology, 142(12), 5182-5189.
+[li] Bray, G. A., & Greenway, F. L. (2007). Pharmacological treatment of the overweight patient. Pharmacological reviews, 59(2), 151–184. https://doi.org/10.1124/pr.59.2.2
+[a https://doi.org/10.1124/pr.59.2.2] https://doi.org/10.1124/pr.59.2.2
+[li] Heffernan, M., Summers, R. J., Thorburn, A., Ogru, E., Gianello, R., Jiang, W. J., & Ng, F. M. (2001). The effects of human GH and its lipolytic fragment (AOD 9604) on lipid metabolism following chronic treatment in obese mice and beta(3)-AR knock-out mice. Endocrinology, 142(12), 5182–5189. https://doi.org/10.1210/endo.142.12.8522
+[a https://doi.org/10.1210/endo.142.12.8522] https://doi.org/10.1210/endo.142.12.8522
+[li] Kwon, D. R., & Park, G. Y. (2015). Effect of Intra-articular Injection of AOD 9604 with or without Hyaluronic Acid in Rabbit Osteoarthritis Model. Annals of clinical and laboratory science, 45(4), 426–432.
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Sale! Fragment 176-191 (5mg) $47.00 Original price was: $47.00.$44.00Current price is: $44.00.
+[a https://biotechpeptides.com/product/fragment-176-191-5mg/] Sale! Fragment 176-191 (5mg) $47.00 Original price was: $47.00.$44.00Current price is: $44.00.
+[img] Fragment 176-191 (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Fragment-176-191-1-238x317.webp
+[h2] Fragment 176-191 (5mg)
+[li] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg) $87.00
+[a https://biotechpeptides.com/product/fragment-cjc-1295-ipamorelin-12mg-blend/] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg) $87.00
+[img] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Fragment-176-191-CJC-1295-Ipamorelin-238x317.webp
+[h2] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg)
+[li] Adipotide FTPP (10mg) $77.00
+[a https://biotechpeptides.com/product/adipotide-ftpp-10mg/] Adipotide FTPP (10mg) $77.00
+[img] Adipotide FTPP (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Adipotide-FTPP-1-238x317.webp
+[h2] Adipotide FTPP (10mg)
+[li] MOTS-c (10mg) $99.00
+[a https://biotechpeptides.com/product/mots-c-10mg/] MOTS-c (10mg) $99.00
+[img] MOTS-c (10mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/MOTS-c-1-238x317.webp
+[h2] MOTS-c (10mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

@@ -1,0 +1,125 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Acetyl Hexapeptide-3 and Neuromuscular Synapse
+[p] by Dr. Usman | May 22, 2023 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Acetyl Hexapeptide-3 and Neuromuscular Synapse :: https://biotechpeptides.com/wp-content/uploads/2023/05/Acetyl-Hexapeptide-3-and-Neuromuscular-Synapse.webp
+[a https://biotechpeptides.com/product/acetyl-hexapeptide-3-argireline-200mg/] Acetyl Hexapeptide-3 (Argireline)
+[p] At the molecular level, Acetyl Hexapeptide-3 is hypothesized to act as a competitive inhibitor of SNAP25 (synaptosome-associated protein 25), a component of the SNARE (soluble NSF attachment protein receptor) complex. The protein is named SNAP25 due to its size of 25 kDa. The SNARE complex is considered to play a crucial role in synaptic vesicle Ca(2+)-dependent exocytosis, which involves the release of neurotransmitters such as acetylcholine. Acetylcholine is a neurotransmitter linked to muscle contractions.
+[p] By possibly inhibiting acetylcholine exocytosis, Acetyl Hexapeptide-3 may interfere with the function of neuromuscular synapses and prevent the contraction of muscle cells. This mechanism appears similar to the way bacterial toxins, such as the toxin producers by Clostridium botulinum – (BoNTs) – are considered to interact and inhibit neuromuscular synapses. However, Acetyl Hexapeptide-3 may have a potential advantage in terms of permeation through the epidermis due to the attachment of acetyl moiety at the N-terminus of the peptide.[1]
+[p] Acetyl Hexapeptide-3 may also interact with other aspects of the function of the nervous system, such as potentially inhibiting nociception. The peptide may also potentially impact collagen production and/or degradation.
+[p] Contents:
+[li] Acetyl Hexapeptide-3 and Dermal Topography
+[a #DermalTopography] Acetyl Hexapeptide-3 and Dermal Topography
+[li] Acetyl Hexapeptide-3 and Collagen Synthesis
+[a #CollagenSynthesis] Acetyl Hexapeptide-3 and Collagen Synthesis
+[li] Acetyl Hexapeptide-3 and Nociception
+[a #Nociception] Acetyl Hexapeptide-3 and Nociception
+[li] Conclusion
+[a #conclusion] Conclusion
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/acetyl-hexapeptide-3-argireline-200mg/] 
+[img] Buy Acetyl Hexapeptide-3 (Argireline Peptide) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2023/05/Acetyl-Hexapeptide-3.webp
+[h2] Acetyl Hexapeptide-3 and Dermal Topography
+[p] Clinical studies suggest that Acetyl Hexapeptide-3 may improve the topography of dermal structures, such as wrinkle depth reduction, by as much as 30% – 48.9%.[2] [3] The scientists posit that the peptide acts by inhibiting the release of neurotransmitters such as acetylcholine in the neuromuscular synapses. They also share that “inhibition of neurotransmitter release was due to the interference of the hexapeptide with the formation and/or stability of the protein complex that is required to drive Ca(2+)-dependent exocytosis, namely the vesicular fusion (known as SNARE) complex.“[2]
+[p] Researchers also commented that the main potential mechanisms of Acetyl Hexapeptide-3, namely the competitive inhibition of SNAP-25, may be due to sharing a similar amino acid sequence pattern from the N-terminal end of synaptosomal-associated protein-25.[4] This appears to prevent the formation of the ternary soluble N-ethylmaleimide sensitive factor attachment protein receptor (SNARE) complex and interfere with neurotransmitter release, similar to BoNTs. In accordance with the potential action of Acetyl Hexapeptide-3, the contraction of the intrinsic muscles appears to be inhibited.
+[h2] Acetyl Hexapeptide-3 and Collagen Synthesis
+[p] Some studies have investigated the potential Acetyl Hexapeptide-3 influence on collagen synthesis, a vital component of the extracellular matrix considered responsible for the structure and elasticity of connective tissues. The peptide has been suggested to interact with collagen production, potentially affecting the histological structure of dermal tissue.
+[p] Murine trials that lasted for at least 6 weeks suggest that the peptide may lead to an apparent increase in type I collagen fibers and a decrease in type III collagen fibers.[5] The scientists used hematoxylin-eosin (HE) and picrosirius-polarization (PSP) stains to assess these histological changes in the dermal tissues. Furthermore, the amount of type I and type III collagen fibers were also semi-quantitatively compared using the software Image-ProPlus.
+[p] Due to its potential for reducing type III collagen fibers, Acetyl Hexapeptide-3 may also help reduce scarring during and after tissue regeneration. Some researchers comment that the peptide appears to increase the elasticity of scarred tissue “from 33,5% to 40,5% (…) in left lateral-medial area of the neck and malar area; from 24% to 31,5% (…) in right lateral- medial area of the neck and malar area; and from 25,5% to 38% (…) in forehead and chin area.“[6]
+[h2] Acetyl Hexapeptide-3 and Nociception
+[p] Acetyl Hexapeptide-3 has been examined in several in vitro models for its potential impact on various cellular and molecular mechanisms. This includes studying its potential on ion channels and inflammatory processes that are involved in the occurrence of nociceptive problems and hyperalgesia.
+[p] For example, studies have investigated the potential of the palmitoylated version of Acetyl Hexapeptide-3, called DD04107, for reducing nociceptive stimuli in models of chronic inflammatory and neuropathic hyperalgesia.[7] More specifically, the research suggests that the palmitoylated version of Acetyl Hexapeptide-3 may inhibit the release of neuromodulators related to nociceptive signaling. It appears to do so by interfering with SNAP-25 and preventing these neuromodulators’ Ca(2+)-dependent exocytosis.As a result, the palmitoylated version of Acetyl Hexapeptide-3 may block the inflammatory recruitment of TRPV1 channels leading to its anti-hyperalgesia and anti-allodynic potential.
+[p] TRPV1 channels are ion channels found predominantly on sensory nerve fibers, including those involved in pain perception. These channels appear to be activated by various stimuli, including heat, inflammatory mediators, and chemical irritants, and their activation is considered to lead to the generation and transmission of pain signals.
+[p] In studies using carrageenan-induced inflammation, which helps scientific models to mimic acute inflammatory pain, the palmitoylated version of Acetyl Hexapeptide-3 has been hypothesized to have anti-inflammatory activity by reducing paw volume (a measure of inflammation) and attenuating mechanical hypersensitivity.[8]
+[p] Furthermore, the palmitoylated version of Acetyl Hexapeptide-3 has also been evaluated in models of chronic inflammatory pain, such as complete Freund’s adjuvant (CFA)-induced inflammation. In these models, the palmitoylated version of Acetyl Hexapeptide-3 appeared to mitigate thermal hyperalgesia and mechanical allodynia, indicating its potential for chronic inflammatory hyperalgesia.
+[p] The palmitoylated version of Acetyl Hexapeptide-3 has also been proposed to potentially reduce pain associated with peripheral neuropathy induced by various agents.
+[h2] Conclusion
+[p] Acetyl Hexapeptide-3, a synthetic peptide, may have promising potential in various scientific research areas. Its molecular mechanisms involve interacting with neurotransmitter release in neuromuscular synapses by acting as a competitive inhibitor of SNAP25, similar to bacterial toxins. This interference inhibits acetylcholine exocytosis, potentially preventing muscle cell contraction. Furthermore, Acetyl Hexapeptide-3 may impact collagen synthesis, leading to improvements in the topography of dermal structures and a potential reduction in scarring. Studies have also explored its role in nociception, indicating its potential to inhibit neuromodulators related to pain signaling and potentially improve chronic inflammatory and neuropathic hyperalgesia.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Grosicki, M., Latacz, G., Szopa, A., Cukier, A., & Kieć-Kononowicz, K. (2014). The study of cellular cytotoxicity of argireline – an anti-aging peptide. Acta biochimica Polonica, 61(1), 29–32.
+[li] Blanes-Mira, C., Clemente, J., Jodas, G., Gil, A., Fernández-Ballester, G., Ponsati, B., Gutierrez, L., Pérez-Payá, E., & Ferrer-Montiel, A. (2002). A synthetic hexapeptide (Argireline) with antiwrinkle activity. International journal of cosmetic science, 24(5), 303–310. https://doi.org/10.1046/j.1467-2494.2002.00153.x
+[a https://doi.org/10.1046/j.1467-2494.2002.00153.x] https://doi.org/10.1046/j.1467-2494.2002.00153.x
+[li] Wang, Y., Wang, M., Xiao, X. S., Pan, P., Li, P., & Huo, J. (2013). The anti wrinkle efficacy of synthetic hexapeptide (Argireline) in Chinese Subjects. Journal of cosmetic and laser therapy : official publication of the European Society for Laser Dermatology, Advance online publication. https://doi.org/10.3109/14764172.2012.759234
+[a https://doi.org/10.3109/14764172.2012.759234] https://doi.org/10.3109/14764172.2012.759234
+[li] An, J. H., Lee, H. J., Yoon, M. S., & Kim, D. H. (2019). Anti-Wrinkle Efficacy of Cross-Linked Hyaluronic Acid-Based Microneedle Patch with Acetyl Hexapeptide-8 and Epidermal Growth Factor on Korean Skin. Annals of dermatology, 31(3), 263–271. https://doi.org/10.5021/ad.2019.31.3.263
+[a https://doi.org/10.5021/ad.2019.31.3.263] https://doi.org/10.5021/ad.2019.31.3.263
+[li] Wang, Y., Wang, M., Xiao, X. S., Huo, J., & Zhang, W. D. (2013). The anti-wrinkle efficacy of Argireline. Journal of cosmetic and laser therapy : official publication of the European Society for Laser Dermatology, 15(4), 237–241. https://doi.org/10.3109/14764172.2013.769273
+[a https://doi.org/10.3109/14764172.2013.769273] https://doi.org/10.3109/14764172.2013.769273
+[li] Palmieri, B., Noviello, A., Corazzari, V., Garelli, A., & Vadala, M. (2020). Skin scars and wrinkles temporary camouflage in dermatology and oncoesthetics: focus on acetyl hexapeptide-8. La Clinica terapeutica, 171(6), e539–e548. https://doi.org/10.7417/CT.2020.2270
+[a https://doi.org/10.7417/CT.2020.2270] https://doi.org/10.7417/CT.2020.2270
+[li] Ponsati, B., Carreño, C., Curto-Reyes, V., Valenzuela, B., Duart, M. J., Van den Nest, W., Cauli, O., Beltran, B., Fernandez, J., Borsini, F., Caprioli, A., Di Serio, S., Veretchy, M., Baamonde, A., Menendez, L., Barros, F., de la Pena, P., Borges, R., Felipo, V., Planells-Cases, R., … Ferrer-Montiel, A. (2012). An inhibitor of neuronal exocytosis (DD04107) displays long-lasting in vivo activity against chronic inflammatory and neuropathic pain. The Journal of pharmacology and experimental therapeutics, 341(3), 634–645. https://doi.org/10.1124/jpet.111.190678
+[a https://doi.org/10.1124/jpet.111.190678] https://doi.org/10.1124/jpet.111.190678
+[li] Butrón, D., Zamora-Carreras, H., Devesa, I., Treviño, M. A., Abian, O., Velázquez-Campoy, A., Bonache, M. Á., Lagartera, L., Martín-Martínez, M., González-Rodríguez, S., Baamonde, A., Fernández-Carvajal, A., Ferrer-Montiel, A., Jiménez, M. Á., & González-Muñiz, R. (2021). DD04107-Derived neuronal exocytosis inhibitor peptides: Evidences for synaptotagmin-1 as a putative target. Bioorganic chemistry, 115, 105231. https://doi.org/10.1016/j.bioorg.2021.105231
+[a https://doi.org/10.1016/j.bioorg.2021.105231] https://doi.org/10.1016/j.bioorg.2021.105231
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

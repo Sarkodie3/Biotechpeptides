@@ -1,0 +1,136 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2023/01/N-Acetyl-Semax-3.webp] 
+[img] N-Acetyl Semax (25mg) :: https://biotechpeptides.com/wp-content/uploads/2023/01/N-Acetyl-Semax-3-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2023/01/COA_N-Acetyl-Semax_3140059_20260725_BP_page-0001.webp] 
+[img] N-Acetyl Semax (25mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2023/01/COA_N-Acetyl-Semax_3140059_20260725_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2023/01/COA_N-Acetyl-Semax_3140059_20260725_BP_page-0002.webp] 
+[img] N-Acetyl Semax (25mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2023/01/COA_N-Acetyl-Semax_3140059_20260725_BP_page-0002.webp
+[h1] N-Acetyl Semax (25mg)
+[p] $57.00
+[p] N-Acetyl Semax peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_14488 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $54.15
+[input name=wccs_tier_select_14488 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $51.30
+[label] N-Acetyl Semax (25mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2023/01/COA_N-Acetyl-Semax_3140059_20260725_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h2] N-Acetyl Semax Peptide
+[p] N-Acetyl Semax is posited to be an acetylated form of the Semax peptide. The peptide consists of a 4 amino acid fragment (Met-Glu-His-Phe) from the chain of melanocortin hormones. These include the adrenocorticotropic hormone (ACTH) and a Pro-Gly-Pro fragment. The integration of Pro-Gly-Pro (PGP) into N-Acetyl Semax may potentially enhance the permeability of the peptide through the blood-brain barrier (BBB). This enhancement might occur by increasing the peptide's lipophilicity, thereby potentially improving passive diffusion or uptake via lipid raft-mediated endocytosis. This process may hypothetically allow the peptide to bypass the BBB's tight junctions, which researchers claim are usually highly restrictive. Adding PGP at the C-terminus might also modify the peptide’s interactions with specific BBB transporters or receptors, possibly facilitating receptor-mediated transcytosis. Receptor-mediated transcytosis is a process where substances are transported across cells via specific receptors, and alterations at the C-terminus might influence this pathway. Researchers have noted that the acetylation of the peptide into N-Acetyl Semax appears to reduce the affinity of other ions, such as Cu++, to its N-terminus.[1] Acetylation may contribute to an increase in the peptide’s resistance to enzymatic degradation, potentially leading to an extended half-life observed in experimental models. Increased resistance to degradation might mean that the peptide potentially remains active for a longer period, which may enhance its stability./p>
+[a https://biotechpeptides.com/product/semax-25mg/] Semax peptide
+[h3] Specifications
+[p] Molecular Formula: C37H51N9O10S
+[p] Molecular Weight: 858.97 g/mol
+[p] Sequence: Ac-Met-Glu-His-Phe-Pro-Gly-Pro-NH2
+[h3] N-Acetyl Semax Research
+[p] N-Acetyl Semax and Nootropic Potential N-Acetyl Semax may have similar or stronger potential as a nootropic than its unmodified counterpart – Semax. There are currently only studies investigating the actions of Semax. According to research, Semax may have the potential to significantly increase memory and attention.[2] Experimental models exposed to the compound were observed responding with 71% aptitude on memory recall, compared to 41% on average observed in the control group. Another trial also reports that Semax may significantly increase the activation of various parts of the brain, as researchers have observed via functional magnetic resonance imaging (MRI). Lebedeva et al. concluded, “A greater volume of the default mode network rostral (medial frontal cortex) subcomponent was detected in the Semax group in comparison with controls. Resting state fMRI confirmed [potential] Semax effects on the neuronal network of the brain.” [3]
+[p] N-Acetyl Semax and Neurotrophic Factors Researchers are able to employ existing Semax research as foundation for future N-Acetyl Semax experimentation into its potential on neurotrophic factors. The suggested neuroprotective action of Semax may stem from its potential to activate and elevate the levels of neurotrophic factors in the brain, such as Brain-Derived Neurotrophic Factor (BDNF). BDNF is thought to be a crucial protein involved in the growth, maintenance, and survival of neurons. It may play a significant role in learning, memory, and higher cognitive functions. Researchers suggest that the peptide may copntribute to a notable 1.4-fold increase in hippocampal BDNF protein levels. Control experiments in the cerebellum indicated no change in BDNF levels, implying a potential region-specific action that may be attributable to Semax. Subsequent analyses looked at whether the observed increase in BDNF levels may activate the BDNF/trkB signaling pathway, with trkB being the main receptor for BDNF. Tyrosine phosphorylation of trkB receptors, a marker of trkB activation, was observed by researchers to increase by 1.5-fold. This suggests that Semax may enhance BDNF signaling through trkB activation. Furthermore, Semax exposure may have resulted in a threefold increase in BDNF exon III mRNA levels. Similarly, trkB mRNA levels were observed doubling in the firstr 24 hours after exposure. This may indicate that Semax might potentially influence the transcriptional regulation of BDNF and its receptor trkB.[4] Clinical research also suggests that Semax may increase the expression of BDNF, and may also have potential applications in research models of ischaemic stroke. One study in 110 ischemic stroke models indicated that control processes delivered in conjunction with the peptide may have led to a significant increase in levels of BDNF.[5] The increase in BDNF is said to correlate with improved recovery after stroke. Gusev et al. reported that “there was a positive correlation between BDNF plasma levels and Barthel score, as well as a correlation between early rehabilitation and motor performance improvement.” Another trial also resulted in the opinion that Semax might have neuroprotective actions on the optic nerve in glaucoma models.[6]
+[p] N-Acetyl Semax and the Digestive System Similar to Semax, N-Acetyl Semax may have potential actions related to digestive tissues. For example, researchers have suggested that Semax may potentially mitigate ulcers. According to a 2002 study published in the Bulletin of Experimental Biology and Medicine, N-Acetyl Semax may be almost 3 times more effective than a control in potentially speeding up healing after a gastric ulcer.[7] Researchers have opined that 14 days of exposure to Semax appeared to lead to ulcer healing in almost 90% of research models receiving Semax. This seems substantial when compared to just over 30% of research models in the experiment’s control group.
+[p] N-Acetyl Semax and Enkephalin Signaling Although research on N-Acetyl Semax remains limited, trials involving Semax suggest that this peptide may potentially interact with enkephalin signaling within nerve tissues. Specifically, recent investigations indicate that certain enzymes that are potentially responsible for the breakdown of enkephalins might be inhibited by Semax, possibly leading to distinct outcomes observed by researchers in laboratory settings.[8] Enkephalins are neurotransmitters produced in the brain, and researchers believe that they play critical roles in managing various processes. These processes may include nociception—the process by which pain is perceived by neurons—and various stress responses. It is hypothesized that an increase in enkephalin levels may influence the functioning of other neurotransmitter systems due to the intricate relationships within the opioid system. This, in theory, includes enkephalins and other neurotransmitter systems such as those involving dopamine and serotonin. These interactions might potentially result in changes in neurotransmitter release, variations in receptor activities, or modifications in signal transduction pathways. However, the exact mechanisms and outcomes remain uncertain and require further detailed investigation.
+[p] N-Acetyl Semax Actions Related to Serotonin and Dopamine Signaling Research on N-Acetyl Semax remains limited, but scientific studies suggest that Semax may possibly interact with and increase serotonin neurotransmitter systems. This might help restore or stabilize neural pathways. This action might balance the excitatory and inhibitory signals within the brain.[9] Research hints that the peptide may have a role in protecting or correcting neural circuits over a prolonged period beyond the initial exposure to the peptide. For instance, in a series of experiments on murine (mouse) models, exposure to Semax was said to be associated with changes in levels of 5-hydroxyindoleacetic acid (5-HIAA), a significant metabolite of serotonin. This alteration suggests a possible enhancement of serotonergic activity, which is believed to be crucial because serotonin is understood to be a neurotransmitter that affects mood and cognitive functions. After exposure to Semax, researchers observed a gradual increase in 5-HIAA levels in research models. This increase, it is said, rose to as high as 180%.[10] Furthermore, when researchers introduced Semax to models 20 minutes before experimenting with D-amphetamine, there were higher levels of 5-HIAA observed when compared to instances where Semax was tested alone. These findings suggest that Semax may influence serotonin metabolism, and might potentially impact serotonin-dependent pathways. Conversely, researchers opine that Semax does not seem to directly affect dopamine levels or its metabolites. However, it might impact modulation of the dopaminergic system's responsiveness, which may potentially enhance the actions of dopaminergic agonists. Dopamine thought to be another crucial neurotransmitter involved in reward, motivation, and motor control. Researcher believe that dopamine’s modulation by Semax may have significant potential implications for conditions related to dopaminergic dysregulation.[10]
+[p] N-Acetyl Semax and Neuroinflammaiton Although N-Acetyl Semax research is lacking, Semax trials have aimed to illuminate the potential impact of the peptide on specific proteins involved in processes like inflammation and cell death. These processes may include those such as MMP-9, c-Fos, and JNK, and proteins involved in neuroprotection and recovery, like CREB, at the protein level. Semax exposure has been suggested by researchers to contribute to upregulation of active CREB in subcortical structures, including hypothetical ischemic damage focus. Concurrently, MMP-9 and c-Fos were observed to downregulate in the adjacent frontoparietal cortex, while active JNK was observed to downregulate in both the subcortex and cortex under the influence of Semax. This potentially suggests that Semax may contribute to suppression of inflammation and cell death processes, which might contribute to neuroprotective actions. The regulatory mechanisms posited by researchers to underlie these observations includes the hypothetical modulation of signaling pathways. For instance, pJNK's upregulation during ischemia was said by researchers to be linked to several pathways, including those that may be related to neuroinflammation and apoptosis. Semax exposure, which researchers obsered contributing to downregulation of pJNK, might have altered the activities of pathways involved in stress responses and neuroprotection. This hypothesized downregulation of JNK kinases in both subcortical and cortical regions may theoretically be part of compensatory mechanisms activated by Semax, possibly leading to reduction in the stress-related signaling that contributes to ischemic cell death. The MMP-9 protein, posited by scientists to destabilize the blood-brain barrier and promote edema, was observed by researchers showing increased levels in ischemic conditions. However, researchers state that Semax did not appear to significantly affect MMP-9 levels in the subcortex, but that the peptide did seem to downregulate its expression in the cortex. This may suggest the existence of a region-specific regulatory action that might protect intact but functionally compromised cells adjacent to the infarction area. The transcription factor c-Fos, involved in post-ischemic inflammation and cell death, is reported by researchers to show increased levels in the cerebral cortex under ischemic conditions. Semax is hypothesized to have contributed to a noticeable reduction in c-Fos levels in the cortex, aligning with the peptide's presumed ability to mitigate glutamate excitotoxicity and potentially reduce ischemic cell death. However, researchers did not observe any significant action on c-Fos levels in the subcortex. Active CREB (pCREB) is posited to play a crucial role in neurogenesis and neuronal survival. Ischemia-reperfusion was shown in trials to contribute to reduction pCREB levels in the subcortical structures – an action that was theoretically reversed by Semax. This highlights the peptide’s potential to support neuroprotective pathways in ischemic conditions. Interestingly, researchers observed no significant changes in pCREB levels in the cortical regions, which may suggest differential regional responses to ischemia and, possibly, to Semax exposure.[11]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Magrì, A., Tabbì, G., Giuffrida, A., Pappalardo, G., Satriano, C., Naletova, I., Nicoletti, V. G., & Attanasio, F. (2016). Influence of the N-terminus acetylation of Semax, a synthetic analog of ACTH(4-10), on copper(II) and zinc(II) coordination and biological properties. Journal of inorganic biochemistry, 164, 59–69. https://doi.org/10.1016/j.jinorgbio.2016.08.013
+[a https://doi.org/10.1016/j.jinorgbio.2016.08.013] https://doi.org/10.1016/j.jinorgbio.2016.08.013
+[li] Kaplan, A. Y. A., Kochetova, A. G., Nezavibathko, V. N., Rjasina, T. V., & Ashmarin, I. P. (1996). Synthetic acth analogue semax displays nootropic‐like activity in humans. Neuroscience Research Communications, 19(2), 115-123.
+[li] Lebedeva, I. S., Panikratova, Y. R., Sokolov, O. Y., Kupriyanov, D. A., Rumshiskaya, A. D., Kost, N. V., & Myasoedov, N. F. (2018). Effects of Semax on the Default Mode Network of the Brain. Bulletin of experimental biology and medicine, 165(5), 653–656. https://doi.org/10.1007/s10517-018-4234-3
+[a https://doi.org/10.1007/s10517-018-4234-3] https://doi.org/10.1007/s10517-018-4234-3
+[li] Gusev, E. I., Martynov, M. Y., Kostenko, E. V., Petrova, L. V., & Bobyreva, S. N. (2018). Éffektivnost’ semaksa pri lechenii bol’nykh na raznykh stadiiakh ishemicheskogo insul’ta [The efficacy of semax in the tretament of patients at different stages of ischemic stroke]. Zhurnal nevrologii i psikhiatrii imeni S.S. Korsakova, 118(3. Vyp. 2), 61–68. https://doi.org/10.17116/jnevro20181183261-68
+[a https://doi.org/10.17116/jnevro20181183261-68] https://doi.org/10.17116/jnevro20181183261-68
+[li] Dolotov OV, Karpenko EA, Inozemtseva LS, Seredenina TS, Levitskaya NG, Rozyczka J, Dubynina EV, Novosadova EV, Andreeva LA, Alfeeva LY, Kamensky AA, Grivennikov IA, Myasoedov NF, Engele J. Semax, an analog of ACTH(4-10) with cognitive effects, regulates BDNF and trkB expression in the rat hippocampus. Brain Res. 2006 Oct 30;1117(1):54-60. doi: 10.1016/j.brainres.2006.07.108. Epub 2006 Sep 22. PMID: 16996037.
+[li] Kurysheva, N. I., Shpak, A. A., Ioĭleva, E. E., Galanter, L. I., Nagornova, N. D., Shubina, N. I.u, & Shlyshalova, N. N. (2001). “Semaks” v lechenii glaukomatoznoĭ opticheskoĭ neĭropatii u bol’nykh s normalizovannym oftal’motonusom [Semax in the treatment of glaucomatous optic neuropathy in patients with normalized ophthalmic tone]. Vestnik oftalmologii, 117(4), 5–8.
+[li] Ivanikov, I. O., Brekhova, M. E., Samonina, G. E., Myasoedov, N. F., & Ashmarin, I. P. (2002). Therapy of peptic ulcer with semax peptide. Bulletin of experimental biology and medicine, 134(1), 73–74. https://doi.org/10.1023/a:1020621124776
+[a https://doi.org/10.1023/a:1020621124776] https://doi.org/10.1023/a:1020621124776
+[li] Kost NV, Sokolov OIu, Gabaeva MV, Grivennikov IA, Andreeva LA, Miasoedov NF, Zozulia AA. Ingibiruiushchee deĭstvie semaksa i selanka na énkefalindegradiruiushchie fermenty syvorotki krovi cheloveka [Semax and selank inhibit the enkephalin-degrading enzymes from human serum]]. Bioorg Khim. 2001 May-Jun;27(3):180-3. Russian. doi: 10.1023/a:1011373002885. PMID: 11443939.
+[a https://doi.org/10.1023/a:1011373002885] doi: 10.1023/a:1011373002885
+[li] Nataliya Yu. Glazova, Daria M. Manchenko, Maria A. Volodina, Svetlana A. Merchieva, Ludmila A. Andreeva, Vladimir S. Kudrin, Nikolai F. Myasoedov, Natalia G. Levitskaya, Semax, synthetic ACTH(4–10) analogue, attenuates behavioural and neurochemical alterations following early-life fluvoxamine exposure in white rats, Neuropeptides, Volume 86, 2021, 102114, ISSN 0143-4179. https://doi.org/10.1016/j.npep.2020.102114
+[a https://doi.org/10.1016/j.npep.2020.102114] https://doi.org/10.1016/j.npep.2020.102114
+[li] Eremin KO, Kudrin VS, Saransaari P, Oja SS, Grivennikov IA, Myasoedov NF, Rayevsky KS. Semax, an ACTH(4-10) analogue with nootropic properties, activates dopaminergic and serotoninergic brain systems in rodents. Neurochem Res. 2005 Dec;30(12):1493-500. doi: 10.1007/s11064-005-8826-8. PMID: 16362768.
+[a https://doi.org/10.1007/s11064-005-8826-8] doi: 10.1007/s11064-005-8826-8
+[li] Sudarkina OY, Filippenkov IB, Stavchansky VV, Denisova AE, Yuzhakov VV, Sevan'kaeva LE, Valieva LV, Remizova JA, Dmitrieva VG, Gubsky LV, Myasoedov NF, Limborska SA, Dergunova LV. Brain Protein Expression Profile Confirms the Protective Effect of the ACTH(4-7)PGP Peptide (Semax) in a Rat Model of Cerebral Ischemia-Reperfusion. Int J Mol Sci. 2021 Jun 8;22(12):6179. doi: 10.3390/ijms22126179. PMID: 34201112; PMCID: PMC8226508.
+[a https://doi.org/10.3390/ijms22126179] doi: 10.3390/ijms22126179
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] N-Acetyl Selank (10mg) $65.00
+[a https://biotechpeptides.com/product/n-acetyl-selank-10mg/] N-Acetyl Selank (10mg) $65.00
+[img] N-Acetyl Selank (10mg) :: https://biotechpeptides.com/wp-content/uploads/2023/01/N-Acetyl-Selank-1-238x317.webp
+[h2] N-Acetyl Selank (10mg)
+[li] Selank (10mg) $46.00
+[a https://biotechpeptides.com/product/selank-10mg/] Selank (10mg) $46.00
+[img] Selank (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Selank-1-238x317.webp
+[h2] Selank (10mg)
+[li] PE-22-28 (8mg) $55.00
+[a https://biotechpeptides.com/product/pe-22-28-8mg/] PE-22-28 (8mg) $55.00
+[img] PE-22-28 (8mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/PE-22-28-1-238x317.webp
+[h2] PE-22-28 (8mg)
+[li] Semax (25mg) $53.00
+[a https://biotechpeptides.com/product/semax-25mg/] Semax (25mg) $53.00
+[img] Semax (25mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Semax-1-238x317.webp
+[h2] Semax (25mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

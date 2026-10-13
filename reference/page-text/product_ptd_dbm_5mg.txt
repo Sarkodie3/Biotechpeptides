@@ -1,0 +1,122 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/04/PTD-DBM-1.webp] 
+[img] PTD-DBM (5mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/PTD-DBM-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/04/COA_PTD-DBM_5mg_3140073_20260730_BP_page-0001.webp] 
+[img] PTD-DBM (5mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2022/04/COA_PTD-DBM_5mg_3140073_20260730_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/04/COA_PTD-DBM_5mg_3140073_20260730_BP_page-0002.webp] 
+[img] PTD-DBM (5mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2022/04/COA_PTD-DBM_5mg_3140073_20260730_BP_page-0002.webp
+[h1] PTD-DBM (5mg)
+[p] $86.00
+[p] PTD-DBM peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_4598 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $81.70
+[input name=wccs_tier_select_4598 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $77.40
+[label] PTD-DBM (5mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/04/COA_PTD-DBM_5mg_3140073_20260730_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] PTD-DBM Peptide
+[p] PTD-DBM stands for Protein Transduction Domain-fused Disheveled Binding Motif. It is a synthetic peptide which has been studied within a wide range of research areas, including tissue damage and hair follicle development. Researchers have focused on the peptide specifically within the context of follicle development, suggested it may exert stimulating action through interaction with the endogenous proteins linked to follicle damage called CXXC5.[1] It was discovered by Professor Kang-Yell Choi and his team of researchers at the Yonsei University in South Korea. The researchers studied the mechanism of hair follicle loss, and suggested that the cellular pathway Wnt/β-catenin may be crucial for follicle development. The Wnt/β-catenin pathway is often studied in the context of tissue development and regeneration, Wnt proteins are a family of secreted signaling molecules that bind to cell surface receptors to trigger a cascade of intracellular events. β-catenin is a protein that normally resides in the cytoplasm of cells. Upon activation of the Wnt pathway, β-catenin is thought to accumulate in the cell and translocate to the nucleus, where it may activate the transcription of specific target genes involved in cell growth and differentiation. The activation of β-catenin may have a role in supporting and even increasing hair follicle development and possibly initiating the anagen phase, which represents the growth stage of hair follicles, as observed in murine models. It has been hypothesized that PTD-DBM may interfere with the binding of CXXC5 and Dishevelled (Dvl) proteins by acting as a competitor. Specifically the peptide might inhibit the interaction between CXXC5 and Dishevelled (Dvl) proteins by binding to the PDZ domain of Dvl, thus interfering with CXXC5's inhibitory actions on Wnt/β‐catenin signaling. Such a disruption might support the Wnt/β-catenin signaling pathway, thereby possibly promoting the onset of the anagen phase. Data from such murine studies suggests elevated expression levels of β-catenin, alkaline phosphatase (ALP), and proliferating cell nuclear antigen (PCNA), which are markers linked to cellular proliferation and hair follicle functionality.[1]
+[h3] Specifications
+[p] Molecular Formula: C124H223N61O28S2
+[p] Molecular Weight: 3080.7 g/mol
+[p] Sequence: H-Arg-Arg-Arg-Arg-Arg-Arg-Arg-Arg-Gly-Gly-Gly-Gly-Arg-Lys-Thr-Gly-His-Gln-Ile-Cys-Lys-Phe-Arg-Lys-Cys-OH
+[h3] PTD-DBM Research
+[p] PTD-DBM Peptide and Androgenetic Alopecia Hair follicle growth is considered to occurs in three phases, anagen phase (growth phase), catagen phase (regression phase), and telogen phase (resting phase).The excessive secretion of androgens such as testosterone, may lead to a shorter duration of the anagen phase. In research models of androgenetic alopecia, Wnt/β-catenin signaling appears to be primary among several cellular pathways involved in hair follicle development. This signaling pathway starts with the secretion of Wnt proteins.[2] These proteins appear to bind with the Low-Density Lipoprotein-Related Protein (LRP), which, in turn, may deactivate glycogen synthase kinase-3β (GSK-3β). GSK-3β is an enzyme that is considered to deactivate the β-catenin in the hair follicle. Once stabilized, β-catenin appears to bind with the T-cell factor (TCF)/lymphoid enhancer factor (LEF). The proteins generated by the activation of β-catenin-TCF/LEF are considered to lead to the regulation of hair follicle cellular proliferation. While in the course of their research, Professor Kang-Yell Choi and team consistently reported that a specific protein called CXXC-type zinc finger protein 5 (CXXC5) appeared to be excessively expressed in laboratory models of alopecia. CXXC5 appears to trigger the signaling pathways leading to a downregulation of Wnt/β-catenin. This observation has been confirmed by ancillary studies where murine models not expressing CXXC5 did not exhibit baldness or patching.[3] CXXC5 appears to act by binding with another type of protein called Dvl protein. The CXXC5 and Dvl Protein-Protein Interaction (PPI) may lead to the downregulation of the Wnt/β-catenin pathway. As the Wnt/β-catenin pathway becomes downregulated, it may interfere with the generation of new hair follicles and the growth of existing ones, leading to hair loss. Upon exposure to PTD-DBM, the animals exhibited a similar absence of baldness or patching as observed when CXXC5 expression was completely absent. This suggests that inhibiting CXXC5 may potentially mitigate the hair loss associated with androgen activity, specifically dihydrotestosterone (DHT), a factor in androgenetic alopecia. It is proposed that DHT may exacerbate hair loss by promoting CXXC5 expression, which could subsequently suppress the Wnt/β-catenin signaling pathway, deemed a critical regulator of hair growth. Based on these and other findings in various scientific studies, PTD-DBM is assumed to interfere with CXXC5 and Dvl Protein to Protein Interaction (PPI). It may lead to increased growth of hair follicles and due to this interaction, the hair follicles appear to spend more time in the anagen phase of their development cycle. Moreover, findings from these studies suggest that PTD-DBM exposure in murine models may have resulted in hair regrowth and possibly triggered wound-induced hair follicle neogenesis (WIHN), a process where new hair follicles may form during wound healing. These observations imply that PTD-DBM could play a role in promoting the anagen phase of the hair growth cycle and might also be involved in initiating new hair follicle formation in response to skin injury.[5]
+[p] PTD-DBM Peptide and Tissue Repair Researchers have suggested that inhibiting “CXXC5 would represent a potential target for future [studies] aimed at improving wound healing.” [4] The CXXC5−/−knockout mice examined in the quoted research study exhibited reportedly accelerated healing of skin lesions. They also exhibit increased keratin and collagen synthesis. PTD-DBM may prevent the Protein-Protein Interaction between CXXC5 and Dvl proteins upregulating the Wnt/β-catenin pathway and potentially speeding up tissue repair processes. In the murine models, PTD-DBM was indeed observed to possibly induce the expression of β-catenin, but also levels of α-SMA, and collagen I. This implies that the peptide could enhance fibroblast activity and collagen gel contraction, which are considered to be critical steps in wound closure. Moreover, the peptide seemed to enhance fibroblast migration and stress fiber formation, which may be important for wound repair and tissue regeneration.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Lee SH, Seo SH, Lee DH, Pi LQ, Lee WS, Choi KY. Targeting of CXXC5 by a Competing Peptide Stimulates Hair Regrowth and Wound-Induced Hair Neogenesis. J Invest Dermatol. 2017 Nov;137(11):2260-2269. doi: 10.1016/j.jid.2017.04.038. Epub 2017 Jun 6. PMID: 28595998.
+[a https://doi.org/10.1016/j.jid.2017.04.038] doi: 10.1016/j.jid.2017.04.038
+[li] Kim D, Garza LA. The Negative Regulator CXXC5: Making WNT Look a Little Less Dishevelled. J Invest Dermatol. 2017 Nov;137(11):2248-2250. doi: 10.1016/j.jid.2017.07.826. Epub 2017 Sep 27. PMID: 28967390; PMCID: PMC6399733.
+[a https://doi.org/10.1016/j.jid.2017.07.826] doi: 10.1016/j.jid.2017.07.826
+[li] Ryu, Y.C.; Park, J.; Kim, Y.-R.; Choi, S.; Kim, G.-U.; Kim, E.; Hwang, Y.; Kim, H.; Han, G.; Lee, S.-H.; Choi, K.-Y. CXXC5 Mediates DHT-Induced Androgenetic Alopecia via PGD2. Cells 2023, 12, 555. doi: 10.3390/cells12040555.
+[a https://doi.org/10.3390/cells12040555] doi: 10.3390/cells12040555.
+[li] Lee SH, Kim MY, Kim HY, Lee YM, Kim H, Nam KA, Roh MR, Min do S, Chung KY, Choi KY. The Dishevelled-binding protein CXXC5 negatively regulates cutaneous wound healing. J Exp Med. 2015 Jun 29;212(7):1061-80. doi: 10.1084/jem.20141601. Epub 2015 Jun 8. PMID: 26056233; PMCID: PMC4493411.
+[a https://doi.org/10.1084/jem.20141601] doi: 10.1084/jem.20141601
+[li] Ryu YC, Lee DH, Shim J, Park J, Kim YR, Choi S, Bak SS, Sung YK, Lee SH, Choi KY. KY19382, a novel activator of Wnt/β-catenin signalling, promotes hair regrowth and hair follicle neogenesis. Br J Pharmacol. 2021 Jun;178(12):2533-2546. doi: 10.1111/bph.15438. Epub 2021 May 5. PMID: 33751552; PMCID: PMC8251890.
+[a https://doi.org/10.1111/bph.15438] doi: 10.1111/bph.15438
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Sale! Pal-AHK (200mg) $192.00 Original price was: $192.00.$180.00Current price is: $180.00.
+[a https://biotechpeptides.com/product/pal-ahk-topical-200mg/] Sale! Pal-AHK (200mg) $192.00 Original price was: $192.00.$180.00Current price is: $180.00.
+[img] Pal-AHK (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Pal-AHK-2-238x317.webp
+[h2] Pal-AHK (200mg)
+[li] Follistatin-344 (1mg) $162.00
+[a https://biotechpeptides.com/product/follistatin-344-1mg/] Follistatin-344 (1mg) $162.00
+[img] Follistatin-344 (1mg) :: https://biotechpeptides.com/wp-content/uploads/2022/01/Follistatin-344-1-238x317.webp
+[h2] Follistatin-344 (1mg)
+[li] AHK-Cu (200mg) $192.00
+[a https://biotechpeptides.com/product/ahk-cu-topical-200mg/] AHK-Cu (200mg) $192.00
+[img] AHK-Cu (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/AHK-Cu-1-238x317.webp
+[h2] AHK-Cu (200mg)
+[li] GHK Basic (Tripeptide-1) (200mg) $165.00
+[a https://biotechpeptides.com/product/ghk-basic-tripeptide-1-topical-200mg/] GHK Basic (Tripeptide-1) (200mg) $165.00
+[img] Buy GHK Basic (Tripeptide-1) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/GHK-Basic-3-238x317.webp
+[h2] GHK Basic (Tripeptide-1) (200mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

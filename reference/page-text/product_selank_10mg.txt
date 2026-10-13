@@ -1,0 +1,138 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/04/Selank-1.webp] 
+[img] Selank (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Selank-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Selank-10mg-COA-scaled.webp] 
+[img] Selank (10mg) COA :: https://biotechpeptides.com/wp-content/uploads/2026/04/Selank-10mg-COA-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Selank-10mg-LC-scaled.webp] 
+[img] Selank (10mg) LC :: https://biotechpeptides.com/wp-content/uploads/2026/04/Selank-10mg-LC-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Selank-10mg-MS-scaled.webp] 
+[img] Selank (10mg) MS :: https://biotechpeptides.com/wp-content/uploads/2026/04/Selank-10mg-MS-scaled.webp
+[h1] Selank (10mg)
+[p] $46.00
+[p] Selank peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_822 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $43.70
+[input name=wccs_tier_select_822 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $41.40
+[label] Selank (10mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2026/06/Selank-10mg-.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Selank Peptide
+[p] Selank is a small peptide studied for its potential nootropic and behavior-modifying functions in experimental models. It is a synthetic analog of naturally occurring Tuftsin. This immunomodulatory peptide is a short fragment from the immunoglobulin G (IgG), a natural tetrapeptide involved in certain functions that may regulate the immune system. Selank is also posited to possess additional potential for regulating immune cells, IL-6, a wide range of neurotransmitter systems, and brain-derived neurotrophic factor (BDNF). Selank differs in structure from the endogenous Tuftsin by an additional three amino acids in its chain, which have been supposed to enhance the metabolic stability and half-life of the synthetic peptide. Specifically, that is the Pro-Gly-Pro segment at the C-terminus of Selank, which might enhance its ability to move through various models, including the blood-brain barrier (BBB). The BBB is a highly selective and semi-permeable barrier that separates circulating blood from the tissues and extracellular fluid of the central nervous system, playing a vital role in regulating substance passage. The inclusion of Pro-Gly-Pro may possibly increase BBB permeability by affecting the peptide's hydrophilicity or lipophilicity, which may enhance its affinity for the BBB's lipid-rich environment. Furthermore, the Pro-Gly-Pro sequence might interact with specific transport mechanisms or receptors at the BBB, possibly initiating facilitated transport or receptor-mediated endocytosis. These processes may enable Selank to circumvent the tight junctions that are said to typically restrict larger molecules.
+[h3] Specifications
+[p] Molecular Formula: C33H57N11O9
+[p] Molecular Weight: 751.88 g/mol
+[p] Sequence: Thr-Lys-Pro-Arg-Pro-Gly-Pro
+[h3] Selank Research
+[p] Selank and GABA Neurotransmission As per Dr. Anastasiya Volkova of the Institute of Molecular Genetics in Russia, “numerous clinical studies have [suggested] that Selank [may exhibit] strong antianxiety and neuroprotective effects in the [context] of anxiety. Selank and classical antianxiety [compounds] such as benzodiazepine have a similar mode of action. Selank allosterically modulates GABAA receptors and increases the inhibitory action of GABA.” Researchers like Dr. Volkova have suggested that as a result of peptide activity, stress hormone levels may be reduced. Studies conducted by researchers focused on small concentrations of Selank exposure have observed a sedating action similar to benzodiazepines. It has been suggested that the peptide may influence the expression of 7 genes and that it may moderately affect the expression of 45 other targets, all from a set of roughly 84 genes considered to be involved in GABA signaling.[1] Researchers reported that their “results [posited] that Selank caused a number of alterations in the expression of genes involved in neurotransmission.” They suggested the peptide may stimulate gene expression in neurons and influence the affinity of GABA receptors for GABA. Synergism between Selank and benzodiazepines and other GABA receptor agonists appears to be mediated through alteration of the receptor affinity. Research in rats observes that Selank and benzodiazepines, when alone, appear to have similar impacts on stress hormones, particularly in models of generalized anxiety. The synergistic potential of these compounds has not been fully explored.[2] The impact of Selank on enkephalin degradation appears to modulate its influence on GABA receptors to a certain extent. Studies have suggested enkephalins with shorter blood stability may be present in models of anxiety and phobic disorders. This is apparently caused by increased enkephalinase activity in the blood, which may degrade the enkephalins. Studies in murine models of anxiety posit that the peptide appears to inhibit enkephalinase, stabilize enkephalins, reset the enzymatic pathway, and thus may preserve natural anxiolytic peptides.[3]
+[p] Selank Peptide and the Immune System Selank has been studied for its potential to inhibit the gene responsible for the production of the inflammatory cytokine IL-6 in research models of depression but not in control models.[4] Researchers also note that “the adaptogenic properties of selank may be beneficial [in the cases of exposure] to environmental stressors for the prevention of infectious diseases.” Selank research suggests that compared to standard anxiolytic compounds, like benzodiazepines, it may improve asthenic symptoms such as fatigue and pain.[5] This may be due to the peptide’s apparent stabilization of enkephalins and potential ability to modify the expression of IL-6. The peptide appears to affect the expression of nearly 34 genes in the inflammatory pathway, which may include those affecting chemokines, cytokines, and receptors. Specifically, it has been studied in relation to Bcl6 expression, which is considered to promote immune development. This scientific study not only helps explore the complex potential impact of the peptide. It may also improve our understanding of immune systems in general. Selank and its truncated versions may mediate transient gene expression for C3, CAsp1, Il2rf, and Xcr1 in the mouse spleen. Selank may alter the immune system's balance and thereby modulate inflammation.[6]
+[p] Selank Peptide and Metabolic Actions on Lipid Metabolism Selank has been researched and compared to a placebo regarding its potential action on lipid metabolism in murine models of obesity.[7] The analysis suggests that the group exposed to Selank appeared to exhibit reductions in cholesterol and fat levels, ranging approximately between 25% and 58%. This implies that Selank may potentially decrease specific forms of lipids, such as low-density lipoprotein (LDL), very-low-density lipoprotein (VLDL) cholesterol, and triglycerides. This observation suggests that Selank might have a role, whether direct or indirect, in influencing lipid metabolism mechanisms and might exhibit hypocholesterolemic (cholesterol-lowering) and hypolipidemic (lipid-lowering) properties. Further, the research indicated notable improvements in hemostasis-related parameters, including increased total fibrinolytic activity and reduced platelet aggregation. These changes might imply potential benefits in conditions that predispose to clot formation. Additionally, Selank's potential modulatory action on glucose homeostasis was suggested, indicating it might help maintain stable blood glucose levels. The study also reported an enhancement in the fat metabolism rate within the Selank group, which eventually aligned with the metabolism rate observed in control models. Weight measurements showed that the test group of research models had an average weight gain of 40g during the study period. In contrast, the Selank group maintained their weight throughout the study, with a gradual reduction observed upon peptide exposure.
+[p] Selank Peptide and Nootropic Actions Anxiety and learning/memory have shown a strong inverse association in studies conducted on test models by researchers. The peptide appears to potentially reduce the impact of anxiety on cognitive function. Selank research has suggested that the peptide may improve memory traceability and recall in rats.[8] This improvement was independent of the anxiety levels of the rats. The peptide appears to trigger better memory recall through the hippocampal expression of 36 different genes. The majority of the targets are membrane-associated proteins that regulate ion movement across cell membranes. Thus, the ion-dependent processes in learning and memory appear to be enhanced by the molecule. Selank researchers have posited its potential to help in formation and access of memories. It may also help to rescue memory and cognitive abilities after injury in rats exposed to neurotoxins. This inference is considered to be due to the apparent inhibition of catecholamines in the brain.[9] Selank may thereby play a hand in the restoration of cognitive function after an injury. Another study also investigated the potential nootropic actions of the synthetic peptide Selank in murine models with both normal and reduced learning abilities. Results in normal murine models suggested that Selank potentially enhanced the learning process, particularly notable by the third day of repeated exposure. The number of correct avoidance responses increased, and the number of errors decreased. This action was observed to persist, suggesting an improvement in memory retention. Notably, Selank's influence seemed to commence during the consolidation phase of learning. In models with initially reduced learning ability, Selank exhibited a rapid potential impact, with improvements observed from the first experimentation day. Researchers observed this group and indicated a progressive increase in correct responses and a decrease in errors across the training period. The data suggests that Selank might play a role in optimizing learning and memory processes by possibly enhancing the formation and consolidation of conditioned reflexes.[10]
+[p] Selank and Serotonin Neurotransmission Research suggests that Selank might have the capability to interact with serotonin signaling pathways.[12] Serotonin signaling is thought to play a role in regulating mood and anxiety in the brain. Studies using murine models with inhibited serotonin synthesis imply that Selank may contribute to the modulation of serotonin levels when serotonergic function is impaired. It is hypothesized that Selank may enhance serotonin metabolism in the brainstem, inducing a potentially quick action on the serotonin system. The peptide is believed to potentially increase serotonin metabolic activity in brain regions involved in mood and anxiety regulation. Moreover, the study hypothesizes that Selank's ability to boost serotonin metabolism might provide a mechanism for addressing disturbances linked to reduced serotonin function.
+[p] Selank and Neurotrophic Factors Selank might influence the expression of brain-derived neurotrophic factor (BDNF), a protein considered essential for the survival and growth of neurons in the brain.[13] Some studies suggest that Selank may potentially elevate the levels of BDNF mRNA in the hippocampus, a brain region associated with memory formation and emotional regulation. This potential ability of Selank to enhance BDNF expression, especially in scenarios where stress and glucocorticoids may suppress BDNF levels, implies its potential importance in research exploring neuroplasticity.
+[p] Selank Peptide and Nociception Enkephalins are natural peptides that are considered to reduce the severity of nociception by interacting with opioid receptors. Research suggests that Selank might potentially inhibit enkephalin-degrading enzymes, which are deemed responsible for breaking down enkephalins.[11] Enkephalins are naturally occurring ligands that bind to opioid receptors and are believed to be involved in regulating pain, mood, and stress responses. By possibly inhibiting these enzymes, Selank may slow the degradation of enkephalins, potentially increasing their availability and enhancing their actions. Additionally, the research data indicated that Selank exposure might lead to an increase in the half-life (tau(1/2)) of leu-enkephalin, a specific type of enkephalin, particularly in models of anxiety. This implies that Selank may prolong the presence of leu-enkephalin in the system, which might contribute to its anxiolytic actions. However, these findings still need to be investigated, and the precise mechanisms and extent of Selank's impact still needs to be fully understood.[5]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Volkova A, Shadrina M, Kolomin T, Andreeva L, Limborska S, Myasoedov N, Slominsky P. Selank Administration Affects the Expression of Some Genes Involved in GABAergic Neurotransmission. Front Pharmacol. 2016 Feb 18;7:31. doi: 10.3389/fphar.2016.00031. PMID: 26924987; PMCID: PMC4757669.
+[a https://doi.org/10.3389/fphar.2016.00031] doi: 10.3389/fphar.2016.00031
+[li] Kasian A, Kolomin T, Andreeva L, Bondarenko E, Myasoedov N, Slominsky P, Shadrina M. Peptide Selank Enhances the Effect of Diazepam in Reducing Anxiety in Unpredictable Chronic Mild Stress Conditions in Rats. Behav Neurol. 2017;2017:5091027. doi: 10.1155/2017/5091027. Epub 2017 Feb 9. PMID: 28280289; PMCID: PMC5322660.
+[a https://doi.org/10.1155/2017/5091027] doi: 10.1155/2017/5091027
+[li] Sokolov OY, Meshavkin VK, Kost NV, Zozulya AA. Effects of Selank on behavioral reactions and activities of plasma enkephalin-degrading enzymes in mice with different phenotypes of emotional and stress reactions. Bull Exp Biol Med. 2002 Feb;133(2):133-5. doi: 10.1023/a:1015582302311. PMID: 12432865.
+[a https://doi.org/10.1023/a:1015582302311] doi: 10.1023/a:1015582302311
+[li] Uchakina ON, Uchakin PN, Miasoedov NF, Andreeva LA, Shcherbenko VE, Mezentseva MV, Gabaeva MV, Sokolov OIu, Zozulia AA, Ershov FI. [Immunomodulatory effects of selank in patients with anxiety-asthenic disorders]. Zh Nevrol Psikhiatr Im S S Korsakova. 2008;108(5):71-5. Russian. PMID: 18577961.
+[li] Zozulia AA, Neznamov GG, Siuniakov TS, Kost NV, Gabaeva MV, Sokolov OIu, Serebriakova EV, Siranchieva OA, Andriushenko AV, Telesheva ES, Siuniakov SA, Smulevich AB, Miasoedov NF, Seredenin SB. [Efficacy and possible mechanisms of action of a new peptide anxiolytic selank in the therapy of generalized anxiety disorders and neurasthenia]. Zh Nevrol Psikhiatr Im S S Korsakova. 2008;108(4):38-48. Russian. PMID: 18454096.
+[li] Agapova TIu, Agniullin IaV, Silachev DN, Shadrina MI, Slominskiĭ PA, Shram SI, Limborskaia SA, Miasoedov NF. [Effect of semax on the temporary dynamics of brain-derived neurotrophic factor and nerve growth factor gene expression in the rat hippocampus and frontal cortex]. Mol Gen Mikrobiol Virusol. 2008;(3):28-32. Russian. PMID: 18756821.
+[li] N.F. Mjasoedov et al, The Influence of Selank on the Parameters of the Hemostasis System, Lipid Profile, and Blood Sugar Level in the Course of Experimental Metabolic Syndrome. April 14, 2014.
+[li] Semenova TP, Kozlovskiĭ II, Zakharova NM, Kozlovskaia MM. [Experimental optimization of learning and memory processes by selank]. Eksp Klin Farmakol. 2010 Aug;73(8):2-5. Russian. PMID: 20919548.
+[li] Semenova TP, Kozlovskaya MM, Zakharova NM, Kozlovskii II, Zuikov AV. Effect of selank on cognitive processes after damage inflicted to the cerebral catecholamine system during early ontogeny. Bull Exp Biol Med. 2007 Nov;144(5):689-91. doi: 10.1007/s10517-007-0406-2. PMID: 18683497.
+[a https://doi.org/10.1007/s10517-007-0406-2] doi: 10.1007/s10517-007-0406-2
+[li] Kozlovskii II, Danchev ND. The optimizing action of the synthetic peptide Selank on a conditioned active avoidance reflex in rats. Neurosci Behav Physiol. 2003 Sep;33(7):639-43.
+[li] Kost, N. V., Sokolov, O. I.u, Gabaeva, M. V., Grivennikov, I. A., Andreeva, L. A., Miasoedov, N. F., & Zozulia, A. A. (2001). Ingibiruiushchee deĭstvie semaksa i selanka na énkefalindegradiruiushchie fermenty syvorotki krovi cheloveka [Semax and selank inhibit the enkephalin-degrading enzymes from human serum]]. Bioorganicheskaia khimiia, 27(3), 180–183. https://doi.org/10.1023/a:1011373002885
+[a https://doi.org/10.1023/a:1011373002885] https://doi.org/10.1023/a:1011373002885
+[li] Semenova TP, kozlovskiĭ II, Zakharova NM, Kozlovskaia MM. [Comparison of the effects of selank and tuftsin on the metabolism of serotonin in the brain of rats pretreated with PCPA]. Eksp Klin Farmakol. 2009 Jul-Aug;72(4):6-8. Russian. PMID: 19803361.
+[li] Inozemtseva, L. S., Karpenko, E. A., Dolotov, O. V., Levitskaya, N. G., Kamensky, A. A., Andreeva, L. A., & Grivennikov, I. A. (2008). Intranasal administration of the peptide Selank regulates BDNF expression in the rat hippocampus in vivo. Doklady biological sciences : proceedings of the Academy of Sciences of the USSR, Biological sciences sections, 421, 241–243. https://doi.org/10.1134/s0012496608040066
+[a https://doi.org/10.1134/s0012496608040066] https://doi.org/10.1134/s0012496608040066
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Semax (25mg) $53.00
+[a https://biotechpeptides.com/product/semax-25mg/] Semax (25mg) $53.00
+[img] Semax (25mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Semax-1-238x317.webp
+[h2] Semax (25mg)
+[li] N-Acetyl Selank (10mg) $65.00
+[a https://biotechpeptides.com/product/n-acetyl-selank-10mg/] N-Acetyl Selank (10mg) $65.00
+[img] N-Acetyl Selank (10mg) :: https://biotechpeptides.com/wp-content/uploads/2023/01/N-Acetyl-Selank-1-238x317.webp
+[h2] N-Acetyl Selank (10mg)
+[li] N-Acetyl Semax (25mg) $57.00
+[a https://biotechpeptides.com/product/n-acetyl-semax-25mg/] N-Acetyl Semax (25mg) $57.00
+[img] N-Acetyl Semax (25mg) :: https://biotechpeptides.com/wp-content/uploads/2023/01/N-Acetyl-Semax-3-238x317.webp
+[h2] N-Acetyl Semax (25mg)
+[li] PE-22-28 (8mg) $55.00
+[a https://biotechpeptides.com/product/pe-22-28-8mg/] PE-22-28 (8mg) $55.00
+[img] PE-22-28 (8mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/PE-22-28-1-238x317.webp
+[h2] PE-22-28 (8mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

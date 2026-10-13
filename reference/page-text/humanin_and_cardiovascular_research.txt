@@ -1,0 +1,84 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Humanin and Cardiovascular Research
+[p] by Dr. Usman | Jan 6, 2022 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Humanin and Cardiovascular Research :: https://biotechpeptides.com/wp-content/uploads/2022/01/How-Humanin-Promotes-Health-and-Longevity-in-the-Heart.webp
+[a https://biotechpeptides.com/product/humanin-10mg/] Humanin is a micro-peptide featuring a three-turn alpha-helix and an asymmetrical structure.
+[p] Mitochondria are considered to play complex roles in energy production, cellular signaling, and metabolism, serving as the cell’s powerhouse. Earlier assumptions about the control of mitochondria’s function, maintenance, and biogenesis by the nucleus may be reconsidered in light of newer studies suggesting that some mitochondria possess a genomic sequence, translating into proteins that may affect the genomic expression of the nucleus.
+[p] Research on the genomic sequence of mitochondria suggests that the rRNA possesses Open Reading Frames (ORFs), transcribing into small peptides, including Humanin (HN), Small Humanin-Like Peptides 1-6 (SHLPs), and Mitochondrial ORF-encoded peptide (MOTS-c). These peptides appear to bind to specific receptors in and out of the cells, exerting various speculated biological effects.
+[p] The detectable concentration of Humanin in the skeletal muscles, hypothalamus, and cortex of murine models declined progressively with advancing age. Humanin may potentially be a subsequent biomarker of age. Humanin is suggested to have diverse biological functions, including cytoprotective and metabolic roles. Cytoprotective roles may involve protection against oxidative stress and injury, anti-inflammatory responses, neuroprotection, and cardioprotection. Metabolic protection roles may involve metabolic hemostasis, ATP production, reduction in visceral fat, and glucose-stimulated insulin secretion.
+[p] Myocardial fibrosis may appear either as an age-related physiological change or due to various pathological phenomena such as Myocardial Infarction and ischemic reperfusion injury, contributing to cardiac dysfunction. It is speculated to affect both systolic and diastolic function and eventually progress to heart failure. The number of fibroblast cells present in cardiac tissue may directly correlate with the age of the heart tissue. Considering its ratio to the cardiac striated cells present may indicate the extent of age-related degenerative change in the heart. These fibroblasts may lead to the secretion of extracellular matrix proteins such as collagen type 1 that favors fibrosis.
+[h2] Humanin – Mechanism of Action
+[p] Studies suggest that Humanin may exert cardioprotective effects by activating the AKT/GSK-3 beta (Glycogen Synthase Kinase) pathway. Humanin might also be able to alter the pro-apoptotic factors in the cardiac fibers and prevent cell death, starting and downregulating varying pathways depending on the action site and the pathology type. Other factors considered to be responsible for causing fibrosis in the heart, such as FGF-2 (Fibroblast Growth Factor-2), MMP-2 (Matrix Metalloproteinase-2), and Transforming Growth Factor-beta (TGF-beta), may increase in the cardiac tissue as age progresses. Studies suggest the role of Humanin in attenuating the effect of them all.
+[p] Another speculated mechanism associated with age-related cardiac tissue deterioration involves the damage caused by Reactive Oxidative Species (ROS). Excessive Reactive Oxidative Species may cause the deterioration of the Antioxidant Defense System by depolarizing the mitochondrial membrane. This could lead to ATP (Adenosine Triphosphate) hydrolysis and the speculated swelling of the mitochondria. This might cause the rupture of the outer membrane of mitochondria and, eventually, the release of pro-apoptotic proteins in the cytosol. The Humanin peptide may induce enzymes and various small non-enzymatic molecules that lead to an overall reduction of the oxidative stress caused by Reactive Oxygen Species (ROS).
+[p] A study on aged rats propose that chronic exposure to exogenous Humanin may ameliorate myocardial fibrosis and apoptosis. This study indicate an increase in the ratio of cardiac fibers to fibroblasts, measured in the percentage of each cell present in a random field chosen after immunofluorescence staining of the cardiac tissue. Picrosirius red staining of the cardiac tissue might inducate a decrease in the collagen content of the heart tissue, a marker of tissue age. Long-term supplementation of Humanin may reduce fibroblast proliferation and downregulate the expression of Fibroblast Growth Factor-2 (FGF-2), Matrix Metalloproteinase-2 (MMP-2), and Transforming Growth Factor-beta 1 (TGF-beta 1). It has also been speculated to suppress pro-apoptotic factors in the cardiac tissue.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

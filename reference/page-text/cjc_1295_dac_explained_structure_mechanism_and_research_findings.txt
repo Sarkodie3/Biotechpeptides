@@ -1,0 +1,147 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] CJC-1295 DAC Explained: Structure, Mechanism, and Research Findings
+[p] by Dr. Usman | Jan 19, 2026 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] CJC-1295 DAC Explained Structure, Mechanism, and Research Findings :: https://biotechpeptides.com/wp-content/uploads/2026/01/CJC-1295-DAC-Explained-Structure-Mechanism-and-Research-Findings.webp
+[a https://biotechpeptides.com/product/cjc-1295-dac-5mg/] DAC: GRF or long-acting growth hormone-releasing hormone (GHRH) analog
+[p] The peptide was originally developed by ConjuChem, a Canadian biotechnology company, in the mid-2000s.[2] Initial research efforts centered on exploring its potential to modulate growth hormone (GH) and insulin-like growth factor-1 (IGF-1) levels. The compound’s design incorporates a Drug Affinity Complex (DAC), a lysine-linked derivative of N-ε-3-maleimidopropionamide, which enables covalent attachment to plasma proteins such as serum albumin.
+[p] This molecular engineering substantially prolongs the peptide’s biological half-life, extending it from minutes (in the case of endogenous GHRH or Modified GRF 1-29) to approximately eight days, thereby facilitating sustained receptor interaction and prolonged GH secretory response. CJC-1295 DAC is recognized as the shortest functional analog of GHRH capable of inducing GH release. Research suggests that this analog maintains high receptor affinity while displaying better-supported pharmacokinetic stability compared to shorter GHRH fragments or non-DAC counterparts.
+[p] Contents:
+[li] Mechanism of Action
+[a #ma] Mechanism of Action
+[li] Scientific and Research Studies
+[a #research] Scientific and Research Studies
+[li] Regulatory Modulation of the Growth Hormone Axis by Modified GRF 1-29
+[a #rm] Regulatory Modulation of the Growth Hormone Axis by Modified GRF 1-29
+[li] Receptor Level Interactions between Modified GRF 1-29 and Pituitary Signaling Pathways
+[a #rli] Receptor Level Interactions between Modified GRF 1-29 and Pituitary Signaling Pathways
+[li] Intestinal and Enteric Receptor Activity Linked to Modified GRF 1-29
+[a #ier] Intestinal and Enteric Receptor Activity Linked to Modified GRF 1-29
+[li] Cardiac Indicators in Models Exposed to Modified GRF 1-29
+[a #ci] Cardiac Indicators in Models Exposed to Modified GRF 1-29
+[li] Clinical Studies Implying Interaction Between Growth Hormones and Thyroid
+[a #cs] Clinical Studies Implying Interaction Between Growth Hormones and Thyroid
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/cjc-1295-dac-5mg/] 
+[img] CJC-1295 DAC (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-DAC-5MG-1-1.webp
+[h2] Mechanism of Action
+[p] CJC-1295 DAC is postulated to act through the endogenous growth hormone axis, mimicking the activity of endogenous GHRH. The peptide binds to GHRH receptors located on somatotroph cells within the anterior pituitary, initiating cyclic adenosine monophosphate (cAMP)-dependent intracellular signaling cascades. This process may activate protein kinase A (PKA), leading to better-supported transcription of GH-encoding genes and exocytotic release of stored GH vesicles.
+[p] Physiologically, GH secretion occurs in pulsatile bursts, governed by the interplay between GHRH and somatostatin (growth hormone-inhibiting hormone). Research suggests that analogs like CJC-1295 DAC may reinforce these pulsatile secretions by amplifying the stimulatory phase while maintaining an endogenous mitigatory rhythm.[3] Furthermore, the peptide’s interaction with plasma proteins via the DAC moiety may create a slow-release depot, allowing for sustained receptor activation without overstimulation.
+[p] Studies also suggest that CJC-1295 DAC may function synergistically with ghrelin mimetics (e.g., GHRP-6 or Hexarelin), which act on separate ghrelin receptors to suppress somatostatin and support GHRH-driven GH release. This dual-pathway interaction might potentiate IGF-1 synthesis in hepatic tissues, contributing to downstream anabolic and lipolytic signaling pathways. Collectively, the biochemical design of CJC-1295 DAC, combining receptor-specific activity with plasma protein conjugation, appears to optimize both efficacy and stability within experimental models evaluating GH regulation and metabolic homeostasis.
+[a https://biotechpeptides.com/product/ghrp-6-10mg/] GHRP-6
+[a https://biotechpeptides.com/product/hexarelin-5mg/] Hexarelin
+[h2] Scientific Research and Studies
+[h3] Experimental Findings and Endocrine Activity of CJC-1295 DAC
+[p] In 2006, researchers conducted two controlled clinical studies to explore the potential endocrine implications of CJC-1295 DAC. The first involved a single ascending concentration design, while the second examined repeated exposure at a fixed concentration.[4] Across both investigations, exposure to CJC-1295 DAC was associated with a measurable increase in circulating growth hormone (GH) and insulin-like growth factor-1 (IGF-1) levels compared to baseline models.
+[p] The observed rise in IGF-1 is theorized to result from better-supported GH production, which may bind to hepatic GH receptors, initiating downstream activation of the Janus kinase/signal transducer and activator of transcription (JAK-STAT) pathway. This cascade potentially leads to phosphorylation of STAT proteins and their translocation to the nucleus, where they may engage specific DNA response elements to promote IGF-1 gene transcription.
+[p] Experimental data suggest that exposure to CJC-1295 DAC may result in 2- to 10-fold elevations in GH persisting for up to six days, while IGF-1 levels may increase 1.5- to 3-fold and remain above baseline for approximately 9-11 days. In repeated-exposure models, these elevations reportedly persisted for up to 28 days, suggesting a possible cumulative implication on the GH-IGF-1 axis, suggesting “the potential [implications] of CJC-1295 as a [helpful] agent.”[4]
+[h3] Analysis of Mammalian Growth Hormone Pulsatility, Receptor Pathway Activation
+[p] A separate 2006 investigation assessed the peptide’s support for GH pulsatility following a single peptide introduction.[5] Findings reported an approximate 50% increase in mean GH secretion and a similar elevation in IGF-1 levels compared to baseline, with peak GH concentrations reported to rise as much as 7.5-fold.
+[p] At the molecular level, CJC-1295 DAC is believed to interact with the growth hormone-releasing hormone (GHRH) receptor, a G-protein-coupled receptor located on somatotroph cells in the anterior pituitary. This receptor engagement may activate G-protein subunits, promoting the synthesis of intracellular second messengers such as cyclic adenosine monophosphate (cAMP) and inositol trisphosphate (IP3).
+[p] These messengers, in turn, are thought to activate protein kinases, which phosphorylate transcription regulators involved in GH gene expression.[6] This multi-step signaling cascade may therefore support GH synthesis and release, aligning with the peptide’s observed ability to sustain elevated GH output within mammalian research models.
+[h3] Preclinical Assessment in GHRH-Deficient Murine Models
+[p] Further investigations were carried out using murine models lacking the GHRH gene (GHRHKO) to evaluate the anabolic potential of CJC-1295 DAC. In these studies, subjects received either daily or intermittent peptide exposure, while control groups received a placebo. Findings suggest that daily exposure nearly normalized growth profiles in GHRHKO models, while exposure every two to three days produced intermediate implications, suggesting a frequency-dependent response.
+[p] CJC-1295 DAC was associated with increased lean muscular tissue mass preservation and reduced fat accumulation, potentially indicating support for mass of mammalian models through GH-mediated anabolic pathways. Additionally, the peptide appeared to increase pituitary total RNA and GH mRNA levels, suggesting a rise in somatotroph cell proliferation.
+[p] Immunohistochemical observations have supported this hypothesis, revealing better-supported somatotroph density within the anterior pituitary following peptide exposure. Collectively, these preclinical findings imply that CJC-1295 DAC may modulate GH synthesis, pituitary cellular activity, and tissue growth dynamics through mechanisms consistent with its classification as a long-acting GHRH analog.
+[h3] Supplementary Investigations and Analytical Evaluations
+[p] In 2005, a clinical investigation[8] was initiated to examine the potential endocrine and metabolic activity of CJC-1295 DAC in models representing HIV-associated visceral adiposity. The planned study design involved peptide exposure over three months, followed by a six-week observational phase to monitor post-exposure outcomes. However, this investigation was discontinued during the recruitment phase, and no validated findings or results were reported from the trial.
+[p] Subsequently, a 2009 analytical study conducted by researchers from the Norwegian Doping Control Laboratory and the School of Pharmacy aimed to identify the biochemical nature of an unfamiliar compound submitted for substance verification. Analytical characterization reported that the peptide “CJC-1295 DAC is a releasing factor for growth hormone.”[1]
+[h3] Pharmacokinetic Modifications and Half-Life Extension
+[p] CJC-1295 DAC incorporates a molecular engineering platform referred to as the Drug Affinity Complex (DAC), designed to prolong peptide stability through plasma protein binding.[1] Endogenous growth hormone-releasing hormone (GHRH) is characterized by a brief biological half-life of approximately 7 minutes, largely due to rapid enzymatic degradation.
+[p] In contrast, CJC-1295 without DAC, also referred to as Modified GRF (1–29), exhibits a longer half-life of about 30 minutes, attributed to targeted amino acid substitutions within its 29-residue fragment. Structural modification of four amino acid positions, 2, 8, 15, and 27, is theorized to support the peptide’s resistance to dipeptidyl peptidase-4 (DPP-IV) degradation and oxidative instability. These substitutions include:
+[li] Position 2: L-alanine replaced by D-alanine, potentially supporting enzymatic stability.
+[li] Position 8: Asparagine replaced by glutamine, which may reduce susceptibility to deamidation and amide hydrolysis.
+[li] Position 15: Glycine replaced by alanine, a substitution hypothesized to support greater receptor binding efficiency.
+[li] Position 27: Methionine replaced by leucine, potentially minimizing oxidative reactions and preserving peptide integrity.
+[p] The addition of the DAC moiety, formed by conjugation of a lysine residue to N-ε-3-maleimidopropionamide, further extends the circulating half-life through reversible binding to serum albumin. This binding mechanism may create slow-release implications, resulting in a prolonged biological half-life estimated between 6 and 8 days [9] Collectively, these molecular adaptations appear to optimize both pharmacokinetic stability and functional persistence under laboratory conditions.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] Henninge J, Pepaj M, Hullstein I, Hemmersbach P. Identification of CJC-1295, a growth-hormone-releasing peptide, in an unknown pharmaceutical preparation. Drug Test Anal. 2010 Nov-Dec;2(11-12):647-50. doi: 10.1002/dta.233. Epub 2010 Dec 10. PMID: 21204297. https://pubmed.ncbi.nlm.nih.gov/21204297/
+[a https://pubmed.ncbi.nlm.nih.gov/21204297/] https://pubmed.ncbi.nlm.nih.gov/21204297/
+[li] Alba M, Fintini D, Sagazio A, Lawrence B, Castaigne JP, Frohman LA, Salvatori R. Once-daily administration of CJC-1295, a long-acting growth hormone-releasing hormone (GHRH) analog, normalizes growth in the GHRH knockout mouse. Am J Physiol Endocrinol Metab. 2006 Dec;291(6):E1290-4. doi: 10.1152/ajpendo.00201.2006. Epub 2006 Jul 5. PMID: 16822960. https://pubmed.ncbi.nlm.nih.gov/16822960/
+[a https://pubmed.ncbi.nlm.nih.gov/16822960/] https://pubmed.ncbi.nlm.nih.gov/16822960/
+[li] Sinha DK, Balasubramanian A, Tatem AJ, Rivera-Mirabal J, Yu J, Kovac J, Pastuszak AW, Lipshultz LI. Beyond the androgen receptor: the role of growth hormone secretagogues in the modern management of body composition in hypogonadal males. Transl Androl Urol. 2020 Mar;9(Suppl 2):S149-S159. doi: 10.21037/tau.2019.11.30. PMID: 32257855; PMCID: PMC7108996. https://pubmed.ncbi.nlm.nih.gov/32257855/
+[a https://pubmed.ncbi.nlm.nih.gov/32257855/] https://pubmed.ncbi.nlm.nih.gov/32257855/
+[li] Teichman SL, Neale A, Lawrence B, Gagnon C, Castaigne JP, Frohman LA. Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults. J Clin Endocrinol Metab. 2006 Mar;91(3):799-805. doi: 10.1210/jc.2005-1536. Epub 2005 Dec 13. PMID: 16352683. https://pubmed.ncbi.nlm.nih.gov/16352683/
+[a https://pubmed.ncbi.nlm.nih.gov/16352683/] https://pubmed.ncbi.nlm.nih.gov/16352683/
+[li] Ionescu M, Frohman LA. Pulsatile secretion of growth hormone (GH) persists during continuous stimulation by CJC-1295, a long-acting GH-releasing hormone analog. J Clin Endocrinol Metab. 2006 Dec;91(12):4792-7. doi: 10.1210/jc.2006-1702. Epub 2006 Oct 3. PMID: 17018654. https://pubmed.ncbi.nlm.nih.gov/17018654/
+[a https://pubmed.ncbi.nlm.nih.gov/17018654/] https://pubmed.ncbi.nlm.nih.gov/17018654/
+[li] Newton, A. C., Bootman, M. D., & Scott, J. D. (2016). Second Messengers. Cold Spring Harbor perspectives in biology, 8(8), a005926. https://doi.org/10.1101/cshperspect.a005926
+[a https://doi.org/10.1101/cshperspect.a005926] https://doi.org/10.1101/cshperspect.a005926
+[li] Alba M, Fintini D, Sagazio A, Lawrence B, Castaigne JP, Frohman LA, Salvatori R. Once-daily administration of CJC-1295, a long-acting growth hormone-releasing hormone (GHRH) analog, normalizes growth in the GHRH knockout mouse. Am J Physiol Endocrinol Metab. 2006 Dec;291(6):E1290-4. doi: 10.1152/ajpendo.00201.2006. Epub 2006 Jul 5. PMID: 16822960. https://pubmed.ncbi.nlm.nih.gov/16822960/
+[a https://pubmed.ncbi.nlm.nih.gov/16822960/] https://pubmed.ncbi.nlm.nih.gov/16822960/
+[li] ClinicalTrials.gov, A service of the US National Institutes of Health. Available at: http://clinicaltrials.gov/ct2/show/NCT00267527
+[a http://clinicaltrials.gov/ct2/show/NCT00267527] http://clinicaltrials.gov/ct2/show/NCT00267527
+[li] Van Hout MC, Hearne E. Netnography of Female Use of the Synthetic Growth Hormone CJC-1295: Pulses and Potions. Subst Use Misuse. 2016 Jan 2;51(1):73-84. doi: 10.3109/10826084.2015.1082595. Epub 2016 Jan 15. PMID: 26771670. https://pubmed.ncbi.nlm.nih.gov/26771670/
+[a https://pubmed.ncbi.nlm.nih.gov/26771670/] https://pubmed.ncbi.nlm.nih.gov/26771670/
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

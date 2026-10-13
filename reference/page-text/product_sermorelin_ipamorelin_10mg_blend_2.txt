@@ -1,0 +1,138 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/Sermorelin-Ipamorelin.webp] 
+[img] Sermorelin & Ipamorelin Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Sermorelin-Ipamorelin-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Ipamorelin_Sermorelin_3141075_BP_page-0001.webp] 
+[img] Sermorelin & Ipamorelin Blend (10mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Ipamorelin_Sermorelin_3141075_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Ipamorelin_Sermorelin_3141075_BP_page-0002.webp] 
+[img] Sermorelin & Ipamorelin Blend (10mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Ipamorelin_Sermorelin_3141075_BP_page-0002.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Ipamorelin_Sermorelin_3141075_BP_page-0003.webp] 
+[img] Sermorelin & Ipamorelin Blend (10mg) - Image 4 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Ipamorelin_Sermorelin_3141075_BP_page-0003.webp
+[h1] Sermorelin & Ipamorelin Blend (10mg)
+[p] $81.00
+[p] Sermorelin & Ipamorelin Blend is Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_744 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $76.95
+[input name=wccs_tier_select_744 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $72.90
+[label] Sermorelin & Ipamorelin Blend (10mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Ipamorelin_Sermorelin_3141075_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h4] Sermorelin Specifications
+[p] Molecular Formula: C149H246N44O42S
+[p] Molecular Weight: 3357.9 g/mol
+[p] Sequence: Tyr-Ala-Asp-Ala-lle-Phe-DL-Thr-Asn-Ser-Tyr-Arg-Lys-Val-Leu-Gly-Gln-Leu-Ser-Ala-Arg-Lys-Leu-Leu-Gln-Asp-Ile-Met-Ser-Arg-NH2
+[h4] Ipamorelin Specifications
+[p] Molecular Formula: C38H49N9O5
+[p] Molecular Weight: 711.86 g/mol
+[p] Sequence: Aib-His-D-2-Nal-D-Phe-Lys-NH2
+[h3] Sermorelin & Ipamorelin Peptide Blend Research
+[p] Sermorelin & Ipamorelin Blend and GHRH Receptors Combinatorial research concerning Sermorelin & Ipamorelin peptides posits that there may be a synergistic potential to induce maximal release of endogenous growth hormone when different pituitary receptors are activated simultaneously. Sermorelin is a growth hormone-releasing hormone (GHRH) analog. This peptide is purported to be the shortest sequence that might activate the GHRH receptors. Sermorelin’s approximate half-life is thought to be between 11 and 12 minutes. Test models have suggested relatively rapid turnover.[1, 2] This peptide is composed of the initial 29 amino acids out of the usual 44 amino acids present in GHRH. Despite Sermorelin’s truncated amino acid structure, it is hypothesized that Sermorelin might interact with GHRH receptors. This may trigger periodic growth hormone emissions.[3] It is theorized that Sermorelin might initiate various intracellular signaling events upon engaging with these receptors. One proposed pathway is the adenylyl cyclase pathway, which may facilitate the conversion of ATP (adenosine triphosphate) to cAMP (cyclic adenosine monophosphate).[4] An increase in cAMP levels may activate protein kinase A (PKA), which might, in turn, phosphorylate several proteins, such as the voltage-dependent calcium channels in the cell membrane. It is speculated that the phosphorylation and possible subsequent opening of these calcium channels may allow calcium ions to enter the somatotroph cells. The resultant rise in intracellular calcium levels is thought to be critical for the subsequent steps in growth hormone release. Researchers further hypothesize that elevated calcium levels inside the cell might stimulate the secretory vesicles within the somatotroph cells, which may potentially lead to the release of growth hormone into the bloodstream. The increase in growth hormone production is believed to potentially enhance levels of insulin-like growth factor-1 (IGF-1), which is considered to be involved in the anabolic actions of growth hormone.
+[a https://biotechpeptides.com/product/sermorelin-5mg/] Sermorelin
+[p] Sermorelin & Ipamorelin Blend and GHS-R1a Receptors Ipamorelin is thought to be the most specific and targeted analog of ghrelin/growth hormone secretagogue receptors, according to recent studies.[5] Researchers posit that the peptide is the first ghrelin mimetic “with a selectivity for GH release similar to that displayed by GHRH. The specificity of Ipamorelin makes this compound a very interesting candidate for future … development.” It appears to be a selective peptide agonist of the ghrelin hormone. Ipamorelin’s primary speculated action is thought to be the increase of circulating levels of growth hormone without affecting other hormones regulated by the pituitary gland. Hormones stimulated by the pituitary gland may include prolactin, thyroid-stimulating hormone (TSH), adrenocorticotropic hormone (ACTH), luteinizing hormone (LH), follicle-stimulating hormone (FSH), or cortisol. This hypothetical mechanism distinguishes Ipamorelin from other ghrelin mimetics. Ghrelin, referred to by researchers as the hunger hormone, is believed to regulate the release of growth hormone by activating the Growth Hormone Secretagogue Receptor type 1a (GHS-R1a) in pituitary cells. Ipamorelin is classified as a GHS-R1a agonist, which is considered the primary receptor for the endogenous hormone ghrelin.[3] In vitro experiments suggest that Ipamorelin's interaction with GHS-R1a may influence somatotroph cells located in the anterior pituitary gland.[6] This interaction is hypothesized to trigger a cascade of intracellular signaling mechanisms. One crucial component of this hypothetical signaling pathway is phospholipase C (PLC). This enzyme is thought to facilitate the production of secondary messenger molecules, including inositol triphosphate (IP3) and diacylglycerol (DAG). The production of IP3 is hypothesized to stimulate the release of calcium ions (Ca2+) from intracellular stores. Simultaneously, DAG is believed to activate protein kinase C (PKC), a family of enzymes implicated in various cellular functions. This hypothetical increase in intracellular calcium ion concentration, along with the activation of PKC, is thought to lead to the exocytosis of vesicles containing growth hormones.
+[a https://biotechpeptides.com/product/ipamorelin-5mg/] Ipamorelin
+[p] Sermorelin & Ipamorelin Blend and Pituitary Secretion Experiments have suggested that Ipamorelin may enhance the peak synthesis of growth hormone by pituitary cells by more than 60-fold. It has been hypothesized that the peptide may elevate growth hormone levels during a peak to around 80 milli-international units per liter (mIU/l). If correct, this would be equivalent to about 26.6 nanograms per milliliter (ng/ml). Compared to a placebo baseline of 1.31 mIU/l or 0.4 ng/ml, this increase may be seen by experts as dramatic.[7] Unfortunately, data for mean growth hormone increase over 12-hour or 24-hour periods is lacking. Sermorelin has also posited that the peptide might induce sustained increases in GH and IGF-I levels. The peptide may also potentially enhance skeletal muscle function and selected metabolic measures in test models. One experiment posited that Sermorelin may increase mean nocturnal GH release by approximately 100%, GH peak amplitude by 33.3%, and 12-hour GH levels by approximately 82.5%, suggesting an immediate response.[8] That said, researchers did not observe change in the frequency of GH pulses or levels of IGF-I, IGF binding protein-3 (IGFBP-3), or GH binding protein (GHBP). Muscle strength may have also scored a potential improvement, indicating that the peptide may possibly benefit muscle contractile force. Another 16-week study examined the potential impact of Sermorelin on various functions, including growth hormone production and IGF-1 levels.[9] The study hypothesized that Sermorelin may influence the pathway involving growth hormone and IGF-1, with IGF-1 levels correlated with growth hormone and thought to mediate hGH's anabolic actions. Results suggested that Sermorelin may contribute to a variable increase in growth hormone release, ranging from 70% to 107%, over a 12-hour period from somatotroph cells that produce growth hormone in response to brain signals. IGF-1 levels were observed to potentially increase by about 28%, which may indicate improved functionality of the growth hormone and IGF-1 axis.
+[p] Sermorelin & Ipamorelin Blend and Skeletal Muscles In the aforementioned 16-week study, researchers proposed that Sermorelin may increase lean body mass by approximately 2.78lbs (1.26kg). This increase is thought to result from a combination of muscle tissue growth and water retention. The study suggested that Sermorelin might elevate growth hormone levels, which may subsequently boost IGF-1 and potentially promote muscle growth. According to researchers, significant increase in skin thickness was observed, which may indicate potential dermal modifications related to hormonal changes.[9] Further research on Ipamorelin suggests the possibility of anabolic actions, particularly in the sense that it may help restore nitrogen balance and reduce nitrogen wasting in the liver of rats exposed to catabolic agents.[10] These actions are hypothesized to be due to Ipamorelin's potential to modulate hGH and IGF-1 production. The study primarily focused on the liver’s ability to generate urea-N (CUNS), a marker of nitrogen metabolism efficiency. Detailed analysis included examining messenger RNA (mRNA) levels for enzymes potentially involved in the liver's urea cycle. The research also considered overall nitrogen homeostasis and theoretical distributions of nitrogen across various tissues. The results indicated that Ipamorelin might have the potential to reduce CUNS by around 20% under conditions of induced catabolism. Additionally, research indicated that there may be a reduction in the expression of urea cycle enzymes, a possible re-establishment of nitrogen balance, and a potential modification or enhancement of nitrogen levels in different tissues.
+[p] Sermorelin & Ipamorelin Blend and Cardiomyocytes A study conducted in pigs suggested that Sermorelin analogs may decrease cell death of cardiomyocytes, which may promote tissue healing in post-cardiac injury, angiogenesis, and may also exhibit anti-inflammatory characteristics.[11] It has been suggested that the peptide may contribute to reduction in scar size by increasing extracellular matrix production. Newer studies have also suggested that the peptide may contribute to improved diastolic function.
+[p] Sermorelin & Ipamorelin Blend and Appetite Signaling It is believed that Ipamorelin may also affect food intake by acting on ghrelin receptors in the nervous system.[12] Ghrelin receptors, thought by researchers to regulate appetite, might, when activated, increase hunger cues. This may contribute to greater mass. In some experimental studies, animal models exposed to Ipamorelin appeared to express about a 15% increase in body weight. This increase in weight is thought to be possibly associated with a rise in adipose tissue relative to overall body mass. Dual-energy X-ray absorptiometry (DEXA) scans, which assess bone mineral density and body composition, potentially suggest an elevated fat percentage hypothetically related to Ipamorelin. Consequently, researchers suggested that growth hormone secretagogues like Ipamorelin might increase fat through mechanisms independent of growth hormone, possibly including increased food intake.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Prakash, A, and K L Goa. “Sermorelin: a review of its use in the diagnosis and treatment of children with idiopathic growth hormone deficiency.” BioDrugs : clinical immunotherapeutics, biopharmaceuticals and gene therapy vol. 12,2 (1999): 139-57.
+[li] Ishida, J., Saitoh, M., Ebner, N., Springer, J., Anker, S. D., & von Haehling, S. (2020). Growth hormone secretagogues: history, mechanism of action, and clinical development. JCSM Rapid Communications, 3(1), 25-37.
+[li] Clark, R G, and I C Robinson. “Growth induced by pulsatile infusion of an amidated fragment of human growth hormone releasing factor in normal and GHRF-deficient rats.” Nature vol. 314,6008 (1985): 281-3./
+[li] Sinha DK, Balasubramanian A, Tatem AJ, Rivera-Mirabal J, Yu J, Kovac J, Pastuszak AW, Lipshultz LI. Beyond the androgen receptor: the role of growth hormone secretagogues in the modern management of body composition in hypogonadal males. Transl Androl Urol. 2020 Mar;9(Suppl 2):S149-S159. doi: 10.21037/tau.2019.11.30. PMID: 32257855; PMCID: PMC7108996.
+[a https://doi.org/10.21037/tau.2019.11.30] doi: 10.21037/tau.2019.11.30
+[li] Raun K, Hansen BS, Johansen NL, et al. Ipamorelin, the first selective growth hormone secretagogue. Eur J Endocrinol. 1998;139(5):552-561. doi:10.1530/eje.0.1390552.
+[a https://doi.org/10.1530/eje.0.1390552] doi:10.1530/eje.0.1390552
+[li] Jiménez-Reina, L., Cañete, R., de la Torre, M. J., & Bernal, G. (2002). Influence of chronic treatment with the growth hormone secretagogue Ipamorelin, in young female rats: somatotroph response in vitro. Histology and histopathology, 17(3), 707–714. https://doi.org/10.14670/HH-17.707
+[a https://doi.org/10.14670/HH-17.707] https://doi.org/10.14670/HH-17.707
+[li] Gobburu, J.V.S., Agersø, H., Jusko, W.J. et al. Pharmacokinetic-Pharmacodynamic Modeling of Ipamorelin, a Growth Hormone Releasing Peptide, in Human Volunteers. Pharm Res 16, 1412–1416 (1999).
+[li] Vittone, J., Blackman, M. R., Busby-Whitehead, J., Tsiao, C., Stewart, K. J., Tobin, J., Stevens, T., Bellantoni, M. F., Rogers, M. A., Baumann, G., Roth, J., Harman, S. M., & Spencer, R. G. (1997). Effects of single nightly injections of growth hormone-releasing hormone (GHRH 1-29) in healthy elderly men. Metabolism: clinical and experimental, 46(1), 89–96. https://doi.org/10.1016/s0026-0495(97)90174-8
+[a https://doi.org/10.1016/s0026-0495(97)90174-8] https://doi.org/10.1016/s0026-0495(97)90174-8
+[li] Khorram, O., Laughlin, G. A., & Yen, S. S. (1997). Endocrine and metabolic effects of long-term administration of [Nle27]growth hormone-releasing hormone-(1-29)-NH2 in age-advanced men and women. The Journal of clinical endocrinology and metabolism, 82(5), 1472–1479. https://doi.org/10.1210/jcem.82.5.3943
+[a https://doi.org/10.1210/jcem.82.5.3943] https://doi.org/10.1210/jcem.82.5.3943
+[li] Aagaard, N. K., Grøfte, T., Greisen, J., Malmlöf, K., Johansen, P. B., Grønbaek, H., Ørskov, H., Tygstrup, N., & Vilstrup, H. (2009). Growth hormone and growth hormone secretagogue effects on nitrogen balance and urea synthesis in steroid treated rats. Growth hormone & IGF research: official journal of the Growth Hormone Research Society and the International IGF Research Society, 19(5), 426–431. https://doi.org/10.1016/j.ghir.2009.01.001
+[a https://doi.org/10.1016/j.ghir.2009.01.001] https://doi.org/10.1016/j.ghir.2009.01.001
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] CJC-1295 & Ipamorelin Blend (10mg) $81.00
+[a https://biotechpeptides.com/product/cjc-1295-ipamorelin-10mg-blend-2/] CJC-1295 & Ipamorelin Blend (10mg) $81.00
+[img] CJC-1295 & Ipamorelin Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-Ipamorelin-1-238x317.webp
+[h2] CJC-1295 & Ipamorelin Blend (10mg)
+[li] Sermorelin & GHRP-6 & GHRP-2 Blend (9mg) $88.00
+[a https://biotechpeptides.com/product/sermorelin-ghrp-6-ghrp-2-blend-9mg/] Sermorelin & GHRP-6 & GHRP-2 Blend (9mg) $88.00
+[img] Sermorelin & GHRP-6 & GHRP-2 Blend (9mg) :: https://biotechpeptides.com/wp-content/uploads/2026/01/Sermorelin-GHRP-6-GHRP-2-Blend-9mg-238x317.webp
+[h2] Sermorelin & GHRP-6 & GHRP-2 Blend (9mg)
+[li] Sale! Ipamorelin (5mg) $53.00 Original price was: $53.00.$46.00Current price is: $46.00.
+[a https://biotechpeptides.com/product/ipamorelin-5mg/] Sale! Ipamorelin (5mg) $53.00 Original price was: $53.00.$46.00Current price is: $46.00.
+[img] Ipamorelin (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Ipamorelin-1-238x317.webp
+[h2] Ipamorelin (5mg)
+[li] Sermorelin (5mg) $43.00
+[a https://biotechpeptides.com/product/sermorelin-5mg/] Sermorelin (5mg) $43.00
+[img] Sermorelin (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Sermorelin-1-238x317.webp
+[h2] Sermorelin (5mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

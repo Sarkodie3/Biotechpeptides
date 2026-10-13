@@ -1,0 +1,85 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] GHK-Cu Peptide and Hair Follicle Growth
+[p] by Dr. Usman | Feb 21, 2021 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] GHK-Cu Peptide and Hair Follicle Growth :: https://biotechpeptides.com/wp-content/uploads/2021/02/Hair-follicle-growth.webp
+[p] The GHK-Cu peptide has been speculated to reduce the formation of DHT in hair follicles. There appear to be two forms in which the 5-alpha reductase exists: Type 1 which plays a role in the hair follicles and Type 2 which plays a role in the prostate tissue. 5-alpha Reductase appears to be inhibited by the pro-pecia (finasteride), thereby improving follicle growth. Although the pro-pecia appears to be more significant for the Type 2 forms, it may control the enlargement of the prostate. In context to the Type 1 5-AR, they appear to be better inhibited by the increasing copper ions in skin cells, thereby controlling the damage to the hair growth. As per the research conducted by the different researchers, copper ions in the may potentially inhibit the Type 1 5-AR by up to 90%. It is also suggested that Type 2 form may be less efficiently inhibited by copper ions. Hence, it can be hypothesized that the 5-AR may be specifically inhibited by copper ions.
+[a https://biotechpeptides.com/product/ghk-cu-50mg-copper/] GHK-Cu peptide
+[h2] Iron Toxicity and GHK-Cu Peptide
+[p] After significant caloric ingestion, levels of iron appear to increase, thereby saturating Transferrin. The excessive iron may circulate as free iron in the blood and may be toxic upon direct exposure for the target organs. The Ferritin may release the GHK-Cu (2+) reduced iron by 87%. Approximately, 4500 atoms of iron per protein molecules may be stored in Ferritin, considered to be a catalyst of the lipid peroxidation, thereby producing a slew of free radicals, resulting in the damage of cell membrane, protein and DNA. The entry of free iron in the cells and its accumulation in the mitochondria may disrupt the process of oxidative phosphorylation, may catalyse the lipid peroxidation forming free radicals and hence, may cause cell death.
+[h2] Cell proliferation and Tissue Repair
+[p] Research conducted by different scientists has suggested that the miR-399-5p expression may be downregulated by GHK. In the cells, the anti-apoptotic potential of GHK appears to be partially reversed due to the overexpression of miR-399-5p. The research also suggests that the downregulation of miR-339-5p speculated to be induced by GHK may involve the p38 MAPK pathways. The miR-399-5p/ VEGFA have also been hypothesized to play a role in the prevention of neuronal apoptosis as a consequence of the ICH injury. In the cells, the miR-399-5p expression may possibly be downregulated by GHK and the miR-399-5p appears overexpressed, which may reverse any anti-apoptotic potential of GHK.
+[h2] GHK-Cu and Inflammation Studies
+[p] GHK has been isolated in urine, saliva and plasma. It occurs naturally, and appears to form complexes with copper readily, and may regulate the metabolism of the copper. The copper (II) chelation and the GHK tripeptide, together form the GHK-Cu, may accelerate the processes of wound healing, regeneration, anti-inflammatory actions and anti-oxidant potential. The level of the TNF-α and TGF-β, the acute phase inflammatory cytokines, may be lowered following GHK-Cu exposure, thereby resulting in the oxidative damage and hence, the suppression of inflammation.
+[p] In one research study, it was suggested that the GHK-Cu exposure to the animal models increased the superoxide dismutase and decreased the production of the reactive oxygen species. Also the production of IL-6 and TNF-α appeared to be decreased as a result of the suppression of the p39 MAPK and NF-κB p65 in the in-vitro model. The results of the studies have suggested that the LPS-induced phosphorylation of NF- κB p65 may be also inhibited by GHK-Cu. Additional studies have reported that the GHK-Cu may potentially inhibit the NF-κB pathway in inflammatory bowel diseases and chronic inflammatory diseases.
+[p] With all these points, it has been suggested by researchers that the GHK-Cu has the potential to improve the growth of hair follicles, as it appears to reduce the negative impacts such as inflammation and iron toxicity, and may promote processes such as cell proliferation and blood circulation close to the site of follicle development.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

@@ -1,0 +1,126 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/Pentapeptide-1.webp] 
+[img] Pentapeptide-18 (Leuphasyl) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Pentapeptide-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Pentapeptide-18_3140069_20260721_BTP_page-0001.webp] 
+[img] Pentapeptide-18 (Leuphasyl) (200mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Pentapeptide-18_3140069_20260721_BTP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Pentapeptide-18_3140069_20260721_BTP_page-0002.webp] 
+[img] Pentapeptide-18 (Leuphasyl) (200mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Pentapeptide-18_3140069_20260721_BTP_page-0002.webp
+[h1] Pentapeptide-18 (Leuphasyl) (200mg)
+[p] $215.00
+[p] Pentapeptide-18 (Leuphasyl) peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_6038 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $204.25
+[input name=wccs_tier_select_6038 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $193.50
+[label] Pentapeptide-18 (Leuphasyl) (200mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Pentapeptide-18_3140069_20260721_BTP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Pentapeptide-18 (Leuphasyl) Peptide
+[p] Pentapeptide-18 (Leuphasyl) is a modified analog of the naturally occurring pentapeptide leu-enkephalin, which is part of a class of peptides called enkephalins which are believed to directly interact with opioid receptors.[1] Structurally, Pentapeptide-18 differs from leu-enkephalin by the addition of D-Alanine in place of glycine at its second position. Pentapeptide-18 is thought to penetrate the epidermal barrier and influence cellular processes that affect muscle cell contraction. Studies suggest that it acts by modulating calcium release in neuronal synapses. By interfering with the signals that trigger muscle contraction, Pentapeptide-18 may help to relax muscles, reducing the formation of fine lines and wrinkles across the skin barrier. Additionally, modified versions of Pentapeptide-18 may interact with melanin production pathways, which is a pigment responsible for adding color to tissues and may play a protective role against UV radiation. By potentially influencing melanin synthesis, modified versions of Pentapeptide-18 may offer research value in skin tissue studies.
+[h3] Specifications
+[p] Sequence: Tyr-D-Ala-Gly-Phe-Leu
+[p] Molecular Formula: C29H39N5O7
+[p] Molecular Weight: 569.65 g/mol
+[p] Synonyms: Leuphasyl; NSC-374895
+[h3] Pentapeptide-18 Research
+[p] Pentapeptide-18 (Leuphasyl) and Muscle Cell Contraction Some researchers suggest that Pentapeptide-18 may have the potential to suppress the release of acetylcholine, which is a neurotransmitter considered to play a key role in muscle cell contraction.[2] The proposed mechanism involves a possible decrease in acetylcholine secretion within the synaptic cleft—the space between neurons where neurotransmitters are released to transmit signals. This hypothesis is based on the typical function of enkephalins, which are believed to inhibit neurotransmitter release, and it is thought that Pentapeptide-18 might mimic this property. This inhibition might be mediated through the modulation of calcium influx into presynaptic neurons—the nerve cells that release neurotransmitters. Calcium ions are crucial for exocytosis, the process by which neurotransmitters are released into the synaptic cleft. A reduction in intracellular calcium levels is often associated with decreased neurotransmitter secretion. Therefore, it is conceivable that Pentapeptide-18 may contribute to this pathway, possibly by imitating the regulatory actions of enkephalins on calcium channels. In addition to its potential impact on glutamate, Pentapeptide-18 may also decrease the release of the neurotransmitter glutamate by about 11%.[3] Glutamate is an excitatory neurotransmitter that facilitates the transmission of signals between nerve cells. This observation was reportedly made after two months of experimentation in a specific study. If Pentapeptide-18 does reduce glutamate release, it may influence neurotransmitter pathways involved in controlling muscle contractions just beneath the skin's surface. By potentially modulating glutamate levels, Pentapeptide-18 might hypothetically lead to decreased muscle activity in active tissues, thereby possibly reducing the formation and depth of skin creasing and wrinkling.
+[p] Pentapeptide-18 (Leuphasyl) and Wrinkle Reduction Pentapeptide-18 research in experimental models suggests that it may inhibit electrical impulses at the neuromuscular junction—the synaptic space that connects the terminal end of a motor nerve and a muscle. Due to this, Pentapeptide-18 may cause a decrease in muscle tone and contraction,[4] thereby potentially preventing an increase in wrinkle development, depth, and length. Studies report that Pentapeptide-18 appeared to decrease wrinkles in experimental models. The researchers commented that “The size of the wrinkles trajectory was smaller with the following average: 34.7% for frontal region (inter eye-brows zone); 28.4% for periorbital zone”.[5] Experiments by Dr. Howard Maibach, Professor of Dermatology at the University of California, reported that after presenting Leuphasyl for 28 days, 5% of Pentapeptide-18 alone appeared to reduce wrinkles by about 11%,[6] while 5% of Pentapeptide-18 (Leuphasyl) in combination with 5% of Argireline appeared to reduce wrinkles on average to about 25%, at maximum values of about 47%. The mean wrinkle reductions were 11.64% vs. 16.26% vs. 24.62% for Pentapeptide-18, Argireline, and their combination, respectively. In this context, Pentapeptide-18 (Leuphasyl) may potentially prevent the development of wrinkles in the skin barrier, while the attached molecule, GHK-Cu and Argireline, may be an ancillary to reduce any lines formed. Researchers generally consider Pentapeptide-18 to be preferable to paralytic compounds as it may be incorporated into cream form. Pentapeptide-18 may be incorporated into cream form due to its apparent ability to penetrate skin cells, as posited by in vitro experiments. Its potential may also include the reduction of muscle spasms, which contribute to migraines.
+[p] Pentapeptide-18 (Leuphasyl) and Melanin Synthesis Researchers suggest that adding D-tyrosine to the C-terminal end of Pentapeptide-18, and thus turning it into a hexapeptide may modify its properties and would potentially influence melanogenesis—the process by which cells produce melanin pigment.[7] To assess the potential of these modifications, they conducted experiments using melanoma MNT-1 cells—a type of skin cancer cells known for melanin production. The preliminary results tentatively suggest that altering the peptide's structure might affect melanogenesis. Specifically, the presence of D-tyrosine at the C-terminal end appeared to potentially reduce melanin production in these cells. Potential implications of these findings suggest that the peptide may reduce hyperpigmentation in experimental models.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Puig, A., Garcia-Anton, J., Perez, R. & Mangues, M. Eyeseryl and Leuphasyl: Synthetic Peptides as Advanced Cosmetic Actives. Available at: www.cosmeticsciencetechnology.com/companies/articles/821.pdf.
+[a http://www.cosmeticsciencetechnology.com/companies/articles/821.pdf] www.cosmeticsciencetechnology.com/companies/articles/821.pdf
+[li] Errante F, Ledwoń P, Latajka R, Rovero P, Papini AM. Cosmeceutical Peptides in the Framework of Sustainable Wellness Economy. Front Chem. 2020 Oct 30;8:572923. doi: 10.3389/fchem.2020.572923. PMID: 33195061; PMCID: PMC7662462.
+[a https://doi.org/10.3389/fchem.2020.572923] doi: 10.3389/fchem.2020.572923
+[li] Schagen SK. Topical Peptide Treatments with Effective Anti-Aging Results. Cosmetics. 2017; 4(2):16. https://doi.org/10.3390/cosmetics4020016
+[a https://doi.org/10.3390/cosmetics4020016] https://doi.org/10.3390/cosmetics4020016
+[li] Montiel, A. V. F., Puche, J. C. & Montiel, A. P. Cosmetic or dermopharmaceutical composition comprising enkephalin-derived peptides for reducing and/or eliminating facial wrinkles. (2015).
+[li] Dragomirescu, Anca O., et al. “The efficiency and safety of leuphasyl—a botox-like peptide.” Cosmetics 1.2 (2014): 75-81.
+[li] Hostynek JJ, Dreher F, Maibach HI. Human skin retention and penetration of a copper tripeptide in vitro as function of skin layer towards anti-inflammatory therapy. Inflamm Res. 2010 Nov;59(11):983-8. doi: 10.1007/s00011-010-0214-4. Epub 2010 Aug 13. PMID: 20703511; PMCID: PMC2945467.
+[a https://doi.org/10.1007/s00011-010-0214-4] doi: 10.1007/s00011-010-0214-4
+[li] Park J, Jung H, Jang B, Song HK, Han IO, Oh ES. D-tyrosine adds an anti-melanogenic effect to cosmetic peptides. Sci Rep. 2020 Jan 14;10(1):262. doi: 10.1038/s41598-019-57159-3. PMID: 31937863; PMCID: PMC6959337.
+[a https://doi.org/10.1038/s41598-019-57159-3] doi: 10.1038/s41598-019-57159-3
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Pal-GHK (Palmitoyl Tripeptide-1) (200mg) $199.00
+[a https://biotechpeptides.com/product/pal-ghk-palmitoyl-tripeptide-1-topical-200mg/] Pal-GHK (Palmitoyl Tripeptide-1) (200mg) $199.00
+[img] Pal-GHK (Palmitoyl Tripeptide-1) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Pal-GHK-1-238x317.webp
+[h2] Pal-GHK (Palmitoyl Tripeptide-1) (200mg)
+[li] AHK-Cu (200mg) $192.00
+[a https://biotechpeptides.com/product/ahk-cu-topical-200mg/] AHK-Cu (200mg) $192.00
+[img] AHK-Cu (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/AHK-Cu-1-238x317.webp
+[h2] AHK-Cu (200mg)
+[li] Tripeptide-29 (200mg) $189.00
+[a https://biotechpeptides.com/product/tripeptide-29-topical-200mg/] Tripeptide-29 (200mg) $189.00
+[img] Tripeptide-29 (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Tripeptide-238x317.webp
+[h2] Tripeptide-29 (200mg)
+[li] GHK Basic (Tripeptide-1) (200mg) $165.00
+[a https://biotechpeptides.com/product/ghk-basic-tripeptide-1-topical-200mg/] GHK Basic (Tripeptide-1) (200mg) $165.00
+[img] Buy GHK Basic (Tripeptide-1) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/GHK-Basic-3-238x317.webp
+[h2] GHK Basic (Tripeptide-1) (200mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

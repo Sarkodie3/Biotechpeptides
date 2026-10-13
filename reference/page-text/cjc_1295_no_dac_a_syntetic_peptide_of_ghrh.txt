@@ -1,0 +1,113 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] CJC-1295 No DAC: A Synthetic Peptide of GHRH
+[p] by Dr. Usman | Aug 8, 2022 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] CJC-1295 No DAC A Synthetic Peptide of GHRH :: https://biotechpeptides.com/wp-content/uploads/2022/08/CJC-1295-No-DAC-A-Synthetic-Peptide-of-GHRH.avif
+[p] Contents:
+[li] The Difference Between CJC-1295 and CJC-1295 DAC
+[a #difference] The Difference Between CJC-1295 and CJC-1295 DAC
+[li] The Functions of CJC-1295
+[a #functions] The Functions of CJC-1295
+[li] CJC-1295 and Hemorrhagic Shock and GHRH 1-29 Interaction
+[a #ghrh] CJC-1295 and Hemorrhagic Shock and GHRH 1-29 Interaction
+[li] CJC-1295 NO DAC and Growth
+[a #Growth] CJC-1295 NO DAC and Growth
+[li] CJC-1295 NO DAC and Infertility
+[a #infertility] CJC-1295 NO DAC and Infertility
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/mod-grf-1-29-5mg-cjc-1295-no-dac/] 
+[img] Mod GRF 1-29 (CJC-1295 NO DAC) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Mod-GRF-1-29-1.png
+[h2] The Difference Between CJC-1295 and CJC-1295 DAC
+[p] These two peptides seem similar but are not identical. CJC-1295 is a modified equivalent of the first 29 amino acids of GHRH, chemically identical to other growth hormone analogs like Sermorelin. Meanwhile, CJC-1295 DAC is created by adding the Drug Affinity Complex DAC, to CJC-1295. DAC is added to CJC-1295 using the lysine linker. The DAC appears to protect CJC-1295 while it circulates in the bloodstream. DAC may ensure the increased half-life of CJC-1295 by allowing the peptide to bind to blood proteins such as Albumin.
+[h3] The Functions of CJC-1295
+[p] CJC-1295 NO DAC appears to function to enhance protein synthesis. The peptide may achieve this by inhibiting the natural process of cellular degradation, thereby increasing protein synthesis. The peptide may also potentially improve lipolytic processes by increasing the rate of synthesis and disintegration. By increasing the lipolytic process, CJC-1295 NO DAC peptide may influence the increased efficiency of fat cell dissolution.
+[a https://biotechpeptides.com/product/mod-grf-1-29-5mg-cjc-1295-no-dac/] CJC-1295 NO DAC peptide
+[h3] CJC-1295 and Hemorrhagic Shock and GHRH 1-29 Interaction
+[p] CJC-1295 NO DAC has been hypothesized to stimulate and improve nerve reflexes within the brain and may modulate blood flow, thereby preventing acute organ failure following hemorrhagic shock. On the other hand, hemorrhagic shock may be an acute condition followed by reduced tissue perfusion and insufficient nutrient and oxygen delivery necessary for cellular functions. Hemorrhagic shock is classified as cardiogenic, hypovolemic, septic, and neurogenic.
+[h3] CJC-1295 NO DAC and Growth
+[p] The peptide is considered a potential enhancing agent for maintaining the normal rate of growth hormone release.[1] By doing this, the peptide may exert action in cases of abnormal growth in varieties of animal species. Maintaining the normal growth hormone level may be critical to releasing downstream hormones like insulin-like growth factor-2 (IGF-1). CJC-1295 appears to significantly enhance the synthesis of IGF-1. GH, CJC-1295, and IGF-1 collectively influence the pro-inflammatory mechanisms when activated.
+[p] In mouse models of GHRH knockout, the exposure to CJC-1295 appeared to reduce growth deficits. Furthermore, CJC-1295 appeared to steadily enhance the total body weight and length.[2] This study reports that “These findings [indicate that exposure to] CJC-1295 is able to maintain normal body composition and growth in GHRHKO mice.” The peptide also assessed the abnormal response to GRF following obesity.
+[h3] CJC-1295 and Infertility
+[p] Scientists suggest GRF analogs, CJC-1295, might induce ovulation in infertile female species. Data findings imply that ovulation may be solely dependent on IGF-1 and may be regulated by the release and cycling of growth hormones. However, research in mouse models of superovulation suggest that the levels of IGF-1 and growth hormone may increase with ovulation.[3] These results posit that the exposure to a GH secretagogue like CJC-1295 may induce ovulation. Scientific research also suggests that CJC-1295 NO DAC and other GHRH analogs may impact male infertility by inducing sperm production. However, note that this hypothesis is still undergoing testing.[4] The researchers report that “these results led to the identification of CJC-1295 as a stable and active hGRF1-29 analogwith an extended plasma half-life.”
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Ionescu M, Frohman LA. Pulsatile secretion of growth hormone (GH) persists during continuous stimulation by CJC-1295, a long-acting GH-releasing hormone analog. J Clin Endocrinol Metab. 2006 Dec;91(12):4792-7. doi: 10.1210/jc.2006-1702. Epub 2006 Oct 3. PMID: 17018654.
+[a https://doi.org/10.1210/jc.2006-1702] doi: 10.1210/jc.2006-1702
+[li] Alba M, Fintini D, Sagazio A, Lawrence B, Castaigne JP, Frohman LA, Salvatori R. Once-daily administration of CJC-1295, a long-acting growth hormone-releasing hormone (GHRH) analog, normalizes growth in the GHRH knockout mouse. Am J Physiol Endocrinol Metab. 2006 Dec;291(6):E1290-4. doi: 10.1152/ajpendo.00201.2006. Epub 2006 Jul 5. PMID: 16822960.
+[a https://doi.org/10.1152/ajpendo.00201.2006] doi: 10.1152/ajpendo.00201.2006
+[li] Volpe A, Coukos G, Barreca A, Giordano G, Artini PG, Genazzani AR. Clinical use of growth hormone-releasing factor for induction of superovulation. Hum Reprod. 1991 Oct;6(9):1228-32. doi: 10.1093/oxfordjournals.humrep.a137517. PMID: 1752922.
+[a https://doi.org/10.1093/oxfordjournals.humrep.a137517] doi: 10.1093/oxfordjournals.humrep.a137517
+[li] Jetté, Lucie, et al. “hGRF1-29-Albumin Bioconjugates Activate the GRF Receptor on the Anterior Pituitary in Rats: Identification of CJC-1295 as a Long Lasting GRF Analog.” (2005)
+[li] Teichman SL, Neale A, Lawrence B, Gagnon C, Castaigne JP, Frohman LA. Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults. J Clin Endocrinol Metab. 2006 Mar;91(3):799-805. doi: 10.1210/jc.2005-1536. Epub 2005 Dec 13. PMID: 16352683.
+[a https://doi.org/10.1210/jc.2005-1536] doi: 10.1210/jc.2005-1536
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

@@ -1,0 +1,162 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] The Synergistic Potential of Fragment 176-191 & CJC-1295 & Ipamorelin Blend in Peptide Based Studies
+[p] by Dr. Usman | Apr 12, 2025 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] The Synergistic Potential of Fragment 176-191 & CJC-1295 & Ipamorelin Blend in Peptide Based Studies :: https://biotechpeptides.com/wp-content/uploads/2025/04/The-Synergistic-Potential-of-Fragment-176-191-CJC-1295-Ipamorelin-Blend-in-Peptide-Based-Studies.avif
+[p] The Fragment 176-191 & CJC-1295 & Ipamorelin Blend consists of three distinct peptide analogs that have been investigated for their potential modulatory interaction on endogenous growth hormone regulation and systemic metabolism. The blend combines synthetic derivatives of natural signaling molecules, each engineered with the intent to target specific endocrine or metabolic pathways.
+[p] Fragment 176-191 is a truncated sequence derived from the carboxyl-terminal region of growth hormone (hGH),[1] while CJC-1295 is an analog of Growth Hormone-Releasing Hormone (GHRH),[2] and Ipamorelin is a pentapeptide growth hormone secretagogue (GHS) that appears to mimic ghrelin-like activity.[3]
+[a https://biotechpeptides.com/product/fragment-176-191-5mg/] Fragment 176-191
+[a https://biotechpeptides.com/product/mod-grf-1-29-5mg-cjc-1295-no-dac/] CJC-1295
+[a https://biotechpeptides.com/product/ipamorelin-5mg/] Ipamorelin
+[p] Collectively, this peptide blend has been examined in preclinical research for its potential influence on lipolysis, thermogenesis, muscle composition, and hormonal regulation through the hypothalamic-pituitary axis.
+[p] Each constituent of the Fragment 176-191 & CJC-1295 & Ipamorelin Blend is designed to interact with distinct, yet biologically interrelated, molecular pathways that appear to converge on hormonal and metabolic regulation. When combined, the peptides may exhibit complementary actions that potentially enhance endocrine signaling and metabolic homeostasis.
+[p] Contents:
+[li] Overview of Fragment 176-191
+[a #Fragment-176-191] Overview of Fragment 176-191
+[li] Overview of CJC-1295 (Modified GRF 1-29)
+[a #CJC-1295] Overview of CJC-1295 (Modified GRF 1-29)
+[li] Overview of Ipamorelin
+[a #Ipamorelin] Overview of Ipamorelin
+[li] Scientific and Research Studies
+[a #research] Scientific and Research Studies
+[li] Fragment 176-191, CJC-1295, Ipamorelin Blend and Growth Hormone
+[a #gh] Fragment 176-191, CJC-1295, Ipamorelin Blend and Growth Hormone
+[li] Regenerative and Metabolic Research of Fragment 176-191, CJC-1295 & Ipamorelin Blend
+[a #mr] Regenerative and Metabolic Research of Fragment 176-191, CJC-1295 & Ipamorelin Blend
+[li] Studies on Body Composition: Fat Reduction and Muscle Accrual
+[a #bc] Studies on Body Composition: Fat Reduction and Muscle Accrual
+[li] Fragment 176-191 & CJC-1295 & Ipamorelin Blend and Bone Density
+[a #bd] Fragment 176-191 & CJC-1295 & Ipamorelin Blend and Bone Density
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/fragment-cjc-1295-ipamorelin-12mg-blend/] 
+[img] Fragment-176-191 & CJC-1295 & Ipamorelin Blend (12mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Fragment-176-191-CJC-1295-Ipamorelin-1.png
+[h2] Overview of Fragment 176-191
+[p] This peptide comprises amino acids 176 through 191 of the growth hormone (hGH) molecule, a region identified in research as containing the segment primarily responsible for possible fat-reducing activity.
+[p] Unlike full-length hGH, Fragment 176-191 does not appear to affect insulin sensitivity or glucose metabolism directly, but rather may act selectively through beta-3 adrenergic receptors (ADRB3), particularly expressed in white and brown adipose tissue. Activation of ADRB3 is associated with increased intracellular cAMP levels, which in turn may activate protein kinase A (PKA), initiating downstream lipolytic signaling cascades.
+[p] Additionally, stimulation of ADRB3 has been implicated in mitochondrial uncoupling and thermogenesis within skeletal muscle cells, a process potentially contributing to increased energy expenditure.[4] The peptide’s truncated structure appears to maintain bioactivity in lipid metabolism while possibly eliminating other hGH-related effects.
+[h2] Overview of CJC-1295 (Modified GRF 1-29)
+[p] CJC-1295 is a tetra-substituted analog of GHRH (1-29), representing the biologically active portion of endogenous GHRH. The inclusion of a Drug Affinity Complex (DAC) is speculated to increase its binding affinity to albumin, thereby significantly extending its half-life and reducing enzymatic degradation in circulation. This stabilization may enable more prolonged interaction with GHRH receptors (GHRH-R) on somatotroph cells within the anterior pituitary.
+[p] Upon receptor engagement, a signaling cascade involving cyclic AMP and calcium ion influx may be initiated, which could possibly result in pulsatile secretion of endogenous growth hormone (GH). Research suggests that CJC-1295 may not only elevate GH levels but also enhance Insulin-like Growth Factor 1 (IGF-1) concentrations through hepatic stimulation, with some findings reporting up to a threefold increase in plasma IGF-1.[5]
+[p] These potential actions suggest possible implications in research related to growth hormone axis modulation and systemic anabolism.
+[h2] Overview of Ipamorelin
+[p] Ipamorelin is a selective growth hormone secretagogue composed of five amino acids. Structurally and functionally, it appears to mimic the endogenous hormone ghrelin, binding to GHS-R1a (Growth Hormone Secretagogue Receptor 1a) located in the hypothalamus and anterior pituitary.
+[p] Upon receptor activation, intracellular calcium mobilization and downstream signaling appear to result in the selective secretion of GH. Notably, unlike earlier GHRPs such as GHRP-6 or Hexarelin, Ipamorelin is characterized by its possible receptor specificity and minimal off-target activity. Studies suggest that the peptide exerts negligible influence on the secretion of adrenocorticotropic hormone (ACTH), prolactin, or cortisol.[6]
+[p] This selective action may make it a suitable candidate for research exploring isolated GH axis stimulation without broad neuroendocrine disruption.
+[h2] Scientific Research and Studies
+[h3] Fragment 176-191, CJC-1295, Ipamorelin Blend and Growth Hormone
+[p] Within the Fragment 176-191, CJC-1295, and Ipamorelin peptide blend, distinct mechanisms of action appear to converge on the modulation of growth hormone (GH) signaling. Fragment 176-191, derived from the C-terminal region of hGH, and is designed to emulate the fat-metabolizing potential of the full-length hormone, possibly without affecting systemic GH levels. In contrast, CJC-1295 and Ipamorelin are proposed to stimulate endogenous GH secretion through receptor-mediated pathways in the hypothalamic-pituitary axis.
+[p] In early-phase research,[7] CJC-1295 was evaluated for its potential to increase GH in certain organism models. In one controlled study, the cohort was divided into control exposure (saline) or CJC-1295 exposed groups. Blood samples collected before and after peptide exposure were reported to indicate a significant rise in circulating GH levels, approximately 7.5 times higher in the peptide group compared to placebo. Notably, this elevation persisted beyond the exposure period, remaining stable for up to seven days post-introduction.
+[p] In a separate investigation,[8] a concentration-escalation design was applied. Research models were exposed to increasing amounts of CJC-1295 appeared to exhibit a concentration-dependent rise in serum GH, with peak levels reaching nearly 10-fold above baseline. The results appeared to emphasize that sustained GHRH stimulation led to prolonged elevations in both GH and IGF-1, suggesting potentially preserved pituitary function.
+[p] Ipamorelin, a selective ghrelin mimetic, has also been evaluated for its GH-releasing potential. In one comparative study, a single introduction of the peptide was associated with a dramatic increase in circulating GH, reportedly over 60-fold compared to control groups receiving placebo.[9] This robust effect, combined with Ipamorelin’s reported receptor selectivity, supports its role as a candidate for further investigation in GH axis modulation.
+[p] Together, these findings underscore the differential yet potentially synergistic actions of the peptides in this blend. While Fragment 176-191 may primarily modulate metabolic processes through adrenergic pathways, CJC-1295 and Ipamorelin appear to target GH synthesis and secretion through endocrine mechanisms and appear to collectively contribute to the peptide blend’s proposed research applications.
+[h3] Regenerative and Metabolic Research of Fragment 176-191, CJC-1295 & Ipamorelin Blend
+[p] A 2015 preclinical study[10] evaluated the regenerative implications of Fragment 176-191 in a controlled study involving 32 rabbits. The subjects were systematically divided into four equal groups, each receiving one of the following: saline (placebo), Fragment 176-191, hyaluronic acid (HA), or a combination of both the peptide and HA. Over a 7-week period, all studies were introduced under ultrasound guidance to assess their influence on cartilage preservation.
+[p] Upon evaluation, results suggested that the group introduced to the combination blend of Fragment 176-191 and HA appeared to indicate the least degree of cartilage degradation. As per the researchers, the peptide exposure “[appeared to have] enhanced cartilage regeneration, and combined AOD9604 (another name for Fragment 176-191) and HA [appeared] more effective than HA or AOD9604 alone in the collagenase-induced knee OA rabbit model.”
+[h3] Studies on Body Composition: Fat Reduction and Muscle Accrual
+[p] Fragment 176-191 has been studied for its potential to promote lipolysis, potentially supporting fat mass reduction. However, the broader blend, which includes CJC-1295 and Ipamorelin, may exert more complex, multi-axis implications in body composition.
+[p] Ipamorelin, through its proposed mimetic activity on the ghrelin receptor (GHS-R1a), is thought to stimulate appetite and growth hormone secretion, mechanisms that may contribute to increased body weight. Experimental models suggest that Ipamorelin may be associated with modest gains in both adipose and lean tissue. In one such study utilizing murine subjects, both growth hormone-deficient and growth hormone-intact, Ipamorelin introduction was linked to a roughly 15% increase in total body mass over two weeks. Analysis suggests proportionate enlargement of fat pad weights relative to body size in peptide-exposed groups.
+[p] Conversely, CJC-1295 appears to facilitate anabolic changes with a differing trajectory. Research involving GHRH gene knockout mice (GHRHKO), which inherently lack functional growth hormone-releasing hormone, found that CJC-1295 introduction appeared to have supported the normalization of lean body mass. These animals, when exposed to the peptide, reportedly maintained muscle mass levels comparable to wild-type controls while avoiding the excess adiposity observed in control GHRHKO counterparts. Additionally, fat mass measurements in peptide-exposed mice were not elevated, suggesting that CJC-1295 may promote lean tissue development without contributing to fat accumulation.[11]
+[p] Given these differentiated effects, it is plausible that when introduced as a blend, Fragment 176-191 and CJC-1295 might offset the adipogenic potential of Ipamorelin while collectively enhancing hypothetical anabolic outcomes. These combined mechanistic pathways may render this peptide blend a candidate for further inquiry into body recomposition studies.
+[h3] Fragment 176-191 & CJC-1295 & Ipamorelin Blend and Bone Density
+[p] The combination of peptides, particularly Ipamorelin, may hold potential for promoting bone mineral content through its proposed activity on lean and muscle mass.
+[p] In a controlled study, murine subjects were introduced to Ipamorelin or a placebo, with bone mineral content evaluated in real-time using dual X-ray absorptiometry (DXA) at key sites, including the femur and L6 vertebrae. At the conclusion of the study, femoral bones were further analyzed using mid-diaphyseal peripheral quantitative computed tomography (pQCT) scans to assess structural changes.
+[p] The preliminary data from this investigation suggests that Ipamorelin may be associated with an increase in body weight and a possible enhancement in bone mineral content in the tibia and vertebrae, as suggested by DXA results.
+[p] As per the researchers, the introduction of these peptides appeared to:
+[p] “increase BMC as measured by DXA in vivo. The results of in vitro measurements using pQCT and Archimedes’ principle, in addition to ash weight determinations, show that the increases in cortical and total BMC were due to an increased growth of the bones with increased bone dimensions, whereas the volumetric BMD was unchanged.”[12]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] National Center for Biotechnology Information (2023). PubChem Substance Record for SID 319360420, 386264-39-7, Source: ToxPlanet. https://pubchem.ncbi.nlm.nih.gov/substance/319360420
+[a https://pubchem.ncbi.nlm.nih.gov/substance/319360420] https://pubchem.ncbi.nlm.nih.gov/substance/319360420
+[li] National Center for Biotechnology Information (2023). PubChem Compound Summary for CID 91976842, CJC1295 Without DAC. https://pubchem.ncbi.nlm.nih.gov/compound/CJC1295-Without-DAC
+[a https://pubchem.ncbi.nlm.nih.gov/compound/CJC1295-Without-DAC] https://pubchem.ncbi.nlm.nih.gov/compound/CJC1295-Without-DAC
+[li] National Center for Biotechnology Information (2023). PubChem Compound Summary for CID 9831659, Ipamorelin. https://pubchem.ncbi.nlm.nih.gov/compound/Ipamorelin
+[a https://pubchem.ncbi.nlm.nih.gov/compound/Ipamorelin] https://pubchem.ncbi.nlm.nih.gov/compound/Ipamorelin
+[li] Ferrer-Lorente R, Cabot C, Fernández-López JA, Alemany M. Combined effects of oleoyl-estrone and a beta3-adrenergic agonist (CL316,243) on lipid stores of diet-induced overweight male Wistar rats. Life Sci. 2005 Sep 2;77(16):2051-8. doi: 10.1016/j.lfs.2005.04.008. PMID: 15935402. https://pubmed.ncbi.nlm.nih.gov/15935402/
+[a https://pubmed.ncbi.nlm.nih.gov/15935402/] https://pubmed.ncbi.nlm.nih.gov/15935402/
+[li] Teichman SL, Neale A, Lawrence B, Gagnon C, Castaigne JP, Frohman LA. Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults. J Clin Endocrinol Metab. 2006 Mar;91(3):799-805. doi: 10.1210/jc.2005-1536. Epub 2005 Dec 13. PMID: 16352683. https://pubmed.ncbi.nlm.nih.gov/16352683/
+[a https://pubmed.ncbi.nlm.nih.gov/16352683/] https://pubmed.ncbi.nlm.nih.gov/16352683/
+[li] Raun K, Hansen BS, Johansen NL, Thøgersen H, Madsen K, Ankersen M, Andersen PH. Ipamorelin, the first selective growth hormone secretagogue. Eur J Endocrinol. 1998 Nov;139(5):552-61. doi: 10.1530/eje.0.1390552. PMID: 9849822. https://pubmed.ncbi.nlm.nih.gov/9849822/
+[a https://pubmed.ncbi.nlm.nih.gov/9849822/] https://pubmed.ncbi.nlm.nih.gov/9849822/
+[li] Ionescu M, Frohman LA. Pulsatile growth hormone secretion (GH) persists during continuous stimulation by CJC-1295, a long-acting GH-releasing hormone analog. J Clin Endocrinol Metab. 2006 Dec;91(12):4792-7. Epub 2006 Oct 3. PMID: 17018654. https://pubmed.ncbi.nlm.nih.gov/17018654/
+[a https://pubmed.ncbi.nlm.nih.gov/17018654/] https://pubmed.ncbi.nlm.nih.gov/17018654/
+[li] Teichman SL, Neale A, Lawrence B, Gagnon C, Castaigne JP, Frohman LA. Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults. J Clin Endocrinol Metab. 2006 Mar;91(3):799-805. Epub 2005 Dec 13. PMID: 16352683. https://pubmed.ncbi.nlm.nih.gov/16352683/
+[a https://pubmed.ncbi.nlm.nih.gov/16352683/] https://pubmed.ncbi.nlm.nih.gov/16352683/
+[li] Gobburu, J. V., Agersø, H., Jusko, W. J., & Ynddal, L. (1999). Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers. Pharmaceutical research, 16(9), 1412–1416. https://doi.org/10.1023/a:1018955126402
+[a https://doi.org/10.1023/a:1018955126402] https://doi.org/10.1023/a:1018955126402
+[li] Kwon DR, Park GY. Effect of Intra-articular Injection of AOD9604 with or without Hyaluronic Acid in Rabbit Osteoarthritis Model. Ann Clin Lab Sci. 2015 Summer;45(4):426-32. PMID: 26275694. https://pubmed.ncbi.nlm.nih.gov/26275694/
+[a https://pubmed.ncbi.nlm.nih.gov/26275694/] https://pubmed.ncbi.nlm.nih.gov/26275694/
+[li] Alba M, Fintini D, Sagazio A, Lawrence B, Castaigne JP, Frohman LA, Salvatori R. Once-daily administration of CJC-1295, a long-acting growth hormone-releasing hormone (GHRH) analog, normalizes growth in the GHRH knockout mouse. Am J Physiol Endocrinol Metab. 2006 Dec;291(6):E1290-4. doi: 10.1152/ajpendo.00201.2006. Epub 2006 Jul 5. PMID: 16822960. https://pubmed.ncbi.nlm.nih.gov/16822960/
+[a https://pubmed.ncbi.nlm.nih.gov/16822960/] https://pubmed.ncbi.nlm.nih.gov/16822960/
+[li] Svensson, J., Lall, S., Dickson, S. L., Bengtsson, B. A., Rømer, J., Ahnfelt-Rønne, I., Ohlsson, C., & Jansson, J. O. (2000). The GH secretagogues ipamorelin and GH-releasing peptide-6 increase bone mineral content in adult female rats. The Journal of endocrinology, 165(3), 569–577. https://doi.org/10.1677/joe.0.1650569
+[a https://doi.org/10.1677/joe.0.1650569] https://doi.org/10.1677/joe.0.1650569
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

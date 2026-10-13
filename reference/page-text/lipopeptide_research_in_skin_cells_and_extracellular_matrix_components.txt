@@ -1,0 +1,122 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Lipopeptide Research in Skin Cells and Extracellular Matrix Components
+[p] by Dr. Usman | Sep 16, 2024 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Lipoptide Research in Skin Cells and Extracellular Matrix Components :: https://biotechpeptides.com/wp-content/uploads/2024/09/Lipoptide-Research-in-Skin-Cells-and-Extracellular-Matrix-Components.avif
+[a https://biotechpeptides.com/product/lipopeptide-biopeptide-el-topical-200mg/] (aka Palmitoyl hexapeptide-12 or Pal-VGVAPG)
+[p] This peptide is posited to play a role in modulating fibroblast activity, possibly by interacting with specific receptors on the fibroblast membrane. Its mechanism is not fully understood, but research suggests it may stimulate the production of collagen and glycosaminoglycans while decreasing the synthesis of elastin, with chemotactic activity and metalloproteinase upregulation properties.[2][3]
+[p] Contents:
+[li] Mechanism of Actions
+[a #ma] Mechanism of Actions
+[li] Scientific and Research Studies
+[a #research] Scientific and Research Studies
+[li] Lipopeptide and Skin Fibroblasts
+[a #Skin-Fibroblasts] Lipopeptide and Skin Fibroblasts
+[li] Lipopeptide and Skin Inflammation Markers
+[a #Skin-Inflammation] Lipopeptide and Skin Inflammation Markers
+[li] Lipopeptide and Skin Pigmentation
+[a #Skin-Pigmentation] Lipopeptide and Skin Pigmentation
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/lipopeptide-biopeptide-el-topical-200mg/] 
+[img] Buy Lipopeptide (Biopeptide EL) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Lipopetide.png
+[h2] Mechanisms of Action
+[p] Lipopeptide may interact with fibroblasts, which are the primary cells responsible for producing key components of the extracellular matrix, such as elastin, collagen, glycosaminoglycans (like hyaluronan), proteoglycans, fibronectin, and laminin. In particular, Lipopeptide is believed to upregulate the production of collagen while suppressing elastin production.[4] Collagen is a major protein believed to provide strength and resilience in connective tissues such as the skin. The reduction in elastin may be due to negative feedback regulation related to the sequence of Lipopeptide, which is a repetitive sequence found in the structure of elastin fibers like tropoelastin.[2]
+[p] Tropoelastin is considered to be a soluble precursor protein to elastin, an essential component of the extracellular matrix that provides elasticity to various tissues, such as skin, lungs, arteries, and ligaments. Further, researchers report that “The present study clearly [indicated] that the hexapeptide VGVAPG stimulated skin fibroblast proliferation.”[2] Thus, in addition to possibly regulating the function of fibroblast cells, Lipopeptide is also studied for its potential to upregulate the production of new fibroblast cells. Researchers are also investigating if Lipopeptide may interact with the function of the pigment-producing skin cells called melanocytes and the production of inflammatory molecules by fibroblasts in different conditions.
+[h2] Scientific and Research Studies
+[h3] Lipopeptide and Skin Fibroblasts
+[p] Lipopeptide is believed to act as a chemoattractant for fibroblasts, guiding these cells, as well as immune cells such as monocytes, to areas where repair or regeneration may be necessary. Specifically, the VGVAPG sequence is considered to be a key sequence driving the chemotactic activity. Researchers also posit that the interaction of VGVAPG with fibroblasts may not only encourage cell migration but potentially plays a role in tissue remodeling processes. Further, studies suggest that the responsiveness of fibroblasts to VGVAPG is apparently dependent on their differentiation status. Specifically, undifferentiated fibroblasts, which are incapable of producing elastin, do not appear to exhibit chemotaxis toward VGVAPG or other elastin-derived peptides. However, upon exposure to extracellular matrix material and subsequent induction of elastin synthesis, these cells become responsive, indicating that the ability to synthesize elastin might be necessary for fibroblast chemotaxis toward VGVAPG, which allows the peptide to attract only mature and functional cells.[5]
+[p] Another study suggests that thanks to its VGVAPG sequence, Lipopeptide appears to potentially stimulate the proliferation of fibroblasts. The mechanism of action is suggested to involve a binding event between VGVAPG and unknown plasmalemmal receptors on the fibroblast cells’ membranes. Although the exact receptor has not been fully characterized, it is hypothesized that this binding initiates a signaling cascade that results in fibroblast proliferation. The study implies that there is a lag phase observed before proliferation which may depend on the initial fibroblast density, suggesting that the response to VGVAPG might be density-dependent. Moreover, when fibroblasts are exposed to VGVAPG, they possibly undergo morphological changes, becoming more elongated. This might imply that VGVAPG not only stimulates proliferation but may also potentially influence the cellular architecture of fibroblasts under these conditions.[6]
+[h3] Lipopeptide and Skin Inflammation Markers
+[p] Lipopeptides have been proposed to modulate the production of proinflammatory mediators by skin cells, including interleukin-1 (IL-1), interleukin-6 (IL-6), and interleukin-8 (IL-8), which may, in turn, slow the degradation of the skin’s extracellular matrix.[7] In particular, some in vitro studies suggest that lipopeptides might reduce IL-6 production in keratinocytes, the primary cell type of the epidermis, and in fibroblasts. IL-6 is suggested to be a key regulator of inflammation, a necessary biological response for cell repair following injury or stress. However, excessive or prolonged IL-6 production has been linked to chronic inflammation, which may contribute to the breakdown of the skin’s structural integrity. This is thought to occur through the stimulation of matrix metalloproteinases (MMPs), a group of enzymes that degrade extracellular matrix proteins like collagen and elastin. Overactivation of MMPs, particularly under conditions such as skin cell exposure to ultraviolet (UV) radiation, may lead to diminished skin tissue elasticity, reduced firmness, and other visible signs of skin cell aging. By potentially modulating IL-6 levels, Lipopeptide may influence MMP activity and thus play a role in maintaining the structural integrity of the skin’s extracellular matrix. This reduction in MMP-mediated degradation may hypothetically help preserve collagen and elastin, which are considered essential for skin cell integrity as well as tissue elasticity and resilience.[8][9]
+[h3] Lipopeptide and Skin Pigmentation
+[p] Lipopeptide has been posited to interact with melanocytes by modulating melanogenesis-related pathways. A study suggests that Lipopeptide has been “identified as major inhibitors of melanogenesis based on their gene expression profiles.” Specifically, it may downregulate the expression of multiple melanogenic genes in melanocytes. This downregulation may potentially influence critical proteins involved in melanogenesis, such as MITF (microphthalmia-associated transcription factor), tyrosinase, and dopachrome tautomerase. These proteins are essential for the regulation of melanin production, and their inhibition might lead to decreased melanin synthesis.
+[p] Additionally, Lipopeptide possibly exerts its actions through the phosphorylation of ERK, which may contribute to the degradation of MITF, leading to reduced melanogenic activity. The gene expression studies in melanocytes showed a notable downregulation of these pathways after exposure to Lipopeptide, suggesting a direct interaction that might decrease melanin production in melanocytes. Furthermore, an in vitro melanogenic model suggested that Lipopeptide apparently resulted in a marked decrease in melanin production, as detailed by absorbance readings indicating reduced melanin content.[10] Interventional studies of Lipopeptide on skin cell aging have also suggested that this peptide may have increased skin structure firmness by 20% and improved epidermal tone by 33 % compared to controls.[9]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] Resende, D. I. S. P., Ferreira, M. S., Sousa-Lobo, J. M., Sousa, E., & Almeida, I. F. (2021). Usage of Synthetic Peptides in Cosmetics for Sensitive Skin. Pharmaceuticals (Basel, Switzerland), 14(8), 702. https://doi.org/10.3390/ph14080702
+[a https://doi.org/10.3390/ph14080702] https://doi.org/10.3390/ph14080702
+[li] Tajima, S., Wachi, H., Uemura, Y., & Okamoto, K. (1997). Modulation by elastin peptide VGVAPG of cell proliferation and elastin expression in human skin fibroblasts. Archives of dermatological research, 289(8), 489–492. https://doi.org/10.1007/s004030050227
+[a https://doi.org/10.1007/s004030050227] https://doi.org/10.1007/s004030050227
+[li] Errante, F., Ledwoń, P., Latajka, R., Rovero, P., & Papini, A. M. (2020). Cosmeceutical peptides in the framework of sustainable wellness economy. Frontiers in chemistry, 8, 572923.
+[li] Husein El Hadmed, H., & Castillo, R. F. (2016). Cosmeceuticals: peptides, proteins, and growth factors. Journal of cosmetic dermatology, 15(4), 514–519. https://doi.org/10.1111/jocd.12229
+[a https://doi.org/10.1111/jocd.12229] https://doi.org/10.1111/jocd.12229
+[li] Senior, R. M., Griffin, G. L., Mecham, R. P., Wrenn, D. S., Prasad, K. U., & Urry, D. W. (1984). Val-Gly-Val-Ala-Pro-Gly, a repeating peptide in elastin, is chemotactic for fibroblasts and monocytes. The Journal of cell biology, 99(3), 870–874. https://doi.org/10.1083/jcb.99.3.870
+[a https://doi.org/10.1083/jcb.99.3.870] https://doi.org/10.1083/jcb.99.3.870
+[li] Kamoun, A., Landeau, J. M., Godeau, G., Wallach, J., Duchesnay, A., Pellat, B., & Hornebeck, W. (1995). Growth stimulation of human skin fibroblasts by elastin-derived peptides. Cell adhesion and communication, 3(4), 273–281. https://doi.org/10.3109/15419069509081013
+[a https://doi.org/10.3109/15419069509081013] https://doi.org/10.3109/15419069509081013
+[li] Ngoc, L. T. N., Moon, J. Y., & Lee, Y. C. (2023). Insights into bioactive peptides in cosmetics. Cosmetics, 10(4), 111.
+[li] Schagen, S. K. (2017). Topical peptide treatments with effective anti-aging results. Cosmetics, 4(2), 16.
+[li] Veiga, E., Ferreira, L., Correia, M., Pires, P. C., Hameed, H., Araújo, A. R., … & Paiva-Santos, A. C. (2023). Anti-aging peptides for advanced skincare: focus on nanodelivery systems. Journal of Drug Delivery Science and Technology, 105087.
+[li] Widgerow, A., Wang, J., Ziegler, M., Fabi, S., Garruto, J., Robinson, D., & Bell, M. (2022). Advances in Pigmentation Management: A Multipronged Approach. Journal of drugs in dermatology : JDD, 21(11), 1206–1220. https://doi.org/10.36849/JDD.7013
+[a https://doi.org/10.36849/JDD.7013] https://doi.org/10.36849/JDD.7013
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

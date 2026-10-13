@@ -1,0 +1,112 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/Pal-GHK-1.webp] 
+[img] Pal-GHK (Palmitoyl Tripeptide-1) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Pal-GHK-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_PAL-GHK_3140066_20260725_BP_page-0001.webp] 
+[img] Pal-GHK (Palmitoyl Tripeptide-1) (200mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_PAL-GHK_3140066_20260725_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_PAL-GHK_3140066_20260725_BP_page-0002.webp] 
+[img] Pal-GHK (Palmitoyl Tripeptide-1) (200mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_PAL-GHK_3140066_20260725_BP_page-0002.webp
+[h1] Pal-GHK (Palmitoyl Tripeptide-1) (200mg)
+[p] $199.00
+[p] Pal-GHK (Palmitoyl Tripeptide-1) peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_6035 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $189.05
+[input name=wccs_tier_select_6035 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $179.10
+[label] Pal-GHK (Palmitoyl Tripeptide-1) (200mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_PAL-GHK_3140066_20260725_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Pal-GHK (Palmitoyl Tripeptide-1) Peptide
+[p] Pal-GHK, also known as Palmitoyl Tripeptide-1 and Palmitoyl Oligopeptide, is a synthetic peptide developed to function in protein production to support the skin’s extracellular matrix (ECM), and skin pigmentation. Pal-GHK is a synthetic hybrid peptide with one fatty acid and one peptide. “Pal” represents Palmitoyl—the covalent attachment of fatty acid to the end of the structure. “GHK” represents glycine-histidine-lysine—the peptide’s amino acid structure. This sequence is thought to be a small fraction of the large protein collagen, which is one of the main proteins in the extracellular matrix of skin and other tissues. Particularly, it may signal and attract fibroblasts—cells responsible for synthesizing collagen, elastin, and other proteins in the skin’s extracellular matrix, bones, and connective tissues. “Pal” represents Palmitoyl—the covalent attachment of fatty acid to the end of the structure. The addition of palmitoyl to the molecule is thought to result in better penetration through skin cells and, more specifically, stratum corneum.
+[h3] Specifications
+[p] Sequence: Palmitoyl-Gly-His-Lys
+[p] Molecular Formula: C30H54N6O5
+[p] Molecular Weight: 578.8 g/mol
+[p] Synonyms: Palmitoyl Tripeptide-1, Palmitoyl Oligopeptide
+[h3] Pal-GHK Research
+[p] Pal-GHK Antioxidative Potential The antioxidative potential of the GHK sequence in Pal-GHK may have protective actions for skin cells and lower their risk of experiencing faster aging due to active radicals and oxidative stress-causing factors like UV radiation. Examples of active radicals that may mediate the oxidative stress of UV exposure to skin cells may include reactive oxygen species (ROS), reactive nitrogen species (RNS), and reactive carbonyl species (RCS). Studies suggest that Pal-GHK may potentially possess anti-RCS properties, particularly against radicals like acrolein, malondialdehyde, and 4-hydroxynoneal, and thus reduce the risk of protein glycation of skin cell structures and ECM structures.
+[p] Pal-GHK and Skin Thickness As mentioned, Pal-GHK may function as a messenger for collagen renewal and may stimulate the synthesis of collagen and glycosaminoglycans, possibly reinforcing the epidermis. Some data suggests that Pal-GHK may influence transforming growth factor beta (TGFβ), a cytokine involved in cell growth and differentiation, to stimulate fibrillogenesis, which is the formation of collagen fibrils. During the course of a study, researchers commented that the GHK sequence significantly improved collagen production and stimulated dermal keratinocyte proliferation. The research also confirmed an increase in skin thickness, improved skin hydration, and a significant smoothing of the skin by stimulating collagen synthesis, increased skin elasticity, and increased production of type 1 collagen. This was also confirmed via immunohistological assessments, which have indicated that GHK may have procollagen synthesis and, consequently, collagen synthesis in these cells.
+[p] Pal-GHK and Skin Appearance Researchers suggest that the Pal-GHK peptide may be correlated with increased moisture retention as well. When attached to short peptides, Pal-GHK appears to act cooperatively to reduce the prevalence of skin wrinkling and increase the moisture retention capacity of the skin cells. Pal-GHK has also been suggested to be influential in reducing redness and discolored skin following photodamage (melasma) in animal models. Histopathological evaluations suggested that GHK might lead to a decrease in neutrophil counts and an increase in neovascularization within the wound area. This could imply that GHK promotes a more favorable inflammatory response and enhances the formation of new blood vessels, which are critical components of the wound healing process.
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Lipopeptide (Biopeptide EL) (200mg) $220.00
+[a https://biotechpeptides.com/product/lipopeptide-biopeptide-el-topical-200mg/] Lipopeptide (Biopeptide EL) (200mg) $220.00
+[img] Lipopeptide (Biopeptide EL) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Lipopetide-1-238x317.webp
+[h2] Lipopeptide (Biopeptide EL) (200mg)
+[li] Syn-Coll (Palmitoyl Tripeptide-5) (200mg) $217.00
+[a https://biotechpeptides.com/product/syn-coll-palmitoyl-tripeptide-5-topical-200mg/] Syn-Coll (Palmitoyl Tripeptide-5) (200mg) $217.00
+[img] Syn-Coll (Palmitoyl Tripeptide-5) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Syn-Coll-1-238x317.webp
+[h2] Syn-Coll (Palmitoyl Tripeptide-5) (200mg)
+[li] Matrixyl (200mg) $190.00
+[a https://biotechpeptides.com/product/matrixyl-topical-200mg/] Matrixyl (200mg) $190.00
+[img] Matrixyl (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Matrixyl-1-238x317.webp
+[h2] Matrixyl (200mg)
+[li] Acetyl Hexapeptide-3 (Argireline) (200mg) $210.00
+[a https://biotechpeptides.com/product/acetyl-hexapeptide-3-argireline-200mg/] Acetyl Hexapeptide-3 (Argireline) (200mg) $210.00
+[img] Acetyl Hexapeptide-3 (Argireline) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Acetyl-Hexapeptide-3-1-238x317.webp
+[h2] Acetyl Hexapeptide-3 (Argireline) (200mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

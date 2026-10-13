@@ -1,0 +1,126 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/11/ACE-031-1.webp] 
+[img] ACE-031 (1mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/ACE-031-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/11/COA_ACE-031_3140001_20260725_BP_page-0001.webp] 
+[img] ACE-031 (1mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2021/11/COA_ACE-031_3140001_20260725_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/11/COA_ACE-031_3140001_20260725_BP_page-0002.webp] 
+[img] ACE-031 (1mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2021/11/COA_ACE-031_3140001_20260725_BP_page-0002.webp
+[h1] ACE-031 (1mg)
+[p] $161.00
+[p] ACE-031 peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_3265 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $152.95
+[input name=wccs_tier_select_3265 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $144.90
+[label] ACE-031 (1mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/11/COA_ACE-031_3140001_20260725_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] ACE-031 Peptide
+[p] ACE-031 is a soluble protein comprising the type IIB activin receptor (ACVR2B) and the immunoglobulin G1-Fc (IgG1-Fc), and has been studied for its potential in binding and inactivating myostatin, a protein that hampers muscle cell growth. It has been examined during the course of various research studies involved in muscle-wasting disorders and neuromuscular conditions such as Duchenne Muscular Dystrophy (DMD), as well as certain cancers such as those of the prostate or colorectal regions and lipid storage and bone metabolism.
+[h3] Specifications
+[p] Other Known Titles: Ramatercept, ActRIIB-IgG1, ACVR2B/Fc
+[p] PubChem: CID 16130571
+[h3] ACE-031 Research
+[p] ACE-031 and Muscle Cells ACE-031 appears to enhance muscle growth and bone metabolism; it also may limit lipid accumulation. A notable improvement in lean body mass and thigh muscle volume was observed in experimental studies within a month of ACE-031 exposure.[1] The outcome has the potential added benefits of improved bone and fat metabolic profile. Research is ongoing. ACE-031 introduction also appears to reduce muscle wasting through its potential to bind myostatin in muscle cells.[2] ACE-031, while not a commonly researched peptide compound, has been posited by researchers to elicit synergistic impact alongside certain growth hormone analogs, like IGF-1.
+[a https://biotechpeptides.com/product/igf-1-des-peptide-1mg/] IGF-1
+[p] ACE-031 and Energy Metabolism Research has suggested that inhibiting the natural ACE-031 proteins may fail to reduce serum lactate levels, preventing ultimate metabolic damage to muscles, and vascularization of the muscle tissue. These impacts may potentially be mitigated through ACE-031 supplementation. It has been speculated to promote muscle cell growth by blocking myostatin-mediated wasting and may delay the onset of fatigue and oxidative damage by enhancing the oxygenation of the muscle tissues.
+[p] ACE-031 and Muscle Force ACE-031 has been studied for its potential influence in muscle function. Other than blocking the activity of myostatin, ACE-031 has been researched for its possible ability to improve muscle thermodynamics by promoting oxidative respiration, thereby improving the force-generating capacity of muscles, specifically the maximum force by 50% and total contractile force by 25%.[3] Experimental studies have suggested that ACE-031 may improve muscle strength potentially without affecting energy dynamics, or changes in ATP levels or contractile efficiency within the muscle tissues.
+[p] ACE-031 and Muscle Repair Muscle wasting disorders such as Duchenne Muscular Dystrophy (DMD) often result in physical difficulty. Research models of the disorder display severe muscle loss due to low protein levels despite the extremely high-fat reserves—the primary reason being that the dystrophin (a group of proteins) in these models appears to be non-functional. Moreover, the release of myostatin from damaged muscle cells may affect surrounding cells causing their growth to slow. However, research has suggested the potential of ACE-031 to reduce the rate of muscle damage by addressing the impacts of myostatin release.[4] The peptide appears to preserve muscle function, increase lean body mass, improve bone mineral density, and reduce fat reserves. Research is ongoing.
+[p] ACE-031 and Bone Density Researchers observed that ACE-031 appeared to improve total body weight, muscle mass, and bone mineral density when introduced to an experimental research model once a week for seven consecutive weeks.[5] A reduction in the population of osteoclasts appeared to be responsible for the improved mineral content in bones, which also apparently improved the biomechanics, stiffness, and maximum force that the bones could tolerate. Research has suggested the potential of ACE-031 to increase bone mass by around 30%, positing its impact in controlling the progression of osteoporosis. In addition to its possible myostatin inhibiting characteristics, studies have suggested the ability of ACE-031 to increase bone density by almost 132% in the femur (the thigh bone, which is often damaged with age) and 27% in vertebrae.
+[p] ACE-031 and Cancer, Muscle Loss Molecular cascades resulting in muscle loss due to either death or necrosis are commonly seen in research associated with cancer cells. The primary reason is the metabolic stress on muscles due to changes in aerobic respiration status. In addition, there is an increase in the free radical population within cells that indirectly causes muscle damage. Activating the ERK1/2 pathway by introducing ACE-031 appears to avert muscle fiber atrophy due to apoptosis. In addition, the efficiency of energy consumption and the mitochondrial metabolism was also observed to improve in research studies. Moreover, the concentration of free radicals also appeared to reduce. Furthermore, myostatin is produced in certain cancers, which may lead to muscle wasting and loss. In addition, these transformed cells are often associated with inactivated activin receptors, loss of mitochondria, and hence ATP levels. Research has suggested a reversal of these actions with ACE-031 exposure. Some additional potential impacts associated with myostatin inhibition include improved insulin sensitivity, reduced fat storage, reduced inflammation, and better bone metabolism and strength.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Attie, K. M., Borgstein, N. G., Yang, Y., Condon, C. H., Wilson, D. M., Pearsall, A. E., Kumar, R., Willins, D. A., Seehra, J. S., & Sherman, M. L. (2013). A single ascending-dose study of muscle regulator ACE-031 in healthy volunteers. Muscle & nerve, 47(3), 416–423. https://doi.org/10.1002/mus.23539
+[a https://doi.org/10.1002/mus.23539] https://doi.org/10.1002/mus.23539
+[li] Cadena, S. M., Tomkinson, K. N., Monnell, T. E., Spaits, M. S., Kumar, R., Underwood, K. W., Pearsall, R. S., & Lachey, J. L. (2010). Administration of a soluble activin type IIB receptor promotes skeletal muscle growth independent of fiber type. Journal of applied physiology (Bethesda, Md. : 1985), 109(3), 635–642. https://doi.org/10.1152/japplphysiol.00866.2009
+[a https://doi.org/10.1152/japplphysiol.00866.2009] https://doi.org/10.1152/japplphysiol.00866.2009
+[li] Muramatsu, H., Kuramochi, T., Katada, H., Ueyama, A., Ruike, Y., Ohmine, K., Shida-Kawazoe, M., Miyano-Nishizawa, R., Shimizu, Y., Okuda, M., Hori, Y., Hayashi, M., Haraya, K., Ban, N., Nonaka, T., Honda, M., Kitamura, H., Hattori, K., Kitazawa, T., Igawa, T., … Nezu, J. (2021). Novel myostatin-specific antibody enhances muscle strength in muscle disease models. Scientific reports, 11(1), 2160. https://doi.org/10.1038/s41598-021-81669-8
+[a https://doi.org/10.1038/s41598-021-81669-8] https://doi.org/10.1038/s41598-021-81669-8
+[li] Campbell, C., McMillan, H. J., Mah, J. K., Tarnopolsky, M., Selby, K., McClure, T., Wilson, D. M., Sherman, M. L., Escolar, D., & Attie, K. M. (2017). Myostatin inhibitor ACE-031 treatment of ambulatory boys with Duchenne muscular dystrophy: Results of a randomized, placebo-controlled clinical trial. Muscle & nerve, 55(4), 458–464. https://doi.org/10.1002/mus.25268
+[a https://doi.org/10.1002/mus.25268] https://doi.org/10.1002/mus.25268
+[li] Maïmoun, L., Mariano-Goulart, D., Huguet, H., Renard, E., Lefebvre, P., Picot, M. C., Dupuy, A. M., Cristol, J. P., Courtet, P., Boudousq, V., Avignon, A., Guillaume, S., & Sultan, A. (2022). In patients with anorexia nervosa, myokine levels are altered but are not associated with bone mineral density loss and bone turnover alteration. Endocrine connections, 11(5), e210488. https://doi.org/10.1530/EC-21-0488
+[a https://doi.org/10.1530/EC-21-0488] https://doi.org/10.1530/EC-21-0488
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] PEG-MGF (Pegylated MGF) (5mg) $79.00
+[a https://biotechpeptides.com/product/peg-mgf-5mg/] PEG-MGF (Pegylated MGF) (5mg) $79.00
+[img] PEG-MGF (Pegylated MGF) (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/PEG-MGF-1-238x317.webp
+[h2] PEG-MGF (Pegylated MGF) (5mg)
+[li] TB-500 (Thymosin Beta-4) (5mg) $72.00
+[a https://biotechpeptides.com/product/tb-500-thymosin-beta-4-5mg/] TB-500 (Thymosin Beta-4) (5mg) $72.00
+[img] TB-500 (Thymosin Beta-4) :: https://biotechpeptides.com/wp-content/uploads/2020/04/TB-500-1-238x317.webp
+[h2] TB-500 (Thymosin Beta-4) (5mg)
+[li] TB-500 (Thymosin Beta-4) (10mg) $124.00
+[a https://biotechpeptides.com/product/tb-500-10mg/] TB-500 (Thymosin Beta-4) (10mg) $124.00
+[img] TB-500 (Thymosin Beta-4) :: https://biotechpeptides.com/wp-content/uploads/2020/04/TB-500-1-238x317.webp
+[h2] TB-500 (Thymosin Beta-4) (10mg)
+[li] Receptor Grade IGF-1 LR3 (1mg) $145.00
+[a https://biotechpeptides.com/product/receptor-grade-igf-1-lr3-1mg/] Receptor Grade IGF-1 LR3 (1mg) $145.00
+[img] Receptor Grade IGF-1 LR3 :: https://biotechpeptides.com/wp-content/uploads/2020/03/IGF-1-LR3-Receptor-Grade-1-238x317.webp
+[h2] Receptor Grade IGF-1 LR3 (1mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

@@ -1,0 +1,128 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] AOD 9604 Research Into Fat Cell Metabolism and Lipolysis
+[p] by Dr. Usman | Oct 22, 2024 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] AOD 9604 Peptide: Research Into Fat Cell Metabolism and Lipolysis :: https://biotechpeptides.com/wp-content/uploads/2024/10/AOD-9604-Peptide-Research-Into-Fat-Cell-Metabolism-and-Lipolysis.avif
+[p] AOD 9604 is thought to replicate the lipolytic actions of full-length GH while lacking the ability to influence carbohydrate metabolism, insulin-like growth factor-1 (IGF-1) production, or cellular growth and division. Therefore, the lipolytic activity of AOD 9604 appears to be limited to promoting fatty acid oxidation and increasing the breakdown of fat (lipolysis). Despite these proposed impacts, the exact mechanism through which AOD 9604 exerts its action is still not fully understood. It may not interact with the GH receptor, which suggests it may engage with β3-adrenergic receptors or other unidentified pathways to stimulate energy metabolism and potentially increase energy expenditure.[2]
+[a https://biotechpeptides.com/product/aod-9604-5mg/] AOD 9604
+[p] Contents:
+[li] Mechanism of Actions
+[a #ma] Mechanism of Actions
+[li] Scientific and Research Studies
+[a #research] Scientific and Research Studies
+[li] AOD 9604 Peptide and Lipolysis in Adipocytes
+[a #Lipolysis] AOD 9604 Peptide and Lipolysis in Adipocytes
+[li] AOD 9604 Peptide and Fat Storage in Adipocytes
+[a #Adipocytes] AOD 9604 Peptide and Fat Storage in Adipocytes
+[li] AOD 9604 Peptide and Other Research Objectives
+[a #ro] AOD 9604 Peptide and Other Research Objectives
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/aod-9604-5mg/] 
+[img] AOD 9604 (5mg) :: https://biotechpeptides.com/wp-content/uploads/2024/10/AOD-9604.webp
+[h2] Mechanisms of Action
+[p] AOD 9604 peptide seems to activate several mechanisms involved in lipolysis, also referred to as lipolysis. These mechanisms might include both a direct stimulation of lipolysis in adipose cells (adipocytes) and an indirect increase in overall energy expenditure, potentially leading to greater calorie burn. One proposed mechanism is through modulating the expression of β3-adrenergic receptors (β3-AR), which are thought to be important receptors that promote lipolysis in adipose cells. AOD 9604 peptide appears to influence β3-AR mRNA expression, possibly increasing the sensitivity of adipocytes to signals that stimulate lipolysis.
+[p] In studies involving obese murine models, AOD 9604 peptide was suggested to increase lipolysis, which seemed to coincide with increased β3-AR mRNA expression. This observation suggests that AOD 9604 peptide might elevate levels of these receptors in adipocytes, potentially supporting the cells’ responsiveness to catecholamines, which are hormones that play a role in promoting lipolysis. In obese murine models, where β3-AR levels are generally reduced compared to lean mice, AOD 9604 appeared to restore β3-AR expression to levels similar to those seen in lean animals.
+[p] The role of β3-AR in the actions of AOD 9604 was further explored in studies using murine models lacking β3-AR (β3-AR knockout mice). In these knockout models, AOD 9604 did not result in increased lipolysis, unlike in normal (wild-type) models, which implies that β3-AR might be important for the chronic fat-reducing impacts of AOD 9604 peptide. However, in short-term experiments, AOD 9604 still seemed to increase energy expenditure and fat oxidation in the knockout murine models, although the potential was less pronounced compared to wild-type animals. This suggests that while β3-AR may play a significant role in the long-term lipolytic impacts of AOD 9604, the compound may also activate other β3-AR-independent pathways that influence energy metabolism and utilization of fat stores.[3]
+[h2] Scientific and Research Studies
+[h3] AOD 9604 Peptide and Lipolysis in Adipocytes
+[p] AOD 9604 peptide has been suggested to reduce adipose tissue accumulation by more than 50% in laboratory models, possibly by supporting the rate of lipolysis. Research suggests that the peptide may support lipolysis by about 23%.[4] This support is indicated by an increase in glycerol release, which serves as a marker of lipid breakdown. Researchers have linked this impact to the activation of hormone-sensitive lipase (HSL), a crucial enzyme responsible for breaking down stored triglycerides into free fatty acids and glycerol.
+[p] This action results in the reduction of adipocyte size. Additionally, it is proposed that AOD 9604 may also inhibit acetyl-CoA carboxylase, an enzyme involved in the synthesis of fatty acids. This suggests that AOD 9604 peptide not only promotes lipolysis but may also mitigate the formation of new fat, thus reducing overall fat storage. The researchers concluded that “The present findings reveal for the first time that the synthetic lipolytic domain [may be] capable of reducing weight gain” in experimental models.
+[p] Further research indicates that the impacts of AOD 9604 peptide on HSL and acetyl-CoA carboxylase may be linked to intracellular signaling pathways.[5] Studies have indicated that AOD 9604 induces a biphasic release of diacylglycerol (DAG) in fat cells, similar to the impacts of GH. This suggests that AOD 9604 might share some signaling mechanisms with the growth hormone. The production of DAG is associated with the activation of protein kinase C (PKC), which is believed to regulate both lipolysis and other metabolic processes involved in lipid management.
+[p] Another experiment also suggested that AOD 9604 peptide may have been associated with a significant rise in fat oxidation, particularly in obese murine models where a 216% increase in fat oxidation was observed. This suggests that AOD 9604 not only stimulates the breakdown of stored triglycerides and lipolysis but also facilitates the exposure of these liberated fatty acids to cells as an energy source, further decreasing lipid storage in adipocytes.[6]
+[h3] AOD 9604 Peptide and Fat Storage in Adipocytes
+[p] As mentioned, AOD 9604 peptide may have anti-lipogenic impacts in isolated adipose tissues. In particular, studies with adipose tissue samples suggest that AOD 9604 may reduce the incorporation of glucose into lipid molecules, thus possibly decreasing the rate of de novo lipogenesis, which is the synthesis of fatty acids from non-lipid sources such as carbohydrates.[5]
+[p] In other words, the reduction in adipocytes of various sizes seen with AOD 9604 peptide in lab models may be due to a general suppression of lipid accumulation mechanisms. Specifically, the researchers reported that “A reduction in lipogenesis and a stimulation in lipolysis were observed. These alterations led to decreased rates of lipid storage and increased rates of lipid mobilization from adipose tissue. These changes, in turn, led to the size reduction in adipocyte cell size.” This outcome was reflected by the reduction of the number of large adipocytes and a shift toward smaller adipocytes.
+[p] Findings like this one suggest that AOD 9604 peptide may regulate hypertrophy in adipocytes (enlargement) by modulating both anabolic (constructive) and catabolic (destructive) processes of lipid metabolism. This combined action of promoting lipolysis while inhibiting lipogenesis is likely to lead to a net reduction in lipid content within adipocytes, contributing to a decrease in their overall size.
+[h3] AOD 9604 Peptide and Other Research Objectives
+[p] Researchers have also explored the potential of AOD 9604 in models of osteoarthritis and its potential actions on tumor cells. For instance, one trial modeled AOD 9604 with and without hyaluronic acid (HA) in a collagenase-induced osteoarthritis model.[7] The morphological and histopathological scores, which indicate the extent of cartilage degeneration, were apparently lower in the AOD 9604 groups. The combination of AOD 9604 and HA indicated potentially synergistic actions. Specifically, the AOD 9604 peptide and HA group suggest reduced signs of cartilage degradation compared to the other groups.
+[p] This suggests that AOD 9604 peptide might influence cartilage through mechanisms similar to growth hormone by promoting proteoglycan and collagen production, though in a way that does not involve IGF-1. HA, believed to act as a chondroprotective agent, may also have supported these relevant impacts, possibly supporting the residence time of AOD 9604 in the joint or contributing to its bioactive properties. The study emphasized that while AOD 9604 suggested promise in supporting cartilage regeneration, the exact mechanisms by which it exerts these impacts are not well understood.
+[p] AOD 9604 peptide has displayed promising potential in increasing the potential of anti-cancer cell agents like doxorubicin’s ability to bind to critical breast tumor cell receptors such as the progesterone receptor (PR) and epidermal growth factor receptor 2 (HER2).[8] These receptors are pivotal in the progression of these tumor cells, and better-supported binding suggests that doxorubicin may more impactfully target and interfere with cancer cell functions. By loading both AOD 9604 and doxorubicin into Chitosan nanoparticles, the study achieved a delivery system that supports doxorubicin’s potential.
+[p] In vitro studies on MCF-7 breast tumor cells indicated that the dual-loaded nanoparticles were more impactful in killing these cells than nanoparticles containing doxorubicin alone, as observed in data that displays comparatively lower IC50 values. The presence of AOD 9604 peptide may support how tumor cells take up doxorubicin or alter how similar agents interact inside the cells, leading to increased tumor cell death. By supporting delivery specifically to tumor cells, AOD 9604 may help reduce the off-target impacts of doxorubicin, minimizing damage to functional cells.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] Isidro ML, Cordido F. Approved and Off-Label Uses of Obesity Medications, and Potential New Pharmacologic Treatment Options. Pharmaceuticals (Basel). 2010 Jan 12;3(1):125-145. doi: 10.3390/ph3010125. PMID: 27713245; PMCID: PMC3991023.
+[a https://doi.org/10.3390/ph3010125] doi: 10.3390/ph3010125
+[li] Cox HD, Smeal SJ, Hughes CM, Cox JE, Eichner D. Detection and in vitro metabolism of AOD9604. Drug Test Anal. 2015 Jan;7(1):31-8. doi: 10.1002/dta.1715. Epub 2014 Sep 10. PMID: 25208511.
+[a https://doi.org/10.1002/dta.1715] doi: 10.1002/dta.1715
+[li] Heffernan M, Summers RJ, Thorburn A, Ogru E, Gianello R, Jiang WJ, Ng FM. The effects of human GH and its lipolytic fragment (AOD9604) on lipid metabolism following chronic treatment in obese mice and beta(3)-AR knock-out mice. Endocrinology. 2001 Dec;142(12):5182-9. doi: 10.1210/endo.142.12.8522. PMID: 11713213.
+[a https://doi.org/10.1210/endo.142.12.8522] doi: 10.1210/endo.142.12.8522
+[li] Ng FM, Sun J, Sharma L, Libinaka R, Jiang WJ, Gianello R. Metabolic studies of a synthetic lipolytic domain (AOD9604) of human growth hormone. Horm Res. 2000;53(6):274-8. doi: 10.1159/000053183. PMID: 11146367.
+[a https://doi.org/10.1159/000053183] doi: 10.1159/000053183
+[li] Ng FM, Jiang WJ, Gianello R, Pitt S, Roupas P. Molecular and cellular actions of a structural domain of human growth hormone (AOD9401) on lipid metabolism in Zucker fatty rats. J Mol Endocrinol. 2000 Dec;25(3):287-98. doi: 10.1677/jme.0.0250287. PMID: 11116208.
+[a https://doi.org/10.1677/jme.0.0250287] doi: 10.1677/jme.0.0250287
+[li] Heffernan MA, Thorburn AW, Fam B, Summers R, Conway-Campbell B, Waters MJ, Ng FM. Increase of fat oxidation and weight loss in obese mice caused by chronic treatment with human growth hormone or a modified C-terminal fragment. Int J Obes Relat Metab Disord. 2001 Oct;25(10):1442-9. doi: 10.1038/sj.ijo.0801740. PMID: 11673763.
+[a https://doi.org/10.1038/sj.ijo.0801740] doi: 10.1038/sj.ijo.0801740
+[li] Kwon DR, Park GY. Effect of Intra-articular Injection of AOD9604 with or without Hyaluronic Acid in Rabbit Osteoarthritis Model. Ann Clin Lab Sci. 2015 Summer;45(4):426-32. PMID: 26275694.
+[li] Habibullah MM, Mohan S, Syed NK, Makeen HA, Jamal QMS, Alothaid H, Bantun F, Alhazmi A, Hakamy A, Kaabi YA, Samlan G, Lohani M, Thangavel N, Al-Kasim MA. Human Growth Hormone Fragment 176-191 Peptide Enhances the Toxicity of Doxorubicin-Loaded Chitosan Nanoparticles Against MCF-7 Breast Cancer Cells. Drug Des Devel Ther. 2022 Jun 27;16:1963-1974. Doi: 10.2147/DDDT.S367586. PMID: 35783198; PMCID: PMC92493
+[a https://doi.org/10.2147/DDDT.S367586] Doi: 10.2147/DDDT.S367586
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

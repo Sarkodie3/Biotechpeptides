@@ -1,0 +1,139 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-GHRP-6-1.webp] 
+[img] CJC-1295 & GHRP-6 Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-GHRP-6-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_CJC-1295_noDAC_GHRP6_3141017_BP_page-0001.webp] 
+[img] CJC-1295 & GHRP-6 Blend (10mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_CJC-1295_noDAC_GHRP6_3141017_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_CJC-1295_noDAC_GHRP6_3141017_BP_page-0002.webp] 
+[img] CJC-1295 & GHRP-6 Blend (10mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_CJC-1295_noDAC_GHRP6_3141017_BP_page-0002.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_CJC-1295_noDAC_GHRP6_3141017_BP_page-0003.webp] 
+[img] CJC-1295 & GHRP-6 Blend (10mg) - Image 4 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_CJC-1295_noDAC_GHRP6_3141017_BP_page-0003.webp
+[h1] CJC-1295 & GHRP-6 Blend (10mg)
+[p] $86.00
+[p] CJC-1295 & GHRP-6 blend is Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_737 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $81.70
+[input name=wccs_tier_select_737 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $77.40
+[label] CJC-1295 & GHRP-6 Blend (10mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_CJC-1295_noDAC_GHRP6_3141017_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] CJC-1295 & GHRP-6 Peptide Blend
+[p] The CJC-1295 & GHRP-6 blend have been posited by researchers to display a synergistic action on cells that participate in the release of growth hormone. More specifically, the mix includes CJC-1295, which appears to be similar in action to growth hormone-releasing hormone (GHRH), and GHRP-6 (Growth Hormone Releasing Peptide 6), which appears to bind to the receptors of the hunger hormone ghrelin.This combination of peptides may possibly increase both the strength and the number of growth hormone signals from somatotroph cells. CJC-1295 appears to target the GHRH receptor pathway, while GHRP-6, is considered by researchers to act on the ghrelin receptor pathway. This may explain why the combination of CJC-1295 and GHRP-6 exhibits potential to interact with somatotroph cells in the pituitary gland and the hypothalamus. Both of these regions in the central nervous system are considered to be comprised of cells that are believed to be important in making and controlling growth hormone synthesis.
+[h3] CJC-1295 (Mod GRF 1-29) Specifications
+[p] Molecular Formula: C152H252N44O42
+[p] Molecular Weight: 3367.954 g/mol
+[p] Sequence: H-Tyr-D-Ala-Asp-Ala-Ile-Phe-Thr-Gln-Ser-Tyr-Arg-Lys-Val-Leu-Ala-Gln-Leu-Ser-Ala-Arg-Lys-Leu-Leu-Gln-Asp-Ile-Leu-Ser-Arg-Lys(Mal)-NH2
+[p] Note: DOES NOT CONTAIN DAC
+[h3] GHRP-6 Specifications
+[p] Molecular Formula: C46H56N12O6
+[p] Molecular Weight: 873.032 g/mol
+[p] Sequence: His-D-Trp-Ala-Trp-D-Phe-Lys
+[h3] CJC-1295 & GHRP-6 Blend Research
+[p] CJC-1295 (Mod GRF 1-29), or tetra-substituted GRF (1-29), is a synthetically developed peptide equivalent to the naturally occurring GHRH hormone. It includes the smallest possible chain of amino acids that might connect to the GHRH receptors, and comprises the initial 29 amino acids of GHRH. The primary structural differences between CJC-1295 and its naturally occurring GHRH equivalent lies in 4 substituted amino acids of GHRH’s original 29 amino acids, to possibly enhance the peptide's resistance to breakdown by the enzyme dipeptidyl peptidase-4. More specifically, the amino acids that have been altered and substituted are the 2nd, 8th, 15th, and 27th amino acids.[1] Further, the researchers commented, "CJC-1295 caused an increase in total pituitary RNA and GH mRNA, suggesting that proliferation of somatotroph cells had occurred, as confirmed by immunohistochemistry images." CJC-1295 appears to bind to and interact with the receptor of GHRH in the anterior pituitary gland.[2] It may potentially maintain the pulsatile production of growth hormone (GH), improving overall physiological levels.
+[a https://biotechpeptides.com/product/mod-grf-1-29-5mg-cjc-1295-no-dac/] CJC-1295 (Mod GRF 1-29)
+[p] GRHP-6, on the other hand, is an opioid analog of the peptide Met-enkephalin. Yet, researchers suggest it lacks the opioid activity generally associated with these enkephalins.[3] GHRP-6 is a synthetic hexapeptide that researchers have categorized as a hormone-releasing peptide. It has been suggested to exhibit action by possibly attaching to the ghrelin receptor found on pituitary cells and specific neurons in the hypothalamus. When it binds, GHRP-6 appears to activate what is known as the growth hormone secretagogue receptor (GHS-R1a). Thus, it has been studied concerning its interaction with the growth hormone secretagogue receptor. GHRP-6 appears to act by the molecular mimicry of the hormone ghrelin, potentially causing a stimulation of the growth hormone secretion. Since growth hormone receptors are present in many cells, the impact of GHRP-6 may be widespread.[4]
+[a https://biotechpeptides.com/product/ghrp-6-5mg/] GRHP-6
+[p] The attachment of CJC-1295 seems to initiate processes that result in the discharge of growth hormone (GH) from small sacs within somatotroph cells. Scientists suggest that this peptide may potentially enhance the growth hormone production by these cells, thereby resulting in elevation of “GH concentrations by 2- to 10-fold.”[5] Moreover, the increase in growth hormone appears to be sufficiently lasting to cause a increase in some of the main anabolic mediators of the hormone, such as the so-called insulin-like growth factor 1 (IGF-1). Another research paper comments that there may be a 46% increase in mean growth hormone levels and 45% increase in mean IGF-1 levels following the influence of CJC-1295 in animal research models.[6] Research studies on GRHP-6 have yielded findings that examine GRHP-6’s potential positive impact with the context of various malignant conditions. The GRHP-6 peptide has been primarily researched in conjunction with growth hormone deficiency disorders, Multiple Organ Failure (MOF), cachexia or wasting, obesity, and various eating disorders.[7] Moreover, GHRP-6 may also show a preference for CD36 receptors. These CD36 receptors may have various functions, such as possibly playing a part in metabolism, serving as a collector receptor for fats, aiding in absorption and altering immune reactions, and controlling the process of engulfing particles and inflammation. The pathways of CD36 may also potentially be involved in the management of blood vessel formation.[8] However, these hypotheses require further scientific exploration. Due to its apparent cytoprotective properties, GHRP-6 has been advocated in myocardial infarction research studies, as it may potentially reduce scarring in tissues affected by reperfusion injuries. GRHP-6 may have potential in inducing anti-aging functions within the cell cycle, in addition to possible sleep improvement and cognitive function. When studied in combination, these peptides appear to act synergistically to bring about changes by increasing the growth hormone levels. GHRP-6 appears to maintain a baseline growth hormone level, whereas CJC-1295 mainly appears to stimulate a pulsatile secretion of the growth hormone. However, both peptides have been hypothesized to positively induce improvements within sleep cycles. As most of growth and cellular repair occurs during sleep, the peptide blend has been hypothesized to aid in cellular regeneration and repair. It may possibly improve wound healing and nerve tissue protection via sleep quality enhancement.
+[p] CJC-1295 & GHRP-6 peptides have also been associated with nervous tissue protection and repair. One study explored the impact of GHRP-6 on the brain's IGF-1 system in murine models. The actions of GH are generally considered to be mediated through IGF-I, so the study centered primarily on the modulation of the brain's IGF system. Researchers reported that the introduction of GHRP-6 for one week appears to have led to an increase in IGF-I mRNA levels in the hypothalamus, cerebellum, and hippocampus, but not in the cerebral cortex. This may suggest that GH and GHRP-6 may enhance the expression of IGF-I in specific brain areas. The study also explored the expression of the IGF receptor and IGF-binding protein IGFBP-2, but its findings reported no considerable fluctuation in activity following peptide introduction. However, the phosphorylation of Akt and Bad appeared stimulated in areas where IGF-I was increased. The researchers noted that this finding implied that GH and GHRP-6 may activate phosphatidylinositol kinase intracellular pathways involved in cell survival in response to growth factors. Bad is a pro-apoptotic member of the Bcl-2 protein family, which is considered to play a central role in cell death. Akt is a serine/threonine-specific protein kinase that plays a key role in multiple cellular processes such as glucose metabolism, apoptosis, cell proliferation, transcription, and cell migration. No reported changes were observed in MAPK, a protein kinase-specific to the amino acids serine, threonine, and tyrosine, nor were changes reported in glycogen synthase kinase-3beta. Moreover, the antiapoptotic protein Bcl-2 was increased in the areas where IGF-I appeared increased, with no change in the proapoptotic protein Bax. This could potentially indicate a shift towards cell survival and away from apoptosis. IGFBP-5, also reported to be involved in neuron survival processes, was reported to be increased mainly in the hypothalamus, which might suggest a potential neuroendocrine role.[9]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Scarborough R, Gulyas J, Schally AV, Reeves JJ. Analogs of growth hormone-releasing hormone induce release of growth hormone in the bovine. J Anim Sci. 1988 Jun;66(6):1386-92. doi: 10.2527/jas1988.6661386x. PMID: 3135287.
+[a https://doi.org/10.2527/jas1988.6661386x] doi: 10.2527/jas1988.6661386x
+[li] Alba M, Fintini D, Sagazio A, Lawrence B, Castaigne JP, Frohman LA, Salvatori R. Once-daily administration of CJC-1295, a long-acting growth hormone-releasing hormone (GHRH) analog, normalizes growth in the GHRH knockout mouse. Am J Physiol Endocrinol Metab. 2006 Dec;291(6):E1290-4. doi: 10.1152/ajpendo.00201.2006. Epub 2006 Jul 5. PMID: 16822960.
+[a https://pubmed.ncbi.nlm.nih.gov/16822960/] doi: 10.1152/ajpendo.00201.2006
+[li] Rico M, Lorenzo MT, Pazo JA, Vega FV, De la Cruz LF. GHRP-6 in heifer and cow adenohypophisial cells separated by elutriation. J Physiol Biochem. 1999 Mar;55(1):33-9. PMID: 10494658.
+[li] Martínez R, Hernández L, Gil L, Carpio Y, Morales A, Herrera F, Rodríguez-Mallón A, Leal Y, Blanco A, Estrada MP. Growth hormone releasing peptide-6 enhanced antibody titers against subunit antigens in mice (BALB/c), tilapia (Oreochromis niloticus) and African catfish (Clarias gariepinus). Vaccine. 2017 Oct 9;35(42):5722-5728. doi: 10.1016/j.vaccine.2017.07.060. PMID: 28893476.
+[a https://pubmed.ncbi.nlm.nih.gov/28893476/] doi: 10.1016/j.vaccine.2017.07.060
+[li] Teichman, Sam L., et al. "Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults." The Journal of Clinical Endocrinology & Metabolism 91.3 (2006): 799-805.
+[li] Ionescu M, Frohman LA. Pulsatile secretion of growth hormone (GH) persists during continuous stimulation by CJC-1295, a long-acting GH-releasing hormone analog. J Clin Endocrinol Metab. 2006 Dec;91(12):4792-7. doi: 10.1210/jc.2006-1702. Epub 2006 Oct 3. PMID: 17018654.
+[a https://doi.org/10.1210/jc.2006-1702] doi: 10.1210/jc.2006-1702
+[li] Fujitsuka N, Asakawa A, Uezono Y, Minami K, Yamaguchi T, Niijima A, Yada T, Maejima Y, Sedbazar U, Sakai T, Hattori T, Kase Y, Inui A. Potentiation of ghrelin signaling attenuates cancer anorexia-cachexia and prolongs survival. Transl Psychiatry. 2011 Jul 26;1(7):e23. doi: 10.1038/tp.2011.25. PMID: 22832525; PMCID: PMC3309517.
+[a https://pubmed.ncbi.nlm.nih.gov/22832525/] doi: 10.1038/tp.2011.25
+[li] Demers A, McNicoll N, Febbraio M, Servant M, Marleau S, Silverstein R, Ong H. Identification of the growth hormone-releasing peptide binding site in CD36: a photoaffinity cross-linking study. Biochem J. 2004 Sep 1;382(Pt 2):417-24. doi: 10.1042/BJ20040036. PMID: 15176951; PMCID: PMC1133797.
+[a https://doi.org/10.1042/BJ20040036] doi: 10.1042/BJ20040036
+[li] Frago LM, Pañeda C, Dickson SL, Hewson AK, Argente J, Chowen JA. Growth hormone (GH) and GH-releasing peptide-6 increase brain insulin-like growth factor-I expression and activate intracellular signaling pathways involved in neuroprotection. Endocrinology. 2002 Oct;143(10):4113-22. doi: 10.1210/en.2002-220261. PMID: 12239123.
+[a https://pubmed.ncbi.nlm.nih.gov/12239123/] doi: 10.1210/en.2002-220261
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] GHRP-6 (10mg) $39.00
+[a https://biotechpeptides.com/product/ghrp-6-10mg/] GHRP-6 (10mg) $39.00
+[img] GHRP-6 :: https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-6-1-238x317.webp
+[h2] GHRP-6 (10mg)
+[li] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) $46.00
+[a https://biotechpeptides.com/product/mod-grf-1-29-5mg-cjc-1295-no-dac/] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) $46.00
+[img] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Mod-GRF-1-29-238x317.webp
+[h2] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg)
+[li] GHRP-6 (5mg) $21.00
+[a https://biotechpeptides.com/product/ghrp-6-5mg/] GHRP-6 (5mg) $21.00
+[img] GHRP-6 :: https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-6-1-238x317.webp
+[h2] GHRP-6 (5mg)
+[li] Mod GRF 1-29 & GHRP-6 (10mg) $86.00
+[a https://biotechpeptides.com/product/mod-grf-1-29-ghrp-6-10mg/] Mod GRF 1-29 & GHRP-6 (10mg) $86.00
+[img] Mod GRF 1-29 & GHRP-6 (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Mod-GRF-GHRP-6--238x317.webp
+[h2] Mod GRF 1-29 & GHRP-6 (10mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

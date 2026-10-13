@@ -1,0 +1,143 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/Mod-GRF-GHRP-6-.webp] 
+[img] Mod GRF 1-29 & GHRP-6 (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Mod-GRF-GHRP-6--460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Mod-GRF-1-29-GHRP-6-10mg-COA-scaled.webp] 
+[img] Mod GRF 1-29 & GHRP-6 (10mg) COA :: https://biotechpeptides.com/wp-content/uploads/2026/04/Mod-GRF-1-29-GHRP-6-10mg-COA-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Mod-GRF-1-29-GHRP-6-10mg-LC-scaled.webp] 
+[img] Mod GRF 1-29 & GHRP-6 (10mg) LC :: https://biotechpeptides.com/wp-content/uploads/2026/04/Mod-GRF-1-29-GHRP-6-10mg-LC-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Mod-GRF-1-29-GHRP-6-10mg-MS-scaled.webp] 
+[img] Mod GRF 1-29 & GHRP-6 (10mg) MS :: https://biotechpeptides.com/wp-content/uploads/2026/04/Mod-GRF-1-29-GHRP-6-10mg-MS-scaled.webp
+[h1] Mod GRF 1-29 & GHRP-6 (10mg)
+[p] $86.00
+[p] Mod GRF 1-29 & GHRP-6 blend is Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_3464 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $81.70
+[input name=wccs_tier_select_3464 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $77.40
+[label] Mod GRF 1-29 & GHRP-6 (10mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2026/06/Mod-GRF-1-29-GHRP-6-10mg-.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Mod GRF (1-29) & GHRP-6 Peptide Blend
+[p] Modified Growth Hormone Releasing Factor (Mod GRF 1-29) and Growth Hormone Releasing Peptide-6 (GHRP-6) are two peptides that researchers believe may support the secretion of growth hormone (GH) from cells in the anterior pituitary gland. The peptides may offer this support through distinct biological pathways. Mod GRF (1-29) is a synthetic peptide derived from Growth Hormone Releasing Hormone (GHRH), an endogenous hormone consisting of 44 amino acids that stimulates GH release. Some studies have indicated that the initial 29 amino acids of GHRH retain their full biological activity.[1] Modifications to this fragment, resulting in Mod GRF (1-29), are believed to increase its potency and prolong its duration of action, possibly due to better-supported stability against enzymatic degradation. In contrast, GHRP-6 is a synthetic hexapeptide structurally related to met-enkephalins. Met-enkephalins are endogenous peptides involved in interacting with opioid receptors.[2] GHRP-6 does not interact with opioid receptors. Rather, GHRP-6 is thought to stimulate GH release by activating ghrelin receptors in the pituitary cells. These receptors are also referred to as growth hormone secretagogue receptors, and thus, GHRP-6 is defined as a growth hormone secretagogue (GHS) peptide. These hypothetical actions of GHRP-6 suggest a mechanism different from that of GHRH analogs like Mod GRF (1-29). Because Mod GRF (1-29) and GHRP-6 are believed to operate through separate receptors and signaling pathways, there is a possibility that their combined implications as a blend might produce synergistic action on GH secretion in experimental settings.
+[a https://biotechpeptides.com/product/mod-grf-1-29-2mg-cjc-1295-no-dac/] Modified Growth Hormone Releasing Factor (Mod GRF 1-29)
+[a https://biotechpeptides.com/product/ghrp-6-5mg/] Growth Hormone Releasing Peptide-6 (GHRP-6)
+[h3] Modified GRF (1-29) Specifications
+[p] MOLECULAR FORMULA: C152H252N44O42
+[p] MOLECULAR WEIGHT: 3367.95 g/mol
+[p] SEQUENCE: H-Tyr-D-Ala-Asp-Ala-Ile-Phe-Thr-Gln-Ser-Tyr-Arg-Lys-Val-Leu-Ala-Gln-Leu-Ser-Ala-Arg-Lys-Leu-Leu-Gln-Asp-Ile-Leu-Ser-Arg-NH2
+[h3] GHRP-6 Specifications
+[p] MOLECULAR FORMULA: C46H56N12O6
+[p] MOLECULAR WEIGHT: 873.032 g/mol
+[p] SEQUENCE: L-histidyl-D-tryptophyl-L-alanyl-L-tryptophyl-D-phenylalanyl-L-lysergamide, triacetate
+[h3] Mod GRF (1-29) & GHRP-6 Research
+[p] Mod GRF (1-29) & GHRP-6 Peptides and Pituitary Cell Receptors Researchers have proposed that Mod GRF (1-29) and GHRP-6 may contribute to the elevation of various growth hormones and, consequently, insulin-like growth factor-1 (IGF-1) levels. This is thought to occur through the potential activation of specific receptors associated with these hormones. Mod GRF (1-29) is thought to interact with growth hormone-releasing hormone receptors. These receptors are located on somatotroph cells in the anterior pituitary gland, which is a region at the base of the brain. Upon binding to the receptors, scientists believe that Mod GRF (1-29) may trigger a cascade of intracellular signaling pathways that facilitate this process.[3] One such signaling pathway that Mod GRF (1-29) is believed to activate involves adenylyl cyclase. Adenylyl cyclase is an enzyme that converts adenosine triphosphate (ATP) into cyclic adenosine monophosphate (cAMP). The increase in cAMP levels is suggested to activate protein kinase A (PKA), an enzyme that phosphorylates various proteins within the cell. Phosphorylation by PKA may modify proteins such as voltage-dependent calcium channels located on the cell membrane. This may potentially contribute to their opening and stimulating secretory vesicles within the pituitary cells to secrete growth hormones. Experiments with Mod GRF (1-29) suggest that the peptide may upregulate growth hormone release by pituitary cells by 70% to 107% over 12 hours. As a consequence, it is thought that the elevated growth hormone synthesis may also stimulate the production of a major anabolic mediator called insulin-like growth factor 1, which was suggested to be elevated by 28%.[4] Conversely, GHRP-6 is proposed to bind to and possibly activate the ghrelin receptor, specifically the Growth Hormone Secretagogue Receptor type 1a (GHS-R1a).[5] Upon binding, GHRP-6 may induce a conformational change in GHS-R1a, potentially activating the phospholipase C (PLC) pathway, which may lead to the production of inositol 1,4,5-trisphosphate (IP3) and diacylglycerol (DAG), two secondary messengers involved in cellular signaling. IP3 is thought to facilitate the release of calcium ions from intracellular stores such as the endoplasmic reticulum and, thus, potentially triggering the release of growth hormone from the cells in the anterior pituitary gland. Additional research suggests that upon introducing GHRP-6 to these cells, they may produce almost 3 times the growth hormone release compared to placebo controls.[6]
+[p] Mod GRF (1-29) & GHRP-6 Peptides and Brain Cells Researchers have suggested that Mod GRF (1-29) and GHRP-6 exhibit potential within the context of neurodegenerative conditions. Studies in rodents reported that exposure to GHRP-6 appeared to help support and solidify memory recall and learning behaviors when compared to the rates of recall and learning in control groups. Research also suggests that growth hormone analogs, such as GHRP-6, may assist spatial learning.[7] GHRP-6 has been associated with research in acute stroke, as it may contribute to some better-supported aspects of cognitive function and behavioral regulation. Research suggests that GHRP-6 and other growth-stimulating agents may induce greater blood supply to the brain, possibly inhibiting the development of new strokes and supporting recovery following established strokes by reducing infarct size and promoting new tissue development. Furthermore, studies suggest that GHRP-6 may induce endogenous neuroprotective factors, such as insulin-like growth factor-1 (IGF-1), which is familiar to researchers for its cytoprotective properties. Some findings indicate that GHRP-6 may contribute to a reduction in cell death volume, specifically in certain brain cell populations. This is thought to include populations such as the caudate–putamen nuclei. Observations like these may suggest the presence of region-specific neuroprotective actions of GHRP-6 in ischemia models. Moreover, GHRP-6 has been reported to mitigate glutamate-induced cell death in brain regions like the hypothalamus and cerebellum, implying a potential role in mitigating excitotoxic neuronal damage. The peptide's influence on the growth hormone–IGF-1 axis may contribute to its neuroprotective actions, as GHRP-6 induces local IGF-1 expression in various brain areas, including the hypothalamus, cerebellum, and hippocampus. It is not clear to researchers at this time if the addition of Mod GRF (1-29) as a blend may support GHRP-6’s potential.
+[p] Mod GRF (1-29) & GHRP-6 Peptides and Inflammation In addition to its main mechanisms of activating the ghrelin receptors in various cells, GHRP-6 has been suggested by researchers to interact with CD36 receptors associated with a variety of consequences.[8] The researchers report that “In covalent competition binding studies with the GHRP-6 prototype hexarelin bearing a radiotracer, certain [aza-Glu]GHRP-6 azapeptides retained relatively high (2-27 μM) affinity for the CD36 scavenger receptor.” Some of the potential actions of GHRH-6 related to its interaction with CD36 receptors may include lipid metabolism interaction, angiogenesis, and immune cell regulations. For example, activation of the CD36 receptor may play a crucial role in the endocytosis of oxidized low-density lipoprotein (ox-LDL) by macrophages.[9] Macrophages, which are immune cells responsible for engulfing pathogens and cellular debris, might internalize oxLDL particles through CD36. This uptake may lead to lipid accumulation within macrophages, transforming them into foam cells that are implicated in atherosclerosis models. Researchers believe that CD36 may impact angiogenesis, possibly through its interaction with thrombospondin-1 in endothelial cells. Competition binding assays, which assess whether different molecules compete for the same binding site on a receptor, have suggested that GHRP-6 and oxLDL might share a common binding site on CD36. The peptide may compete with oxLDL for attachment to CD36. By potentially decreasing oxLDL internalization, GHRP-6 may reduce foam cell formation. Additional experiments involving dissociation studies, which examine how molecules detach from receptors, indicated that GHRP-6 does not appear to affect oxLDL binding to CD36 in an allosteric manner. In addition to this research, GHRP-6 suggests that it may potentially reduce free radical-mediated cytotoxicity of cardiac cells in experimental models. The scientists observed that when measuring the levels of oxidative stress markers, the results ”suggested that GHRP6 [mitigated] myocardial injury via a decrease in reactive oxygen species and by the preservation of antioxidant defense systems.”[9] Whether the addition of Mod GRF (1-29) to the peptide supports its protective potential in atherosclerosis models remains unclear.
+[p] Mod GRF (1-29) & GHRP-6 Peptides and Muscle Cell Growth Peptides such as Mod GRF (1-29) & GHRP-6 have been studied for their potential to increase muscular tissue mass via different mechanisms. One of the main mechanisms posited to play a role in this potential is their IGF-1-increasing properties. IGF-1 appears to increase in relation to the elevated growth hormone synthesis. For example, studies suggest that Mod GRF (1-29) may elevate IGF-1 levels by 28% and consequently upregulate lean mass by 2.78 lbs. Moreover, the Mod GRF (1-29) and GHRP-6 blend may have synergistic anabolic actions based on previous research on GHRH-analogs and GHSs like GHRP-6. For example, one experiment reportedly observed a 20-fold increase in pulsatile growth hormone release by anterior pituitary cells when using a GHRH analog similar to Mod GRF (1-29). Simultaneously, a GHS like GHRP-6 was found to cause a 47-fold rise in pulsatile growth hormone levels by anterior pituitary cells. Interestingly, when the GHRH analog and the GHS were combined, the mixture might have resulted in a 54-fold increase in pulsatile growth hormone release compared to baseline, potentially suggesting a synergistic action.[10]
+[p] Mod GRF (1-29) & GHRP-6 Peptides and Bone Mod GRF (1-29) and GHRP-6 peptides appear to mediate action on bone mass via IGF-1.[11] Researchers suggest IGF-1 to promote the growth, differentiation, and survival of bone-forming cells. IGF-1 appears to support the mineralization of bones and increase bone mineral density. In addition, it may also mitigate the excessive hormone-induced loss of bones. This way, GH/IGF-1 interplay may support bone quality.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Youn YS, Lee KC. Site-specific PEGylation for high-yield preparation of Lys(21)-amine PEGylated growth hormone-releasing factor (GRF) (1-29) using a GRF(1-29) derivative FMOC-protected at Tyr(1) and Lys(12). Bioconjug Chem. 2007 Mar-Apr;18(2):500-6. doi: 10.1021/bc060173z. Epub 2007 Jan 23. PMID: 17243755.
+[a https://doi.org/10.1021/bc060173z] doi: 10.1021/bc060173z
+[li] Lei T, Buchfelder M, Fahlbusch R, Adams EF. Growth hormone-releasing peptide (GHRP-6) stimulates phosphatidylinositol (PI) turnover in human pituitary somatotroph cells. J Mol Endocrinol. 1995 Feb;14(1):135-8. doi: 10.1677/jme.0.0140135. PMID: 7772238.
+[a https://doi.org/10.1677/jme.0.0140135] doi: 10.1677/jme.0.0140135
+[li] Sinha, D. K., Balasubramanian, A., Tatem, A. J., Rivera-Mirabal, J., Yu, J., Kovac, J., Pastuszak, A. W., & Lipshultz, L. I. (2020). Beyond the androgen receptor: the role of growth hormone secretagogues in the modern management of body composition in hypogonadal males. Translational andrology and urology, 9(Suppl 2), S149–S159. https://doi.org/10.21037/tau.2019.11.30
+[a https://doi.org/10.21037/tau.2019.11.30] https://doi.org/10.21037/tau.2019.11.30
+[li] Khorram, O., Laughlin, G. A., & Yen, S. S. (1997). Endocrine and metabolic effects of long-term administration of [Nle27]growth hormone-releasing hormone-(1-29)-NH2 in age-advanced men and women. The Journal of clinical endocrinology and metabolism, 82(5), 1472–1479. https://doi.org/10.1210/jcem.82.5.3943
+[a https://doi.org/10.1210/jcem.82.5.3943] https://doi.org/10.1210/jcem.82.5.3943
+[li] Abizaid, A., & Hougland, J. L. (2020). Ghrelin Signaling: GOAT and GHS-R1a Take a LEAP in Complexity. Trends in endocrinology and metabolism: TEM, 31(2), 107–117. https://doi.org/10.1016/j.tem.2019.09.006
+[a https://doi.org/10.1016/j.tem.2019.09.006] https://doi.org/10.1016/j.tem.2019.09.006
+[li] Frieboes RM, Murck H, Maier P, Schier T, Holsboer F, Steiger A. Growth hormone-releasing peptide-6 stimulates sleep, growth hormone, ACTH, and cortisol release in normal man. Neuroendocrinology. 1995 May;61(5):584-9. doi: 10.1159/000126883. PMID: 7617137.
+[li] Subirós N, Pérez-Saad HM, Berlanga JA, Aldana L, García-Illera G, Gibson CL, García-Del-Barco D. Assessment of the dose-effect and therapeutic time window in preclinical studies of rhEGF and GHRP-6 coadministration for stroke therapy. Neurol Res. 2016 Mar;38(3):187-95. doi: 10.1179/1743132815Y.0000000089. Epub 2016 Apr 19. PMID: 26311576.
+[a https://doi.org/10.1179/1743132815Y.0000000089] doi: 10.1179/1743132815Y.0000000089
+[li] Sabatino D, Proulx C, Pohankova P, Ong H, Lubell WD. Structure-activity relationships of GHRP-6 azapeptide ligands of the CD36 scavenger receptor by solid-phase submonomer azapeptide synthesis. J Am Chem Soc. 2011 Aug 17;133(32):12493-506. doi: 10.1021/ja203007u. Epub 2011 Jul 21. PMID: 21692501.
+[a https://doi.org/10.1021/ja203007u] doi: 10.1021/ja203007u
+[li] Demers A, McNicoll N, Febbraio M, Servant M, Marleau S, Silverstein R, Ong H. Identification of the growth hormone-releasing peptide binding site in CD36: a photoaffinity cross-linking study. Biochem J. 2004 Sep 1;382(Pt 2):417-24. doi: 10.1042/BJ20040036. PMID: 15176951; PMCID: PMC1133797.
+[li] Veldhuis, J. D., & Keenan, D. M. (2008). Secretagogues govern GH secretory-burst waveform and mass in healthy eugonadal and short-term hypogonadal men. European journal of endocrinology, 159(5), 547–554. https://doi.org/10.1530/EJE-08-0414
+[a https://doi.org/10.1530/EJE-08-0414] https://doi.org/10.1530/EJE-08-0414
+[li] Svensson J, Lall S, Dickson SL, Bengtsson BA, Rømer J, Ahnfelt-Rønne I, Ohlsson C, Jansson JO. The GH secretagogues ipamorelin and GH-releasing peptide-6 increase bone mineral content in adult female rats. J Endocrinol. 2000 Jun;165(3):569-77. doi: 10.1677/joe.0.1650569. PMID: 10828840.
+[a https://doi.org/10.1677/joe.0.1650569] doi: 10.1677/joe.0.1650569
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] GHRP-6 (5mg) $21.00
+[a https://biotechpeptides.com/product/ghrp-6-5mg/] GHRP-6 (5mg) $21.00
+[img] GHRP-6 :: https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-6-1-238x317.webp
+[h2] GHRP-6 (5mg)
+[li] GHRP-6 (10mg) $39.00
+[a https://biotechpeptides.com/product/ghrp-6-10mg/] GHRP-6 (10mg) $39.00
+[img] GHRP-6 :: https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-6-1-238x317.webp
+[h2] GHRP-6 (10mg)
+[li] CJC-1295 & GHRP-6 Blend (10mg) $86.00
+[a https://biotechpeptides.com/product/cjc-1295-ghrp-6-10mg-blend-2/] CJC-1295 & GHRP-6 Blend (10mg) $86.00
+[img] CJC-1295 & GHRP-6 Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-GHRP-6-1-238x317.webp
+[h2] CJC-1295 & GHRP-6 Blend (10mg)
+[li] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) $46.00
+[a https://biotechpeptides.com/product/mod-grf-1-29-5mg-cjc-1295-no-dac/] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) $46.00
+[img] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Mod-GRF-1-29-238x317.webp
+[h2] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

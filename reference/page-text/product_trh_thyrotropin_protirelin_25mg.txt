@@ -1,0 +1,138 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/Thyrotropin-TRH-1.webp] 
+[img] TRH Thyrotropin (Protirelin) (25mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Thyrotropin-TRH-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Thyrotropin_3141088_BP_page-0001.webp] 
+[img] TRH Thyrotropin (Protirelin) (25mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Thyrotropin_3141088_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Thyrotropin_3141088_BP_page-0002.webp] 
+[img] TRH Thyrotropin (Protirelin) (25mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Thyrotropin_3141088_BP_page-0002.webp
+[h1] TRH Thyrotropin (Protirelin) (25mg)
+[p] $93.00
+[p] TRH Thyrotropin (Protirelin) peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_3466 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $88.35
+[input name=wccs_tier_select_3466 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $83.70
+[label] TRH Thyrotropin (Protirelin) (25mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Thyrotropin_3141088_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] TRH Thyrotropin (Protirelin) Peptide
+[p] Thyrotropin Releasing Hormone (TRH), often called Protirelin, is a small peptide hormone made of 3 amino acids and synthesized in the hypothalamus. The hormone is thought to function via binding to the thyrotropin-releasing hormone receptors TRH-1 and TRH-2. It was developed by researchers with the intention to stimulate the release of both thyroid-stimulating hormone (TSH) and prolactin from the anterior pituitary. TSH, in turn, acts directly on the thyroid gland to promote the synthesis and release of thyroid hormones, primarily triiodothyronine (T3) and thyroxine (T4). TRH has been employed in the study of anterior pituitary gland function in models of thyroid disorders. TRH may exhibit potential roles in TREK-1 channel, in the regulation of cellular aging, arousal, feeding behaviors, autonomic regulation, and mitigating free radical damage.
+[h3] Specifications
+[p] Synonyms: Protirelin, Thyroliberin, Lopremone, Relefact
+[p] Molecular Formula: C16H22N6O4
+[p] Molecular Weight: 362.39 g/mol
+[p] Sequence: Pyr-His-Pro
+[h3] TRH Thyrotropin (Protirelin) Research
+[p] TRH Thyrotropin (Protirelin) and Depression Models The thyrotropin-releasing hormone has been referenced in numerous depression-related studies. In an early study, researchers introduced TRH Thyrotropin (Protirelin) directly into the spines of animal models. The peptide reported a 50% or more reduction in depressive symptoms compared to controls.[1] The scientists report that “Administration of protirelin… induced a rapid improvement … supporting the hypothesis that thyrotropin-releasing hormone could be a positive modulator of mood.”[2] Researchers sought to explore other methods of introducing TRH Thyrotropin (Protirelin). They speculated that the peptide may not be able to cross the blood-brain barrier (BBB), which helped to narrow their research focus. They found throughout their studies that exposure during nocturnal sleep appeared to fit better with the natural circadian cycling of TRH. In the study, the percentage of those models given TRH exhibited a 50% or greater reduction in symptoms of mood disorders, which is in keeping with related study findings.[3]
+[p] TRH Thyrotropin (Protirelin) and Motor Memory Motor memory, also called muscle memory, is a form of procedural memory that develops through repeatedly performing a specific motor task. Research in mice without the gene for TRH Thyrotropin (Protirelin) seemed to be slower in learning specific motor tasks, but that learning speed might be increased, researchers speculated, under TRH influence. These findings lent support to an existing research hypothesis that TRH Thyrotropin (Protirelin) may be active in the cerebellum and may play a role in facilitating motor learning. Knockout mice exposed to TRH were observed to learn faster after four trials than unexposed mice.[4] This study suggests the peptide’s potential to improve rates of motor learning. Endogenous TRH and TRH analogs have been suggested to decrease ataxia in cerebellar degenerative disease models. They have been speculated to do so via their potential influence on motor learning.
+[p] TRH Thyrotropin (Protirelin) and Opioids Research studies into the impacts of opioid exposure examined the actions of THR Thyrotropin peptide, and researchers suggested it may increase breathing rates in a concentration-dependent manner, possibly without influencing pain control.[5] In a study of induced overdose, the peptide appeared to have prevented death in all experimental animal models. This finding was reported alongside a secondary group given Narcan and a control group. The two substances (TRH and Narcan) are speculated to have different mechanisms of action, extending their potential to act synergistically.
+[p] TRH Thyrotropin (Protirelin) and Hypovolemic Shock Taltirelin, speculated to be a more metabolically stable version of TRH, with a longer half-life, has been tested in the context of acute hemorrhagic shock in rat research models. Preliminary results suggest that Taltirelin might have improved the mean arterial blood pressure and respiratory rate, similar to existing compounds for acute blood loss. In the study, Taltirelin appeared to improve blood pH and may have prevented a decrease in arterial oxygen saturation, making it a potential candidate in research studies related to blood loss and hypovolemic shock.[6]
+[p] TRH Thyrotropin (Protirelin) and Disease Development Changes in TRH levels have been associated with thyroid disease. Researchers have observed that changes in TRH and other thyroid hormones appear to occur in various non-thyroid cases. Research in rats has suggested that specific neurons in the brain may be responsible for this phenomenon, with researchers positing that they may lose the ability to produce TRH Thyrotropin (Protirelin) and respond to feedback mechanisms.[7] There is curiosity within the scientific community as to whether TRH supplementation may reduce the severity of non-thyroidal illness in some instances, but research in this area is fledgling.
+[p] TRH Thyrotropin (Protirelin) and Cellular Aging Research in mice has suggested that TRH may potentially exert protective characteristics in certain organs against oxidative damage and cellular aging. TRH Thyrotropin (Protirelin) appears to reduce the building up of amyloid plaque in the kidneys, a common projected cause of reduced kidney function. Similar impacts were observed throughout research in the testes of aging male mice. Amyloid plaques are often associated with Alzheimer’s disease (AD), and researchers have been interested in the potential of TRH to mitigate amyloid buildup in the brain the same way that it has been hypothesized to do in the kidneys. Preliminary studies in mice have yielded unclear results.[8] The scientists reported, "This study suggests that [high-concentration] TRH … is neurobehaviorally active.” Research suggests that TRH levels drop in the hippocampus of models of Alzheimer’s disease, suggesting supplementation might serve a supportive purpose provided TRH has no impact on amyloid buildup in the brain.
+[p] TRH Thyrotropin (Protirelin) and Excitatory Neurotransmitters A study explored the potential neuroprotective actions of TRH Thyrotropin in inhibiting excitatory amino acid release in the central nervous system, specifically in the context of hippocampal functioning.[9] This research posits that TRH Thyrotropin might modulate excessive neurotransmitter release, which is implicated in various neurodegenerative models. Utilizing superfused rat hippocampal slices, the study hypothesized that TRH Thyrotropin might inhibit the release of glutamate and aspartate induced by potassium depolarization. The slices were exposed to varying concentrations of TRH Thyrotropin before and during depolarization. The results indicated that TRH Thyrotropin does not affect basal neurotransmitter release but may significantly inhibit the evoked release of glutamate and aspartate. This suggests that TRH Thyrotropin may exert a modulatory action, possibly by interacting with synaptic mechanisms involving calcium dynamics, as the inhibition appeared to be calcium-dependent. The inhibitory action of TRH Thyrotropin on glutamate and aspartate release was observed to be potent and prolonged, indicating a potential enduring action in modulating neurotransmitter release. This action might be linked to the interaction of TRH Thyrotropin with high-affinity receptors, TRH-R1 and TRH-R2, which are part of the G-protein coupled receptor family and are believed to influence cellular events via second messengers like diacylglycerol and inositol trisphosphate. Furthermore, the study highlights that TRH Thyrotropin's actions are likely confined to the hippocampal region, potentially at principal cells such as granular and pyramidal neurons. These neurons are suggested to co-express TRH Thyrotropin and its receptors, alongside glutamate, hinting at a sophisticated modulatory role of TRH Thyrotropin at these sites. This might involve the regulation of calcium homeostasis or the modulation of other neuropeptides that may affect neurotransmission. Interestingly, the results also speculate on a possible novel heterologous mechanism of TRH Thyrotropin action that might involve pre- and postsynaptic pathways. This aspect, however, remains to be fully elucidated and calls for further studies to clarify the underlying mechanisms by which TRH Thyrotropin may influence neurotransmitter systems.
+[p] TRH Thyrotropin (Protirelin) and Blood Pressure Regulation Research in murine models suggests that TRH Thyrotropin introduced into the preoptic suprachiasmatic nucleus (POS) and the medial preoptic nucleus (POM), may have led to an observed increase in blood pressure by approximately 7% and heart rate by about 19%.[10] This response appeared more pronounced in these regions compared to other tested hypothalamic areas, hinting at a possibly localized action of Thyrotropin. Interestingly, varied responses to Thyrotropin were recorded across different hypothalamic nuclei. For instance, in the posterior hypothalamic nucleus (NHP), Thyrotropin not only increased heart rate but also blood pressure, whereas increases in heart rate alone were observed in the anterior (NHA) and dorsomedial (NDM) hypothalamic nuclei. These observations suggest a complex interplay of neural mechanisms underlying the cardiovascular actions of Thyrotropin. Preliminary mechanistic investigations indicate that the cardiovascular actions of Thyrotropin may possibly involve multiple components of the autonomic nervous system. In the POS, it is posited that the inhibition of parasympathetic nerves might partly contribute to the observed increases in heart rate. Conversely, the cardiovascular response in the NHP might be mediated by the release of adrenal catecholamines, suggesting an involvement of adrenal hormones. Furthermore, the study suggests that in the NHA region, activation of cardiac sympathetic nerves could be a potential pathway through which Thyrotropin exerts action, as indicated by the persistence of Thyrotropin-induced responses despite pre-exposure with methylatropine (a parasympathetic blocker) or adrenalectomy. This finding implies that Thyrotropin's actions might bypass traditional pathways involving adrenal hormones or parasympathetic modulation. It is also noteworthy that Thyrotropin's action did not appear uniform across all tested sites; a decrease in both blood pressure and heart rate was observed within a specific region of the POM (A7050–7400). This variability further underscores the potential specificity of Thyrotropin within the hypothalamic nuclei, possibly reflecting differing receptor distributions or local neuronal circuitry that modulates cardiovascular function.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Marangell LB, George MS, Callahan AM, Ketter TA, Pazzaglia PJ, L’Herrou TA, Leverich GS, Post RM. Effects of intrathecal thyrotropin-releasing hormone (protirelin) in refractory depressed patients. Arch Gen Psychiatry. 1997 Mar;54(3):214-22. doi: 10.1001/archpsyc.1997.01830150034007. PMID: 9075462.
+[a https://doi.org/10.1001/archpsyc.1997.01830150034007] doi: 10.1001/archpsyc.1997.01830150034007
+[li] Bunevicius R, Matulevicius V. Short-lasting behavioural effects of thyrotropin-releasing hormone in depressed women: results of placebo-controlled study. Psychoneuroendocrinology. 1993;18(5-6):445-9. doi: 10.1016/0306-4530(93)90019-h. PMID: 8416053.
+[a https://doi.org/10.1016/0306-4530(93)90019-h] doi: 10.1016/0306-4530(93)90019-h
+[li] Callahan AM, Frye MA, Marangell LB, George MS, Ketter TA, L’Herrou T, Post RM. Comparative antidepressant effects of intravenous and intrathecal thyrotropin-releasing hormone: confounding effects of tolerance and implications for therapeutics. Biol Psychiatry. 1997 Feb 1;41(3):264-72. doi: 10.1016/s0006-3223(97)00372-7. PMID: 9024949.
+[a https://doi.org/10.1016/s0006-3223(97)00372-7] doi: 10.1016/s0006-3223(97)00372-7
+[li] Watanave M, Matsuzaki Y, Nakajima Y, Ozawa A, Yamada M, Hirai H. Contribution of Thyrotropin-Releasing Hormone to Cerebellar Long-Term Depression and Motor Learning. Front Cell Neurosci. 2018 Dec 12;12:490. doi: 10.3389/fncel.2018.00490. PMID: 30618637; PMCID: PMC6299015.
+[a https://doi.org/10.3389/fncel.2018.00490] doi: 10.3389/fncel.2018.00490
+[li] Boghosian JD, Luethy A, Cotten JF. Intravenous and Intratracheal Thyrotropin Releasing Hormone and Its Analog Taltirelin Reverse Opioid-Induced Respiratory Depression in Isoflurane Anesthetized Rats. J Pharmacol Exp Ther. 2018 Jul;366(1):105-112. doi: 10.1124/jpet.118.248377. Epub 2018 Apr 19. PMID: 29674333; PMCID: PMC5987997.
+[a https://doi.org/10.1124/jpet.118.248377] doi: 10.1124/jpet.118.248377
+[li] Asai H, Watanabe Y, Yamauchi-Kohno R, Doi O. Reversal of hemorrhagic shock in rats using the metabolically stable thyrotropin-releasing hormone analog taltirelin hydrate. J Recept Signal Transduct Res. 2011 Dec;31(6):416-22. doi: 10.3109/10799893.2011.625427. Epub 2011 Nov 1. PMID: 22044177.
+[a https://doi.org/10.3109/10799893.2011.625427] doi: 10.3109/10799893.2011.625427
+[li] Fliers E, Guldenaar SE, Wiersinga WM, Swaab DF. Decreased hypothalamic thyrotropin-releasing hormone gene expression in patients with nonthyroidal illness. J Clin Endocrinol Metab. 1997 Dec;82(12):4032-6. doi: 10.1210/jcem.82.12.4404. PMID: 9398708.
+[a https://doi.org/10.1210/jcem.82.12.4404] doi: 10.1210/jcem.82.12.4404
+[li] Mellow AM, Sunderland T, Cohen RM, Lawlor BA, Hill JL, Newhouse PA, Cohen MR, Murphy DL. Acute effects of high-dose thyrotropin releasing hormone infusions in Alzheimer’s disease. Psychopharmacology (Berl). 1989;98(3):403-7. doi: 10.1007/BF00451695. PMID: 2501817.
+[a https://doi.org/10.1007/BF00451695] doi: 10.1007/BF00451695
+[li] Nie Y, Schoepp DD, Klaunig JE, Yard M, Lahiri DK, Kubek MJ. Thyrotropin-releasing hormone (protirelin) inhibits potassium-stimulated glutamate and aspartate release from hippocampal slices in vitro. Brain Res. 2005 Aug 23;1054(1):45-54. doi: 10.1016/j.brainres.2005.06.077. PMID: 16055093.
+[a https://doi.org/10.1016/j.brainres.2005.06.077] doi: 10.1016/j.brainres.2005.06.077
+[li] Diz, D. I., & Jacobowitz, D. M. (1984). Cardiovascular effects produced by injections of thyrotropin-releasing hormone in specific preoptic and hypothalamic nuclei in the rat. Peptides, 5(4), 801-808
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] DSIP (5mg) $44.00
+[a https://biotechpeptides.com/product/dsip-5mg/] DSIP (5mg) $44.00
+[img] DSIP (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/DSIP-1-238x317.webp
+[h2] DSIP (5mg)
+[li] VIP (6mg) $71.00
+[a https://biotechpeptides.com/product/vip-6mg/] VIP (6mg) $71.00
+[img] VIP (6mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/VIP-1-238x317.webp
+[h2] VIP (6mg)
+[li] Humanin (10mg) $140.00
+[a https://biotechpeptides.com/product/humanin-10mg/] Humanin (10mg) $140.00
+[img] Humanin (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/Humanin-1-238x317.webp
+[h2] Humanin (10mg)
+[li] PE-22-28 (8mg) $55.00
+[a https://biotechpeptides.com/product/pe-22-28-8mg/] PE-22-28 (8mg) $55.00
+[img] PE-22-28 (8mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/PE-22-28-1-238x317.webp
+[h2] PE-22-28 (8mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

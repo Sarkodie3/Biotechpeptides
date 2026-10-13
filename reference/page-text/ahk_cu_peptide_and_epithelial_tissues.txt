@@ -1,0 +1,114 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] AHK-Cu Peptide And Epithelial Tissues
+[p] by Dr. Usman | Jan 6, 2025 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] AHK-Cu Peptide And Epithelial Tissues :: https://biotechpeptides.com/wp-content/uploads/2025/01/AHK-Cu-Peptide-And-Epithelial-Tissues.avif
+[a https://biotechpeptides.com/product/ahk-cu-topical-200mg/] AHK-Cu is often described as a small tripeptide (alanine–histidine–lysine)
+[p] Contents:
+[li] Mechanism of Action
+[a #ma] Mechanism of Action
+[li] Scientific and Research Studies
+[a #research] Scientific and Research Studies
+[li] AHK-Cu Peptide and Hair Follicles
+[a #hf] AHK-Cu Peptide and Hair Follicles
+[li] AHK-Cu Peptide and Antioxidative Potential
+[a #ap] AHK-Cu Peptide and Antioxidative Potential
+[li] AHK-Cu Peptide and Dermal Cells
+[a #dc] AHK-Cu Peptide and Dermal Cells
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/ahk-cu-topical-200mg/] 
+[img] AHK-CU (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/AHK-Cu.png
+[h2] Mechanism of Action
+[p] AHK-Cu peptide has been examined for its possible involvement in hair growth and the maintenance of dermal tissue. In some studies, it appears to act on fibroblasts, which are cells that might produce and maintain the extracellular matrix (ECM)—a complex network of proteins, including collagen and elastin, that provides structural support around cells. Fibroblasts may also secrete certain signaling molecules, such as Vascular Endothelial Growth Factor (VEGF). Fibroblasts are typically recognized as cells that may synthesize essential structural proteins, including collagen. VEGF refers to a protein family that may be crucial for forming new blood vessels, a process termed angiogenesis. By increasing VEGF production, AHK-Cu peptide might strengthen blood vessel formation, possibly supporting how nutrients and oxygen are delivered to various tissues, including hair follicles.[2] This route may be relevant for hair growth, as additional nutrients and oxygen may theoretically support follicle function.
+[p] AHK-Cu peptide has also been linked to a possible influence on Transforming Growth Factor Beta 1 (TGF-β1). TGF-β1, sometimes viewed as a critical cytokine, is studied for its role in cell growth, immune regulation, and wound repair. If AHK-Cu peptide happens to lower TGF-β1 levels, it might modify certain cell processes or immune responses, though the extent of this potential remains speculative. Because AHK-Cu peptide contains a copper ion, it might engage in enzymatic pathways that influence collagen and elastin production. Collagen and elastin are ECM proteins that may help maintain skin structure elasticity and structural stability. Copper ions themselves have been explored for possible antioxidant activity, which may mean they scavenge free radicals or support other protective mechanisms in cells.
+[h2] Scientific Research and Studies
+[h3] AHK-Cu Peptide and Hair Follicles
+[p] In a recent study [3], the researchers examined whether AHK-Cu peptide might influence hair growth in laboratory settings. They observed that this peptide may support the elongation of hair follicles and might also encourage the proliferation of dermal papilla cells (DPCs). DPCs are often viewed as specialized fibroblasts with a suggested capacity to promote hair follicle maturation. The same study additionally proposed that AHK-Cu peptide may reduce the frequency of apoptotic (programmed cell death) DPCs. Subsequent analyses indicated that the peptide might elevate the ratio of Bcl-2 (B-cell lymphoma 2) to Bax (Bcl-2-associated X protein). Bcl-2 is frequently seen as an anti-apoptotic factor that may impede cell death, whereas Bax is thought to be pro-apoptotic and might contribute to cell death pathways.
+[p] Investigators further speculated that AHK-Cu peptide might decrease cleaved caspase-3 and poly (ADP-ribose) polymerase (PARP) levels—biomolecules often evaluated as markers of cell death. Because a higher Bcl-2/Bax ratio is commonly associated with fewer apoptotic events, the study proposed that such a shift in the ratio may favor cell survival and possibly maintain viable DPC populations. Ultimately, the authors concluded the following: “The present study proposed that AHK-Cu promotes the growth of […] hair follicles, and this stimulatory effect may occur due to stimulation of the proliferation and the preclusion of the apoptosis of DPCs.”[3]
+[h3] AHK-Cu Peptide and Antioxidative Potential
+[p] AHK-Cu is frequently mentioned as having strong antioxidant properties, potentially attributable to its distinctive tripeptide structure, which includes alanine, histidine, and lysine, often bound to a copper ion. Based on these purported antioxidant characteristics, some investigations have posited that AHK-Cu peptide may help protect and restore hair follicle size, ultimately increasing hair growth.
+[p] Scientists also speculate that AHK-Cu’s antioxidant potential might have broader functions, possibly involving cellular aging, wound repair, and related physiological processes. These observations reflect the notion that AHK-Cu peptide might help protect collagen from oxidative stress and damage. Collagen—a principal protein for upholding tissue integrity—is often viewed as indispensable for dermal layer and hair cell integrity and overall functionality.[4]
+[h3] AHK-Cu Peptide and Dermal Cells
+[p] Preliminary laboratory work has indicated that “AHK-Cu increases the growth and viability of dermal fibroblasts while stimulating the production of collagen.” Observations suggest that, in certain experiments, the presence of AHK peptide alone appeared to promote both fibroblast viability and replication, in addition to supporting the production of collagen type I.
+[p] Investigations measuring collagen type I levels after exposing normal dermal fibroblasts to different AHK concentrations suggested a marked rise in collagen synthesis, which was at times documented to be around threefold compared to control groups.[5] These findings point to the possibility that AHK might help replenish or maintain the extracellular matrix, which comprises various proteins that form the supportive framework of tissues. By theoretically impacting collagen levels in dermal fibroblasts, AHK-Cu peptide might aid dermal layer functionality, although researchers continue to explore the extent of its potential.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] Kapoor R, Shome D, Vadera S, Kumar V, Ram MS. QR678 & QR678 Neo Hair Growth Formulations: A Cellular Toxicity & Animal Efficacy Study. Plast Reconstr Surg Glob Open. 2020 Aug 25;8(8):e2843. doi: 10.1097/GOX.0000000000002843. PMID: 32983753; PMCID: PMC7489598.
+[a https://doi.org/10.1097/GOX.0000000000002843] doi: 10.1097/GOX.0000000000002843
+[li] Sadgrove NJ, Simmonds MSJ. Topical and nutricosmetic products for healthy hair and dermal anti-aging using “dual-acting” (2 for 1) plant-based peptides, hormones, and cannabinoids. FASEB Bioadv. 2021 Jun 6;3(8):601-610. doi: 10.1096/fba.2021-00022. PMID: 34377956; PMCID: PMC8332470.
+[a https://doi.org/10.1096/fba.2021-00022] doi: 10.1096/fba.2021-00022
+[li] Pyo HK, Yoo HG, Won CH, Lee SH, Kang YJ, Eun HC, Cho KH, Kim KH. The effect of tripeptide-copper complex on human hair growth in vitro. Arch Pharm Res. 2007 Jul;30(7):834-9. doi: 10.1007/BF02978833. PMID: 17703734.
+[a https://doi.org/10.1007/BF02978833] doi: 10.1007/BF02978833
+[li] Kecel-Gunduza, S., Kocb, E., Bicaka, B., Kokcub, Y., Ozela, A. E., & Akyuzc, S. (2020). IN SILICO ANALYSIS FOR CHARACTERIZING THE STRUCTURE AND BINDING PROPERTIES OF ALA-HIS-LYS (AHK) TRIPEPTIDE. The Online Journal of Science and Technology-July, 10(3).
+[li] Patt, L. M., & Procyte, A. (2009). Neova® DNA Repair Factor Nourishing Lotion Stimulates Collagen and Speeds Natural Repair Process. skin, 1, 2.
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

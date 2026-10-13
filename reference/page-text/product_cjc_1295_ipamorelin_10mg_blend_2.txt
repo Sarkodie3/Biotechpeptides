@@ -1,0 +1,144 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-Ipamorelin-1.webp] 
+[img] CJC-1295 & Ipamorelin Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-Ipamorelin-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Ipamorelin_CJC-1295_nD_3141018_BP_page-0001.webp] 
+[img] CJC-1295 & Ipamorelin Blend (10mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Ipamorelin_CJC-1295_nD_3141018_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Ipamorelin_CJC-1295_nD_3141018_BP_page-0002.webp] 
+[img] CJC-1295 & Ipamorelin Blend (10mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Ipamorelin_CJC-1295_nD_3141018_BP_page-0002.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Ipamorelin_CJC-1295_nD_3141018_BP_page-0003.webp] 
+[img] CJC-1295 & Ipamorelin Blend (10mg) - Image 4 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Ipamorelin_CJC-1295_nD_3141018_BP_page-0003.webp
+[h1] CJC-1295 & Ipamorelin Blend (10mg)
+[p] $81.00
+[p] CJC-1295 & Ipamorelin blend is Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_738 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $76.95
+[input name=wccs_tier_select_738 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $72.90
+[label] CJC-1295 & Ipamorelin Blend (10mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Ipamorelin_CJC-1295_nD_3141018_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] CJC-1295 & Ipamorelin Peptide Blend
+[p] Ipamorelin is a growth hormone (GH) secretagogue that has been extensively studied in the diverse biological milieu. It is considered by researchers to be one of the most selective secretagogues and is an apparent agonist of the growth hormone/ghrelin secretagogue receptor.[1] This potential selectivity is attributed to the fact that Ipamorelin does not appear, in any way, to affect the secretion of other pituitary hormones. These include prolactin, follicle-stimulating hormone (FSH), luteinizing hormone (LH), thyroid-stimulating hormone (TSH), or Adrenocorticotropic hormone (ACTH). Ipamorelin appears to act via the molecular mimicry of the natural hormone ghrelin, which triggers and stimulates the release of the growth hormone.[2] This whole process may be regulated by a negative feedback mechanism, which may nullify any ancillary impacts of excess GH production. Researchers suggest that Ipamorelin may impact all physiological processes in which ghrelin is active. Based on their observations, researchers have suggested that Ipamorelin may improve bowel movement and gastric function, enhancing the development and repair of muscles, facilitating the release of insulin hormone from the pancreas, and stimulating the growth of bones. In addition to these potentials, Ipamorelin may also be involved in cellular repair and increased collagen production.[3] It has also been hypothesized that the peptide may act to improve cognitive function and sleep cycle regulation. CJC-1295 (Mod GRF 1-29) is a synthetic analog of a naturally-occurring peptide hormone, somatocrinin. It is also suggested by researchers to potentially promote the release of GH via stimulation of the growth hormone-releasing hormone receptor.[4] They mainly suggest the peptide to induce secretion of the growth hormone in a pulsatile manner. Since this process also appears to be regulated via a negative feedback mechanism, the ancillary impacts typically associated with excessive growth hormone production appear to be avoided. The peptide has also been associated with high selectivity and a potential supportive influence on the development and growth of muscles, lean body mass, bone function, and insulin resistance.[5] Alba et al. reports that "mice [exposed] every 48 and 72h reached higher body weight and length than placebo ... animals." It is suggested to be involved in cellular repair and regeneration processes as well. More specifically, the researchers share that they conducted an additional investigation into the potential of CJC-1295 on a murine model of GHRH gene ablation (GHRHKO) and related growth decline. It was hypothesized that the CJC-1295 group displayed apparently normal body weight and length, which potentially indicates a positive growth response. When evaluating the possible impact of CJC-1295 on bone length and body composition, the femur and tibia length appeared to remain within normal ranges, as well as lean mass and subcutaneous fat mass. Further analysis revealed that CJC-1295 influence potentially led to an increase in total pituitary RNA and GH mRNA levels. This may possibly suggest that the introduction of the peptide may have caused a proliferation of somatotroph cells, which are the natural cells with GH-producing potential in the pituitary gland. The hypothetical presence of these proliferating cells was suggested through immunohistochemistry images. CJC-1295 has also been suggested to support the immune system and cognitive function. Research on animal systems has indicated that combinatorial introduction of CJC-1295 & Ipamorelin blend appear to influence the growth hormone axis through two different pathways.
+[a https://biotechpeptides.com/product/ipamorelin-5mg/] Ipamorelin
+[a https://biotechpeptides.com/product/mod-grf-1-29-5mg-cjc-1295-no-dac/] CJC-1295 (Mod GRF 1-29)
+[h3] CJC-1295 (Mod GRF 1-29) Specifications
+[p] Molecular Formula: C152H252N44O42
+[p] Molecular Weight: 3367.954 g/mol
+[p] Sequence: H-Tyr-D-Ala-Asp-Ala-Ile-Phe-Thr-Gln-Ser-Tyr-Arg-Lys-Val-Leu-Ala-Gln-Leu-Ser-Ala-Arg-Lys-Leu-Leu-Gln-Asp-Ile-Leu-Ser-Arg-Lys(Mal)-NH2
+[p] Note: DOES NOT CONTAIN DAC
+[h3] Ipamorelin Specifications
+[p] Molecular Formula: C38H49N9O5
+[p] Molecular Weight: 711.86 g/mol
+[p] Sequence: Aib-His-D-2-Nal-D-Phe-Lys-NH2
+[h3] CJC-1295 & Ipamorelin Blend Research
+[p] Ipamorelin Peptide and The Digestive System Ipamorelin appears to exert a positive action on gastric function by its possible activation of the ghrelin receptors. In one study, the researchers investigated the potential mechanisms involved in the acceleration of gastric emptying by Ipamorelin. Gastric emptying was measured by determining the percentage of total recovered radioactivity remaining in the stomach 15 minutes after intragastric gavage of a specific substance. The scientists commented that abdominal surgery may have caused a delay in gastric emptying, with a notable amount of the meal remaining in the stomach in the vehicle control group. However, Ipamorelin appeared to cause a significant acceleration of gastric emptying compared to the vehicle control group. This suggests that Ipamorelin may have the potential to speed up the process of gastric emptying. The researchers then assessed the potential action of Ipamorelin on the contractility of gastric smooth muscle induced by acetylcholine and electrical field stimulation. The results suggested that abdominal surgery and intestinal manipulation may lead to a marked inhibition of the contractile responses of gastric smooth muscle to acetylcholine and electrical field stimulation. However, this inhibition may have been reversed when Ipamorelin and ghrelin were co-presented. This suggests that Ipamorelin may stimulate gastric contractility and may potentially reverse the inhibitory action caused by the procedures.[6] As a consequence of its potential in digestive functioning, the peptide was hypothesized to increase appetite and weight gain. According to one study, Ipamorelin may have induced an apparent increase, by approximately 15%, in body weight of the research models. It is hypothesized that Ipamorelin potentially increased the weights of fat pads in relation to body weight, which appeared to lead to an increase in relative body fat as quantified by dual energy X-ray absorptiometry (DEXA). Additionally, Ipamorelin appeared to potentially increase the levels of serum leptin, a hormone believed to be involved in regulating energy balance and appetite. Therefore, the researchers posited that food intake may have been increased in the Ipamorelin groups.[7]
+[p] CJC-1295 Peptide and the Pituitary Gland CJC-1295 appears to target the GHRH receptor of pituitary cells, potentially interacting with specific binding sites on the receptor protein. This interaction may lead to changes in the receptor's structure, initiating a series of molecular events that may activate signal transduction pathways within the target cells. The binding-induced conformational changes may facilitate the activation of G-proteins, which are signaling proteins hypothesized to be found on the intracellular side of the GHRH receptor.[8] Once activated, these G-proteins may stimulate the production of second messengers like cAMP or IP3, which appear to act as secondary signaling molecules, potentially further propagating the signal within the cell. These second messengers, particularly cAMP, may activate protein kinases, enzymes considered responsible for phosphorylating target proteins.[9] Protein kinases appear to play a role in regulating various cellular processes. The activation of protein kinases may lead to the phosphorylation of transcription factors, which are proteins supporting gene expression. Phosphorylated transcription factors may enter the nucleus and potentially modulate the transcription of specific genes that have been associated with growth hormone synthesis and secretion. Overall, the molecular events triggered by the binding of CJC-1295 may result in the fusion of secretory vesicles containing growth hormone with the plasma membrane. This fusion may enable the release of growth hormone outside the pituitary cells, possibly allowing it to exert biological action.[10]
+[p] CJC-1295 & Ipamorelin Blend Ipamorelin appears to work by increasing the basal expression of GH. CJC-1295 may then act upon the higher basal levels of GH to potentially improve the threshold for both high and low GH levels while maintaining the hormone expression cycle. CJC-1295 & Ipamorelin blend may positively influence the body by improving lean body mass, better utilization of insulin, superior muscle development, and overall improved metabolic capabilities. This is suggested by the positive nitrogen balance reported in some studies. In one study, researchers aimed to examine the metabolic potential of Ipamorelin on specific hepatic indicators of alpha-amino-nitrogen conversion during catabolism induced by steroids. The researchers assessed the hepatic capacity for synthesizing urea-N (CUNS), which is a potential indicator of nitrogen metabolism in the liver. They measured the apparent levels of messenger RNA (mRNA) associated with urea cycle enzymes in the liver, evaluated the overall nitrogen balance, and hypothesized the nitrogen contents of various organs. It is suggested that Ipamorelin possibly resulted in a 20% reduction in CUNS when compared to the catabolic state induced by steroids. Additionally, it may have potentially lowered the expression of urea cycle enzymes, restored nitrogen balance, and hypothetically normalized or improved the nitrogen contents in organs.[11] Finally, since these peptides appear to have slightly different pharmacokinetics, their combinational action may have strong impacts. CJC-1295 (when with DAC) appears to possess a longer half-life of about 6-8 days, which would mean a sustained increase in growth hormone levels. Having an apparent shorter half-life, Ipamorelin is likely to produce quick action and be cleared rapidly from the blood. Therefore, the two peptides may be used to provide a rapid onset of action with Ipamorelin and prolonged effects with CJC-1295.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Raun K, Hansen BS, Johansen NL, Thøgersen H, Madsen K, Ankersen M, Andersen PH. Ipamorelin, the first selective growth hormone secretagogue. Eur J Endocrinol. 1998 Nov;139(5):552-61. doi: 10.1530/eje.0.1390552. PMID: 9849822.
+[a https://pubmed.ncbi.nlm.nih.gov/9849822/] doi: 10.1530/eje.0.1390552
+[li] Sinha DK, Balasubramanian A, Tatem AJ, Rivera-Mirabal J, Yu J, Kovac J, Pastuszak AW, Lipshultz LI. Beyond the androgen receptor: the role of growth hormone secretagogues in the modern management of body composition in hypogonadal males. Transl Androl Urol. 2020 Mar;9(Suppl 2):S149-S159. doi: 10.21037/tau.2019.11.30. PMID: 32257855; PMCID: PMC7108996.
+[a https://pubmed.ncbi.nlm.nih.gov/32257855/] doi: 10.21037/tau.2019.11.30
+[li] Venkova K, Mann W, Nelson R, Greenwood-Van Meerveld B. Efficacy of ipamorelin, a novel ghrelin mimetic, in a rodent model of postoperative ileus. J Pharmacol Exp Ther. 2009 Jun;329(3):1110-6. doi: 10.1124/jpet.108.149211. Epub 2009 Mar 16. PMID: 19289567.
+[a https://pubmed.ncbi.nlm.nih.gov/19289567/] doi: 10.1124/jpet.108.149211
+[li] Teichman SL, Neale A, Lawrence B, Gagnon C, Castaigne JP, Frohman LA. Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults. J Clin Endocrinol Metab. 2006 Mar;91(3):799-805. doi: 10.1210/jc.2005-1536. Epub 2005 Dec 13. PMID: 16352683.
+[a https://pubmed.ncbi.nlm.nih.gov/16352683/] doi: 10.1210/jc.2005-1536
+[li] Alba M, Fintini D, Sagazio A, Lawrence B, Castaigne JP, Frohman LA, Salvatori R. Once-daily administration of CJC-1295, a long-acting growth hormone-releasing hormone (GHRH) analog, normalizes growth in the GHRH knockout mouse. Am J Physiol Endocrinol Metab. 2006 Dec;291(6):E1290-4. doi: 10.1152/ajpendo.00201.2006. Epub 2006 Jul 5. PMID: 16822960.
+[a https://pubmed.ncbi.nlm.nih.gov/16822960/] doi: 10.1152/ajpendo.00201.2006
+[li] Greenwood-Van Meerveld, B., Tyler, K., Mohammadi, E., & Pietra, C. (2012). Efficacy of ipamorelin, a ghrelin mimetic, on gastric dysmotility in a rodent model of postoperative ileus. Journal of experimental pharmacology, 4, 149–155. https://doi.org/10.2147/JEP.S35396
+[a https://doi.org/10.2147/JEP.S35396] https://doi.org/10.2147/JEP.S35396
+[li] Lall, S., Tung, L. Y., Ohlsson, C., Jansson, J. O., & Dickson, S. L. (2001). Growth hormone (GH)-independent stimulation of adiposity by GH secretagogues. Biochemical and biophysical research communications, 280(1), 132–138. https://doi.org/10.1006/bbrc.2000.4065
+[a https://doi.org/10.1006/bbrc.2000.4065] https://doi.org/10.1006/bbrc.2000.4065
+[li] Martin, B., Lopez de Maturana, R., Brenneman, R., Walent, T., Mattson, M. P., & Maudsley, S. (2005). Class II G protein-coupled receptors and their ligands in neuronal function and protection. Neuromolecular medicine, 7(1-2), 3–36. https://doi.org/10.1385/nmm:7:1-2:003
+[a https://doi.org/10.1385/nmm:7:1-2:003] https://doi.org/10.1385/nmm:7:1-2:003
+[li] Newton, A. C., Bootman, M. D., & Scott, J. D. (2016). Second Messengers. Cold Spring Harbor perspectives in biology, 8(8), a005926. https://doi.org/10.1101/cshperspect.a005926
+[a https://doi.org/10.1101/cshperspect.a005926] https://doi.org/10.1101/cshperspect.a005926
+[li] Ionescu, M., & Frohman, L. A. (2006). Pulsatile secretion of growth hormone (GH) persists during continuous stimulation by CJC-1295, a long-acting GH-releasing hormone analog. The Journal of clinical endocrinology and metabolism, 91(12), 4792–4797. https://doi.org/10.1210/jc.2006-1702
+[a https://doi.org/10.1210/jc.2006-1702] https://doi.org/10.1210/jc.2006-1702
+[li] Aagaard, N. K., Grøfte, T., Greisen, J., Malmlöf, K., Johansen, P. B., Grønbaek, H., Ørskov, H., Tygstrup, N., & Vilstrup, H. (2009). Growth hormone and growth hormone secretagogue effects on nitrogen balance and urea synthesis in steroid treated rats. Growth hormone & IGF research : official journal of the Growth Hormone Research Society and the International IGF Research Society, 19(5), 426–431. https://doi.org/10.1016/j.ghir.2009.01.001
+[a https://doi.org/10.1016/j.ghir.2009.01.001] https://doi.org/10.1016/j.ghir.2009.01.001
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) $46.00
+[a https://biotechpeptides.com/product/mod-grf-1-29-5mg-cjc-1295-no-dac/] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) $46.00
+[img] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Mod-GRF-1-29-238x317.webp
+[h2] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg)
+[li] Mod GRF 1-29 & Ipamorelin Blend (10mg) $81.00
+[a https://biotechpeptides.com/product/mod-grf-1-29-ipamorelin-10mg-blend/] Mod GRF 1-29 & Ipamorelin Blend (10mg) $81.00
+[img] Mod GRF 1-29 & Ipamorelin Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Mod-GRF-1-29-Ipamorelin-1-238x317.webp
+[h2] Mod GRF 1-29 & Ipamorelin Blend (10mg)
+[li] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg) $80.00
+[a https://biotechpeptides.com/product/cjc-1295-ipamorelin-ghrp2-9mg-blend/] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg) $80.00
+[img] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-Ipamorelin-GHRP-2-1-238x317.webp
+[h2] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg)
+[li] Sale! Ipamorelin (5mg) $53.00 Original price was: $53.00.$46.00Current price is: $46.00.
+[a https://biotechpeptides.com/product/ipamorelin-5mg/] Sale! Ipamorelin (5mg) $53.00 Original price was: $53.00.$46.00Current price is: $46.00.
+[img] Ipamorelin (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Ipamorelin-1-238x317.webp
+[h2] Ipamorelin (5mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

@@ -1,0 +1,152 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2023/06/Tesamorelin-Ipamorelin.webp] 
+[img] Tesamorelin & Ipamorelin Blend (8mg) :: https://biotechpeptides.com/wp-content/uploads/2023/06/Tesamorelin-Ipamorelin-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2023/06/COA_Ipamorelin_Tesamorelin_3141083_BP_page-0001.webp] 
+[img] Tesamorelin & Ipamorelin Blend (8mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2023/06/COA_Ipamorelin_Tesamorelin_3141083_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2023/06/COA_Ipamorelin_Tesamorelin_3141083_BP_page-0002.webp] 
+[img] Tesamorelin & Ipamorelin Blend (8mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2023/06/COA_Ipamorelin_Tesamorelin_3141083_BP_page-0002.webp
+[a https://biotechpeptides.com/wp-content/uploads/2023/06/COA_Ipamorelin_Tesamorelin_3141083_BP_page-0003.webp] 
+[img] Tesamorelin & Ipamorelin Blend (8mg) - Image 4 :: https://biotechpeptides.com/wp-content/uploads/2023/06/COA_Ipamorelin_Tesamorelin_3141083_BP_page-0003.webp
+[h1] Tesamorelin & Ipamorelin Blend (8mg)
+[p] $90.00
+[p] Tesamorelin & Ipamorelin blend is Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_32504 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $85.50
+[input name=wccs_tier_select_32504 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $81.00
+[label] Tesamorelin & Ipamorelin Blend (8mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2023/06/COA_Ipamorelin_Tesamorelin_3141083_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Tesamorelin & Ipamorelin Peptide Blend
+[p] The Tesamorelin & Ipamorelin peptide blend is a mixture of peptide compounds that have been studied for their possible interaction with certain receptors in the cells of the pituitary gland. These receptors include the growth-hormone secretagogue (GHS) receptors and growth hormone-releasing hormone (GHRH) receptors, which are associated with the release of growth hormone (hGH). Tesamorelin, which is a synthetic peptide, is believed by researchers to act as an analog of growth hormone-releasing hormone through binding to GHRH receptors.[1] Tesamorelin consists of an amino acid chain with 44 amino acids, including a specific sequence similar to GHRH. Additionally, Tesamorelin has been modified in an effort to support its resistance to enzymatic degradation. As an example, the C-terminus of the synthetically developed Tesamorelin has been modified with a trans-3-hexenoic acid group. This modification, known as an omega-amino acid modification, may help improve the peptide’s resistance to enzymatic degradation. Tesamorelin also has an acetyl group (CH₃CO-) attached to its N-terminus, which may potentially enhance the stability and bioactivity of the peptide. As a result, the peptide is also known as N-(trans-3-hexenoyl)-[Tyr1]hGRF(1–44)NH2 acetate.[2] By interacting with GHRH receptors in the pituitary and hypothalamus, Tesamorelin may trigger the release of hGH from pituitary cells. Similarly, Ipamorelin is also a synthetic peptide that interacts with pituitary cells and may stimulate the synthesis and release of hGH. Its proposed mechanism of action involves interaction with GHS receptors, also known as ghrelin receptors, which are found in the pituitary and hypothalamus.[3] By activating these receptors, Ipamorelin may mimic the actions of ghrelin on the pituitary gland, potentially leading to the release of growth hormone from pituitary cells.
+[h3] Specifications
+[p] Tesamorelin Molecular Formula: C221H366N72O67S
+[p] Ipamorelin Molecular Formula: C38H49N9O5
+[p] Tesamorelin Molecular Weight: 5136 g/mol
+[p] Ipamorelin Molecular Weight: 711.868 g/mol
+[p] Tesamorelin Sequence: YADAIFTNSYRKVLGQLSARKLLQDIMSRQQGESNQERGARARL
+[p] Ipamorelin Sequence: Aib-His-D-2Nal-D-Phe-Lys
+[h3] Tesamorelin & Ipamorelin Peptide Blend Research
+[p] Tesamorelin & Ipamorelin and the Pituitary Gland As suggested, Tesamorelin may interact with the pituitary gland by potentially binding to the GHRH receptors, which may initiate a series of molecular events.[4] Researchers suggest that should Tesamorelin bind to the GHRH receptor, it may cause structural changes in the receptor, activating intracellular signaling pathways.[5] The researchers comment that the binding process “is followed by a major conformational change that involves a large kink at the TM6 to open the intracellular face for G protein coupling.” One possible pathway appears to involve the apparent stimulation of cyclic adenosine monophosphate (cAMP) production within pituitary cells. This may possibly be achieved by activating the enzyme adenylate cyclase, which may convert ATP to cAMP. It is posited by researchers that increased cAMP levels may activate protein kinase A (PKA), which is hypothesized to be an important intracellular signaling molecule. PKA may potentially phosphorylate various target proteins, possibly initiating cellular responses. This proposed activation of the GHRH receptor by Tesamorelin and the subsequent cAMP-PKA signaling cascade may stimulate the synthesis and secretion of growth hormone (hGH) from somatotrophs in the pituitary gland. Research indicates that the peptide may potentially induce a 69% rise in overall growth hormone levels, measured through the area under the curve (AUC), which quantifies the total hormone concentration over time. Additionally, there appears to be a possible 55% increase in the average pulse area of the growth hormone, reflecting the amount of the hormone released during each pulse. However, the data suggests that the peptide does not appear to significantly influence the frequency of these growth hormone pulses or the maximum levels of growth hormone reached during each pulse.[6] On the other hand, it appears that Ipamorelin may exhibit selectivity towards the GHS receptor without purportedly having significant interaction with other receptors or affecting the release of other mediators, such as adrenocorticotropic hormone (ACTH) and cortisol.[7] By possibly binding to the GHS receptors, Ipamorelin appears to activate various intracellular signaling pathways.[8] One potential pathway appears to involve the activation of phospholipase C (PLC), which may lead to the release of inositol triphosphate (IP3) and diacylglycerol (DAG). IP3 may potentially trigger the release of calcium ions (Ca2+) from intracellular stores, while DAG potentially activates protein kinase C (PKC). The elevation of intracellular calcium levels and potential PKC activation may result in the exocytosis of growth hormone-containing vesicles from pituitary cells. Based on experiments, the peptide might support the secretion of growth hormone levels as high as 80 mIU/l which seems to exceed 60 times that of the levels recorded following placebo exposure.[9]
+[p] Tesamorelin & Ipamorelin Blend and Fat Cells Investigations into Tesamorelin indicate a potential reduction of approximately 25% in visceral fat among models simulating lipodystrophy. Lipodystrophy refers to an abnormal distribution and storage of fat cells, often leading to visceral obesity. Visceral obesity is defined as the excessive accumulation of fat around and within internal organs. This has been tentatively associated with various metabolic consequences. Among these are insulin resistance, elevated levels of low-density lipoprotein (LDL) cholesterol and hyperuricemia, which is an excessive buildup of uric acid. Therefore, Tesamorelin may be posited to potentially ameliorate such metabolic consequences by increasing the production of growth hormone and thus elevating its fat burning actions with particular affinity to visceral fat.[10] Conversely, studies on Ipamorelin suggest it may cause modest increases in non-visceral fat accumulation, despite its similar growth hormone increasing actions. This is attributed to its actions on increasing appetite and caloric intake. Ipamorelin interacts with ghrelin receptors, which are considered to play a crucial role in regulating hunger. This interaction may lead to increased weight gain. One study reported that Ipamorelin exposure was associated with a 15% increase in weight of research models examined during the course of the research. Additionally, preliminary findings suggest that Ipamorelin may raise serum leptin levels. Leptin is a hormone involved in regulating energy balance and appetite, which could imply that increased food intake may contribute to the observed weight gain in peptide-exposed models, which then may increase leptin levels and subdue appetite.[11]
+[p] Tesamorelin & Ipamorelin Blend and the Musculoskeletal System One study analyzed the impact of Tesamorelin on muscle tissue quality.[12] The researchers employed computed tomography (CT) scans to measure muscle density and area before and after introducing Tesamorelin or a control compound. The trial study suggested that Tesamorelin may be associated with muscle density and area improvements. The potential of Tesamorelin may be especially noticeable in certain types of muscles, such as rectus abdominis, psoas major, and paraspinal muscles. These improvements were reflected by increased muscle density and area or decreased fat cell content in these muscle groups. The changes were statistically significant compared to the placebo group. But even though Tesamorelin is considered to act through other molecules such as insulin-like growth factor-1 (IGF-1), no significant correlation was observed between changes in IGF-1 levels and changes in muscle density or area. Subsequent investigations into Ipamorelin suggest that this compound may potentially assist in restoring the balance of nitrogen and in diminishing the excessive loss of nitrogen in the livers of rats subjected to catabolic stress. These studies mainly focused on the liver’s capability to synthesize urea-N (urea nitrogen), a possible indicator of how the liver metabolizes nitrogen. The research methodically assessed the concentrations of messenger RNA (mRNA), which are considered vital for the synthesis of enzymes active in the urea cycle within the liver. The scope of the research extended to examining the overall management of nitrogen within the organism, hypothesizing about how nitrogen might be distributed across different bodily tissues. Preliminary findings suggest that Ipamorelin might potentially lead to a reduction of about 20% in urea-N synthesis compared to scenarios where catabolism is induced artificially. There is also an observed potential decrease in the activity of enzymes that facilitate the urea cycle. This may imply a tentative re-balancing of nitrogen and a speculative adjustment or improvement in nitrogen concentrations across various tissues. These observations are tentatively linked to Ipamorelin's presumed role in influencing the production of hGH and, by extension, IGF-1.[13]
+[p] Tesamorelin & Ipamorelin Blend and Bone Mineral Density Preliminary studies using experimental models suggest that Ipamorelin might exhibit actions that resemble those observed in Tesamorelin on skeletal muscle and bone. However, these findings have not been fully confirmed.[14] More specifically, Ipamorelin appeared to interact with and potentially raise insulin-like growth factor-I (IGF-I) levels. These actions appeared to be associated with increased muscle fiber size, muscle mass, and an enhancement in skeletal muscle force in this murine study. Notably, Ipamorelin also appeared to exhibit positive action on bone, possibly stimulating bone formation and promoting an increase in bone mass. The study further observed an apparent increase in bone mineral content, potentially associated with Ipamorelin. Ipamorelin’s favorable potential on bone tissue has also been suggested by other murine based studies.[15,16] One of the studies investigated the potential of Ipamorelin on bone mineral content (BMC). The scientists suggested that there may have been a correlated increase in the animals’ body weight and BMC, as measured by dual X-ray absorptiometry (DXA). However, when adjusted for the increase in body weight, the ratio of BMC to body weight appeared to remain unaffected. An in vitro analysis also suggested that the increase in cortical BMC may have resulted from an increase in bone area. At the same time, the volumetric BMD may potentially remain unchanged. The scientists commented that “the results of in vitro measurements using pQCT and Archimedes’ principle, in addition to ash weight determinations, show that the increases in cortical and total BMC were due to an increased growth of the bones with increased bone dimensions, whereas the volumetric BMD was unchanged.“
+[p] Tesamorelin & Ipamorelin Blend on Digestion Research hypothesizes that Ipamorelin may activate the ghrelin receptor, believed to influence both appetite and digestive processes. Consequently, a research team investigated the potential impacts of Ipamorelin on various gastric functions, focusing particularly on its potential to accelerate the rate of gastric emptying compared to a control compound. The researchers employed models with experimentally induced slower gastric emptying. The slowdown was observed more frequently in the control group. In contrast, data indicated that Ipamorelin might facilitate quicker gastric emptying when compared to the control. This led to the hypothesis that Ipamorelin might enhance the efficiency of this digestive process. Further examination was directed towards understanding how Ipamorelin affects the contractile behavior of gastric smooth muscles, which are deemed crucial for the mechanical digestion in the stomach. This aspect of the study focused on muscle responses to acetylcholine, a neurotransmitter involved in muscle contraction, and electrical field stimulation, a method used to mimic nerve impulses that trigger muscle contraction. Preliminary findings suggested that interventions in the intestines might significantly weaken these muscular responses. However, this weakening action appeared less pronounced when Ipamorelin was introduced alongside ghrelin, pointing to the possibility that Ipamorelin may not only support gastric muscle contractility but may also offset negative actions caused by certain interventions.[17]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Clinical Review Report: Tesamorelin (Egrifta) [Internet]. Ottawa (ON): Canadian Agency for Drugs and Technologies in Health; 2016 Aug. 1, Introduction. Available from: https://www.ncbi.nlm.nih.gov/books/NBK539137/
+[a https://www.ncbi.nlm.nih.gov/books/NBK539137/] https://www.ncbi.nlm.nih.gov/books/NBK539137/
+[li] Ferdinandi, E. S., Brazeau, P., High, K., Procter, B., Fennell, S., & Dubreuil, P. (2007). Non-clinical pharmacology and safety evaluation of TH9507, a human growth hormone-releasing factor analogue. Basic & clinical pharmacology & toxicology, 100(1), 49–58. https://doi.org/10.1111/j.1742-7843.2007.00008.x
+[a https://doi.org/10.1111/j.1742-7843.2007.00008.x] https://doi.org/10.1111/j.1742-7843.2007.00008.x
+[li] Johansen, P. B., Nowak, J., Skjaerbaek, C., Flyvbjerg, A., Andreassen, T. T., Wilken, M., & Orskov, H. (1999). Ipamorelin, a new growth-hormone-releasing peptide, induces longitudinal bone growth in rats. Growth hormone & IGF research : official journal of the Growth Hormone Research Society and the International IGF Research Society, 9(2), 106–113. https://doi.org/10.1054/ghir.1999.9998
+[a https://doi.org/10.1054/ghir.1999.9998] https://doi.org/10.1054/ghir.1999.9998
+[li] Spooner, L. M., & Olin, J. L. (2012). Tesamorelin: a growth hormone-releasing factor analogue for HIV-associated lipodystrophy. The Annals of pharmacotherapy, 46(2), 240–247. https://doi.org/10.1345/aph.1Q629
+[a https://doi.org/10.1345/aph.1Q629] https://doi.org/10.1345/aph.1Q629
+[li] Zhou, F., Zhang, H., Cong, Z., Zhao, L. H., Zhou, Q., Mao, C., Cheng, X., Shen, D. D., Cai, X., Ma, C., Wang, Y., Dai, A., Zhou, Y., Sun, W., Zhao, F., Zhao, S., Jiang, H., Jiang, Y., Yang, D., Eric Xu, H., … Wang, M. W. (2020). Structural basis for activation of the growth hormone-releasing hormone receptor. Nature communications, 11(1), 5205. https://doi.org/10.1038/s41467-020-18945-0
+[a https://doi.org/10.1038/s41467-020-18945-0] https://doi.org/10.1038/s41467-020-18945-0
+[li] Stanley TL, Chen CY, Branch KL, Makimura H, Grinspoon SK. Effects of a growth hormone-releasing hormone analog on endogenous GH pulsatility and insulin sensitivity in healthy men. J Clin Endocrinol Metab. 2011 Jan;96(1):150-8. doi: 10.1210/jc.2010-1587. Epub 2010 Oct 13. PMID: 20943777; PMCID: PMC3038486. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3038486/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3038486/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3038486/
+[li] Raun, K., Hansen, B. S., Johansen, N. L., Thøgersen, H., Madsen, K., Ankersen, M., & Andersen, P. H. (1998). Ipamorelin, the first selective growth hormone secretagogue. European journal of endocrinology, 139(5), 552–561. https://doi.org/10.1530/eje.0.1390552
+[a https://doi.org/10.1530/eje.0.1390552] https://doi.org/10.1530/eje.0.1390552
+[li] Jiménez-Reina, L., Cañete, R., de la Torre, M. J., & Bernal, G. (2002). Influence of chronic treatment with the growth hormone secretagogue Ipamorelin, in young female rats: somatotroph response in vitro. Histology and histopathology, 17(3), 707–714. https://doi.org/10.14670/HH-17.707
+[a https://doi.org/10.14670/HH-17.707] https://doi.org/10.14670/HH-17.707
+[li] Gobburu, J. V., Agersø, H., Jusko, W. J., & Ynddal, L. (1999). Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers. Pharmaceutical research, 16(9), 1412–1416. https://doi.org/10.1023/a:1018955126402
+[a https://doi.org/10.1023/a:1018955126402] https://doi.org/10.1023/a:1018955126402
+[li] Sivakumar T, Mechanic O, Fehmie DA, Paul B. Growth hormone axis treatments for HIV-associated lipodystrophy: a systematic review of placebo-controlled trials. HIV Med. 2011 Sep;12(8):453-62. doi: 10.1111/j.1468-1293.2010.00906.x. Epub 2011 Jan 25. PMID: 21265979.
+[a https://doi.org/10.1111/j.1468-1293.2010.00906.x] doi: 10.1111/j.1468-1293.2010.00906.x
+[li] Lall, S., Tung, L. Y., Ohlsson, C., Jansson, J. O., & Dickson, S. L. (2001). Growth hormone (GH)-independent stimulation of adiposity by GH secretagogues. Biochemical and biophysical research communications, 280(1), 132–138. https://doi.org/10.1006/bbrc.2000.4065
+[a https://doi.org/10.1006/bbrc.2000.4065] https://doi.org/10.1006/bbrc.2000.4065
+[li] Adrian, S., Scherzinger, A., Sanyal, A., Lake, J. E., Falutz, J., Dubé, M. P., Stanley, T., Grinspoon, S., Mamputu, J. C., Marsolais, C., Brown, T. T., & Erlandson, K. M. (2019). The Growth Hormone Releasing Hormone Analogue, Tesamorelin, Decreases Muscle Fat and Increases Muscle Area in Adults with HIV. The Journal of frailty & aging, 8(3), 154–159. https://doi.org/10.14283/jfa.2018.45
+[a https://doi.org/10.14283/jfa.2018.45] https://doi.org/10.14283/jfa.2018.45
+[li] Andersen, N. B., Malmlöf, K., Johansen, P. B., Andreassen, T. T., Ørtoft, G., & Oxlund, H. (2001). The growth hormone secretagogue ipamorelin counteracts glucocorticoid-induced decrease in bone formation of adult rats. Growth hormone & IGF research : official journal of the Growth Hormone Research Society and the International IGF Research Society, 11(5), 266–272. https://doi.org/10.1054/ghir.2001.0239
+[a https://doi.org/10.1054/ghir.2001.0239] https://doi.org/10.1054/ghir.2001.0239
+[li] Aagaard, N. K., Grøfte, T., Greisen, J., Malmlöf, K., Johansen, P. B., Grønbaek, H., Ørskov, H., Tygstrup, N., & Vilstrup, H. (2009). Growth hormone and growth hormone secretagogue effects on nitrogen balance and urea synthesis in steroid treated rats. Growth hormone & IGF research: official journal of the Growth Hormone Research Society and the International IGF Research Society, 19(5), 426–431. https://doi.org/10.1016/j.ghir.2009.01.001
+[a https://doi.org/10.1016/j.ghir.2009.01.001] https://doi.org/10.1016/j.ghir.2009.01.001
+[li] Johansen, P. B., Nowak, J., Skjaerbaek, C., Flyvbjerg, A., Andreassen, T. T., Wilken, M., & Orskov, H. (1999). Ipamorelin, a new growth-hormone-releasing peptide, induces longitudinal bone growth in rats. Growth hormone & IGF research : official journal of the Growth Hormone Research Society and the International IGF Research Society, 9(2), 106–113. https://doi.org/10.1054/ghir.1999.9998
+[a https://doi.org/10.1054/ghir.1999.9998] https://doi.org/10.1054/ghir.1999.9998
+[li] Svensson, J., Lall, S., Dickson, S. L., Bengtsson, B. A., Rømer, J., Ahnfelt-Rønne, I., Ohlsson, C., & Jansson, J. O. (2000). The GH secretagogues ipamorelin and GH-releasing peptide-6 increase bone mineral content in adult female rats. The Journal of endocrinology, 165(3), 569–577. https://doi.org/10.1677/joe.0.1650569
+[a https://doi.org/10.1677/joe.0.1650569] https://doi.org/10.1677/joe.0.1650569
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Sale! Tesamorelin (5mg & 10mg) $38.00 – $92.00Price range: $38.00 through $92.00 $38.00 – $73.00Price range: $38.00 through $73.00
+[a https://biotechpeptides.com/product/tesamorelin/] Sale! Tesamorelin (5mg & 10mg) $38.00 – $92.00Price range: $38.00 through $92.00 $38.00 – $73.00Price range: $38.00 through $73.00
+[img] Tesamorelin (5mg & 10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Tesamorelin-1-238x317.webp
+[h2] Tesamorelin (5mg & 10mg)
+[li] CJC-1295 & Ipamorelin Blend (10mg) $81.00
+[a https://biotechpeptides.com/product/cjc-1295-ipamorelin-10mg-blend-2/] CJC-1295 & Ipamorelin Blend (10mg) $81.00
+[img] CJC-1295 & Ipamorelin Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-Ipamorelin-1-238x317.webp
+[h2] CJC-1295 & Ipamorelin Blend (10mg)
+[li] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin Blend (12mg) $109.00
+[a https://biotechpeptides.com/product/tesamorelin-mod-grf-ipamorelin-blend-12mg/] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin Blend (12mg) $109.00
+[img] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin Blend (12mg) :: https://biotechpeptides.com/wp-content/uploads/2023/06/Tesamorelin-Mod-GRF-Ipamorelin-1-238x317.webp
+[h2] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin Blend (12mg)
+[li] Sale! Ipamorelin (5mg) $53.00 Original price was: $53.00.$46.00Current price is: $46.00.
+[a https://biotechpeptides.com/product/ipamorelin-5mg/] Sale! Ipamorelin (5mg) $53.00 Original price was: $53.00.$46.00Current price is: $46.00.
+[img] Ipamorelin (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Ipamorelin-1-238x317.webp
+[h2] Ipamorelin (5mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

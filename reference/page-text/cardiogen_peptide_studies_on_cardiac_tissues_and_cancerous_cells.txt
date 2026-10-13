@@ -1,0 +1,118 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Cardiogen Peptide: Studies on Cardiac Tissues and Cancerous Cells
+[p] by Dr. Usman | Oct 14, 2024 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Cardiogen Peptide Studies on Cardiac Tissues and Cancerous Cells :: https://biotechpeptides.com/wp-content/uploads/2024/10/Cardiogen-Peptide-Studies-on-Cardiac-Tissues-and-Cancerous-Cells.avif
+[a https://biotechpeptides.com/product/cardiogen-20mg/] Cardiogen (H-Ala-Glu-Asp-Arg-OH)
+[p] Contents:
+[li] Mechanism of Actions
+[a #ma] Mechanism of Actions
+[li] Scientific and Research Studies
+[a #research] Scientific and Research Studies
+[li] Cardiogen Peptide and Cardiac Tissue Regeneration
+[a #Cardiac-Tissue] Cardiogen Peptide and Cardiac Tissue Regeneration
+[li] Cardiogen Peptide and Tumor Growth
+[a #Tumor-Growth] Cardiogen Peptide and Tumor Growth
+[li] Cardiogen Peptide and Prostate Explorations
+[a #Prostate] Cardiogen Peptide and Prostate Explorations
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/cardiogen-20mg/] 
+[img] Buy Cardiogen Peptide (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Cardiogen.png
+[h2] Mechanisms of Action
+[p] Cardiogen’s primary mechanism of action appears to involve possible regulatory effects on fibroblasts and cardiomyocytes. By stimulating fibroblast activity, the peptide appears to promote the synthesis of extracellular matrix components such as collagen, thereby believed to facilitate tissue regeneration and repair.[2] Interestingly, studies suggest that Cardiogen may modulate this fibroblast-driven tissue repair in multiple organs, and not only the cardiovascular system. Additionally, Cardiogen has been observed to possibly stimulate the proliferation of cardiac progenitor cells, leading to the regeneration of damaged myocardium, which may be crucial for restoring cardiac function. In cardiovascular tissues, Cardiogen appears to support cardiomyocyte proliferation while inhibiting fibroblast-driven scar formation, a process deemed critical for mitigating adverse cardiac remodeling and heart failure in laboratory models. It may also downregulate p53 protein expression, potentially reducing apoptosis rates in cardiac cells and improving long-term outcomes in cardiovascular function.[3]
+[h2] Scientific and Research Studies
+[h3] Cardiogen Peptide and Cardiac Tissue Regeneration
+[p] Research indicates that Cardiogen may play a significant role in cardiac tissue regeneration by promoting the proliferation of cardiomyocytes while inhibiting the growth and maturation of fibroblasts. This combination of action may lead to reduced scar formation, potentially improving the long-term prospects for cardiac remodeling and potentially preventing the progression to heart failure.
+[p] Furthermore, preliminary data suggests that Cardiogen may suppress the expression of the p53 protein, which is associated with apoptosis, thereby reducing the rate of programmed cell death in myocardial tissue. As indicated by the researchers, “The immunohistochemical study [indicated] a decrease of the p53 protein expression by cardiogen action. This [may] testify that cardiogen inhibits the apoptosis process in the myocard tissue.”[3]
+[h3] Cardiogen Peptide and Tumor Growth
+[p] Research suggests that the Cardiogen peptide may have differential effects on apoptosis regulation depending on the cell type. While it has been suggested to reduce apoptosis in cardiac cells by downregulating p53 expression, studies in rat models of M-1 sarcoma indicate that Cardiogen may potentially induce apoptosis in tumor cells. This effect appears to be concentration-dependent, underscoring its potential biological significance.[4]
+[p] In particular, research conducted by Drs. Levdik and Knyazkin, affiliated with the St. Petersburg Institute of Bioregulation and Gerontology and the Russian Academy of Medical Sciences, has provided insight into Cardiogen’s influence on tumor growth. Their study on the “tumor-modifying effect of Cardiogen peptide in rats with transplanted M-1 sarcoma” revealed that Cardiogen exposure may have led to a significant increase in apoptosis within tumor cells compared to control groups. The concentration-dependent inhibition of M-1 sarcoma growth was attributed to the development of hemorrhagic necrosis and the stimulation of tumor cell apoptosis.
+[h3] Cardiogen Peptide and Prostate Explorations
+[p] In vitro research has indicated that Cardiogen, along with a group of similar peptides, may regulate the expression of key signaling factors in prostate fibroblasts. These signaling factors are considered to be critical in creating a favorable microenvironment within tumors and may play a significant role in the development and progression of prostate cancer. Scientific data indicates that alterations in the synthesis of these markers may occur in cellular aging and senescent fibroblasts, disrupting the paracrine interactions between epithelial and associated stromal fibroblasts. As per the researchers, “These studies represent an important first step towards a mechanistic elucidation of the role of aging in the etiology of benign and malignant prostatic diseases.”[5]
+[p] Studies in laboratory models suggest that Cardiogen has the potential to normalize or even support the levels of these signaling molecules in aging fibroblasts, aligning them with those found in youthful cell cultures. As per the study, “all the investigated peptides (including Cardiogen) possess the ability to actively enhance the expression of the above markers, whose synthesis significantly reduced in senescent cultures.”[6]
+[p] This finding implies that Cardiogen may not only aid in the prevention of prostate cancer but also in controlling its progression. According to research by O.V. Kheifets and colleagues, these studies pave the way for developing peptide-based studies aimed at exploring age-related dysfunctions of the prostate gland.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] National Center for Biotechnology Information (2024). PubChem Compound Summary for CID 11583989, H-Ala-Glu-Asp-Arg-OH. https://pubchem.ncbi.nlm.nih.gov/compound/H-Ala-Glu-Asp-Arg-OH
+[a https://pubchem.ncbi.nlm.nih.gov/compound/H-Ala-Glu-Asp-Arg-OH] https://pubchem.ncbi.nlm.nih.gov/compound/H-Ala-Glu-Asp-Arg-OH
+[li] Khavinson VK, Popovich IG, Linkova NS, Mironova ES, Ilina AR. Peptide Regulation of Gene Expression: A Systematic Review. Molecules. 2021 Nov 22;26(22):7053. doi: 10.3390/molecules26227053. PMID: 34834147; PMCID: PMC8619776. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8619776/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8619776/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8619776/
+[li] Chalisova NI, Lesniak VV, Balykina NA, Urt’eva SA, Urt’eva TA, Sukhonos IuA, Zhekalov AN. [The effect of the amino acids and cardiogen on the development of myocard tissue culture from young and old rats]. Adv Gerontol. 2009;22(3):409-13. Russian. PMID: 20210190. https://pubmed.ncbi.nlm.nih.gov/20210190/
+[a https://pubmed.ncbi.nlm.nih.gov/20210190/] https://pubmed.ncbi.nlm.nih.gov/20210190/
+[li] Levdik NV, Knyazkin IV. Tumor-modifying effect of cardiogen peptide on M-1 sarcoma in senescent rats. Bull Exp Biol Med. 2009 Sep;148(3):433-6. English, Russian. doi: 10.1007/s10517-010-0730-9. PMID: 20396706. https://pubmed.ncbi.nlm.nih.gov/20396706/
+[a https://pubmed.ncbi.nlm.nih.gov/20396706/] https://pubmed.ncbi.nlm.nih.gov/20396706/
+[li] Begley L, Monteleon C, Shah RB, Macdonald JW, Macoska JA. CXCL12 overexpression and secretion by aging fibroblasts enhance human prostate epithelial proliferation in vitro. Aging Cell. 2005 Dec;4(6):291-8. doi: 10.1111/j.1474-9726.2005.00173.x. PMID: 16300481. https://pubmed.ncbi.nlm.nih.gov/16300481/
+[a https://pubmed.ncbi.nlm.nih.gov/16300481/] https://pubmed.ncbi.nlm.nih.gov/16300481/
+[li] Kheĭfets OV, Poliakova VO, Kvetnoĭ IM. [Peptidergic regulation of the expression of signal factors of fibroblast differentiation in the human prostate gland in cell aging]. Adv Gerontol. 2010;23(1):68-70. Russian. PMID: 20586252. https://pubmed.ncbi.nlm.nih.gov/20586252/
+[a https://pubmed.ncbi.nlm.nih.gov/20586252/] https://pubmed.ncbi.nlm.nih.gov/20586252/
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

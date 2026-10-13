@@ -1,0 +1,133 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/Lipopetide-1.webp] 
+[img] Lipopeptide (Biopeptide EL) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Lipopetide-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Lipopeptide_3140044_20260721_BTP_page-0001.webp] 
+[img] Lipopeptide (Biopeptide EL) (200mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Lipopeptide_3140044_20260721_BTP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Lipopeptide_3140044_20260721_BTP_page-0002.webp] 
+[img] Lipopeptide (Biopeptide EL) (200mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Lipopeptide_3140044_20260721_BTP_page-0002.webp
+[h1] Lipopeptide (Biopeptide EL) (200mg)
+[p] $220.00
+[p] Lipopeptide peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_5991 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $209.00
+[input name=wccs_tier_select_5991 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $198.00
+[label] Lipopeptide (Biopeptide EL) (200mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Lipopeptide_3140044_20260721_BTP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Lipopeptide (Biopeptide EL) Peptide
+[p] Lipopeptide is a common name for Biopeptide EL, also known as palmitoyl hexapeptide-12. As the name suggests, this peptide is made of six amino acids and has a palmitic fatty acid addition. The inclusion of palmitic acid within the Lipopeptide structure is thought to enhance penetration to the deeper layers of various structures made of skin cells. The amino acids in the peptide are valine-glycine-valine-alanine-proline-glycine (VGVAPG), and the sequence is one of the most common found in naturally occurring proteins like elastin and its precursor, tropoelastin. By mimicking fragments of elastin, the peptide is thought to interact with fibroblast cells and exert a potential impact on the production of vital proteins to the skin’s extracellular matrix (ECM). Fibroblasts are a subset of cells found in connective tissue, such as the one that provides support for skin cells. Fibroblasts can actively produce ECM proteins, and some of the most important proteins are considered to be collagen, elastin, and hyaluronic acid. According to scientific research, Lipopeptide may potentially enhance the creation and growth of collagen and hyaluronic acid within the ECM.[1]
+[h3] Specifications
+[p] Sequence: Pal-Val-Gly-Val-Ala-Pro-Gly-OH or Palmitoyl – Hexapeptide-12
+[p] Molecular Formula: C38H68N6O8
+[p] Molecular Weight: 736.98g/mol
+[p] Synonyms: Oligopeptide-34, Biopeptide EL
+[h3] Lipopeptide Research
+[p] Lipopeptide has been suggested to act primarily to support endogenous collagen and hyaluronic acid synthesis.[2] This may be mediated by interacting with fibroblast cell function and proliferation. Below, we detail the latest laboratory research on these and other theoretical concepts.
+[p] Lipopeptide and Fibroblast Synthesis Fibroblasts are specialized cells located within connective tissues, and they are primarily responsible for producing and maintaining the ECM. The ECM is a complex network of proteins and carbohydrates that provides structural and biochemical support to surrounding cells. Among the critical components synthesized by fibroblasts are collagen, a protein that imparts tensile strength to tissues, and hyaluronic acid, a glycosaminoglycan that contributes to tissue hydration and elasticity. Lipopeptide is posited to interact with the function of fibroblasts, possibly upregulating their production of collagen and hyaluronic acid. On the other hand, some experiments suggest that due to the similarity between Lipoptide and elastin, the peptide may exert negative feedback actions and lower the synthesis of endogenous elastin by fibroblasts.
+[p] Lipopeptide and Fibroblast Proliferation Lipopeptide appears to have additional positive actions on fibroblasts by possibly influencing their numbers. Researchers comment that “The present study clearly [indicated] that the hexapeptide VGVAPG stimulated skin fibroblast proliferation.”[3] Thus, in addition to possibly regulating the function of fibroblast cells, Lipopeptide is also studied for its potential to upregulate the production of new fibroblast cells. Researchers posit that the mechanism behind the proliferation-stimulating actions of Lipopetide may involve the VGVAPG sequence possibly binding to unidentified receptors on the plasma membranes of the fibroblast cells.[4] These plasmalemma receptors are proteins located on the cell surface that, when activated, may trigger internal signaling pathways within the cell. Although the specific receptors have not been fully identified, it is hypothesized that such binding could initiate intracellular signaling cascades, leading to fibroblast proliferation. The research indicates there may be a delay, known as a lag phase, before the cells begin to multiply, which may depend on the initial density of the fibroblast population. This suggests that the cellular response to VGVAPG might be influenced by how densely the cells are initially populated. Additionally, when fibroblasts are exposed to VGVAPG, they may change their shape, potentially becoming more elongated. This observation implies that VGVAPG might not only promote cell multiplication but also alter the structural organization of fibroblasts under these conditions, affecting their morphology and possibly their function within the tissue.
+[p] Lipopeptide and Fibroblast Migration Lipopeptide may also act as a chemoattractant and stimulate the migration of fibroblasts toward sites where more collagen or other ECM proteins may be needed.[5] The VGVAPG found in Lipoptide is posited to be a potential factor in influencing the movement of fibroblast cells in response to chemical signals such as repair signals. Researchers propose that the interaction between VGVAPG and fibroblasts may not only facilitate cell migration but may also play a role in tissue remodeling processes. Moreover, studies indicate that the responsiveness of fibroblasts to VGVAPG might depend on their level of differentiation. Specifically, undifferentiated fibroblasts, which are incapable of producing elastin, do not seem to exhibit chemotaxis toward VGVAPG or other peptides derived from elastin. However, once these cells are exposed to extracellular matrix material and begin synthesizing elastin, they appear to become responsive. This finding suggests that the ability to produce elastin may be necessary for fibroblast chemotaxis toward VGVAPG, potentially allowing the peptide to attract only mature and functional cells.
+[p] Lipopeptide and Collagen Collagen is a vital component of the extracellular matrix. It acts to support the skin barrier and is considered to naturally taper in production over time. The same researchers that investigated Lipopeptide’s potential on fibroblast migration also suggest that exposure of skin cell structures to the peptide may support an overall reduction of skin cell aging and maintain endogenous protein production. Exposure to Lipopeptide, according to these researchers, may potentially improve elasticity and hydration through the maintenance of collagen synthesis. It may also promote the production of other proteins that support skin structure, including fibrillin and elastin.[5] Scientists report that the peptide was also apparently “chemotactic for fibroblasts and monocytes, with optimal activity at approximately 10(-8) M.”
+[p] Lipopeptide and Skin Pigments Research suggests that Lipoptide may interact with melanocytes, which are the cells considered responsible for producing melanin. Specifically, Lipopeptide might modulate pathways involved in melanogenesis and even inhibit it based on observed changes in gene expression profiles.[6] For example, the peptide may downregulate the expression of genes crucial for melanin production in melanocytes. Consequently, this may suppress the levels of enzymes and factors with key roles in melanogenesis, such as microphthalmia-associated transcription factor (MITF), tyrosinase, and dopachrome tautomerase. MITF is a transcription factor that regulates the expression of melanogenic enzymes. Tyrosinase is an enzyme that catalyzes the initial steps of melanin synthesis, while dopachrome tautomerase is involved in the later stages of the pathway. By potentially inhibiting these proteins, Lipopeptide might lead to decreased melanin synthesis, resulting in lighter pigmentation. Additionally, Lipopeptide may exert actions through the activation (phosphorylation) of extracellular signal-regulated kinase (ERK). Activation of ERK can lead to the degradation of MITF, further reducing melanin production. Data using in vitro models simulating melanin synthesis have indicated that Lipopeptide may lead to a marked reduction in melanin content, as evidenced by absorbance measurements indicating lower melanin levels.[6]
+[p] Lipopeptide and Inflammation Researchers suggest that Lipopeptide might influence the production of proinflammatory cytokines in skin cells.[7] These cytokines include interleukin-1 (IL-1), interleukin-6 (IL-6), and interleukin-8 (IL-8). By potentially altering the levels of these cytokines, Lipopeptide could conceivably slow down the degradation of the skin's extracellular matrix—a complex network of proteins and carbohydrates that provides structural support to skin cells. The researchers have conducted in vitro studies, indicating that Lipopeptide may reduce IL-6 production in keratinocytes and fibroblasts. IL-6 is thought to be a significant regulator of inflammation, a biological response necessary for repairing cells after injury or stress. However, if IL-6 production becomes excessive or prolonged, it may contribute to chronic inflammation. Chronic inflammation has been associated with the deterioration of the skin's structural integrity, possibly due to the activation of matrix metalloproteinases (MMPs).[8] MMPs are enzymes capable of breaking down extracellular matrix proteins like collagen and elastin, which are vital for the skin's strength and elasticity. Overactivation of MMPs might lead to reduced skin elasticity and firmness, along with other visible signs of skin cell aging, like the formation of wrinkles and creases along the skin surface. By potentially modulating IL-6 levels, Lipopeptide may also influence MMP activity and thus play a role in preserving the ECM around skin cells.[9] This preservation might hypothetically help maintain collagen and elastin levels, supporting skin cell integrity, elasticity, and resilience.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Al-Atif H. Collagen Supplements for Aging and Wrinkles: A Paradigm Shift in the Fields of Dermatology and Cosmetics. Dermatol Pract Concept. 2022 Jan 1;12(1):e2022018. doi: 10.5826/dpc.1201a18. PMID: 35223163; PMCID: PMC8824545.
+[a https://doi.org/10.5826/dpc.1201a18] doi: 10.5826/dpc.1201a18
+[li] Floquet N, Héry-Huynh S, Dauchez M, Derreumaux P, Tamburro AM, Alix AJ. Structural characterization of VGVAPG, an elastin-derived peptide. Biopolymers. 2004;76(3):266-80. doi: 10.1002/bip.20029. PMID: 15148686.
+[a https://doi.org/10.1002/bip.20029] doi: 10.1002/bip.20029
+[li] Tajima, S., Wachi, H., Uemura, Y., & Okamoto, K. (1997). Modulation by elastin peptide VGVAPG of cell proliferation and elastin expression in human skin fibroblasts. Archives of dermatological research, 289(8), 489–492. https://doi.org/10.1007/s004030050227
+[a https://doi.org/10.1007/s004030050227] https://doi.org/10.1007/s004030050227
+[li] Kamoun, A., Landeau, J. M., Godeau, G., Wallach, J., Duchesnay, A., Pellat, B., & Hornebeck, W. (1995). Growth stimulation of human skin fibroblasts by elastin-derived peptides. Cell adhesion and communication, 3(4), 273–281. https://doi.org/10.3109/15419069509081013
+[a https://doi.org/10.3109/15419069509081013] https://doi.org/10.3109/15419069509081013
+[li] Senior RM, Griffin GL, Mecham RP, Wrenn DS, Prasad KU, Urry DW. Val-Gly-Val-Ala-Pro-Gly, a repeating peptide in elastin, is chemotactic for fibroblasts and monocytes. J Cell Biol. 1984 Sep;99(3):870-4. doi: 10.1083/jcb.99.3.870. PMID: 6547961; PMCID: PMC2113419.
+[a https://doi.org/10.1083/jcb.99.3.870] doi: 10.1083/jcb.99.3.870
+[li] Widgerow, A., Wang, J., Ziegler, M., Fabi, S., Garruto, J., Robinson, D., & Bell, M. (2022). Advances in Pigmentation Management: A Multipronged Approach. Journal of drugs in dermatology : JDD, 21(11), 1206–1220. https://doi.org/10.36849/JDD.7013
+[a https://doi.org/10.36849/JDD.7013] https://doi.org/10.36849/JDD.7013
+[li] Ngoc, L. T. N., Moon, J. Y., & Lee, Y. C. (2023). Insights into bioactive peptides in cosmetics. Cosmetics, 10(4), 111.
+[li] Schagen, S. K. (2017). Topical peptide treatments with effective anti-aging results. Cosmetics, 4(2), 16.
+[li] Veiga, E., Ferreira, L., Correia, M., Pires, P. C., Hameed, H., Araújo, A. R., ... & Paiva-Santos, A. C. (2023). Anti-aging peptides for advanced skincare: focus on nanodelivery systems. Journal of Drug Delivery Science and Technology, 105087.
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Sale! Decapeptide-12 (200mg) $239.00 Original price was: $239.00.$226.00Current price is: $226.00.
+[a https://biotechpeptides.com/product/decapeptide-12-topical-200mg/] Sale! Decapeptide-12 (200mg) $239.00 Original price was: $239.00.$226.00Current price is: $226.00.
+[img] Decapeptide-12 (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Decapeptide-12-1-238x317.webp
+[h2] Decapeptide-12 (200mg)
+[li] Vialox (Pentapeptide-3V) (200mg) $210.00
+[a https://biotechpeptides.com/product/vialox-pentapeptide-3v-topical-200mg/] Vialox (Pentapeptide-3V) (200mg) $210.00
+[img] Vialox (Pentapeptide-3V) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Vialox-1-238x317.webp
+[h2] Vialox (Pentapeptide-3V) (200mg)
+[li] Syn-Coll (Palmitoyl Tripeptide-5) (200mg) $217.00
+[a https://biotechpeptides.com/product/syn-coll-palmitoyl-tripeptide-5-topical-200mg/] Syn-Coll (Palmitoyl Tripeptide-5) (200mg) $217.00
+[img] Syn-Coll (Palmitoyl Tripeptide-5) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Syn-Coll-1-238x317.webp
+[h2] Syn-Coll (Palmitoyl Tripeptide-5) (200mg)
+[li] Tripeptide-29 (200mg) $189.00
+[a https://biotechpeptides.com/product/tripeptide-29-topical-200mg/] Tripeptide-29 (200mg) $189.00
+[img] Tripeptide-29 (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Tripeptide-238x317.webp
+[h2] Tripeptide-29 (200mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

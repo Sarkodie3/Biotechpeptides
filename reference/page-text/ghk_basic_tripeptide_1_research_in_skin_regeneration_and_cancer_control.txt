@@ -1,0 +1,146 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] GHK Basic (Tripeptide 1): Research in Skin Regeneration and Cancer Control
+[p] by Dr. Usman | Sep 14, 2023 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] GHK Basic (Tripeptide 1) Research in Skin Regeneration and Cancer Control :: https://biotechpeptides.com/wp-content/uploads/2023/10/GHK-Basic-Tripeptide-1-Research-in-Skin-Regeneration-and-Cancer-Control.webp
+[p] It is postulated that GHK forms a copper 2+-complex, which may expedite the wound healing and skin repair processes. GHK is speculated to exert a multifaceted influence, possibly promoting collagen and glycosaminoglycan synthesis while also possibly regulating metalloproteinases and their inhibitors. Moreover, GHK appears to stimulate the production of collagen, dermatan sulfate, chondroitin sulfate, and decorin, potentially rejuvenating fibroblasts following radiation.
+[p] The molecule is said to possess chemo-attractive properties, recruiting immune and endothelial cells to injury sites, thereby possibly accelerating wound healing in diverse anatomical regions, including the skin, hair follicles, gastrointestinal tract, bone tissue, and foot pads in canines. Additionally, studies suggest that the peptide may induce systemic wound healing in rodents and pigs.[1]
+[p] Contents:
+[li] GHK Mechanism of Action
+[a #action] GHK Mechanism of Action
+[li] Research Studies
+[a #research] Research Studies
+[li] GHK Basic Peptide and Fibrinogen Suppression
+[a #fibrinogen] GHK Basic Peptide and Fibrinogen Suppression
+[li] GHK Basic Peptide and Skin Regeneration
+[a #skin] GHK Basic Peptide and Skin Regeneration
+[li] GHK Basic peptide and the Ubiquitin Proteasome System (UPS)
+[a #ups] GHK Basic peptide and the Ubiquitin Proteasome System (UPS)
+[li] GHK Basic peptide and Insulin-like Gene Suppression
+[a #gene] GHK Basic peptide and Insulin-like Gene Suppression
+[li] GHK Basic Peptide and Cancer Control
+[a #cancer] GHK Basic Peptide and Cancer Control
+[li] Conclusion
+[a #conclusion] Conclusion
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/ghk-basic-tripeptide-1-topical-200mg/] 
+[img] Buy GHK Basic (Tripeptide-1) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/GHK-Basic-1.png
+[h3] GHK Mechanism of Action
+[p] Research suggests that GHK tripeptide demonstrates a high affinity towards the copper ions (Cu2+). When bound to copper, GHK forms GHK-Cu, which appears to be the active form of the peptide. This copper complex appears to be extremely vital for many of GHK’s potential biological activities.[2]
+[p] GHK, both in its copper-bound (GHK-Cu) and copper-free forms, is speculated to exert a profound influence on the transcription of numerous genes central to an organism’s response to stress and injury. These transcriptional effects potentially encompass a wide spectrum of biological processes, including tissue remodeling, antioxidant defenses, anti-inflammatory responses, pain modulation, anxiety alleviation, angiogenesis, nerve outgrowth, and anti-cancer actions. Notably, the GHK sequence is speculated to be integral to the collagen molecule, and the secretion of GHK, in conjunction with the SPARC protein, appears to occur naturally following an injury because of protein degradation processes.[2]
+[a https://biotechpeptides.com/product/ghk-cu-topical-200mg/] GHK-Cu
+[p] Copper, as a transition metal, appears to play an indispensable role in the biology of eukaryotic organisms. GHK’s apparently pivotal role is attributed to its ability to transition between oxidized Cu(2+) and reduced Cu forms, rendering it a possible essential cofactor in a diverse array of biochemical reactions predicated on electron transfer mechanisms. Approximately a dozen enzymes are said to rely on the redox properties of copper to catalyze critical biochemical reactions encompassing cellular respiration, maintenance of antioxidant defenses, detoxification processes, blood clotting, and the formation of connective tissues.[1]
+[p] Beyond these functions, copper also appears integral to essential biological processes such as iron metabolism, oxygenation, neurotransmission, embryonic development, and numerous other facets of physiological functioning.
+[h2] Research Studies
+[h3] GHK Basic Peptide and Fibrinogen Suppression
+[p] Fibrinogen comprises of three distinct polypeptide chains: alpha, beta, and gamma. GHK appears to exert a pronounced inhibitory effect on the genetic expression of the beta chain (FGB) of fibrinogen.
+[p] This inhibitory action is said to be particularly noteworthy as the synthesis of fibrinogen necessitates the presence of equimolar quantities of all three polypeptide chains, rendering an insufficiency in FGB detrimental to the overall fibrinogen production process.
+[p] Furthermore, GHK appears to extend its influence to the regulation of interleukin-6 (IL-6), a pivotal pro-inflammatory cytokine known for its role as a prominent positive modulator of fibrinogen synthesis through interactions with fibrinogen genes.[3]
+[p] In cellular models, GHK appears to demonstrate a capacity to downregulate IL-6 secretion in skin fibroblasts and curtail IL-6 gene expression within SZ95 sebocytes. In summation, the dual impact of GHK on the FGB gene, coupled with its potential ability to mitigate IL-6 production, signifies an overarching suppression of the overall fibrinogen production cascade.
+[h3] GHK Basic Peptide and Skin Regeneration
+[p] In a recent scientific investigation, it was indicated that the pre-treatment of mesenchymal stem/stromal cells (MSC) with GHK, delivered through a biodegradable carrier in the form of alginate gel, possibly yielded a dose-dependent augmentation in the secretion of proangiogenic factors. Notably, this suggested increase encompassed key factors such as vascular endothelial growth factor (VEGF) and basic fibroblast growth factor (bFGF).
+[p] Moreover, a pivotal observation emerged when MSC were pre-exposed to antibodies targeting integrins alpha 1 and beta 1. Under such circumstances, MSC possibly exhibited a marked incapacity to elicit the enhanced secretion of VEGF.
+[p] This compelling finding strongly implies that the influence of GHK on the secretion of trophic factors by MSC is probably entwined with the cellular pathway mediated by integrins alpha 1 and beta 1.
+[p] Reports state, “GHK-Cu, in concentrations of 0.1–10 micromolar, increased expression of epidermal stem cell markers such as integrins and p63 in basal keratinocytes in dermal skin equivalents, which according to the authors indicate increased stemness and proliferative potential of basal keratinocytes. Therefore, restoration of gene pattern characteristic of healthy stem cells, which leads to activation of integrins and p63 cellular pathways may be another target of GHK’s gene modulatory activity relevant to skin regeneration.”[4] [5]
+[h3] GHK Basic peptide and the Ubiquitin Proteasome System (UPS)
+[p] The Ubiquitin Proteasome System (UPS) is considered to be a crucial mechanism responsible for regulating and removing damaged proteins within the cell. It is said to play a pivotal role in maintaining protein quality and overall cellular health. Dysfunction in the Ubiquitin system may accelerate aging-related symptoms.
+[p] In a noteworthy study[6], researchers introduced a specific peptide to research test models. Interestingly, this peptide appeared to exhibit potential to modulate the expression of UPS-related genes. Notably, it appeared to upregulate the expression of 41 UPS genes while concurrently possibly suppressing the activity of a single UPS gene. This outcome suggests a positive impact on the Ubiquitin Proteasome System.
+[h3] GHK Basic peptide and Insulin-like Gene Suppression
+[p] The insulin family of proteins has been postulated to play a role as a negative regulator of longevity. Elevated levels of insulin and insulin-like proteins have been associated with a reduction in lifespan. GHK, in its biological capacity, is speculated to exert an influence on this system by upregulating the expression of three genes while simultaneously downregulating six genes within this insulin-related framework.
+[p] The insulin/IGF-1-like receptor pathway appears to stand as a significant contributor to the biological aging process across various organisms. A closer examination of gene expression data reveals that GHK possibly exerts a suppressive effect on this system, as suggested by the downregulation of six out of the nine-affected insulin/IGF-1 genes.[7]
+[p] In vitro experiments have provided compelling insights, indicating that mutations that curtail insulin/IGF-1 signaling may decelerate the degenerative aging process and possibly extend the lifespan of various organisms, including mice. Furthermore, it is worth noting that reduced IGF-1 signaling may be considered a contributing factor to the “anti-aging” benefits associated with calorie restriction.
+[h3] GHK Basic Peptide and Cancer Control
+[p] In the context of cancer suppression, genes responsible for caspase activity, growth regulation, and DNA repair play pivotal roles.
+[p] In a noteworthy study conducted in 2010, Hong et al. identified a probable comprehensive set of 54 genes closely associated with the aggressive and metastatic attributes of colon cancer. To explore potential avenues for intervention, researchers harnessed the resources of the Broad Institute’s Connectivity Map, seeking compounds that may be possibly capable of counteracting the distinct gene expression patterns linked to aggressive cancer phenotypes.
+[p] The outcomes of this investigation revealed compelling insights. Specifically, two molecules, GHK and Securinine, appeared to exhibit a remarkable potential to reverse the differential gene expression observed in these cancer-related genes.
+[h2] Conclusion
+[p] In conclusion, GHK Basic (Tripeptide 1) emerges as a possible compelling agent in the realm of skin and regenerative research. Its apparent multifaceted potential encompasses wound healing, collagen synthesis, metalloproteinase modulation, and gene expression regulation. The intricate mechanisms through which GHK likely operates, particularly when complexed with copper, may underscore its potential in promoting skin regeneration and tissue repair.
+[a https://biotechpeptides.com/product/ghk-basic-tripeptide-1-topical-200mg/] GHK Basic (Tripeptide 1)
+[p] However, while the prospects are promising, it is essential to emphasize the need for continued rigorous research to unravel the full spectrum of GHK’s capabilities and optimize its efficacy.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Pickart L, Vasquez-Soltero JM, Margolina A. GHK Peptide as a Natural Modulator of Multiple Cellular Pathways in Skin Regeneration. Biomed Res Int. 2015;2015:648108. doi: 10.1155/2015/648108. Epub 2015 Jul 7. PMID: 26236730; PMCID: PMC4508379. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4508379/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4508379/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4508379/
+[li] Pickart L, Freedman JH, Loker WJ, Peisach J, Perkins CM, Stenkamp RE, Weinstein B. Growth-modulating plasma tripeptide may function by facilitating copper uptake into cells. Nature. 1980 Dec 25;288(5792):715-7. doi: 10.1038/288715a0. PMID: 7453802. https://pubmed.ncbi.nlm.nih.gov/7453802/
+[a https://pubmed.ncbi.nlm.nih.gov/7453802/] https://pubmed.ncbi.nlm.nih.gov/7453802/
+[li] Pickart L, Vasquez-Soltero JM, Margolina A. GHK and DNA: resetting the human genome to health. Biomed Res Int. 2014;2014:151479. doi: 10.1155/2014/151479. Epub 2014 Sep 11. PMID: 25302294; PMCID: PMC4180391. https://pubmed.ncbi.nlm.nih.gov/25302294/
+[a https://pubmed.ncbi.nlm.nih.gov/25302294/] https://pubmed.ncbi.nlm.nih.gov/25302294/
+[li] Kang YA, Choi HR, Na JI, Huh CH, Kim MJ, Youn SW, Kim KH, Park KC. Copper-GHK increases integrin expression and p63 positivity by keratinocytes. Arch Dermatol Res. 2009 Apr;301(4):301-6. doi: 10.1007/s00403-009-0942-x. Epub 2009 Mar 25. PMID: 19319546. https://pubmed.ncbi.nlm.nih.gov/19319546/
+[a https://pubmed.ncbi.nlm.nih.gov/19319546/] https://pubmed.ncbi.nlm.nih.gov/19319546/
+[li] Choi HR, Kang YA, Ryoo SJ, Shin JW, Na JI, Huh CH, Park KC. Stem cell recovering effect of copper-free GHK in skin. J Pept Sci. 2012 Nov;18(11):685-90. doi: 10.1002/psc.2455. Epub 2012 Sep 28. PMID: 23019153. https://pubmed.ncbi.nlm.nih.gov/23019153/
+[a https://pubmed.ncbi.nlm.nih.gov/23019153/] https://pubmed.ncbi.nlm.nih.gov/23019153/
+[li] Pickart L, Vasquez-Soltero JM, Margolina A. The human tripeptide GHK-Cu in prevention of oxidative stress and degenerative conditions of aging: implications for cognitive health. Oxid Med Cell Longev. 2012;2012:324832. doi: 10.1155/2012/324832. Epub 2012 May 10. PMID: 22666519; PMCID: PMC3359723. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3359723/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3359723/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3359723/
+[li] Pickart L, Vasquez-Soltero JM, Margolina A. GHK and DNA: resetting the human genome to health. Biomed Res Int. 2014;2014:151479. doi: 10.1155/2014/151479. Epub 2014 Sep 11. PMID: 25302294; PMCID: PMC4180391. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4180391/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4180391/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4180391/
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

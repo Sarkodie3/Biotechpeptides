@@ -1,0 +1,147 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[p] by Dr. Usman | Oct 10, 2026 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research.webp
+[a https://biotechpeptides.com/product/cardiogen-20mg/] Cardiogen
+[p] As a tetrapeptide of four amino acid residues, Cardiogen falls within the size range of ultrashort bioregulatory peptides that research suggests may penetrate cellular and nuclear membranes and interact with double-stranded DNA and histone proteins at physiologically relevant concentrations. The peptide is structurally related to other Khavinson tetrapeptides, including AEDL (Bronchogen, targeting bronchial epithelium) and AEDG (Epitalon, targeting pineal gland tissue), differing solely at position 4 where Arginine (Arg) substitutes for Leucine or Glycine, respectively. Research suggests this single amino acid variation at the C-terminus may underlie the tissue-specific activity observed across these structurally analogous compounds.[2]
+[p] Contents:
+[li] AEDR Historical Development
+[a #hd] AEDR Historical Development
+[li] Proposed Mechanism: Nuclear Penetration and Epigenetic Gene Regulation
+[a #ma] Proposed Mechanism: Nuclear Penetration and Epigenetic Gene Regulation
+[li] AEDR Scientific and Research Studies
+[a #research] AEDR Scientific and Research Studies
+[li] Cardiomyocyte Proliferation and p53 Modulation in Organotypic Myocardial Tissue Culture
+[a #cp] Cardiomyocyte Proliferation and p53 Modulation in Organotypic Myocardial Tissue Culture
+[li] Cardioprotective Activity: Experimental Myocardial Infarction Model
+[a #ca] Cardioprotective Activity: Experimental Myocardial Infarction Model
+[li] Tumor-Modifying Activity in Senescent Rat M-1 Sarcoma Models
+[a #tm] Tumor-Modifying Activity in Senescent Rat M-1 Sarcoma Models
+[li] Cardiovascular Inflammaging and SASP: AEDR Peptide Regulation
+[a #ci] Cardiovascular Inflammaging and SASP: AEDR Peptide Regulation
+[li] Structural Basis of Peptide-DNA Interactions: Broader Mechanistic Framework
+[a #bmf] Structural Basis of Peptide-DNA Interactions: Broader Mechanistic Framework
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/cardiogen-20mg/] 
+[img] Cardiogen (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Cardiogen-1.webp
+[h3] AEDR Historical Development
+[p] The Khavinson bioregulator peptide program originated in the late 1960s at what became the St. Petersburg Institute of Bioregulation and Gerontology.[9] The foundational hypothesis of this research program proposed that organ-specific short peptides, present endogenously in functional mammalian tissue, serve as physiological regulators of gene expression within their target tissues. The program further proposed that cellular age-associated decline in these peptide signals contributes to progressive deterioration of organ function, and that exogenous restoration of tissue-specific peptide bioregulators might attenuate age-related cellular dysfunction.[2,9]
+[h3] Proposed Mechanism: Nuclear Penetration and Epigenetic Gene Regulation
+[p] The proposed mechanism of action of Cardiogen, consistent with that described for the broader class of Khavinson short peptides, involves cellular internalization, nuclear translocation, and subsequent interaction with specific DNA sequences within gene promoter regions and/or histone proteins.[2,3] This mechanism diverges fundamentally from classical receptor-mediated peptide signaling, in which ligands act at cell surface receptors to initiate intracellular signaling cascades. Instead, bioregulatory peptides of this class are proposed to function as direct epigenetic modulators operating within the nucleus.[2]
+[p] Experimental studies reportedly indicating nuclear penetration of short peptides were documented by Fedoreyeva et al. (2011),[3] who employed fluorescein isothiocyanate (FITC)-labeled short peptides and confocal microscopy in HeLa cell cultures. Marked fluorescence was detected in the cytoplasm, nucleus, and nucleolus following incubation with labeled peptides of the AEDG, EDR, and KEDG sequences, providing direct visualization of intracellular and nuclear translocation of ultrashort peptides.
+[p] Stern-Volmer fluorescence quenching analyses indicated sequence-specific interactions between peptides and single- and double-stranded deoxyribooligonucleotides in vitro, with binding constants varying according to peptide primary structure.³ Research suggests these findings might indicate that the specific sequence of AEDR, rather than non-specific charge interactions, may determine the selectivity of its DNA-binding activity.
+[p] A systematic analysis[7] of structural motifs in peptide-dsDNA interactions identified that short peptides with charged residue compositions exhibit preferential binding to defined nucleotide sequence motifs. Modeling data suggested that peptides within the AEDX family (where X varies at position 4) bind to overlapping but distinct promoter sequences depending on the C-terminal residue identity, potentially explaining observed tissue specificity differences between structurally related bioregulators.[7] Research suggests these computational models might indicate that Cardiogen’s arginine at position 4 may direct preferential interaction with promoter regions of cardiac-expressed genes. However, experimental validation at single-gene resolution remains limited in the published literature.
+[h2] AEDR Scientific and Research Studies
+[h3] Cardiomyocyte Proliferation and p53 Modulation in Organotypic Myocardial Tissue Culture
+[p] The most extensively cited preclinical investigation of Cardiogen is an organotypic tissue culture study by Chalisova et al. (2009).[4] This study examined the relevance of all 20 standard amino acids and the synthetic tetrapeptide Cardiogen on cell proliferation and apoptosis in myocardial tissue explants derived from young (3-month-old) and aged (24-month-old) murine cells. All substances were relevant at a uniform concentration of 10⁻¹² M in organotypic tissue culture systems, supporting direct comparison of cellular responses at equivalent molar concentrations.
+[p] Findings indicated that only 7 of the 20 individual amino acids stimulated cardiomyocyte proliferation in tissue from young animals, and only 2 amino acids retained proliferative activity in aged myocardial cells – a pattern interpreted as reflecting the documented impairment of amino acid transport mechanisms associated with cellular aging. Cardiogen, by contrast, was reported to produce substantial stimulation of cardiomyocyte proliferation in both young and aged tissue cultures.
+[p] Research suggests this differential response might indicate that the intact tetrapeptide sequence confers biological activity that is qualitatively distinct from that of its constituent amino acids individually. This interpretation was supported by a negative control experiment in which the four constituent amino acids of Cardiogen were evaluated individually at the same 10⁻¹² M concentration and did not replicate the tetrapeptide’s proliferative activity, suggesting the biological activity may reside in the intact peptide sequence rather than its component residues.[4]
+[p] Immunohistochemical analysis of p53 protein expression in Cardiogen-treated myocardial cultures indicated a reduction in p53 immunoreactivity relative to untreated controls. Research suggests this observation might indicate suppression of p53-mediated apoptotic signaling in cardiomyocytes, consistent with a proposed anti-apoptotic mechanism in cardiac tissue. p53 is established as a principal transcriptional activator of pro-apoptotic gene programs, and its downregulation in cardiomyocytes may be associated with reduced programmed cell death, a potentially significant finding in the context of cellular age-associated cardiomyocyte loss and myocardial remodeling biology.[10]
+[h3] Cardioprotective Activity: Experimental Myocardial Infarction Model
+[p] Preclinical data cited in the Khavinson research program examined the relevance of Cardiogen in a rat model of experimental myocardial infarction (MI).[6] Findings reported within the review literature indicated that Cardiogen administration in this model was associated with a reduction in mortality approximately three-fold relative to untreated control animals. Histopathological observations suggested preservation of glycogen content in surviving myocardial tissue and reduced extent of necrotic tissue relative to controls, with investigators proposing that these implications may reflect Cardiogen’s putative role in stabilizing mitochondrial integrity and modulating apoptotic pathways in ischaemic cardiomyocytes.
+[p] Research suggests these preliminary observations might indicate that Cardiogen’s proposed anti-apoptotic and proliferative implications, documented at the cellular level in organotypic culture, may extend to physiological responses following acute myocardial injury in preclinical models. However, the mechanistic basis linking Cardiogen exposure to reduced mortality in this model has not been fully characterized, and independent replication of these findings in controlled experimental designs remains limited in the published literature.[6]
+[h3] Tumor-Modifying Activity in Senescent Rat M-1 Sarcoma Models
+[p] An investigation[5] examined the tumor-modifying relevance of Cardiogen in senescent murine models bearing transplanted M-1 sarcoma. The study employed a concentration-dependent design in which Cardiogen was administered across multiple experimental groups at varying concentrations, with tumor growth, apoptotic index, and proliferative activity assessed at study endpoint.
+[p] Findings suggested that apoptosis levels in M-1 sarcoma tumor cells were elevated in all Cardiogen-treated experimental groups relative to the untreated control group, and that mitigation of tumor growth occurred in a concentration-dependent manner. Morphological analysis indicated that the observed tumor-mitigatory relevance was associated with development of hemorrhagic necrosis and stimulation of tumor cell apoptosis within the sarcoma tissue. Notably, proliferative activity parameters in the tumor were not significantly altered, leading the investigators to propose that the growth-mitigating relevance was not attributable to a direct cytostatic mechanism on tumor cells but rather operated through modulation of the tumor’s vascular network.
+[p] Research suggests these findings might indicate a dual context-dependent relevance of Cardiogen on apoptotic regulation: a proposed anti-apoptotic, pro-proliferative relevance in normal cardiac tissue contrasted with pro-apoptotic implications in malignant tumor tissue. This apparent cell-type specificity of apoptotic modulation may reflect differential expression of Cardiogen’s proposed DNA-binding targets across normal and transformed cell populations, though the precise molecular basis of this divergence has not been experimentally characterized.[5]
+[h3] Cardiovascular Inflammaging and SASP: AEDR Peptide Regulation
+[p] A 2022 review[6] systematically examined the molecular landscape of the senescence-associated secretory phenotype (SASP) and inflammaging in cells of the cardiovascular system, with a specific focus on identifying peptide regulatory targets. SASP is characterized by the secretion of a broad spectrum of pro-inflammatory cytokines (including IL-1α/β, IL-6, IL-8, TNFα, TGFβ1, NF-κB), matrix metalloproteinases, adhesion molecules, and extracellular vesicles from senescent vascular smooth muscle cells (VSMCs), endotheliocytes, and cardiomyocytes. This chronic, low-grade secretory profile is proposed to drive systemic inflammaging and contribute to progression of cellular age-associated cardiovascular pathology including atherosclerosis, coronary artery disease, and myocardial infarction.[6]
+[p] Within this review, the AEDR tetrapeptide was identified as exhibiting cardioprotective properties with documented reduction in post-MI mortality in the experimental rat model referenced above. The review characterized the molecular targets of AEDR regulation within the SASP framework, identifying anti-proliferative proteins (p16, p19, p21, p38, p53), pro-inflammatory cytokines, and sirtuin family members as components of the SASP molecular signature that may be subject to peptide regulation. Research suggests that AEDR’s proposed modulation of p53 in cardiomyocytes may intersect with the p53-dependent pathways through which SASP is initiated and maintained in senescent cardiovascular cells, potentially positioning the peptide as a candidate tool for studying the molecular interface between cellular senescence and myocardial biology.
+[h3] Structural Basis of Peptide-DNA Interactions: Broader Mechanistic Framework
+[p] A systematic computational study[7] employed a genome-wide structural motif search algorithm to identify binding complementarity between short Khavinson bioregulatory peptides and double-stranded DNA sequences. The analysis mapped the DNA sequence motifs to which specific peptides, including members of the AEDX tetrapeptide family, exhibit preferential binding affinity based on structural and electrostatic complementarity principles.
+[p] Findings from this computational analysis indicated that peptides within the AED-containing family bind to defined short nucleotide sequence motifs, with the identity of the C-terminal residue supporting the precise genomic binding loci. The study identified that these binding motifs are enriched within the promoter regions of genes expressed in a tissue-specific manner, consistent with the proposed tissue specificity of individual bioregulatory peptides.⁷ Research suggests these computational predictions might provide a structural model for understanding how AEDR may selectively engage cardiac gene promoters. However, empirical mapping of AEDR-specific promoter binding in cardiac tissue has not been published as an independent study.
+[p] Complementary investigations documented by Khavinson et al. (2013)[8] constructed spatial molecular models of DNA-peptide complexes for 19 short peptides using molecular docking methodology, identifying that peptides within structurally related families share DNA binding sites in some cases while exhibiting distinct binding orientations in others. For the AEDL and EDL sequences, binding was mapped to the CTCC motif, while related peptides were mapped to ACCT and AGAT motifs. Research suggests extending this docking-based modeling framework to AEDR may identify specific cardiac gene promoter binding sites that may be evaluated experimentally, representing a prospective direction for mechanistic validation of the peptide’s proposed cardiac specificity.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] National Center for Biotechnology Information. PubChem Compound Summary for CID 11583989, H-Ala-Glu-Asp-Arg-OH (Cardiogen). 2024. Available from: https://pubchem.ncbi.nlm.nih.gov/compound/H-Ala-Glu-Asp-Arg-OH
+[a https://pubchem.ncbi.nlm.nih.gov/compound/H-Ala-Glu-Asp-Arg-OH] https://pubchem.ncbi.nlm.nih.gov/compound/H-Ala-Glu-Asp-Arg-OH
+[li] Khavinson VK, Popovich IG, Linkova NS, Mironova ES, Ilina AR. Peptide Regulation of Gene Expression: A Systematic Review. Molecules. 2021;26(22):7053. doi:10.3390/molecules26227053. PMID: 34834147. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8619776/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8619776/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8619776/
+[li] Fedoreyeva LI, Kireev II, Khavinson VKh, Vanyushin BF. Penetration of short fluorescence-labeled peptides into the nucleus in HeLa cells and in vitro specific interaction of the peptides with deoxyribooligonucleotides and DNA. Biochemistry (Moscow). 2011;76(11):1210-1219. doi:10.1134/S0006297911110022. Available from: https://link.springer.com/article/10.1134/S0006297911110022
+[a https://link.springer.com/article/10.1134/S0006297911110022] https://link.springer.com/article/10.1134/S0006297911110022
+[li] Chalisova NI, Lesniak VV, Balykina NA, Urt’eva SA, Urt’eva TA, Sukhonos IuA, Zhekalov AN. The effect of the amino acids and cardiogen on the development of myocardial tissue culture from young and old rats. Adv Gerontol (Uspekhi Gerontologii). 2009;22(3):409-13. PMID: 20210190. Available from: https://pubmed.ncbi.nlm.nih.gov/20210190/
+[a https://pubmed.ncbi.nlm.nih.gov/20210190/] https://pubmed.ncbi.nlm.nih.gov/20210190/
+[li] Levdik NV, Knyazkin IV. Tumor-modifying effect of cardiogen peptide on M-1 sarcoma in senescent rats. Bull Exp Biol Med. 2009;148(3):433-436. doi:10.1007/s10517-010-0730-9. PMID: 20396706. Available from: https://pubmed.ncbi.nlm.nih.gov/20396706/
+[a https://pubmed.ncbi.nlm.nih.gov/20396706/] https://pubmed.ncbi.nlm.nih.gov/20396706/
+[li] Khavinson V, Linkova N, Dyatlova A, Kantemirova R, Kozlov K. Senescence-Associated Secretory Phenotype of Cardiovascular System Cells and Inflammaging: Perspectives of Peptide Regulation. Cells. 2022;12(1):106. doi:10.3390/cells12010106. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9818427/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9818427/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9818427/
+[li] Kolchina N, Khavinson V, Linkova N, Yakimov A, Baitin D, Afanasyeva A, Petukhov M. Systematic search for structural motifs of peptide binding to double-stranded DNA. Nucleic Acids Res. 2019;47(20):10553-10563. doi:10.1093/nar/gkz850. PMID: 31586398. Available from: https://pubmed.ncbi.nlm.nih.gov/31586398/
+[a https://pubmed.ncbi.nlm.nih.gov/31586398/] https://pubmed.ncbi.nlm.nih.gov/31586398/
+[li] Khavinson VK, Linkova NS, Tarnovskaya SI, Shataeva LK, Yakutseni PP. Short cell-penetrating peptides: a model of interactions with gene promoter sites. Bull Exp Biol Med. 2013;154(3):403-410. doi:10.1007/s10517-013-1965-0. PMID: 24771399. Available from: https://pubmed.ncbi.nlm.nih.gov/24771399/
+[a https://pubmed.ncbi.nlm.nih.gov/24771399/] https://pubmed.ncbi.nlm.nih.gov/24771399/
+[li] Anisimov VN, Khavinson VK. Peptide bioregulation of aging: results and prospects. Biogerontology. 2010;11(2):139-149. doi:10.1007/s10522-009-9249-8. PMID: 19830585. Available from: https://link.springer.com/article/10.1007/s10522-009-9249-8
+[a https://link.springer.com/article/10.1007/s10522-009-9249-8] https://link.springer.com/article/10.1007/s10522-009-9249-8
+[li] Khavinson VK, Tarnovskaya SI, Linkova NS, Gutop EO, Elashkina EV. Epigenetic aspects of peptidergic regulation of vascular endothelial cell proliferation during aging. Adv Gerontol. 2015;5(4):250-256. doi:10.1134/S2079057015040116. Available from: https://link.springer.com/article/10.1134/S2079057015040116
+[a https://link.springer.com/article/10.1134/S2079057015040116] https://link.springer.com/article/10.1134/S2079057015040116
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

@@ -1,0 +1,133 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/Tripeptide.webp] 
+[img] Tripeptide-29 (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Tripeptide-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Tripeptide-29_3140099_20260721_PTB_page-0001.webp] 
+[img] Tripeptide-29 (200mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Tripeptide-29_3140099_20260721_PTB_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Tripeptide-29_3140099_20260721_PTB_page-0002.webp] 
+[img] Tripeptide-29 (200mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Tripeptide-29_3140099_20260721_PTB_page-0002.webp
+[h1] Tripeptide-29 (200mg)
+[p] $189.00
+[p] Tripeptide-29 peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_3556 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $179.55
+[input name=wccs_tier_select_3556 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $170.10
+[label] Tripeptide-29 (200mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Tripeptide-29_3140099_20260721_PTB.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Tripeptide-29
+[p] Tripeptide-29 is a peptide that is one of the basic monomers of collagen. Collagen is a long-chain polymer composed of short monomers made of three consecutive amino acids. These monomers combine to form a secondary structure, which then may form tertiary and even quaternary structures. These complex structures may have many potential emergent properties. For example, most collagen molecules are thought to play roles in providing structural integrity and elasticity to the cellular complexes in tissues like the stratum corneum, tendons, and bones. Collagen subunits most often follow the pattern of Gly-Pro-X, Gly-Xo-X, or Gly-X-Hyp. Tripeptide-29 is a GlyPro Hyp peptide, a complete synthetic analog of common collagen building blocks. Beyond its proposed involvement in collagen synthesis, researchers speculate that Tripeptide-29 may have additional biological implications. For instance, some preliminary studies suggest it may act as an antioxidant, potentially aiding in the protection of cells against oxidative stress, which is the imbalance between free radicals and antioxidants that may lead to cellular damage. It is hypothesized that Tripeptide-29 might exhibit anti-inflammatory properties, possibly reducing inflammation; anti-fibrotic actions, which may help mitigate excessive formation of fibrous connective tissue; and anti-melanogenic characteristics, potentially influencing melanin production and affecting pigmentation processes in the dermal and epidermal layer.
+[h3] Specifications
+[p] MOLECULAR FORMULA: C12H19N3O5
+[p] MOLECULAR WEIGHT: 285.3 g/mol
+[p] SEQUENCE: Gly-Pro-Hyp
+[h3] Tripeptide-29 Research
+[p] Tripeptide-29 and Coagulation Models In vitro studies on Tripeptide-29 posit that the unpolymerized form of the peptide may be a partial agonist of the collagen receptor GPVI, which appears to be expressed on the surface of platelets.[1] Platelets are cell-like structures considered to be involved in the early formation of blood clots. GPVI receptors appear to play an important role in collagen-induced activation of platelet aggregation in vascular tissue and are the first step toward blood clot formation and tissue repair. Therefore, collagen fibers are generally considered to be thrombus-forming. In the case of dysregulation, collagen thrombus formation may lead to thrombus formation. In this specific trial, Tripeptide-29 containing motifs of collagen appeared to induce tyrosine phosphorylation of the tyrosine kinase Syk and phospholipase C gamma2 (PLCgamma2) in platelets, which ultimately stimulated platelet aggregation. The scientists also suggested that “The monomeric peptides [...] are partial agonists of the collagen receptor GPVI.” Interestingly, researchers suggested that in the course of cross-linking of Tripeptide-29, it appeared to promote GPVI activation. Observations like this may help researchers better understand how this peptide creates an “accurate” coagulation environment in a variety of studies of research models that are impacted by bleeding/clotting disorders.
+[p] Tripeptide-29 and Collagen Stability Benchtop studies on the role of short peptides such as Tripeptide-29 have suggested that they may extend certain regulatory action in collagen stability. In particular, research studies on Tripeptide-29 have helped scientists understand that the final structure of collagen appears to be primarily affected by the final amino acid of the tripeptide monomer. The amino acid at position C appears to have the greatest action on the final collagen stability for ABC monomers.[2] Thanks to the presence of Hyp as the third amino acid in the monomer Tripeptide-29, it may work to support collagen stability compared to other tripeptide monomers. Specifically, it may be that the -OH (hydroxy) group of Hyp in Tripeptide-29 contributes to the formation of favorable interatomic interactions.[3] Researchers also posit that the presence of Tripeptide-29 monomers as a part of the sequence in collagen may significantly reduce the susceptibility of the molecule to UV-related damage and lower the degradation rate of collagen, thus further contributing to collagen stability under specific conditions.[4]
+[p] Tripeptide-29 and Skin Cell Aging Free radical damage is a major cause of cell and tissue aging. Many defenses exist to guard against free radical damage, though the efficacy of certain endogenous defenses may decline over time. Studies have suggested that collagen hydrolysates composed of monomers, such as Tripeptide-29, may be potent radical scavengers.[5] Further research suggests that such hydrolysate, primarily constituting Tripeptide-29, might have the potential to reduce the accumulation of advanced glycation end products (AGEs).[6] AGEs are considered detrimental compounds formed when sugar molecules bind to proteins or lipids, a process referred to by researchers as glycation, which may ultimately alter the mechanical properties and stability of dermal cells and potentially accelerate cellular aging. By potentially mitigating the formation of denatured collagen and decreasing levels of reactive oxygen species (ROS), Tripeptide-29 might contribute to maintaining stratum corneum function. Consequently, researchers have proposed that Tripeptide-29 “might [support] [cell aging] phenotypes via the inhibition of glycation and oxidative stress, leading to a delay in cellular aging.” The laboratory experiments suggested that Tripeptide-29 may reduce the production of AGEs and denatured collagen while inhibiting the activity of matrix metalloproteinases (MMPs), which are enzymes that may degrade components of the stratum corneum's extracellular matrix, like collagen. Additionally, Tripeptide-29 might support levels of collagen type I in dermal fibroblasts, the epidermal cells responsible for producing and maintaining the extracellular matrix. Furthermore, it is indicated that the small molecular size of Tripeptide-29 may support its ability to penetrate the dermal layer and support its bioavailability.
+[p] Tripeptide-29 Regulates Tissue Fibrosis In vitro, studies of pigskin, cow skin, fish scales, and chicken feet have observed that Tripeptide-29 may act as an inhibitor of dipeptidyl peptidase IV activity.[7] Dipeptidyl peptidase IV (DPP4) is primarily found in immune-infected cells. It is considered to be an essential part of the cell membrane, which indiscriminately destroys growth factors, chemokines, neuropeptides, and vasoactive peptides. It also appears to play a major role in glucose metabolism by decomposing incretin hormones that stimulate insulin synthesis. Experiments conducted using research models have suggested that DPP4 may play a role in inducing fibrosis in various cell cultures via inhibition of the enzyme, which is considered to mitigate scarring during the disease that affects these organs.[8] Tripeptide-29 may be doubly intriguing in this case, as the possible ability of Tripeptide-29 to stimulate glucose uptake and reduce fibrosis by inhibiting DPP4 opens the way for interesting avenues within the realm of laboratory research.
+[p] Tripeptide-29 and Dermal Cells Scientific interest has been generated in the role of Tripeptide-29 and other tripeptides in protecting the dermal layer from cellular aging and cell death. Experimental models suggest that exposure to tripeptides may potentially reduce visible markers by supporting contours, reducing dermal cell deformity, and promoting hydration. Studies further suggest that tripeptides may reduce inconsistency in the texture of the dermal layer’s protective barrier and may reduce the appearance of brown and red spots. In one particular study, 90% of research models were reported to exhibit increased hydration and flexibility due to better-supported elasticity as compared to controls.[9][10]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Asselin J, Knight CG, Farndale RW, Barnes MJ, Watson SP. Monomeric (glycine-proline-hydroxyproline)10 repeat sequence is a partial agonist of the platelet collagen receptor glycoprotein VI. Biochem J. 1999 Apr 15;339 ( Pt 2)(Pt 2):413-8. PMID: 10191274; PMCID: PMC1220172.
+[li] K. Mizuno, D. H. Peyton, T. Hayashi, J. Engel, and H. P. Bächinger, “Effect of the -Gly-3(S)-hydroxyprolyl-4(R)-hydroxyprolyl- tripeptide unit on the stability of collagen model peptides,” FEBS J., vol. 275, no. 23, pp. 5830–5840, Dec. 2008
+[li] Némethy, G., & Scheraga, H. A. (1986). Stabilization of collagen fibrils by hydroxyproline. Biochemistry, 25(11), 3184–3188. https://doi.org/10.1021/bi00359a016
+[a https://doi.org/10.1021/bi00359a016] https://doi.org/10.1021/bi00359a016
+[li] Jariashvili, K., Madhan, B., Brodsky, B., Kuchava, A., Namicheishvili, L., & Metreveli, N. (2012). UV damage of collagen: insights from model collagen peptides. Biopolymers, 97(3), 189–198. https://doi.org/10.1002/bip.21725
+[a https://doi.org/10.1002/bip.21725] https://doi.org/10.1002/bip.21725
+[li] Abedin MZ, Karim AA, Latiff AA, Gan CY, Ghazali FC, Barzideh Z, Ferdosh S, Akanda MJ, Zzaman W, Karim MR, Sarker MZ. Biochemical and radical-scavenging properties of sea cucumber (Stichopus vastus) collagen hydrolysates. Nat Prod Res. 2014;28(16):1302-5. doi: 10.1080/14786419.2014.900617. Epub 2014 Mar 27. PMID: 24670209.
+[a https://doi.org/10.1080/14786419.2014.900617] doi: 10.1080/14786419.2014.900617
+[li] Lee, Y. I., Lee, S. G., Jung, I., Suk, J., Lee, M. H., Kim, D. U., & Lee, J. H. (2022). Effect of a Collagen Tripeptide on Antiaging and Inhibition of Glycation of the Skin: A Pilot Study. International journal of molecular sciences, 23(3), 1101. https://doi.org/10.3390/ijms23031101
+[a https://doi.org/10.3390/ijms23031101] https://doi.org/10.3390/ijms23031101
+[li] Hatanaka T, Kawakami K, Uraji M. Inhibitory effect of collagen-derived tripeptides on dipeptidylpeptidase-IV activity. J Enzyme Inhib Med Chem. 2014 Dec;29(6):823-8. doi: 10.3109/14756366.2013.858143. Epub 2014 Mar 20. PMID: 24650211.
+[a https://doi.org/10.3109/14756366.2013.858143] doi: 10.3109/14756366.2013.858143
+[li] Min HS, Kim JE, Lee MH, Song HK, Kang YS, Lee MJ, Lee JE, Kim HW, Cha JJ, Chung YY, Hyun YY, Han JY, Cha DR. Dipeptidyl peptidase IV inhibitor protects against renal interstitial fibrosis in a mouse model of ureteral obstruction. Lab Invest. 2014 Jun;94(6):598-607. doi: 10.1038/labinvest.2014.50. Epub 2014 Mar 31. PMID: 24687121.
+[a https://doi.org/10.1038/labinvest.2014.50] doi: 10.1038/labinvest.2014.50
+[li] Garre A, Martinez-Masana G, Piquero-Casals J, Granger C. Redefining face contour with a novel anti-aging cosmetic product: an open-label, prospective clinical study. Clin Cosmet Investig Dermatol. 2017 Nov 13;10:473-482. doi: 10.2147/CCID.S148597. PMID: 29180884; PMCID: PMC5691901.
+[a https://doi.org/10.2147/CCID.S148597] doi: 10.2147/CCID.S148597
+[li] Reivitis A, Karimi K, Griffiths C, Banayan A. A single-center, pilot study evaluating a novel TriHex peptide- and botanical-containing eye treatment compared to baseline. J Cosmet Dermatol. 2018 Jun;17(3):467-470. doi: 10.1111/jocd.12542. Epub 2018 Apr 16. PMID: 29663676.
+[a https://doi.org/10.1111/jocd.12542] doi: 10.1111/jocd.12542
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Syn-Coll (Palmitoyl Tripeptide-5) (200mg) $217.00
+[a https://biotechpeptides.com/product/syn-coll-palmitoyl-tripeptide-5-topical-200mg/] Syn-Coll (Palmitoyl Tripeptide-5) (200mg) $217.00
+[img] Syn-Coll (Palmitoyl Tripeptide-5) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Syn-Coll-1-238x317.webp
+[h2] Syn-Coll (Palmitoyl Tripeptide-5) (200mg)
+[li] GHK Basic (Tripeptide-1) (200mg) $165.00
+[a https://biotechpeptides.com/product/ghk-basic-tripeptide-1-topical-200mg/] GHK Basic (Tripeptide-1) (200mg) $165.00
+[img] Buy GHK Basic (Tripeptide-1) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/GHK-Basic-3-238x317.webp
+[h2] GHK Basic (Tripeptide-1) (200mg)
+[li] Pal-GHK (Palmitoyl Tripeptide-1) (200mg) $199.00
+[a https://biotechpeptides.com/product/pal-ghk-palmitoyl-tripeptide-1-topical-200mg/] Pal-GHK (Palmitoyl Tripeptide-1) (200mg) $199.00
+[img] Pal-GHK (Palmitoyl Tripeptide-1) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Pal-GHK-1-238x317.webp
+[h2] Pal-GHK (Palmitoyl Tripeptide-1) (200mg)
+[li] Acetyl Hexapeptide-3 (Argireline) (200mg) $210.00
+[a https://biotechpeptides.com/product/acetyl-hexapeptide-3-argireline-200mg/] Acetyl Hexapeptide-3 (Argireline) (200mg) $210.00
+[img] Acetyl Hexapeptide-3 (Argireline) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Acetyl-Hexapeptide-3-1-238x317.webp
+[h2] Acetyl Hexapeptide-3 (Argireline) (200mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

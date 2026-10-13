@@ -1,0 +1,126 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/Fragment-176-191-1.webp] 
+[img] Fragment 176-191 (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Fragment-176-191-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_HGH_Frag_176-191_5mg_3140029_20260730_BP_page-0001.webp] 
+[img] Fragment 176-191 (5mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_HGH_Frag_176-191_5mg_3140029_20260730_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_HGH_Frag_176-191_5mg_3140029_20260730_BP_page-0002.webp] 
+[img] Fragment 176-191 (5mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_HGH_Frag_176-191_5mg_3140029_20260730_BP_page-0002.webp
+[h1] Fragment 176-191 (5mg)
+[p] $47.00 Original price was: $47.00.$44.00Current price is: $44.00.
+[p] Fragment 176-191 peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_691 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $41.80
+[input name=wccs_tier_select_691 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $39.60
+[label] Fragment 176-191 (5mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_HGH_Frag_176-191_5mg_3140029_20260730_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h2] Fragment 176-191 Peptide
+[p] Fragment 176-191 peptide (Frag 176-191) is a short segment of growth hormone (hGH) and is sometimes referred to as the “lipolytic fragment.” The name was coined from initial research on animal systems, which suggested that Fragment 176-191 may potentially increase fat cell metabolism in genetically engineered obese mice. Growth hormone (hGH) supplementation is considered by scientists to generally suppress carbohydrate metabolism, alter sensitivity towards insulin, promote long bone growth, and heighten insulin-like growth factor-1 (IGF-1) levels. Extensive animal studies have suggested that this synthetic fragment may mimic the lipolytic action of hGH without other actions.[1]
+[h3] Specifications
+[p] Molecular Formula: C78H125N23O23S2
+[p] Molecular Weight: 1817.1 g/mol
+[p] Sequence: Tyr-Leu-Arg-Ile-Val-Gin-Cys-Arg-Ser-Val-Glu-Gly-Ser-Cys-Gly-Phe
+[p] Other Known Titles: Frag 176-191
+[h3] Fragment 176-191 Research
+[p] Fragment 176-191 Structure Fragment 176-191 is the shortened C-terminal fragment of hGH, encompassing a sequence of 16 amino acids. Researchers who synthesized the peptide assert that the structure corresponds to the final 16 amino acids of the hGH molecule and the peptide, therefore, is speculated to act as the "lipolytic fragment" of hGH. The designation "lipolytic" indicates that this fragment may have characteristics that facilitate the degradation of lipids or fats. In an aim to improve the stability of this peptide, the first amino acid in the sequence of hGH Fragment 176-191 has been replaced with tyrosine. As a result, this altered peptide is sometimes also known as Fragment tyr-hGH 177-191 or AOD 9604. Incorporating tyrosine at the N-terminus is thought to bolster the peptide's stability. Additionally, preliminary data suggests a naturally occurring disulfide bond between two cysteine amino acids in the original hGH and in Frag 176-191. This disulfide bond is presumed to play a role in maintaining the structural integrity of the molecule, thereby possibly enhancing its resilience and capacity to resist degradation under various environmental conditions, such as exposure to gastric acids and digestive enzymes.[2]
+[a https://biotechpeptides.com/product/aod-9604-5mg/] AOD 9604
+[p] Fragment 176-191 and Cartilage Experimental research in Fragment 176-191 suggests its potential in cartilage regeneration.[3] To investigate the potential action of this peptide on knee osteoarthritis, scientists employed a model to mimic the condition by damaging knee cartilage by introducing type II collagenase. This particular enzyme is speculated to act in degrading the cartilage cellular matrix, mimicking the pathological changes seen in osteoarthritis. After inducing cartilage damage, the damaged knee models were organized into four distinct groups for 4-7 weeks: the researchers exposed the first group to a control compound saline (Group 1), the second was exposed to hyaluronic acid (Group 2), the third experimental group was exposed to Fragment 176-191 peptide (Group 3), and the fourth group was exposed to a combination of Fragment 176-191 peptide and hyaluronic acid (Group 4). To assess the potential actions of these experimental interventions, the severity of cartilage damage was systematically evaluated using both morphological and histopathological methods. Additionally, the extent of lameness was measured eight weeks post-initiation of the experimental protocols, providing insights into the functional outcomes of the interventions. The researchers commented, "Mean gross morphological and histopathological scores were significantly higher in Group 1 than in Groups 2, 3, and 4, and the scores were significantly lower in Group 4 than in Groups 2 and 3. The lameness period in Group 4 was significantly shorter than those in Groups 1, 2, and 3.” The findings indicate that both the hyaluronic acid and the Fragment 176-191 peptide may exhibit superior potential compared to saline in promoting cartilage regeneration. This hypothesis stems from the posited interactions between these two compounds, where hyaluronic acid may support moisture retention and lubrication, while Fragment 176-191 may play a role in the regeneration and repair of the model tissues.
+[p] Fragment 176-191 and Hypoglycemia The C terminal end of hGH principally has been considered to bring about hypoglycemic (low blood sugar) levels in murine models.[4] Screening of at least six different fragments obtained from the C terminal section of hGH has suggested that Fragment 176-191 may be a potentially effective synthetic derivative of hGH in research on blood sugar control. The hypoglycemic potential is considered secondary to maintaining an increased expression of insulin in blood plasma.
+[p] Fragment 176-191 and Fat Cells The fat cell dissolution potential of Fragment 176-191 stems from research hypothesizing the peptide’s capacity to increase the production of beta-3 adrenergic receptors (3-AR or ADRB3).[5] More specifically, the researchers posted that Fragment 176-191 may be “capable of increasing the repressed levels of beta(3)-AR RNA in obese mice to levels comparable with those in lean mice.” An elevated density of beta-3 adrenergic receptors on adipocyte membranes potentially heightens these cells' sensitivity to lipolytic cues. This implies that although Fragment 176-191 might not interact directly with ADRB3, the increased number of these receptors might amplify the lipolytic activity prompted by endogenous catecholamines, notably adrenaline, which is posited to activate these receptors directly. Thus, agonist activity of the Fragment 176-191 peptide upon interaction with ADRB3 appeared to directly enhance fat burning in adipose tissue. Fragment 176-191 might initiate additional cellular signaling pathways that may indirectly enhance fat metabolism. For example, it might influence processes that either elevate the production of key enzymes involved in lipolysis or potentially enhance the cell's responsiveness to lipolytic signals through the regulation of secondary messengers within the cell. Here, lipolysis is the process of fat breakdown occurring in adipocytes, primarily driven by lipolytic enzymes. Secondary messengers are intracellular molecules believed to intensify signals from cell surface receptors to the internal biochemical systems. This amplification is crucial for orchestrating intricate cellular reactions to external signals. Research indicates that genetically modified mice that lack ADRB3 may be resistant to the action of hGH / Fragment 176-191. One experimental study observed that Fragment 176-191 exposure appeared to induce up to 50% weight reduction in obese mice over three weeks. Interestingly, the peptide appeared to mediate weight reduction only in obese mice but not in lean mice during the same span of exposure. The results suggest that secondary pathways may be involved in energy homeostasis, which may be capable of maintaining fat reserve in lean mice by overriding the ADRB3 pathway.
+[p] Fragment 176-191 and Fat Tissue Mass In the realm of scientific inquiry, the potential of Fragment 176-191 in reducing total levels of fat mass has been probed using rigorously structured clinical trials, such as the METAOD005 study. This specific trial aimed to assess the efficacy of the peptide in reducing adipose tissue over a period of 12 weeks. Preliminary findings suggest that test subjects in one of the Fragment 176-191 groups may have experienced a notable reduction in fat tissue mass, with an average weight loss of approximately 5.7 pounds. Furthermore, there is a tentative suggestion that this peptide might positively influence lipid and glucose metabolism. However, additional studies are necessary to thoroughly explore these possibilities.[6]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Habibullah MM, Mohan S, Syed NK, Makeen HA, Jamal QMS, Alothaid H, Bantun F, Alhazmi A, Hakamy A, Kaabi YA, Samlan G, Lohani M, Thangavel N, Al-Kasim MA. Human Growth Hormone Fragment 176-191 Peptide Enhances the Toxicity of Doxorubicin-Loaded Chitosan Nanoparticles Against MCF-7 Breast Cancer Cells. Drug Des Devel Ther. 2022 Jun 27;16:1963-1974. doi: 10.2147/DDDT.S367586. PMID: 35783198; PMCID: PMC9249349.
+[a https://pubmed.ncbi.nlm.nih.gov/35783198/] doi: 10.2147/DDDT.S367586
+[li] Moré, M. I., & Kenley, D. (2014). Safety and metabolism of AOD9604, a novel nutraceutical ingredient for improved metabolic health. Journal of Endocrinology and Metabolism, 4(3), 64-77.
+[li] Kwon DR, Park GY. Effect of Intra-articular Injection of AOD9604 with or without Hyaluronic Acid in Rabbit Osteoarthritis Model. Ann Clin Lab Sci. 2015 Summer;45(4):426-32. PMID: 26275694.
+[li] Ng FM, Bornstein J. Hyperglycemic action of synthetic C-terminal fragments of human growth hormone. Am J Physiol. 1978 May;234(5):E521-6. doi: 10.1152/ajpendo.1978.234.5.E521. PMID: 645904.
+[a https://pubmed.ncbi.nlm.nih.gov/645904/] doi: 10.1152/ajpendo.1978.234.5.E521
+[li] Heffernan M, Summers RJ, Thorburn A, Ogru E, Gianello R, Jiang WJ, Ng FM. The effects of human GH and its lipolytic fragment (AOD9604) on lipid metabolism following chronic treatment in obese mice and beta(3)-AR knock-out mice. Endocrinology. 2001 Dec;142(12):5182-9. doi: 10.1210/endo.142.12.8522. PMID: 11713213.
+[a https://pubmed.ncbi.nlm.nih.gov/11713213/] doi: 10.1210/endo.142.12.8522
+[li] Stier, H., Vos, E., & Kenley, D. (2013). Safety and Tolerability of the Hexadecapeptide AOD9604 in Humans. Journal of Endocrinology and Metabolism, 3(1-2), 7-15.
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg) $87.00
+[a https://biotechpeptides.com/product/fragment-cjc-1295-ipamorelin-12mg-blend/] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg) $87.00
+[img] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Fragment-176-191-CJC-1295-Ipamorelin-238x317.webp
+[h2] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg)
+[li] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg) $87.00
+[a https://biotechpeptides.com/product/fragment-176-191-mod-grf-1-29-ipamorelin-12mg/] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg) $87.00
+[img] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Fragment-Mod-GRF-Ipamorelin-1-238x317.webp
+[h2] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg)
+[li] Adipotide FTPP (10mg) $77.00
+[a https://biotechpeptides.com/product/adipotide-ftpp-10mg/] Adipotide FTPP (10mg) $77.00
+[img] Adipotide FTPP (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Adipotide-FTPP-1-238x317.webp
+[h2] Adipotide FTPP (10mg)
+[li] AOD 9604 (5mg) $44.00
+[a https://biotechpeptides.com/product/aod-9604-5mg/] AOD 9604 (5mg) $44.00
+[img] AOD 9604 (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/AOD-9604-1-238x317.webp
+[h2] AOD 9604 (5mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

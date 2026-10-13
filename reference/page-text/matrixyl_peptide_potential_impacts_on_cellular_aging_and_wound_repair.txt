@@ -1,0 +1,134 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Matrixyl Peptide: Potential Impacts on Cellular Aging and Wound Repair
+[p] by Dr. Usman | Oct 8, 2024 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Matrixyl Peptide Potential Impacts on Cellular Aging and Wound Repair :: https://biotechpeptides.com/wp-content/uploads/2024/10/Matrixyl-Peptide-Potential-Impacts-on-Cellular-Aging-and-Wound-Repair.avif
+[a https://biotechpeptides.com/product/matrixyl-topical-200mg/] palmitoyl pentapeptide-3 (later renamed palmitoyl pentapeptide-4)
+[p] Matrixyl peptide is suggested to function as an active ingredient in advanced research formulations, particularly the ones synthesized for anti-aging studies. Structurally, it is considered an isomer, meaning that it shares the same molecular formula as other peptides but exhibits distinct atomic arrangements. The primary bioactive component within Matrixyl, often referred to as “Micro-collagen,” is said to mimic the endogenous peptides that signal dermal repair, which has made Matrixyl a significant agent in dermal regeneration research.
+[p] Matrixyl has been developed through dermatological investigations focused on two key areas: the acceleration of wound healing and the mechanisms responsible for wrinkle formation.[2] Over time, the dermatological ability to produce collagen, elastin, and fibronectin declines, resulting in a loss of structural integrity, elasticity, and hydration. Matrixyl, through its biochemical interactions, appears to restore these critical components of the stratum corneum, thus potentially contributing to the rejuvenation of the epidermal layer.
+[p] Contents:
+[li] Mechanism of Actions
+[a #ma] Mechanism of Actions
+[li] Scientific and Research Studies
+[a #research] Scientific and Research Studies
+[li] Matrixyl Peptide and Collagen Synthesis
+[a #Collagen-Synthesis] Matrixyl Peptide and Collagen Synthesis
+[li] Matrixyl Peptide and Wound Healing
+[a #Wound-Healing] Matrixyl Peptide and Wound Healing
+[li] Matrixyl Peptide and Anti-Wrinkle Studies
+[a #Anti-Wrinkle] Matrixyl Peptide and Anti-Wrinkle Studies
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/matrixyl-topical-200mg/] 
+[img] Matrixyl (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Matrixyl.png
+[h2] Mechanisms of Action
+[p] Matrixyl’s primary mechanism of action is suggested to be based on its hypothesized ability to promote the synthesis of extracellular matrix components, particularly collagen and fibronectin, within the dermal layer.[2] The peptide interacts with fibroblasts, the key cells responsible for producing and remodeling the extracellular matrix. Research suggests that when exposed to Matrixyl, fibroblasts are stimulated via receptor-mediated signaling pathways, thereby enhancing their capacity to synthesize collagen, glycosaminoglycans (e.g., hyaluronic acid), and other relevant proteins.
+[p] The molecular action of Matrixyl is often compared to that of copper peptides, which also are frequently considered to stimulate dermatologic regeneration processes. However, Matrixyl uniquely activates a cascade of signaling events via a receptor-binding process that mimics the endogenous breakdown products of collagen. When collagen degrades, peptides called matrikines are released, which bind to receptors on fibroblasts, triggering the repair and remodeling of the stratum corneum matrix. Matrixyl appears to act similarly to these matrikines, particularly affecting collagen types I and IV. This stimulation may lead to increased production of these collagen types, which play essential roles in maintaining firmness and elasticity.[3]
+[p] Moreover, the pentapeptide sequence (KTTKS) in Matrixyl is critical for its biological activity. The attached palmitoyl moiety serves as a lipid delivery system, allowing the peptide to penetrate the stratum corneum more thoroughly than water-soluble peptides. As a result, Matrixyl appears to support collagen synthesis, particularly type I collagen, which is the most abundant in the stratum corneum and provides structural support.[3]
+[p] The peptide also appears to stimulate the production of fibronectin, a glycoprotein involved in cell adhesion and wound healing. Thus, it further reinforces the epidermal layer’s extracellular matrix. This comprehensive support of skin structure and function contributes to its wrinkle-reducing impacts.
+[h2] Scientific and Research Studies
+[h3] Matrixyl Peptide and Collagen Synthesis
+[p] In vitro studies have highlighted Matrixyl’s potential role in stimulating collagen synthesis.
+[p] One key study conducted on cultured fibroblasts revealed a substantial upregulation of collagen production following Matrixyl introduction by transmitting signals to fibroblasts and reportedly stimulating “feedback regulation of new collagen synthesis and ECM proteins.”[4]
+[p] This research suggests that Matrixyl may significantly support the dermal layer’s ability to maintain its structural proteins, thereby potentially mitigating the visible impacts of cellular aging that impacts the stratum corneum. Further clinical studies support this data, showing that the implication of Matrixyl-containing formulations on research models led to measurable increases in collagen type I, the principal collagen form responsible for maintaining firmness.[5] Collagen type I contributes to the epidermal layer’s tensile strength, and its synthesis is deemed critical for counteracting the thinning and fragility associated with cellular aging of skin cells.
+[p] Research has also indicated Matrixyl’s specific influence on collagen type IV synthesis. Collagen type IV appears to play a vital role in forming the basement membrane, which separates the epidermis from the dermis and supports overall skin structure. In a study evaluating the impacts of Matrixyl on dermal cells, collagen type IV synthesis appeared to increase significantly.
+[p] These findings indicate that Matrixyl might be a significant factor in reinforcing the structural layers of the dermis, potentially improving dermal resilience and reducing the depth of wrinkles.
+[h3] Matrixyl Peptide and Wound Healing
+[p] Matrixyl’s origin is rooted in wound healing research, where it was initially explored for its potential to accelerate tissue repair.
+[p] In the cellular aging process, fibroblasts gradually lose their efficiency in generating new collagen, which may lead to delayed wound closure and compromise the integrity of the stratum corneum. As per the research, Matrixyl peptide “had a larger impact on wound healing compared to that in the positive control group,” suggesting that the peptide stimulates the fibroblast activity, showing potential in promoting the repair of damaged dermal and epidermal cells.[2]
+[p] In another study,[6] the potential influence of Matrixyl on fibroblast contractility and its role in scar formation was closely examined. The findings indicated that Matrixyl might functionally downregulate the expression of α-smooth muscle actin (α-SMA) and inhibit the trans-differentiation of fibroblasts into myofibroblasts. α-SMA is a protein predominantly expressed in smooth muscle cells, such as those found in blood vessels and visceral organs like the intestines and bladder. Myofibroblasts, a specialized cell type associated with wound healing and tissue repair, also express it.
+[p] In the context of fibrotic scarring, the upregulation of α-SMA in myofibroblasts is associated with increased collagen deposition, leading to the formation of excessive scar tissue. Matrixyl’s hypothetical ability to modulate α-SMA expression suggests its potential to limit myofibroblast differentiation, thereby reducing excessive collagen accumulation. This highlights its promise in attenuating fibrotic scarring and enhancing epidermal healing outcomes.
+[h3] Matrixyl Peptide and Anti-Wrinkle Studies
+[p] In a notable clinical trial[7] involving 93 female research models aged 35 to 55, the impacts of Matrixyl-infused moisturizer were compared to a placebo over 12 weeks. Matrixyl was applied to one side of the participants’ faces, while the placebo was applied to the other side. Results observed by researchers indicated that the Matrixyl-introduced group appeared to exhibit a significant reduction in both wrinkles and fine lines compared to the placebo group.
+[p] Periorbital wrinkles are a common biomarker associated with cellular aging, often resulting from repetitive movement of muscular tissue and the endogenous loss of elasticity in the stratum corneum. In a clinical study[8] focusing on 21 female research models with visible periorbital creasing, Matrixyl, other peptides, and placebo were introduced exogenously to the periorbital area twice daily for eight weeks. Results suggested that the Matrixyl-introduced group appeared to significantly outperform both the groups introduced with placebo and other peptides.
+[p] Another investigation explored Matrixyl’s efficacy in improving overall epidermal smoothness and reducing the depth of periorbital wrinkles. This double-anonymized, randomized, controlled split-face study involved women aged 30 to 70 with moderate to severe periorbital wrinkles. After four weeks, participants in the Matrixyl-introduced group appeared to show more support for a reduction in wrinkle depth.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] National Center for Biotechnology Information (2024). PubChem Compound Summary for CID 58942400, Palmitoyl Pentapeptide-4. https://pubchem.ncbi.nlm.nih.gov/compound/Palmitoyl-Pentapeptide-4.
+[a https://pubchem.ncbi.nlm.nih.gov/compound/Palmitoyl-Pentapeptide-4] https://pubchem.ncbi.nlm.nih.gov/compound/Palmitoyl-Pentapeptide-4
+[li] Kachooeian M, Mousivand Z, Sharifikolouei E, Shirangi M, Firoozpour L, Raoufi M, Sharifzadeh M. Matrixyl Patch vs Matrixyl Cream: A Comparative In Vivo Investigation of Matrixyl (MTI) Effect on Wound Healing. ACS Omega. 2022 Jul 11;7(28):24695-24704. doi: 10.1021/acsomega.2c02592. PMID: 35874243; PMCID: PMC9301720. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9301720/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9301720/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9301720/
+[li] Jones RR, Castelletto V, Connon CJ, Hamley IW. Collagen stimulating effect of peptide amphiphile C16-KTTKS on human fibroblasts. Mol Pharm. 2013 Mar 4;10(3):1063-9. doi: 10.1021/mp300549d. Epub 2013 Feb 4. PMID: 23320752. https://pubmed.ncbi.nlm.nih.gov/23320752/
+[a https://pubmed.ncbi.nlm.nih.gov/23320752/] https://pubmed.ncbi.nlm.nih.gov/23320752/
+[li] Errante, F., Ledwoń, P., Latajka, R., Rovero, P., & Papini, A. M. (2020). Cosmeceutical Peptides in the Framework of Sustainable Wellness Economy. Frontiers in chemistry, 8, 572923. https://doi.org/10.3389/fchem.2020.572923
+[a https://doi.org/10.3389/fchem.2020.572923] https://doi.org/10.3389/fchem.2020.572923
+[li] Robinson LR, Fitzgerald NC, Doughty DG, Dawes NC, Berge CA, Bissett DL. Topical palmitoyl pentapeptide provides an improvement in photoaged human facial skin. Int J Cosmet Sci. 2005 Jun;27(3):155-60. doi: 10.1111/j.1467-2494.2005.00261.x. PMID: 18492182. https://pubmed.ncbi.nlm.nih.gov/18492182/
+[a https://pubmed.ncbi.nlm.nih.gov/18492182/] https://pubmed.ncbi.nlm.nih.gov/18492182/
+[li] Park H, An E, Cho Lee AR. Effect of Palmitoyl-Pentapeptide (Pal-KTTKS) on Wound Contractile Process in Relation to Connective Tissue Growth Factor and α-Smooth Muscle Actin Expression. Tissue Eng Regen Med. 2017 Jan 19;14(1):73-80. https://link.springer.com/article/10.1007/s13770-016-0017-y
+[a https://link.springer.com/article/10.1007/s13770-016-0017-y] https://link.springer.com/article/10.1007/s13770-016-0017-y
+[li] Robinson, L. R., Fitzgerald, N. C., Doughty, D. G., Dawes, N. C., Berge, C. A., & Bissett, D. L. (2005). Topical palmitoyl pentapeptide provides an improvement in photoaged human facial skin. International journal of cosmetic science, 27(3), 155–160. https://doi.org/10.1111/j.1467-2494.2005.00261.x
+[a https://doi.org/10.1111/j.1467-2494.2005.00261.x] https://doi.org/10.1111/j.1467-2494.2005.00261.x
+[li] Aruan, R. R., Hutabarat, H., Widodo, A. A., Firdiyono, M. T. C. C., Wirawanty, C., & Fransiska, L. (2023). Double-blind, Randomized Trial on the Effectiveness of Acetylhexapeptide-3 Cream and Palmitoyl Pentapeptide-4 Cream for Crow’s Feet. The Journal of clinical and aesthetic dermatology, 16(2), 37–43. https://pubmed.ncbi.nlm.nih.gov/36909866/
+[a https://pubmed.ncbi.nlm.nih.gov/36909866/] https://pubmed.ncbi.nlm.nih.gov/36909866/
+[li] Kaczvinsky, J. R., Griffiths, C. E., Schnicker, M. S., & Li, J. (2009). Efficacy of anti-aging products for periorbital wrinkles as measured by 3-D imaging. Journal of cosmetic dermatology, 8(3), 228–233. https://doi.org/10.1111/j.1473-2165.2009.00444.x
+[a https://doi.org/10.1111/j.1473-2165.2009.00444.x] https://doi.org/10.1111/j.1473-2165.2009.00444.x
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

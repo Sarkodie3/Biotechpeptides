@@ -1,0 +1,144 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/Melanotan-1-1.webp] 
+[img] Melanotan 1 (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Melanotan-1-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Afamelanotide_10mg_3141047_BP_page-0001.webp] 
+[img] Melanotan 1 (10mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Afamelanotide_10mg_3141047_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Afamelanotide_10mg_3141047_BP_page-0002.webp] 
+[img] Melanotan 1 (10mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Afamelanotide_10mg_3141047_BP_page-0002.webp
+[h1] Melanotan 1 (10mg)
+[p] $41.00 Original price was: $41.00.$38.00Current price is: $38.00.
+[p] Melanotan 1 peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_714 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $36.10
+[input name=wccs_tier_select_714 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $34.20
+[label] Melanotan 1 (10mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Afamelanotide_10mg_3141047_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Melanotan 1 Peptide
+[p] Melanotan 1 (MT-1) is a synthetic equivalent of alpha-melanocyte-stimulating hormone (alpha-MSH). The peptide has been exhaustively researched through observation of research models displaying signs of erythropoietic protoporphyria to reduce potential phototoxicity or UV-related damage.[1] It has been suggested that the peptide may have the potential to influence diverse physiological processes like feeding patterns, central nervous system operations, blood pressure, and more.
+[a https://biotechpeptides.com/2026/03/06/mt1-melanotan-1-structure-and-emerging-research-applications/] MT-1
+[h3] Specifications
+[p] Molecular Weight: 1646.8 g/mol
+[p] Molecular Formula: C78H111N21O19
+[p] Sequence: Ac-Ser-Tyr-Ser-Nle-Glu-His-D-Phe-Arg-Trp-Gly-Lys-Pro-Val-NH2
+[p] Synonym(s): MT-1
+[h3] Melanotan 1 Research
+[p] Here is a basic overview of what researchers have to say about each of these and other related receptors:
+[li] The melanocortin 1 receptor (MC1R) is speculated to be present in melanocytes in cells from skin structure, hair, and eye tissues, and it's the main target of MT-1.
+[li] The melanocortin 2 receptor (MC2R) is believed to be located in the adrenal cortex, the outer layer of the adrenal glands. It is proposed that this receptor might participate in the production of cortisol, and neither MT-1 nor Alpha-MSH interacts with it.
+[li] The melanocortin 3 receptor (MC3R) is believed to be expressed in several tissues, including the brain and placenta. MC3R may contribute to the regulation of appetite in experimental models.
+[li] The melanocortin 4 receptor (MC4R) is thought to be situated within the central nervous system, particularly in the hypothalamus. It is speculated that this receptor might influence nerve cells associated with regulating copulatory behavior and arousal.
+[li] The melanocortin 5 receptor (MC5R) is expressed across multiple tissues, but its role still needs to be established.
+[p] MT-1 was initially developed to induce melanin production and pigmentation by interacting with the same receptors. These two amino acid modifications may help by increasing receptor target affinity and supporting molecular stability for a longer half-life. Subsequent research on the peptide and other melanocortin-binding proteins helped scientists better explore the melanocortin signaling system.
+[p] Melanotan 1 and Melanin MT-1 may influence the synthesis of melanin by interacting with melanocortin 1 receptors found on melanocytes—the cells believed to produce melanin pigment in the dermal tissues. Some studies suggest that MT-1 may have a higher affinity for MC1Rs compared to α-MSH, potentially enhancing melanin production and possibly leading to increased dermal layer pigmentation even without exposure to UV light. It is thought that melanin contributes to the coloration of various tissues and may serve protective functions, such as absorbing UV radiation. There are indications that melanin exists primarily in two forms: eumelanin, which is associated with brown or black hues, and pheomelanin, which is linked to red or yellow colors. Researchers posit that “when Melanotan I activates MC1R, cAMP is produced, and it activates microphthalmia transcription factor (MITF) expression, which induces the expression of enzymes for eumelanin production.”[3] Consequently, MT-1 has been studied for its melanin-inducing potential in laboratory models exposed to ultraviolet radiation.[4] The work observed that models exposed to MT-1 exhibited a reported 75% increase in pigmentation and roughly 47% less burn. Melanotan 1 appeared to induce similar pigmentation in models compared to controls, even with 50% less ultraviolet light exposure. The pigmentation persisted on these subjects for three weeks longer than those exposed only to UV light. Variant MC1 receptors may induce less epidermal layer pigmentation than wild-type MC1 receptors. In this genetic backdrop, exposure to MT-1 may increase melanin density, induce substantial pigmentation, and potentially mediate photoprotection. MT-1 is also studied in the context of Vitiligo. Studies noted that combinatorial exposure of the peptide with UVB light appeared to promote both the synthesis of melanin and the proliferation of melanocytes. About 50 % of the MT-1 exposed vitiligo models exhibited apparent rapid re-pigmentation and a decrease in vitiligo patching. MT-1 may impact hypopigmented scars based on the outcome of the vitiligo research study. Overexposure to UV light may lead to scaly growth, also referred to as actinic or solar keratosis. This precancerous lesion has been associated with the development of squamous cell carcinoma.
+[p] Melanotan 1 and Cognitive Decline, Alzheimer’s Disease MT-1 exposure appeared to protect the nerve tissue of transgenic murine models from cognitive decline and the onset of Alzheimer’s disease.[5] The researchers suggested that the melanocortin receptor activation by MT-1 “restores the impaired homeostatic processes and microglial reactivity in the hippocampus in APP/PS1 mice.” Even short-term exposure to the peptide was observed in an experimental study to decrease amyloid-beta plaques and neuronal apoptosis in murine models of moderate AD. This may support cognitive function and synaptic transmission in the MT-1 exposed animals. In the same study, inhibiting the action of MT-1 at the MC4 receptor appeared to mitigate all of the positive potential actions of the peptide. Researchers have posited that MC4 receptor stimulation may have stimulatory potential for neurogenesis and cognitive function recovery in murine AD models. All AD-linked biomarkers appeared to decrease significantly even with limited exposure to the peptide. The MC4 receptor is the sole melanocortin receptor to be expressed on astrocytes, the feeder cells that help to protect and provide nutrition to neurons. MT-1 is under study for its potential to support the production of brain-derived neurotrophic factor (BDNF) and may stimulate astrocyte functioning. BDNF is an endogenously occurring molecule in nerve tissue that is considered crucial to maintaining the stability of synapses and general neurogenesis.
+[p] Melanotan 1 and Blood Pressure, Stroke MT-1 appears to selectively help control hypertension in murine models without impacting control models with normal blood pressure.[6] This action suggests that MT-1 may have the potential to modulate blood pressure without hypotension. Additionally, MT-1 may have favorable potential in models of ischemia that is often the consequence of high blood pressure and turbulent blood flow, such as stroke. Studies have suggested that exposure to the peptide even nine hours after the induction of a stroke model may help mitigate brain cell damage and cell death, as well as support parameters of learning and memory in research models.[7] These researchers have posited that the underlying mechanism may be MT-1, which may assist in rerouting learning and memory circuits in the brain. Researchers propose that the peptide may support synaptic plasticity and promote long-term functional recovery of the brain. The most important mediator in this process is posited to be the expression of the Zif268 gene, which is suggested to be overexpressed in animals exposed to Melanotan 1.
+[p] Melanotan 1 and Neuroinflammation Models The activation of melatonin receptors was recently observed to potentially suppress inflammation in the central nervous system in murine models. T helper cells attack the myelin sheath in neurons, leading to neuronal dysfunction and even death due to multiple sclerosis. The damage was apparently reversed in research studies through the introduction of melatonin. Thus, we may hypothesize that by upregulating melatonin expression with the help of peptides like MT-1, there may be a notable reduction in neuroinflammation levels.[8] Uveitis is another inflammatory disorder of the eye tissues which is considered to lead to vision loss. Upregulated melatonin synthesis may suppress T-cell function and may have positive potential.[9]
+[p] Melanotan 1 and Tissue Fibrosis Preliminary studies using rodent models hint that enhancing MC1 receptor activity—akin to the stimulation by MT-1—may potentially offer anti-fibrotic actions in tissues experiencing acute or chronic inflammation.[10] Researchers have employed gene modification techniques to increase MC1R expression, which may alleviate experimentally induced liver cell fibrosis and possibly reduce the elevated expression of genes associated with fibrogenesis and inflammation. These findings suggest that upregulated MC1R activity might influence the fibrotic process by modulating gene expressions involved in fibrogenesis and inflammatory responses. One hypothesized mechanism for these potential protective actions against liver cell fibrosis might involve the modulation of matrix metalloproteinase (MMP) activity and the suppression of tissue inhibitors of MMPs (TIMPs). MMPs are believed to play a crucial role in degrading the extracellular matrix, with their activity thought to be finely balanced by TIMPs. Collected data indicates that activating MC1R may significantly support MMP activity while decreasing the activation of α-smooth muscle actin (α-SMA) and cyclooxygenase-2 (COX-2), markers commonly associated with inflammation and fibrogenesis. Furthermore, MC1R activation is thought to downregulate the mRNA expressions of liver cell transforming growth factor β1 (TGF-β1), collagen α1, and various cell adhesion molecules, which are considered key contributors to fibrosis progression. It is also noteworthy that MC1R activation might suppress the expression of COX-2 and cell adhesion molecules, suggesting a potential anti-inflammatory pathway through which MT-1 and similar compounds may exert further anti-fibrogenic action.[10]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Wensink D, Wagenmakers MAEM, Langendonk JG. Afamelanotide is used to prevent phototoxicity in erythropoietic protoporphyria. Expert Rev Clin Pharmacol. 2021 Feb;14(2):151-160. doi: 10.1080/17512433.2021.1879638. PMID: 33507118.
+[a https://doi.org/10.1080/17512433.2021.1879638] doi: 10.1080/17512433.2021.1879638
+[li] Cai, M., & Hruby, V. J. (2016). The Melanocortin Receptor System: A Target for Multiple Degenerative Diseases. Current protein & peptide science, 17(5), 488–496. https://doi.org/10.2174/1389203717666160226145330
+[a https://doi.org/10.2174/1389203717666160226145330] https://doi.org/10.2174/1389203717666160226145330
+[li] Mun, Y., Kim, W., & Shin, D. (2023). Melanocortin 1 Receptor (MC1R): Pharmacological and Therapeutic Aspects. International journal of molecular sciences, 24(15), 12152. https://doi.org/10.3390/ijms241512152
+[a https://doi.org/10.3390/ijms241512152] https://doi.org/10.3390/ijms241512152
+[li] Koikov L, Starner RJ, Swope VB, Upadhyay P, Hashimoto Y, Freeman KT, Knittel JJ, Haskell-Luevano C, Abdel-Malek ZA. Development of hMC1R Selective Small Agonists for Sunless Tanning and Prevention of Genotoxicity of UV in Melanocytes. J Invest Dermatol. 2021 Jul;141(7):1819-1829. doi: 10.1016/j.jid.2020.11.034. Epub 2021 Feb 18. PMID: 33609553; PMCID: PMC9009400.
+[a https://doi.org/10.1016/j.jid.2020.11.034] doi: 10.1016/j.jid.2020.11.034
+[li] Lau JKY, Tian M, Shen Y, Lau SF, Fu WY, Fu AKY, Ip NY. Melanocortin receptor activation alleviates amyloid pathology and glial reactivity in an Alzheimer’s disease transgenic mouse model. Sci Rep. 2021 Feb 23;11(1):4359. doi: 10.1038/s41598-021-83932-4. PMID: 33623128; PMCID: PMC7902646.
+[a https://doi.org/10.1038/s41598-021-83932-4] doi: 10.1038/s41598-021-83932-4
+[li] do Carmo JM, da Silva AA, Wang Z, Fang T, Aberdein N, Perez de Lara CE, Hall JE. Role of the brain melanocortins in blood pressure regulation. Biochim Biophys Acta Mol Basis Dis. 2017 Oct;1863(10 Pt A):2508-2514. doi: 10.1016/j.bbadis.2017.03.003. Epub 2017 Mar 6. PMID: 28274841; PMCID: PMC5587353.
+[a https://doi.org/10.1016/j.bbadis.2017.03.003] doi: 10.1016/j.bbadis.2017.03.003
+[li] Ahmed TJ, Montero-Melendez T, Perretti M, Pitzalis C. Curbing Inflammation through Endogenous Pathways: Focus on Melanocortin Peptides. Int J Inflam. 2013;2013:985815. doi: 10.1155/2013/985815. Epub 2013 May 7. PMID: 23738228; PMCID: PMC3664505.
+[a https://doi.org/10.1155/2013/985815] doi: 10.1155/2013/985815
+[li] Wurtman R. Multiple Sclerosis, Melatonin, and Neurobehavioral Diseases. Front Endocrinol (Lausanne). 2017 Oct 23;8:280. doi: 10.3389/fendo.2017.00280. PMID: 29109699; PMCID: PMC5660121
+[a https://doi.org/10.3389/fendo.2017.00280] doi: 10.3389/fendo.2017.00280
+[li] Sande PH, Dorfman D, Fernandez DC, Chianelli M, Domínguez Rubio AP, Franchi AM, Silberman DM, Rosenstein RE, Sáenz DA. Treatment with melatonin after the onset of experimental uveitis attenuates ocular inflammation. Br J Pharmacol. 2014 Dec;171(24):5696-707. doi: 10.1111/bph.12873. PMID: 25131343; PMCID: PMC4290711.
+[a https://doi.org/10.1111/bph.12873] doi: 10.1111/bph.12873
+[li] Lee TH, Jawan B, Chou WY, Lu CN, Wu CL, Kuo HM, Concejero AM, Wang CH. Alpha-melanocyte-stimulating hormone gene therapy reverses carbon tetrachloride-induced liver fibrosis in mice. J Gene Med. 2006 Jun;8(6):764-72. doi: 10.1002/jgm.899. PMID: 16508911.
+[a https://doi.org/10.1002/jgm.899] doi: 10.1002/jgm.899
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Gonadorelin (GnRH) (10mg) $79.00
+[a https://biotechpeptides.com/product/gonadorelin-gnrh-10mg/] Gonadorelin (GnRH) (10mg) $79.00
+[img] Gonadorelin (GnRH) (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Gonadorelin-GnRH-1-238x317.webp
+[h2] Gonadorelin (GnRH) (10mg)
+[li] PT-141 (Bremelanotide) (10mg) $45.00
+[a https://biotechpeptides.com/product/pt-141-10mg-bremelanotide/] PT-141 (Bremelanotide) (10mg) $45.00
+[img] PT-141 (Bremelanotide) (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/PT-141-1-238x317.webp
+[h2] PT-141 (Bremelanotide) (10mg)
+[li] Triptorelin (GnRH) (2mg) $36.00
+[a https://biotechpeptides.com/product/triptorelin-gnrh-2mg/] Triptorelin (GnRH) (2mg) $36.00
+[img] Triptorelin (GnRH) (2mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Triptorelin-1-238x317.webp
+[h2] Triptorelin (GnRH) (2mg)
+[li] Kisspeptin-10 (10mg) $52.00
+[a https://biotechpeptides.com/product/kisspeptin-10-10mg/] Kisspeptin-10 (10mg) $52.00
+[img] Kisspeptin-10 (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/Kisspeptin-10-1-238x317.webp
+[h2] Kisspeptin-10 (10mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

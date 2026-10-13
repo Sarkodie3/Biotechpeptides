@@ -1,0 +1,142 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] MOTS-c Peptide and Studies in Insulin & Inflammation
+[p] by Dr. Usman | Feb 7, 2023 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] MOTS-c Peptide and Insulin, Inflammation, and Metabolic Health :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTIwOCA4MDYiIHdpZHRoPSIxMjA4IiBoZWlnaHQ9IjgwNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=
+[a https://biotechpeptides.com/product/mots-c-10mg/] MOTS-c (mitochondrial ORF of the 12S rRNA type-c)
+[p] This peptide is encoded in the mitochondrial genome and appears to be able to regulate nuclear gene expression in the mitochondria in response to various factors, such as metabolic stress. Laboratory experiments suggest that it may have anti-cell aging, anti-inflammatory and metabolic characteristics, though these are research hypotheses. The potential of MOTS-c has yet to be thoroughly studied, and further research is needed to determine the whole spectrum of its action.
+[p] Contents:
+[li] MOTS-c Peptide Overview
+[a #overview] MOTS-c Peptide Overview
+[li] MOTS-c Peptide Research in Insulin Resistance, Metabolism, and Muscle
+[a #insulin] MOTS-c Peptide Research in Insulin Resistance, Metabolism, and Muscle
+[li] MOTS-c Peptide and the Heart
+[a #heart] MOTS-c Peptide and the Heart
+[li] MOTS-c Peptide and Bone
+[a #bone] MOTS-c Peptide and Bone
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/mots-c-10mg/] 
+[img] Buy Mots-C Peptide (10mg) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDEwMDgiIHdpZHRoPSI4MDAiIGhlaWdodD0iMTAwOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=
+[h2] MOTS-c Peptide Overview
+[p] MOTS-c is a naturally produced component of mitochondria, the cellular organelles responsible for producing energy. The structure of the peptide consists of 16 amino acids and bears the sequence H-Met-Arg-Trp-Gln-Glu-Met-Gly-Tyr-Ile-Phe-Tyr-Pro-Arg-Lys-Leu-Arg-OH.
+[p] Preliminary research investigates its potential spectrum of action.[1] The studies report, “Under stress conditions, MOTS-c translocates to the nucleus where it regulates a wide range of genes in response to metabolic dysfunction.” Thus, MOTS-c is thought to regulate energy metabolism and may have anti-inflammatory and anti-cell aging characteristics.
+[h3] MOTS-c Research in Insulin Resistance, Metabolism, and Muscle
+[p] One of the most actively researched potentials of MOTS-c is its action on insulin resistance and metabolic function. Several animal studies suggest MOTS-c may help improve glucose metabolism in metabolic disorders such as insulin resistance by targeting skeletal muscles.[2] This mechanism of action may work by enhancing glucose uptake by skeletal muscles and may also helps decrease levels of visceral fat.
+[p] One of these studies reports that MOTS-c targets the skeletal muscle and inhibits the folate cycle and its tethered de novo purine biosynthesis, leading to AMPK pathway activation.[3] As a result, MOTS-c exposure in mice appeared to mitigate age-dependent and high-fat-diet-induced insulin resistance and diet-induced obesity.
+[p] MOTS-c may also help improve metabolic function by stimulating the “browning” of white (beige) fat and increasing thermogenesis in fat tissue.[4] These potential actions of MOTS-c are believed to be mediated by the activation of the ERK signaling pathway.
+[p] MOTS-c has also shown promise in studies in gestational diabetes, a type of diabetes that occurs due to increased insulin resistance in pregnancy.[5] In a GDM mouse model, daily exposure to MOTS-c during pregnancy appeared to significantly reduce hyperglycemia, improve insulin sensitivity and glucose tolerance, and reduce birth weight and risk of offspring death.
+[p] The action of MOTS-c on skeletal muscles do not appear to be limited to improving their glucose uptake. Animal research also suggests that the peptide has the potential to impact muscle atrophy in obesity and type 2 diabetes.[6] MOTS-c appears to function by decreasing myostatin levels in plasma in mice and elevating AKT phosphorylation, which inhibits the activity of FOXO1, a transcription factor for muscle-wasting genes. It may also potentially reduce dystrophic muscle atrophy, specifically in Duchenne Muscular Dystrophy (DMD) models.[7]
+[h3] MOTS-c Peptide and the Heart
+[p] MOTS-c peptides may exert a protective action on the heart muscle due to improved mitochondria function in the myocytes. According to one study in a murine model of heart failure, the peptide appeared to reduce the inflammation response and improve cardiac function.[8] The peptide also appeared to activate the AMPK pathway, reduce cell apoptosis, and improve the antioxidant capacity in the heart of the mice.
+[p] MOTS-c may also help reduce certain adverse actions of type 2 diabetes on the heart, as studies in diabetic rats suggested that peptide exposure appeared to result in improved myocardial mitochondrial damage, preserve cardiac systolic and diastolic function, and altered 47 disease-causing genes related to apoptosis, immunoregulation, angiogenesis, and fatty acid metabolism.[9]
+[p] Thanks to the activation of the AMPK and the anti-oxidative potential of the peptide, animal studies also suggest it may help reduce inflammation in the heart and protect against vascular calcification (VC), which is a complication of atherosclerosis.[10][11]
+[p] Researchers report that MOTS-c may also improve mechanical heart efficiency, enhance heart systolic function, and show a tendency to improve diastolic function in mice.[12] These results suggest that MOTS-c might help to optimize the cardiovascular function. Scientists also suggest that MOTS-c may have heart function action similar to physical stimulation via activating the NRG1-ErbB4-C/EBPβ pathway.[13]
+[h3] MOTS-c Peptide and Bone
+[p] By activating the phosphorylated AMPK, MOTS-c may provide positive impacts on bones. One study reports that in a murine model of osteoporosis, MOTS-c exposure appeared to inhibit osteoclast differentiation and reduce bone loss, as determined by micro-CT examination.[14] The scientists concluded that “MOTS-c may exert as an inhibitor of osteoporosis via AMPK dependent inhibition of osteoclastogenesis.“
+[p] Another animal study reported reduced bone erosion and inflammation in a model of osteolysis induced by ultra-high molecular weight polyethylene particles.[15] MOTS-c appeared to increase the osteoprotegerin ratio to receptor activator of nuclear factor kappa-B ligand in osteocytes, inhibiting osteoclastogenesis.
+[p] Some laboratory experiments suggest that MOTS-c may promote bone fracture healing by inducing bone marrow stem cell (BMSCs) differentiation into osteoblasts.[16] This may be achieved by increasing the relative levels of bone markers (ALP, Bglap, and Runx2) and activating the TGF-β pathway by the FOXF1 protein to ultimately stimulate the mineralization ability in BMSCs.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Ming W, Lu G, Xin S, Huanyu L, Yinghao J, Xiaoying L, Chengming X, Banjun R, Li W, Zifan L. Mitochondria related peptide MOTS-c suppresses ovariectomy-induced bone loss via AMPK activation. Biochem Biophys Res Commun. 2016 Aug 5;476(4):412-419. doi: 10.1016/j.bbrc.2016.05.135. Epub 2016 May 26. PMID: 27237975.
+[a https://doi.org/10.1016/j.bbrc.2016.05.135] doi: 10.1016/j.bbrc.2016.05.135
+[li] Lee C, Kim KH, Cohen P. MOTS-c: A novel mitochondrial-derived peptide regulating muscle and fat metabolism. Free Radic Biol Med. 2016 Nov;100:182-187. doi: 10.1016/j.freeradbiomed.2016.05.015. Epub 2016 May 20. PMID: 27216708; PMCID: PMC5116416.
+[a https://doi.org/10.1016/j.freeradbiomed.2016.05.015] doi: 10.1016/j.freeradbiomed.2016.05.015
+[li] Lee C, Zeng J, Drew BG, Sallam T, Martin-Montalvo A, Wan J, Kim SJ, Mehta H, Hevener AL, de Cabo R, Cohen P. The mitochondrial-derived peptide MOTS-c promotes metabolic homeostasis and reduces obesity and insulin resistance. Cell Metab. 2015 Mar 3;21(3):443-54. doi: 10.1016/j.cmet.2015.02.009. PMID: 25738459; PMCID: PMC4350682.
+[a https://doi.org/10.1016/j.cmet.2015.02.009] doi: 10.1016/j.cmet.2015.02.009
+[li] Lu H, Tang S, Xue C, Liu Y, Wang J, Zhang W, Luo W, Chen J. Mitochondrial-Derived Peptide MOTS-c Increases Adipose Thermogenic Activation to Promote Cold Adaptation. Int J Mol Sci. 2019 May 17;20(10):2456. doi: 10.3390/ijms20102456. PMID: 31109005; PMCID: PMC6567243.
+[a https://doi.org/10.3390/ijms20102456] doi: 10.3390/ijms20102456
+[li] Yin Y, Pan Y, He J, Zhong H, Wu Y, Ji C, Liu L, Cui X. The mitochondrial-derived peptide MOTS-c relieves hyperglycemia and insulin resistance in gestational diabetes mellitus. Pharmacol Res. 2022 Jan;175:105987. doi: 10.1016/j.phrs.2021.105987. Epub 2021 Nov 17. PMID: 34798268.
+[a https://doi.org/10.1016/j.phrs.2021.105987] doi: 10.1016/j.phrs.2021.105987
+[li] Kumagai H, Coelho AR, Wan J, Mehta HH, Yen K, Huang A, Zempo H, Fuku N, Maeda S, Oliveira PJ, Cohen P, Kim SJ. MOTS-c reduces myostatin and muscle atrophy signaling. Am J Physiol Endocrinol Metab. 2021 Apr 1;320(4):E680-E690. doi: 10.1152/ajpendo.00275.2020. Epub 2021 Feb 8. PMID: 33554779; PMCID: PMC8238132.
+[a https://doi.org/10.1152/ajpendo.00275.2020] doi: 10.1152/ajpendo.00275.2020
+[li] Ran N, Lin C, Leng L, Han G, Geng M, Wu Y, Bittner S, Moulton HM, Yin H. MOTS-c promotes phosphorodiamidate morpholino oligomer uptake and efficacy in dystrophic mice. EMBO Mol Med. 2021 Feb 5;13(2):e12993. doi: 10.15252/emmm.202012993. Epub 2020 Dec 18. PMID: 33337582; PMCID: PMC7863382.
+[a https://doi.org/10.15252/emmm.202012993] doi: 10.15252/emmm.202012993
+[li] Zhong P, Peng J, Hu Y, Zhang J, Shen C. Mitochondrial derived peptide MOTS-c prevents the development of heart failure under pressure overload conditions in mice. J Cell Mol Med. 2022 Nov;26(21):5369-5378. doi: 10.1111/jcmm.17551. Epub 2022 Sep 25. PMID: 36156853; PMCID: PMC9639045.
+[a https://doi.org/10.1111/jcmm.17551] doi: 10.1111/jcmm.17551
+[li] Wang M, Wang G, Pang X, Ma J, Yuan J, Pan Y, Fu Y, Laher I, Li S. MOTS-c repairs myocardial damage by inhibiting the CCN1/ERK1/2/EGR1 pathway in diabetic rats. Front Nutr. 2023 Jan 4;9:1060684. doi: 10.3389/fnut.2022.1060684. PMID: 36687680; PMCID: PMC9846618.
+[a https://doi.org/10.3389/fnut.2022.1060684] doi: 10.3389/fnut.2022.1060684
+[li] Shen C, Wang J, Feng M, Peng J, Du X, Chu H, Chen X. The Mitochondrial-Derived Peptide MOTS-c Attenuates Oxidative Stress Injury and the Inflammatory Response of H9c2 Cells Through the Nrf2/ARE and NF-κB Pathways. Cardiovasc Eng Technol. 2022 Oct;13(5):651-661. doi: 10.1007/s13239-021-00589-w. Epub 2021 Dec 2. PMID: 34859377.
+[a https://doi.org/10.1007/s13239-021-00589-w] doi: 10.1007/s13239-021-00589-w
+[li] Wei M, Gan L, Liu Z, Liu L, Chang JR, Yin DC, Cao HL, Su XL, Smith WW. Mitochondrial-Derived Peptide MOTS-c Attenuates Vascular Calcification and Secondary Myocardial Remodeling via Adenosine Monophosphate-Activated Protein Kinase Signaling Pathway. Cardiorenal Med. 2020;10(1):42-50. doi: 10.1159/000503224. Epub 2019 Nov 6. PMID: 31694019.
+[a https://doi.org/10.1159/000503224] doi: 10.1159/000503224
+[li] Yuan J, Wang M, Pan Y, Liang M, Fu Y, Duan Y, Tang M, Laher I, Li S. The mitochondrial signaling peptide MOTS-c improves myocardial performance during exercise training in rats. Sci Rep. 2021 Oct 11;11(1):20077. doi: 10.1038/s41598-021-99568-3. PMID: 34635713; PMCID: PMC8505603.
+[a https://doi.org/10.1038/s41598-021-99568-3] doi: 10.1038/s41598-021-99568-3
+[li] Yuan J, Xu B, Ma J, Pang X, Fu Y, Liang M, Wang M, Pan Y, Duan Y, Tang M, Zhu B, Laher I, Li S. MOTS-c and aerobic exercise induce cardiac physiological adaptation via NRG1/ErbB4/CEBPβ modification in rats. Life Sci. 2023 Feb 15;315:121330. doi: 10.1016/j.lfs.2022.121330. Epub 2022 Dec 28. PMID: 36584915.
+[a https://doi.org/10.1016/j.lfs.2022.121330] doi: 10.1016/j.lfs.2022.121330
+[li] Ming W, Lu G, Xin S, Huanyu L, Yinghao J, Xiaoying L, Chengming X, Banjun R, Li W, Zifan L. Mitochondria related peptide MOTS-c suppresses ovariectomy-induced bone loss via AMPK activation. Biochem Biophys Res Commun. 2016 Aug 5;476(4):412-419. doi: 10.1016/j.bbrc.2016.05.135. Epub 2016 May 26. PMID: 27237975.
+[a https://doi.org/10.1016/j.bbrc.2016.05.135] doi: 10.1016/j.bbrc.2016.05.135
+[li] Yan Z, Zhu S, Wang H, Wang L, Du T, Ye Z, Zhai D, Zhu Z, Tian X, Lu Z, Cao X. MOTS-c inhibits osteolysis in the Mouse Calvaria by affecting osteocyte-osteoclast crosstalk and inhibiting inflammation. Pharmacol Res. 2019 Sep;147:104381. doi: 10.1016/j.phrs.2019.104381. Epub 2019 Jul 29. PMID: 31369811.
+[a https://doi.org/10.1016/j.phrs.2019.104381] doi: 10.1016/j.phrs.2019.104381
+[li] Weng FB, Zhu LF, Zhou JX, Shan Y, Tian ZG, Yang LW. MOTS-c accelerates bone fracture healing by stimulating osteogenesis of bone marrow mesenchymal stem cells via positively regulating FOXF1 to activate the TGF-β pathway. Eur Rev Med Pharmacol Sci. 2021 Mar;25(6):2459. doi: 10.26355/eurrev_202103_25396. PMID: 33829422.
+[a https://doi.org/10.26355/eurrev_202103_25396] doi: 10.26355/eurrev_202103_25396
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDc3IiB3aWR0aD0iMTUwIiBoZWlnaHQ9Ijc3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDg0IiB3aWR0aD0iMTUwIiBoZWlnaHQ9Ijg0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDg5IiB3aWR0aD0iMTUwIiBoZWlnaHQ9Ijg5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDY4IiB3aWR0aD0iMTUwIiBoZWlnaHQ9IjY4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDg0IiB3aWR0aD0iMTUwIiBoZWlnaHQ9Ijg0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

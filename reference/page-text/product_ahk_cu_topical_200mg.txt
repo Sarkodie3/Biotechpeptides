@@ -1,0 +1,115 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/AHK-Cu-1.webp] 
+[img] AHK-Cu (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/AHK-Cu-1-460x580.webp
+[h1] AHK-Cu (200mg)
+[p] $192.00
+[p] AHK-Cu peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_3553 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $182.40
+[input name=wccs_tier_select_3553 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $172.80
+[label] AHK-Cu (200mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Description
+[a #tab-description] Description
+[h3] AHK-Cu Peptide
+[p] AHK-Cu is a tripeptide containing a copper atom. It is a short peptide in which the copper atom is attached between the histidine and alanine residues of the alanine-histidine-lysine tripeptide. The copper atom is linked to three nitrogen atoms in this molecule. It is a naturally occurring compound that has been suggested to add support in cell growth and regulation, and cell death, particularly in the case of vascular endothelial cells (the innermost layer of blood vessels). AHK-Cu has also been studied extensively in animal models under laboratory conditions for its suggested impact on collagen synthesis. Researchers posit that the peptide appears to regulate various cellular processes primarily by controlling the production of two compounds: Vascular Endothelial Growth Factor (VEGF) and Transforming Growth Factor beta (TGF-B).[1] According to the researchers “TGF-beta1 induction of angiogenesis requires a rapid and transient apoptotic effect mediated by VEGF/VEGFR2.” AHK-Cu, by enhancing levels of the Vascular Endothelial Growth Factor, may possibly activate fibroblasts and endothelial cells. Fibroblasts are considered to lead to the production of two complex compounds; elastin and collagen. Endothelial cells are considered responsible for the growth and function of blood vessels that supply nutrition to hair follicles and skin cells. The activation of endothelial cells in association with the fibroblasts may lead to a strengthened skin barrier and increased skin elasticity, as well as potential acceleration in tissue repair. Some laboratory studies done on dermal cells indicate an increase in collagen type 1 production to the extent of as much as 300%.
+[h3] Specifications
+[p] MOLECULAR FORMULA: C15H25CuN6O4
+[p] MOLECULAR WEIGHT: 416.9 g/mol
+[p] SEQUENCE: Ala-His-Lys-Cu
+[h3] AHK-Cu Research
+[p] AHK-Cu studies have primarily examined the peptide’s potential in the areas of hair follicle and skin cell research. AHK-Cu primarily exhibits potential within fibroblasts. These cells are considered to function in maintaining and growing the Extracellular Matrix (ECM), which surrounds cells. Fibroblasts secrete various biological substances, such as Vascular Endothelial Growth Factor (VEGF). VEGF seems to be a signaling protein, reportedly involved in angiogenesis, a process that may be responsible for the formation of new blood vessels from existing vasculature. This process apparently starts when the VEGF protein, which is considered to be secreted by oxygen-deprived cells during a hypoxic response, and may bind to VEGF receptors on the surface of endothelial cells. While there are several types of these receptors, like VEGFR-1, VEGFR-2, and VEGFR-3, it appears that the primary mediator of angiogenic response is most likely VEGFR-2. This hypothesized VEGF/VEGFR interaction may activate a complex intracellular signaling cascade, which may involve multiple proteins such as phospholipase C, protein kinase C, and the mitogen-activated protein kinases. This cascade may possibly lead to the proliferation, survival, migration, and differentiation of endothelial cells, which are posited to be the building blocks of new blood vessels. Furthermore, VEGF may also increase the permeability of blood vessels, which might enable the extravasation of plasma proteins and contribute to the formation of a primitive vascular scaffold, thereby potentially promoting the process of angiogenesis. Therefore AHK-Cu may have potential action on blood vessel growth as well, which may further enhance the function of fibroblasts.
+[p] AHK-Cu and Skin Cells Copper and its peptide derivates are often the subject of research studies examining the levels of collagen synthesis and production in skin cells. A natural decline occurs over time in the levels of collagen, with production of new collagen decreasing and existing collagen reducing structural and functional integrity. Collagen also exhibits an affinity for water, and it appears to hydrate the skin cells and Extracellular Matrix when it penetrates the skin barrier.[2] These apparent properties of collagen may reduce the appearance of creases and wrinkling along the skin surface. Research studies have suggested the potential of AHK-Cu in skin conditioning and collagen production. The researchers hypothesized the potential action of the AHK-Cu copper peptide complexes on collagen formation by attempting to isolate the quantity of collagen type I produced by fibroblasts in a cell culture. Normal dermal fibroblasts were seeded into a 96-well cell culture plate and have been grown to confluence in high glucose media, supplemented with 10% fetal calf serum for around 3 days. Following this, they were transferred to low glucose media with 2% serum and various quantities of AHK-Cu complex. After a period of approximately 3 days, the culture media was gathered and analyzed for collagen type I content. This was done using a sandwich ELISA assay which employed a purified antibody to collagen type I. The addition of the AHK-Cu complex may potentially have stimulated the proliferation of normal dermal fibroblasts and possibly enhanced their viability. Researchers suggested that the inclusion of the AHK-Cu complex may stimulate the formation of collagen type I, with an increase hypothesized to be around 300% over the control.[2]
+[p] AHK-Cu and Hair Follicles AHK-Cu may possibly influence follicle stimulation via two potential mechanisms. The first hypothesized mechanism is via the stimulation and secretion of the VEGF, leading to the growth of blood vessels in the area surrounding the hair follicles. These blood vessels supply nutrition to hair follicles and may promote growth. A reduction in the supply of these nutrients, on the other hand, may lead to follicle loss and damage. Studies have suggested that AHK-Cu may also lead to the formation of new hair follicles by promoting new blood vessels and improving blood supply to existing hair follicles. By stimulating the growth of blood vessels, AHK-Cu may potentially influence growth. The second mechanism by which AHK-Cu may potentially mitigate hair loss via down-regulating Transforming Growth Factor beta. This action may reduce the effect of dihydrotestosterone (DHT) on loss.[3]
+[p] One study focused on the potential role of the tripeptide concerning dermal papilla cells (DPCs). DPCs are considered specialized variants of fibroblasts, which may play a pivotal role in the development and growth of hair follicles, although this was not definitively proven. The study then shifted its focus to the potential action of AHK-Cu on hair growth and on cultured dermal papilla cells. When AHK-Cu was introduced, an increase in the elongation of hair follicles was observed, which might suggest a positive action. Similarly, there appeared to be a proliferation of DPCs, though this result was not entirely certain. Further experimentation involved Annexin V-fluorescein isothiocyanate/propidium iodide labeling and flow cytometric analysis, which suggested that AHK-Cu may have reduced the number of apoptotic DPCs, although this decrease was not statistically significant and thus not conclusively confirmed. The study's researchers hypothesized that the ratio of Bcl-2/Bax, proteins that appear to regulate cell death, were elevated, hinting at a possible protective role of AHK-Cu. This hypothesis might have been corroborated by the observation that the levels of the cleaved forms of caspase-3 and PARP, both proteins which may be associated with programmed cell death, seemed to be reduced after introduction of AHK-Cu. The scientists concluded that “The present study proposed that AHK-Cu promotes the growth of hair follicles, and this stimulatory effect may occur due to stimulation of the proliferation and the preclusion of the apoptosis of DPCs.”
+[p] The hormone dihydrosterone is considered to be a primary contributor to progressive loss. Researchers posit that mitigating the impact of dihydropteroate may reduce overall loss and potentially protect hair follicles from negative stress. By increasing the blood supply to an existing follicle, researchers suggest AHK-Cu may potentially increase and enhance follicle thickness and size. Studies also suggest that AHK-Cu may possibly extend the growth phase. The hair growth cycle has 3 phases: Anagen, Telogen, and Catagen phases. Among these, AHK-Cu has been posited to potentially both extend and trigger Anagen hair growth phases, with impacts in certain research studies reported up to 3-5 years.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Ferrari G, Cook BD, Terushkin V, Pintucci G, Mignatti P. Transforming growth factor-beta 1 (TGF-beta1) induces angiogenesis through vascular endothelial growth factor (VEGF)-mediated apoptosis. J Cell Physiol. 2009 May;219(2):449-58. doi: 10.1002/jcp.21706. PMID: 19180561; PMCID: PMC2749291.
+[a https://doi.org/10.1002/jcp.21706] doi: 10.1002/jcp.21706
+[li] Patt, Leonard M., and A. Procyte. "Neova® DNA Repair Factor Nourishing Lotion Stimulates Collagen and Speeds Natural Repair Process." skin 1 (2009): 2.
+[li] Pyo HK, Yoo HG, Won CH, Lee SH, Kang YJ, Eun HC, Cho KH, Kim KH. The effect of tripeptide-copper complex on human hair growth in vitro. Arch Pharm Res. 2007 Jul;30(7):834-9. doi: 10.1007/BF02978833. PMID: 17703734.
+[a https://doi.org/10.1007/BF02978833] doi: 10.1007/BF02978833
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Pal-GHK (Palmitoyl Tripeptide-1) (200mg) $199.00
+[a https://biotechpeptides.com/product/pal-ghk-palmitoyl-tripeptide-1-topical-200mg/] Pal-GHK (Palmitoyl Tripeptide-1) (200mg) $199.00
+[img] Pal-GHK (Palmitoyl Tripeptide-1) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Pal-GHK-1-238x317.webp
+[h2] Pal-GHK (Palmitoyl Tripeptide-1) (200mg)
+[li] Sale! Pal-AHK (200mg) $192.00 Original price was: $192.00.$180.00Current price is: $180.00.
+[a https://biotechpeptides.com/product/pal-ahk-topical-200mg/] Sale! Pal-AHK (200mg) $192.00 Original price was: $192.00.$180.00Current price is: $180.00.
+[img] Pal-AHK (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Pal-AHK-2-238x317.webp
+[h2] Pal-AHK (200mg)
+[li] Acetyl Hexapeptide-3 (Argireline) (200mg) $210.00
+[a https://biotechpeptides.com/product/acetyl-hexapeptide-3-argireline-200mg/] Acetyl Hexapeptide-3 (Argireline) (200mg) $210.00
+[img] Acetyl Hexapeptide-3 (Argireline) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Acetyl-Hexapeptide-3-1-238x317.webp
+[h2] Acetyl Hexapeptide-3 (Argireline) (200mg)
+[li] GHK-Cu (200mg) $186.00
+[a https://biotechpeptides.com/product/ghk-cu-topical-200mg/] GHK-Cu (200mg) $186.00
+[img] GHK-Cu (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/GHK-Cu-1-238x317.webp
+[h2] GHK-Cu (200mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

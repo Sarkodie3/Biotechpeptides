@@ -1,0 +1,85 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Research Studies Involving NAD+
+[p] by Dr. Usman | Apr 4, 2022 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Uses and Effects of NAD+ Peptides - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2022/04/NAD-Nicotinamide-Adenine-Dinucleotide-The-Powerhouse-of-Cells-webp.avif
+[p] NAD+ peptide also acts as a means of communication between cells. NAD+ has been suggested to act as an extracellular signaling molecule and helps regulate pivotal physiological functions. These functions include the activity of the intestine, bladder, neurons, and blood vessels. Research into the peptide has also implicated its activity in energy conversion, immune mediation, regulation of circadian rhythm, and timely DNA repair. NAD+ is an important biomolecule, but endogenous production appears to level off and then decline over time, which signifies its importance in age-related disease research.
+[a https://biotechpeptides.com/product/nad-100mg/] NAD+ peptide
+[h2] What Does NAD+ Research Suggest?
+[p] 1. Anti-Aging Potential of NAD+ Mitochondria is the powerhouse of the cells. It controls processes that generate ATP, which is a form of energy currency. In addition, it is considered to help in several intracellular signaling processes and regulates innate immunity. Mitochondria senescence may lead to decreased cellular metabolism, heightened inflammation, and accelerated cell aging. These processes may lead to certain conditions which have been linked to age-related physiological decline, and it may also induce organ dysfunction and altered tissue repair processes in cases of injury or damage.
+[p] Processes that can modulate or accelerate the actions of mitochondria may reverse the biological clock. Researcher speculate that NAD+ may be a critical component of mitochondrial function. A decline in the levels of NAD+ has been suggested to interrupt signaling pathways to the nucleus by promoting a pseudohypoxic state. These changes may undergo reversal with adequate supplementation of NAD+. NAD+ supplementation has been hypothesized to mitigate or reverse decline in mitochondrial action.
+[p] NAD+ supplementation may lead to the activation of SIRT1. SIRT1 is a gene that produces an enzyme called Sirtuin-1. It is also known as NAD+-dependent Deacetylase Sirtuin-1. Sirtuin-1 acts as a co-mediator for cellular processes. These may include improved metabolism, cellular longevity, and reduced inflammation.
+[p] 2. Neurodegenerative Conditions NAD+ released by the nerve endings acts as a signaling molecule. Due to its antioxidant, anti-inflammatory, and regenerative potential, it has been hypothesized to exhibit significant neuroprotective characteristics. NAD+ appears to act on the mitochondrial energy generation pathways and reduces the production of Reactive Oxygen Species (ROS). ROS are toxic molecules that lead to the generation of biologically healthy molecules. ROS increases significantly over time and is considered to be a pathogenic process in the onset of age-related conditions. Findings in animal models of Parkinson’s disease suggest that NAD+ supplementation may potentially reduce ROS. It also may improve the survival of dopamine-producing cells in the brain. Researchers report that it appeared to effectively reduce the motor deficits seen in the animal models of Parkinson’s disease.
+[p] 3. Muscle Function: Muscle cell proliferation is considered to decline over time as well. This decline appears to be a direct consequence of mitochondrial dysfunction and NAD+ decline. A fall in mitochondrial gene expression may lead to reduced oxidative phosphorylation. A decrease in oxidative phosphorylation may lead to reduced energy production by mitochondria. Animal research suggests that NAD+ supplementation may potentially help improve gene expression and energy generation.
+[p] NAD+ supplementation appears to help stabilize the activity of Peroxisome Proliferator-activated Receptor Gamma Coactivator 1-alpha (PGC-1-alpha). Stabilization of this gene may effect muscle growth similar to regular physical activity. Also, increased oxidative stress and inflammation may potentially induce a decline in muscle mass. NAD+ supplementation may potentiate an improvement in the survival of muscle fibers.
+[p] 4. NAD+ and Inflammation Nicotinamide phosphoribosyltransferase (NAMPT) is an enzyme-linked to inflammation. Several cancers are considered to lead to an over-expression of this enzyme. It is also linked to type 2 diabetes, Non-Alcoholic Fatty Liver Disease (NAFLD), and obesity. NAD+ supplementation may potentially cause a dramatic decline in the levels of NAMPT.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

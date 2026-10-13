@@ -1,0 +1,161 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2023/06/Tesamorelin-Mod-GRF-Ipamorelin-1.webp] 
+[img] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin Blend (12mg) :: https://biotechpeptides.com/wp-content/uploads/2023/06/Tesamorelin-Mod-GRF-Ipamorelin-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2023/06/COA_Ipamorelin_CJC-1295_noDAC_Tesamorelin_3141082_BP_page-0001.webp] 
+[img] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin Blend (12mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2023/06/COA_Ipamorelin_CJC-1295_noDAC_Tesamorelin_3141082_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2023/06/COA_Ipamorelin_CJC-1295_noDAC_Tesamorelin_3141082_BP_page-0002.webp] 
+[img] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin Blend (12mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2023/06/COA_Ipamorelin_CJC-1295_noDAC_Tesamorelin_3141082_BP_page-0002.webp
+[a https://biotechpeptides.com/wp-content/uploads/2023/06/COA_Ipamorelin_CJC-1295_noDAC_Tesamorelin_3141082_BP_page-0003.webp] 
+[img] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin Blend (12mg) - Image 4 :: https://biotechpeptides.com/wp-content/uploads/2023/06/COA_Ipamorelin_CJC-1295_noDAC_Tesamorelin_3141082_BP_page-0003.webp
+[a https://biotechpeptides.com/wp-content/uploads/2023/06/COA_Ipamorelin_CJC-1295_noDAC_Tesamorelin_3141082_BP_page-0004.webp] 
+[img] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin Blend (12mg) - Image 5 :: https://biotechpeptides.com/wp-content/uploads/2023/06/COA_Ipamorelin_CJC-1295_noDAC_Tesamorelin_3141082_BP_page-0004.webp
+[h1] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin Blend (12mg)
+[p] $109.00
+[p] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin peptide blend is Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_32497 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $103.55
+[input name=wccs_tier_select_32497 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $98.10
+[label] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin Blend (12mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2023/06/COA_Ipamorelin_CJC-1295_noDAC_Tesamorelin_3141082_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin Peptide Blend
+[p] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin peptide blend is a combination of peptides that may potentially interact with receptors in the pituitary gland. This blend may activate pituitary cells responsible for growth hormone (hGH) production. Tesamorelin is a synthetic peptide that appears to act as an analog for growth hormone-releasing hormone (GHRH).[1] It may potentially interact with specific receptors in the pituitary and the hypothalamus, known as GHRH receptors. The activation of these receptors appears to trigger a release of growth hormone from pituitary cells. Mod GRF (Modified Growth Hormone-Releasing Factor), also known as CJC-1295 without DAC (Drug Affinity Complex), is a synthetic peptide analog of the endogenous growth hormone-releasing hormone (GHRH).[2] It is a tetrasubstituted version of the shortest GHRH sequence. The peptide may potentially trigger GHRH receptors – GRF (1-29). It appears to bind to GHRH receptors in the pituitary cells associated with the release of hGH. Ipamorelin is another synthetic peptide that may interact with pituitary cells, although it appears to do so by triggering a different receptor called the growth hormone secretagogue (GHS) receptor.[3] These receptors, also called ghrelin receptors, are apparently found in the pituitary and the hypothalamus. By activating these receptors in an organism’s brain, Ipamorelin may potentially trigger the synthesis of HGH by pituitary cells.
+[h3] Tesamorelin Specifications
+[p] Molecular Formula: C221H366N72O67S
+[p] Molecular Weight: 5136 g/mol
+[p] Sequence: trans-hexenoyl-acid-Tyr-Ala-Asp-Ala-Ile-Phe-Thr-AsnSer-Tyr-Arg-Lys-Val-Leu-Gly-Gln-Leu-Ser-Ala-Arg-Lys-Leu-LeuGln-Asp-Ile-Met-Ser-Arg-GlnGln-Gly-Glu-Ser-Asn-Gln-Glu-Arg-Gly-Ala-Arg-Ala-Arg-Leu
+[h3] CJC-1295 (Mod GRF 1-29) Specifications
+[p] Molecular Formula: C152H252N44O42
+[p] Molecular Weight: 3367.954 g/mol
+[p] Sequence: YDADAIFTQSYRKVLAQLSARKL LQDILSR-NH2
+[h3] Ipamorelin Specifications
+[p] Molecular Formula: C38H49N9O5
+[p] Molecular Weight: 711.868 g/mol
+[p] Sequence: Aib-His-D-2Nal-D-Phe-Lys
+[h3] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin Research
+[p] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin and Structural Modifications The Tesamorelin & Mod GRF & Ipamorelin blend appears to act primarily via the GHRH receptors in the central nervous system, particularly the pituitary cells (somatotrophs) found in the anterior part of the gland. More specifically, the Tesamorelin & Mod GRF appear to be the two main activators of these receptors. Tesamorelin appears to have an affinity to the GHRH receptors due to its chain composed of 44 amino acids, which include the specific sequence of GHRH, also made of 44 amino acids. Yet, Tesamorelin also has an acetyl group (CH₃CO-) attached to the N-terminus, which may potentially enhance the stability and observed activity of the peptide. Furthermore, the C-terminus of Tesamorelin has been modified with a trans-3-hexenoic acid group. This modification, known as an omega-amino acid modification, may help improve the peptide’s resistance to enzymatic degradation. On the other hand, Mod GRF has GHRH receptor affinity due to its apparent similarity to the shortest functional part of the GHRH – GHF (1-29). Yet it is modified at four positions – position two, eight, fifteen, and twenty-seven. At position two, the amino acid alanine (Ala) is replaced with a modified amino acid called D-Alanine (D-Ala). This substitution may potentially increase the resistance of the peptide to enzymatic degradation and improve its stability. Further, the amino acid asparagine (Asn) at position eight is replaced with a modified amino acid called Lysine (Lys). This substitution may enhance the peptide’s binding affinity to the GHRH receptor. At position fifteen, the amino acid histidine (His) is replaced with a modified amino acid called D-Phenylalanine (D-Phe). This substitution may improve the peptide’s resistance to enzymatic degradation and enhance its stability. Finally, the amino acid cysteine (Cys) at position twenty-seven is replaced with a modified amino acid called N-methylglycine (Sar). This substitution may increase the half-life of the peptide by protecting it from enzymatic cleavage and degradation.
+[p] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin and GHRH Receptor Activation Tesamorelin & CJC-1295 (Mod GRF 1-29) may potentially interact with the GHRH receptors via complex molecular mechanisms, which involve subsequent activation of signaling pathways.[4] It is suggested that upon binding to the GHRH receptor, Tesamorelin & Mod GRF may induce conformational changes in the receptor structure, potentially activating intracellular signaling pathways.[5] It is speculated that Tesamorelin & Mod GRF may stimulate the production of cyclic adenosine monophosphate (cAMP) within the target cells. This may potentially be achieved by activating the adenylate cyclase, which may convert ATP to cAMP. Researchers believe that increased cAMP levels may activate protein kinase A (PKA), which appears to be a key intracellular signaling molecule. It may potentially phosphorylate various target proteins, thus initiating downstream cellular responses. The potential activation of the GHRH receptor by Tesamorelin & Mod GRF and the potential cAMP-PKA signaling cascade may stimulate hGH synthesis and secretion from somatotrophs in the pituitary gland. The hGH released from pituitary cells may also influence the synthesis of insulin-like growth factor-1 (IGF-1).[6] Scientists working with test models also comment that IGF-1 may have a “GH independent growth stimulating effect, which with respect to cartilage cells is possibly optimized by the synergistic action with GH.” IGF-1 is posited to be the main mediator of GH’s anabolic actions.
+[p] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin and GHS Receptor Activation Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin peptide blend may also have the potential to interact with the GHS receptors, particularly through the proposed mechanism of action of Ipamorelin. Researchers suggest that Ipamorelin exhibits selectivity by targeting the GHS receptor without significant cross-reactivity with other receptors.[7] The scientists also commented, “Very surprisingly, Ipamorelin did not [appear to] release ACTH or cortisol in levels significantly different from those observed following GHRH stimulation.” This apparent selectivity may allow Ipamorelin to potentially stimulate growth hormone release by pituitary cells without necessarily triggering the release of cortisol or adrenocorticotropic hormone (ACTH). Cortisol and ACTH are hormones potentially involved in the stress response and are typically associated with various metabolic and immune actions. In vitro studies of test models suggest that by interacting with the GHS receptors, Ipamorelin may act on somatotroph cells in the anterior pituitary gland, which may activate various intracellular signaling pathways.[8] One such potential pathway involves the activation of phospholipase C (PLC), which researchers suggest may lead to the release of inositol triphosphate (IP3) and diacylglycerol (DAG). IP3 may trigger the release of calcium ions (Ca2+) from intracellular stores, while DAG may activate protein kinase C (PKC). The potential elevation of intracellular calcium levels and PKC activation may lead to the apparent exocytosis of growth hormone-containing vesicles from pituitary cells.
+[p] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin and Growth Hormone Synthesis Research suggests that all three peptides may potentially stimulate the release of a substantial amount of growth hormone from anterior pituitary cells. In controlled research settings, Tesamorelin exposure was associated with a 69% increase in total growth hormone levels. Researchers indicated that this was assessed using the area under the curve (AUC) method, which measures hormone concentration over time. There is also data linking the peptide to a possible 55% rise in the average pulse area of growth hormone, indicating the amount released per pulse. However, the data indicates that this peptide might not significantly affect the frequency of growth hormone pulses or the peak levels reached during each pulse. Additionally, IGF-1 levels seem to have increased by 122% during Tesamorelin testing.[9] A modified version of CJC-1295 has also been evaluated for its actions on diverse physiological functions. This may include growth hormone and IGF-1 production, skin cell proliferation, and muscle tissue growth. Results from a 16-week study suggest that the CJC-1295 analog may influence the growth hormone and IGF-1 levels. Specifically, the findings imply that this peptide might enhance growth hormone release by 70% to 107% over 12 hours from somatotroph cells in the anterior pituitary gland. Furthermore, an increase in IGF-1 levels by around 28% was observed.[10] Ipamorelin, based on experimental data, might also elevate growth hormone secretion levels to approximately 80 mIU/l, which appears to be 60 times higher than the levels observed following test model exposure to a placebo.[11]
+[p] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin and Skeletal Muscles In the referenced 16-week study, partially modified CJC-1295 was observed to increase skeletal muscle mass and water retention in test models. A total of 2.78 pounds (1.26 kg) weight increase was observed. The observed effects in test models are thought to be associated with changes in growth hormone and IGF-1 levels. Additionally, researchers observed a notable increase in the thickness of the epidermal layer, which might indicate an influence of elevated growth hormone levels on epidermal cell proliferation.[10] Regarding Tesamorelin, a study aimed to investigate the peptide's potential actions on the structural quality of muscle tissues using computed tomography (CT) scans of test models.[12] The findings suggested a possible correlation between Tesamorelin and improvements in muscle tissue density and volume. Certain muscle groups observed in murine models, including the rectus abdominis, psoas major, and paraspinal muscles, showed a more pronounced increase in muscle density and volume, as well as a reduction in intramuscular fat content, than those observed in controls. Further research on the murine model's exposure to Ipamorelin proposes that it may also hold potential for muscle tissue anabolism based on the peptide's potential for restoring nitrogen balance and reducing nitrogen wasting.[13] These actions are hypothesized to result from Ipamorelin's potential modulation of growth hormone and IGF-1 production. The study primarily examined the murine models to determine the ability of their livers to generate urea nitrogen (CUNS), an indicator of nitrogen metabolism efficiency. The research also considered overall nitrogen homeostasis and the theoretical distribution of nitrogen across various tissues. The results suggested that Ipamorelin might reduce CUNS by approximately 20% under induced catabolic conditions. Additionally, the study indicated a potential decrease in the expression of urea cycle enzymes in animal models. This may indicate a possible re-establishment of nitrogen balance, and a potential modification or enhancement of nitrogen levels in different tissues.
+[p] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin and Appetite Signaling As outlined, one of the peptides in the blend, Ipamorelin, appears to influence pituitary cells via a different subset of receptors called the GHS receptors. The hunger-associated hormone ghrelin has been observed activating these receptors in animal models. Thus, it is speculated that Ipamorelin might influence food consumption by interacting with ghrelin receptors in the nervous system.[14] Researchers hypothesize that ghrelin receptors play a role in appetite regulation and, when activated, might enhance hunger signals. This might result in increased body mass. In certain experimental investigations, animal subjects exposed to Ipamorelin exhibitedan approximate 15% rise in body weight. This weight gain is theorized to be potentially linked to an increase in adipose tissue relative to the overall body mass. Dual-energy X-ray absorptiometry (DEXA) scans, utilized to evaluate bone mineral density and body composition of animal models, may suggest a higher possible fat percentage that may potentially be associated with Ipamorelin. Thus, researchers propose that growth hormone secretagogues like Ipamorelin might elevate fat levels through mechanisms that do not involve growth hormone directly, possibly by enhancing food intake.
+[p] Tesamorelin & CJC-1295 (Mod GRF 1-29) & Ipamorelin and Visceral Adiposity Research studies have observed a reduction in visceral adiposity in test models exposed to Tesamorelin.[15] One particular study noted a 4.7% decrease in absolute hepatic fat among models exposed to Tesamorelin, whereas the control group showed no change. This translates to a relative reduction in liver fat by 37%, indicating a possible benefit in lowering liver fat accumulation. Additionally, 35% of subjects in the Tesamorelin group achieved a hepatic fat fraction below 5%, compared to only 4% in the control group. Regarding liver tissue fibrosis, Tesamorelin seemed to decelerate its progression, with 10.5% of the Tesamorelin group exhibiting fibrosis progression compared to 37.5% in the placebo group. However, Tesamorelin did not appear to improve pre-existing fibrosis significantly. The reduction in liver fat was associated with improvements in fibrosis, suggesting a potential link between decreased liver fat and reduced fibrosis progression. Further, Tesamorelin might possess anti-inflammatory properties, as suggested by reduced C-reactive protein (CRP) levels. Despite these findings, Tesamorelin did not significantly affect liver enzymes such as alanine aminotransferase (ALT) and gamma-glutamyl transferase (GGT) overall. Nonetheless, it did lower ALT levels in subjects with elevated baseline levels. Metabolic parameters, including fasting glucose and hemoglobin A1c, remained largely unchanged, implying that Tesamorelin might have a neutral action on glucose regulation during the study period. In another study lasting over 52 weeks and involving more than 800 models, the peptide potentially led to a mean reduction in visceral adiposity by -17.5%. There were also apparent reductions in triglycerides by a mean of -48 mg/dl, cholesterol by a mean of -8 mg/dl, and non-high-density lipoprotein by a mean of -7 mg/dl.[16] Further reviews of multiple experiments on Tesamorelin have indicated it may result in an apparent reduction of up to -25% in visceral fat.[17]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Clinical Review Report: Tesamorelin (Egrifta) [Internet]. Ottawa (ON): Canadian Agency for Drugs and Technologies in Health; 2016 Aug. 1, Introduction. Available from: https://www.ncbi.nlm.nih.gov/books/NBK539137/
+[a https://www.ncbi.nlm.nih.gov/books/NBK539137/] https://www.ncbi.nlm.nih.gov/books/NBK539137/
+[li] Jetté, L., Léger, R., Thibaudeau, K., Benquet, C., Robitaille, M., Pellerin, I., Paradis, V., van Wyk, P., Pham, K., & Bridon, D. P. (2005). Human growth hormone-releasing factor (hGRF)1-29-albumin bioconjugates activate the GRF receptor on the anterior pituitary in rats: identification of CJC-1295 as a long-lasting GRF analog. Endocrinology, 146(7), 3052–3058. https://doi.org/10.1210/en.2004-1286
+[a https://doi.org/10.1210/en.2004-1286] https://doi.org/10.1210/en.2004-1286
+[li] Johansen, P. B., Nowak, J., Skjaerbaek, C., Flyvbjerg, A., Andreassen, T. T., Wilken, M., & Orskov, H. (1999). Ipamorelin, a new growth hormone-releasing peptide, induces longitudinal bone growth in rats. Growth hormone & IGF research: official journal of the Growth Hormone Research Society and the International IGF Research Society, 9(2), 106–113. https://doi.org/10.1054/ghir.1999.9998
+[a https://doi.org/10.1054/ghir.1999.9998] https://doi.org/10.1054/ghir.1999.9998
+[li] Spooner, L. M., & Olin, J. L. (2012). Tesamorelin: a growth hormone-releasing factor analog for HIV-associated lipodystrophy. The Annals of Pharmacotherapy, 46(2), 240–247. https://doi.org/10.1345/aph.1Q629
+[a https://doi.org/10.1345/aph.1Q629] https://doi.org/10.1345/aph.1Q629
+[li] Zhou, F., Zhang, H., Cong, Z., Zhao, L. H., Zhou, Q., Mao, C., Cheng, X., Shen, D. D., Cai, X., Ma, C., Wang, Y., Dai, A., Zhou, Y., Sun, W., Zhao, F., Zhao, S., Jiang, H., Jiang, Y., Yang, D., Eric Xu, H., … Wang, M. W. (2020). Structural basis for activation of the growth hormone-releasing hormone receptor. Nature communications, 11(1), 5205. https://doi.org/10.1038/s41467-020-18945-0
+[a https://doi.org/10.1038/s41467-020-18945-0] https://doi.org/10.1038/s41467-020-18945-0
+[li] Laron Z. (2001). Insulin-like growth factor 1 (IGF-1): a growth hormone. Molecular pathology: MP, 54(5), 311–316. https://doi.org/10.1136/mp.54.5.311
+[a https://doi.org/10.1136/mp.54.5.311] https://doi.org/10.1136/mp.54.5.311
+[li] Raun, K., Hansen, B. S., Johansen, N. L., Thøgersen, H., Madsen, K., Ankersen, M., & Andersen, P. H. (1998). Ipamorelin, the first selective growth hormone secretagogue. European journal of endocrinology, 139(5), 552–561. https://doi.org/10.1530/eje.0.1390552
+[a https://doi.org/10.1530/eje.0.1390552] https://doi.org/10.1530/eje.0.1390552
+[li] Jiménez-Reina, L., Cañete, R., de la Torre, M. J., & Bernal, G. (2002). Influence of chronic treatment with the growth hormone secretagogue Ipamorelin, in young female rats: somatotroph response in vitro. Histology and histopathology, 17(3), 707–714. https://doi.org/10.14670/HH-17.707
+[a https://doi.org/10.14670/HH-17.707] https://doi.org/10.14670/HH-17.707
+[li] Stanley TL, Chen CY, Branch KL, Makimura H, Grinspoon SK. Effects of a growth hormone-releasing hormone analog on endogenous GH pulsatility and insulin sensitivity in healthy men. J Clin Endocrinol Metab. 2011 Jan;96(1):150-8. doi: 10.1210/jc.2010-1587. Epub 2010 Oct 13. PMID: 20943777; PMCID: PMC3038486.
+[a https://doi.org/10.1210/jc.2010-1587] doi: 10.1210/jc.2010-1587
+[li] Khorram, O., Laughlin, G. A., & Yen, S. S. (1997). Endocrine and metabolic effects of long-term administration of [Nle27]growth hormone-releasing hormone-(1-29)-NH2 in age-advanced men and women. The Journal of clinical endocrinology and metabolism, 82(5), 1472–1479. https://doi.org/10.1210/jcem.82.5.3943
+[a https://doi.org/10.1210/jcem.82.5.3943] https://doi.org/10.1210/jcem.82.5.3943
+[li] Gobburu, J. V., Agersø, H., Jusko, W. J., & Ynddal, L. (1999). Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers. Pharmaceutical research, 16(9), 1412–1416. https://doi.org/10.1023/a:1018955126402
+[a https://doi.org/10.1023/a:1018955126402] https://doi.org/10.1023/a:1018955126402
+[li] Adrian S, Scherzinger A, Sanyal A, Lake JE, Falutz J, Dubé MP, Stanley T, Grinspoon S, Mamputu JC, Marsolais C, Brown TT, Erlandson KM. The Growth Hormone Releasing Hormone Analogue, Tesamorelin, Decreases Muscle Fat and Increases Muscle Area in Adults with HIV. J Frailty Aging. 2019;8(3):154-159. doi: 10.14283/jfa.2018.45. PMID: 31237318; PMCID: PMC6766405.
+[li] Aagaard, N. K., Grøfte, T., Greisen, J., Malmlöf, K., Johansen, P. B., Grønbaek, H., Ørskov, H., Tygstrup, N., & Vilstrup, H. (2009). Growth hormone and growth hormone secretagogue effects on nitrogen balance and urea synthesis in steroid-treated rats. Growth hormone & IGF research: official journal of the Growth Hormone Research Society and the International IGF Research Society, 19(5), 426–431. https://doi.org/10.1016/j.ghir.2009.01.001
+[a https://doi.org/10.1016/j.ghir.2009.01.001] https://doi.org/10.1016/j.ghir.2009.01.001
+[li] Lall, S., Tung, L. Y., Ohlsson, C., Jansson, J. O., & Dickson, S. L. (2001). Growth hormone (GH)-independent stimulation of adiposity by GH secretagogues. Biochemical and biophysical research communications, 280(1), 132–138. https://doi.org/10.1006/bbrc.2000.4065
+[a https://doi.org/10.1006/bbrc.2000.4065] https://doi.org/10.1006/bbrc.2000.4065
+[li] Stanley, T. L., Fourman, L. T., Feldpausch, M. N., Purdy, J., Zheng, I., Pan, C. S., Aepfelbacher, J., Buckless, C., Tsao, A., Kellogg, A., Branch, K., Lee, H., Liu, C. Y., Corey, K. E., Chung, R. T., Torriani, M., Kleiner, D. E., Hadigan, C. M., & Grinspoon, S. K. (2019). Effects of Tesamorelin on non-alcoholic fatty liver disease in HIV: a randomized, double-blind, multicentre trial. The Lancet. HIV, 6(12), e821–e830.
+[li] Falutz J, Mamputu JC, Potvin D, Moyle G, Soulban G, Loughrey H, Marsolais C, Turner R, Grinspoon S. Effects of Tesamorelin (TH9507), a growth hormone-releasing factor analog, in human immunodeficiency virus-infected patients with excess abdominal fat: a pooled analysis of two multicenter, double-masked placebo-controlled phase 3 trials with safety extension data. J Clin Endocrinol Metab. 2010 Sep;95(9):4291-304. doi: 10.1210/jc.2010-0490. Epub 2010 Jun 16. PMID: 20554713.
+[a https://doi.org/10.1210/jc.2010-0490] doi: 10.1210/jc.2010-0490
+[li] Sivakumar T, Mechanic O, Fehmie DA, Paul B. Growth hormone axis treatments for HIV-associated lipodystrophy: a systematic review of placebo-controlled trials. HIV Med. 2011 Sep;12(8):453-62. doi: 10.1111/j.1468-1293.2010.00906.x. Epub 2011 Jan 25. PMID: 21265979.
+[a https://doi.org/10.1111/j.1468-1293.2010.00906.x] doi: 10.1111/j.1468-1293.2010.00906.x
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) $46.00
+[a https://biotechpeptides.com/product/mod-grf-1-29-5mg-cjc-1295-no-dac/] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) $46.00
+[img] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Mod-GRF-1-29-238x317.webp
+[h2] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg)
+[li] Sale! Tesamorelin (5mg & 10mg) $38.00 – $92.00Price range: $38.00 through $92.00 $38.00 – $73.00Price range: $38.00 through $73.00
+[a https://biotechpeptides.com/product/tesamorelin/] Sale! Tesamorelin (5mg & 10mg) $38.00 – $92.00Price range: $38.00 through $92.00 $38.00 – $73.00Price range: $38.00 through $73.00
+[img] Tesamorelin (5mg & 10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Tesamorelin-1-238x317.webp
+[h2] Tesamorelin (5mg & 10mg)
+[li] CJC-1295 & Ipamorelin Blend (10mg) $81.00
+[a https://biotechpeptides.com/product/cjc-1295-ipamorelin-10mg-blend-2/] CJC-1295 & Ipamorelin Blend (10mg) $81.00
+[img] CJC-1295 & Ipamorelin Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-Ipamorelin-1-238x317.webp
+[h2] CJC-1295 & Ipamorelin Blend (10mg)
+[li] Sale! Ipamorelin (5mg) $53.00 Original price was: $53.00.$46.00Current price is: $46.00.
+[a https://biotechpeptides.com/product/ipamorelin-5mg/] Sale! Ipamorelin (5mg) $53.00 Original price was: $53.00.$46.00Current price is: $46.00.
+[img] Ipamorelin (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Ipamorelin-1-238x317.webp
+[h2] Ipamorelin (5mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

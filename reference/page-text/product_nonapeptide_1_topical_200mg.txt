@@ -1,0 +1,123 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/Nonapeptide-1.webp] 
+[img] Nonapeptide-1 (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Nonapeptide-1-460x580.webp
+[h1] Nonapeptide-1 (200mg)
+[p] $228.00 Original price was: $228.00.$219.00Current price is: $219.00.
+[p] Nonapeptide-1 peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_5995 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $208.05
+[input name=wccs_tier_select_5995 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $197.10
+[label] Nonapeptide-1 (200mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Description
+[a #tab-description] Description
+[h3] Nonapeptide-1 Peptide
+[p] Nonapeptide-1, also termed Melanostatine-5, is a peptide that may prevent the activation of pigment-producing cells in the skin called melanocytes. It appears to be one of the most potent inhibitors of a receptor found in these pigment-producing cells, called the melanocortin-1 receptor (MC1R). Researchers have explored a peptide library containing 31,360 structurally different compounds, and it appears that the most potent inhibitor identified was Met-Pro-D-Phe-Arg-D-Trp-Phe-Lys-Pro-Val-NH₂, aka Nonapeptide-1.[1] Structural analysis has revealed that specific amino acids, such as D-Trp at position 5 and Phe at position 6, are considered crucial for their antagonistic potential. The presence of D-Phe at position 3 further underscores such potential. Research on animal models suggests that Nonapeptide-1 may inhibit the synthesis of melanin, bringing it to the forefront of research on conditions impacting skin pigmentation, such as melasma. Studies in animal models posit that Nonapeptide-1 may reduce the synthesis of melanin and potentially decrease pigmentation on a considerable scale.[2]
+[h3] Specifications
+[p] Sequence: Met-Pro-D-Phe-Arg-D-Trp-Phe-Lys-Pro-Val
+[p] Molecular Formula: C61H87N15O9S
+[p] Molecular Weight: 1206.52g/mol
+[p] Synonyms: Melanostatine, Oxytocin Intermediate-nine peptide, Melanostatine-5
+[h3] Nonapeptide-1 Research
+[p] Nonapeptide-1 and General Мechanisms Emerging research suggests that Nonapeptide-1 might decrease melanin production through multiple pathways. One potential mechanism may involve its interaction with the melanocortin 1 receptor (MC1R) found in melanocytes—the skin cells responsible for melanin synthesis. By binding to MC1R, Nonapeptide-1 may inhibit alpha-melanocyte-stimulating hormone (α-MSH) from activating this receptor. Normally, α-MSH, which appears to be a neuropeptide produced by the pituitary gland and skin cells, is posited to bind to MC1R and trigger a signaling cascade that activates an enzyme called tyrosinase, leading to increased melanin production. This process may increase skin pigmentation and may offer additional protection against ultraviolet (UV) radiation in normal settings. Thus, by blocking the activation of MC1R by α-MSH, Nonapeptide-1 could disrupt the signaling pathway that typically results in elevated tyrosinase activity and melanin synthesis in experimental models of dysregulated melanin synthesis. In vitro studies using HaCaT cells (a keratinocyte cell line) and epidermal melanocytes (HEM) exposed to UV radiation indicate that Nonapeptide-1 may also reduce the expression levels of MC1R itself. This downregulation might further diminish the responsiveness of melanocytes to α-MSH. Furthermore, Nonapeptide-1 appears to significantly lower the expression of key proteins involved in melanin production, including tyrosinase-related proteins 1 and 2 (TRP1 and TRP2) and microphthalmia-associated transcription factor (MITF). Consequently, cells exposed to Nonapeptide-1 might exhibit a reduced capacity to increase melanin synthesis, even when exposed to UVA radiation.
+[p] Nonapeptide-1 and Skin Cell Pigmentation Recent studies have explored nonapeptide-1 as a possible research compound, specifically in studies examining skin lightening in experimental models. Such studies have hypothesized that the compound might reduce skin pigmentation by approximately 33%, with the potential for ongoing improvement over time.[4] The main investigation into this peptide's potential was a prospective, double-blind, parallel-group, randomized controlled pilot study lasting eight months and divided into three phases.[5] Researchers observed what seemed to be improvements in the severity scores of melasma models— experimental models of a condition characterized by dark, discolored patches on the skin—and in the mean melanin index, which quantifies skin pigmentation levels. They noted that "the melasma area and severity index score showed a consistent reduction in the case group, whereas it increased in the control group from baseline," suggesting a positive potential of Nonapeptide-1 in managing experimental models of melasma.
+[p] Nonapeptide-1 and Tumor Cells Research indicates that melanocortin 1 receptors (MC1R) may play a role in the growth and survival of specific types of tumor cells in experimental conditions, more specifically melanoma cells.[6] Mutations in the MC1R gene might be linked to variations in the risk of the occurrence of melanoma cells. In one study, scientists inhibited MC1R using natural inhibitors similar to Nonapeptide-1, which appeared to reduce melanin synthesis and decrease morphological heterogeneity (variations in cell shape and size) in murine B16-F10 melanoma cells. This inhibition seemed to result in slower tumor cell growth. The findings suggest that MC1R could be significant in regulating melanoma growth and morphology and that persistent inhibition of these receptors might significantly slow down the proliferation rate of tumor cells expressing them. It is important to note, however, that Nonapeptide-1 has yet to be specifically studied for its potential on melanoma tumor cells. Further research would be necessary to determine any impact Nonapeptide-1 might have in this context.
+[p] Nonapeptide-1 and Neurotransmitter Interactions Scientific research posits that Nonapeptide-1 may function in the central nervous system at the dopaminergic and opioid receptors.[7] Specifically, melanocortin 1 receptors (MC1Rs) may be present in the periaqueductal gray (PAG) matter, a region in the midbrain considered to play a crucial role in pain perception and modulation, a process known as nociception.[8] In one notable study, researchers have compared genetically modified murine models to overproduce an endogenous antagonist of MC1R with unaltered control murine models.[9] They evaluated the mice's responses to various stimuli, both painful and non-painful, and examined their reactions to induced inflammatory pain and neuropathic pain. Additionally, the scientists assessed the mice's aversion to capsaicin—the active component in chili peppers known to activate the TRPV1 receptor, which responds to harmful heat sensations—using a behavioral test called the paired preference paradigm. This test measures preference or aversion by offering the animal models two choices and observing their selection behavior. The researchers observed that murine models overexpressing the MC1R antagonist appeared to exhibit a reduced response to inflammatory pain and a slower development of hypersensitivity and allodynia. These murine models also seemed to show less avoidance of moderate concentrations of capsaicin. Although similar research has not been conducted specifically with Nonapeptide-1 acting as an antagonist of MC1R, Nonapeptide-1 might produce comparable actions due to potential similarities in how it might interact with these receptors.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Jayawickreme, C. K., Quillan, J. M., Graminski, G. F., & Lerner, M. R. (1994). Discovery and structure-function analysis of alpha-melanocyte-stimulating hormone antagonists. Journal of Biological Chemistry, 269(47), 29846-29854.
+[li] Boo YC. Up- or Downregulation of Melanin Synthesis Using Amino Acids, Peptides, and Their Analogs. Biomedicines. 2020 Sep 1;8(9):322. doi: 10.3390/biomedicines8090322. PMID: 32882959; PMCID: PMC7555855.
+[a https://doi.org/10.3390/biomedicines8090322] doi: 10.3390/biomedicines8090322
+[li] Chen J, Li H, Liang B, Zhu H. Effects of tea polyphenols on UVA-induced melanogenesis via inhibition of α-MSH-MC1R signalling pathway. Postepy Dermatol Alergol. 2022 Apr;39(2):327-335. doi: 10.5114/ada.2022.115890. Epub 2022 May 9. PMID: 35645678; PMCID: PMC9131962.
+[li] Mohammed, Y. H., Moghimi, H. R., Yousef, S. A., Chandrasekaran, N. C., Bibi, C. R., Sukumar, S. C., Grice, J. E., Sakran, W., & Roberts, M. S. (2017). Efficacy, Safety and Targets in Topical and Transdermal Active and Excipient Delivery. Percutaneous Penetration Enhancers Drug Penetration Into/Through the Skin: Methodology and General Considerations, 369–391. https://doi.org/10.1007/978-3-662-53270-6_23
+[a https://doi.org/10.1007/978-3-662-53270-6_23] https://doi.org/10.1007/978-3-662-53270-6_23
+[li] Chatterjee, M., Neema, S., & Rajput, G. R. (2021). A randomized controlled pilot study of a proprietary combination versus sunscreen in melasma maintenance. Indian journal of dermatology, venereology and leprology, 88(1), 51–58. https://doi.org/10.25259/IJDVL_976_18
+[a https://doi.org/10.25259/IJDVL_976_18] https://doi.org/10.25259/IJDVL_976_18
+[li] Kansal, R. G., McCravy, M. S., Basham, J. H., Earl, J. A., McMurray, S. L., Starner, C. J., Whitt, M. A., & Albritton, L. M. (2016). Inhibition of melanocortin 1 receptor slows melanoma growth, reduces tumor heterogeneity and increases survival. Oncotarget, 7(18), 26331–26345. https://doi.org/10.18632/oncotarget.8372
+[a https://doi.org/10.18632/oncotarget.8372] https://doi.org/10.18632/oncotarget.8372
+[li] Puciłowski O, Płaźnik A, Kostowski W. Melanostatyna (MIF-1): działania ośrodkowe i próby kliniczne [Melanostatin (MIF-1): central action and clinical use]. Pol Tyg Lek. 1983 Jun 13;38(24):739-41. Polish. PMID: 6139794.
+[li] Xia, Y., Wikberg, J. E., & Chhajlani, V. (1995). Expression of melanocortin 1 receptor in periaqueductal gray matter. Neuroreport, 6(16), 2193-2196.
+[li] Delaney, A., Keighren, M., Fleetwood-Walker, S. M., & Jackson, I. J. (2010). Involvement of the melanocortin-1 receptor in acute pain and pain of inflammatory but not neuropathic origin. PloS one, 5(9), e12498. https://doi.org/10.1371/journal.pone.0012498
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Acetyl Hexapeptide-3 (Argireline) (200mg) $210.00
+[a https://biotechpeptides.com/product/acetyl-hexapeptide-3-argireline-200mg/] Acetyl Hexapeptide-3 (Argireline) (200mg) $210.00
+[img] Acetyl Hexapeptide-3 (Argireline) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Acetyl-Hexapeptide-3-1-238x317.webp
+[h2] Acetyl Hexapeptide-3 (Argireline) (200mg)
+[li] Matrixyl (200mg) $190.00
+[a https://biotechpeptides.com/product/matrixyl-topical-200mg/] Matrixyl (200mg) $190.00
+[img] Matrixyl (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Matrixyl-1-238x317.webp
+[h2] Matrixyl (200mg)
+[li] Syn-AKE (200mg) $210.00
+[a https://biotechpeptides.com/product/syn-ake-topical-200mg/] Syn-AKE (200mg) $210.00
+[img] Syn-AKE (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/Syn-AKE-1-238x317.webp
+[h2] Syn-AKE (200mg)
+[li] SNAP-8 (200mg) $172.00
+[a https://biotechpeptides.com/product/snap-8-topical-200mg/] SNAP-8 (200mg) $172.00
+[img] Snap-8 (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/SNAP-8-2-238x317.webp
+[h2] SNAP-8 (200mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

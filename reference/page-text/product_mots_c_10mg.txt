@@ -1,0 +1,139 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/MOTS-c-1.webp] 
+[img] MOTS-c (10mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/MOTS-c-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_MOTS-C_3140057_20260723_BP_page-0001.webp] 
+[img] MOTS-c (10mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_MOTS-C_3140057_20260723_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_MOTS-C_3140057_20260723_BP_page-0002.webp] 
+[img] MOTS-c (10mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_MOTS-C_3140057_20260723_BP_page-0002.webp
+[h1] MOTS-c (10mg)
+[p] $99.00
+[p] MOTS-c peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_5974 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $94.05
+[input name=wccs_tier_select_5974 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $89.10
+[label] MOTS-c (10mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_MOTS-C_3140057_20260723_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] MOTS-c Peptide
+[p] MOTS-c (mitochondrial open-reading-frame of the 12S rRNA-c) is a 16 amino acid peptide classified as a Mitochondrial-Derived Peptide (MDP), aka "mitochondrial hormone" or "mitokine.” Recent research indicates that MOTS-c is a bioactive peptide closely associated with mitochondrial communication and energy regulation. Initially, researchers hypothesized that it might be most active in the mitochondria, however recent studies suggest otherwise, that MOTS-c may operate via the bloodstream, exhibiting a potentially systemic action. It is important to note that MOTS-c is a newly identified MDP. Its primary roles are under investigation, but studies include MOTS-c peptide’s influence in cell function and longevity, muscle contractile force, metabolic function and weight regulation.
+[h3] Specifications
+[p] Sequence Formula: Met-Arg-Trp-Gln-Glu-Met-Gly-Tyr-Ile-Phe-Tyr-Pro-Arg-Lys-Leu-Arg
+[p] Molecular Formula: C101H152N28O22S2
+[p] Molecular Weight: 2174.64g/mol
+[p] Synonyms: 12S rRNA-c, MT-RNR1
+[h3] MOTS-c Research
+[p] MOTS-c and Fat Metabolism Estrogen research in mice models suggests that the availability of the hormone at low levels may increase fat mass and dysfunction of normal adipose tissues. The introduction of MOTS-c in these mice models appeared to increase the prevalence of brown fat and reduce the accumulation of adipose tissue. The peptide, to an extent, may block the adipose dysfunction and inflammation that follows insulin resistance.[1] Researchers suggest that a fraction of MOTS-c’s potential action on fat metabolism is mediated via AMP-activated protein kinase (AMPK) pathway activation. The AMPK pathway is activated when cellular energy levels are low, which spurs glucose and fatty acid uptake by cells for metabolism. MOTS-c may act directly on the methionine folate cycle, increasing AICAR levels and AMPK activation. Scientific records in mice studies indicate that in laboratory models of obesity, the peptide is a potentially vital regulator of monoacylglycerol, dicarboxylate, and sphingolipid metabolism. By reducing the activity of these pathways and enhancing beta-oxidation, the peptide may halt fat accumulation. Most of these actions appear to be due to the action of the peptide in the nucleus.[2] The dysregulation of fat metabolism in mitochondria may possibly cause a lack of fat oxidation, resulting in increased levels of fat circulation as insulin levels increase to flush out lipids from the bloodstream. In addition, there is enhanced deposition of fat and a change in homeostasis through increased insulin levels.[3] The scientists also note that “The implications of plasma MOTS-c for […] metabolic homeostasis deserve future examination.”
+[a https://biotechpeptides.com/product/aicar-50mg/] AICAR
+[p] MOTS-c and Muscle Metabolism Research suggests that MOTS-c possibly functions by targeting skeletal muscle, where it may inhibit the folate cycle and the connected de novo purine biosynthesis pathway, leading to the activation of AMPK. Specifically, MOTS-c may activate AMPK in a manner independent of changes in AMP/ATP ratios. This pathway, in turn, might be crucial for modulating glucose metabolism, fatty acid oxidation, and overall energy expenditure in muscle tissues. This potential action may be possible by enhancing skeletal muscle response to the activation of AMPK activation, which appears to sequentially increase the expression of glucose transporters. Moreover, this activation does not appear to be dependent on the insulin pathway and may present another means of enhancing muscle cell glucose uptake when insulin is defective or inept. Thus, MOTS-c, according to research in mice, may cause a change in age-related insulin-resistant muscles, with improved glucose uptake in muscle cells.[4] Such an outcome may enhance muscle cell growth, function, and reduce insulin resistance. The researchers conclude that “MOTS-c has implications in the regulation of obesity, diabetes, [...] and longevity, representing an entirely novel mitochondrial signaling mechanism to regulate metabolism within and between cells.” Consequently, the actions of the peptide on muscle tissues may also influence systemic energy balance, as observed by its actions on reducing diet-induced obesity and improving glucose tolerance in murine models. This implies that MOTS-c might be an important modulator of metabolic responses to nutrient intake, potentially offering a mechanism by which mitochondria might exert a more active role in energy homeostasis beyond their traditionally touted bioenergetic functions.[5]
+[p] MOTS-c and Osteoporosis MOTS-c appears to be functional in type I collagen synthesis by osteoblasts in bone. Studies closely observing osteoblast cells suggest that it may influence the TGF-beta/SMAD pathway that controls the function and survival of osteoblasts. Osteoblasts improve osteoblast survival, thereby bettering the synthesis of type I collagen and its strength and integrity.[6] Specifically, MOTS-C appeared to influence key genes involved in collagen synthesis, such as COL1A1 and COL1A2. According to scientific studies, MOTS-c may mitigate osteoporosis by possible bone marrow enhancement and stem cell differentiation via the action of the TGF-beta/SMAD pathway. TGF-β/Smad pathway was activated upon MOTS-c exposure as noted by the upregulation of TGF-β1, TGF-β2, and Smad7 genes. The study also showed that knockdown of TGF-β1 significantly inhibited the osteogenic actions of MOTS-c, indicating that the TGF-β/Smad pathway may be essential for MOTS-c’s potential osteogenic action. According to these studies, this may result in enhanced osteogenesis, including the enhancement of osteoblast survival and stem cell development.[7] This was noted due to the observation that the expression of osteogenesis-related genes, such as ALP, Bglap, and Runx2, was observed to increase under MOTS-c exposure. These genes are considered to be critical markers of osteogenic differentiation, suggesting that MOTS-c potentially stimulates the osteoblast differentiation process.
+[p] MOTS-c and Cardiovascular Function A higher risk of endothelial cell dysfunction was reported in research models of coronary angiography. Endothelial cells line the inner wall of blood vessels and are considered vital in regulating blood clotting, blood pressure, and plaque function. Scientific studies report that the peptide does not appear to alter the responsiveness of blood vessels directly; rather it may possibly sharpen endothelial cells to the signaling actions of other molecules like acetylcholine.[8] Introducing the peptide in mice appeared to improve endothelial, microvascular, and epicardial blood vessel functions. Research records indicate that MDPs alongside the MOTS-c, may function to stave off inflammation and stress in cardiomyocytes. It is assumed that a down-regulation of MDP may cause a risk of the development of cardiovascular diseases. MOTS-c may be vital in reperfusion injury and endothelial functions. The mechanisms by which MOTS-c might exert these actions may involve the activation of AMPK which might theoretically enhance endothelial nitric oxide synthase (eNOS) activity. This activity is considered to be crucial for endothelial-dependent vasodilation. Additionally, MOTS-c might modulate inflammatory pathways, potentially reducing endothelial inflammation, which is a hallmark of endothelial dysfunction.
+[p] MOTS-c and Cell Lifespan A change in glutamate residue for lysine at the 14th position of the protein appears to be a consequence of changes in the gene MOTS-c. Though, it has not yet been determined how this may influence the functional properties of the peptide. Nonetheless, a change in both structure and function of the MOTS-c gene has been hypothesized, which may result in phenomenal cell longevity. In research conducted by Dr. Changhan David Lee—a researcher at the School of Gerontology at USC—Mitochondrial biology asserts the need to prolong cell lifespan and healthspan.[4, 5, 9] Dietary constraints posit the only means of altering mitochondrial function and longevity. Moreover, it has been proposed that MOTS-c might influence the cell’s aging process by interacting with pathways that regulate levels of nicotinamide adenine dinucleotide (NAD+), a coenzyme that is believed to play a central role in cellular metabolism and is closely linked to cellular aging. By potentially increasing NAD+ levels and engaging in the folate/methionine cycle—a key pathway in cellular metabolism—MOTS-c may contribute to delaying age-related metabolic decline and possibly extending the healthspan of cells in experimental models.[10]
+[p] MOTS-c and Physical Capacity In studies using murine models, the peptide MOTS-c has been reported to potentially improve physical performance across different age groups.[11] Data indicates that the peptide may enhance endurance and motor coordination, as indicated in studies by improved performance in treadmill running and rotarod tests, which assess physical endurance and balance, respectively. Importantly, these observed benefits do not seem to be directly linked to changes in weight, implying that MOTS-c might influence physical capabilities through mechanisms other than weight reduction. It is hypothesized that these mechanisms might involve optimizing energy metabolism—how cells convert nutrients into energy—and enhancing metabolic flexibility, which refers to the cell's ability to adapt fuel utilization based on availability and demand. MOTS-c might also play a role in regulating the expression of nuclear genes that are considered to be critical for metabolism and proteostasis (the maintenance of protein homeostasis). This regulation may involve modulating skeletal muscle metabolism, which is deemed essential for muscle contraction and energy production, and improving cellular adaptation to metabolic stress, which is the strain cells experience during changes in energy availability. Additionally, the peptide may influence the expression of genes related to heat shock responses—proteins that help protect cells under stressful conditions—and broader metabolic processes in controlled laboratory settings. There is some data to suggest that this gene regulation is at least partly mediated by the transcription factor HSF1 (Heat Shock Factor 1), which is believed to support cells adapting to stress and maintaining proteostasis. The potential connection between MOTS-c and HSF1 raises the possibility that MOTS-c might enhance cellular resilience to metabolic stress, which could be particularly important for preserving muscle function and overall physical performance as cells age. However, further research is needed to confirm these mechanisms and fully understand how MOTS-c might contribute to these actions.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Lu H, Wei M, Zhai Y, Li Q, Ye Z, Wang L, Luo W, Chen J, Lu Z. MOTS-c peptide regulates adipose homeostasis to prevent ovariectomy-induced metabolic dysfunction. J Mol Med (Berl). 2019 Apr;97(4):473-485. doi: 10.1007/s00109-018-01738-w. Epub 2019 Feb 6. PMID: 30725119.
+[a https://doi.org/10.1007/s00109-018-01738-w] doi: 10.1007/s00109-018-01738-w
+[li] Kim KH, Son JM, Benayoun BA, Lee C. The Mitochondrial-Encoded Peptide MOTS-c Translocates to the Nucleus to Regulate Nuclear Gene Expression in Response to Metabolic Stress. Cell Metab. 2018 Sep 4;28(3):516-524.e7. doi: 10.1016/j.cmet.2018.06.008. Epub 2018 Jul 5. PMID: 29983246; PMCID: PMC6185997.
+[a https://doi.org/10.1016/j.cmet.2018.06.008] doi: 10.1016/j.cmet.2018.06.008
+[li] Cataldo LR, Fernández-Verdejo R, Santos JL, Galgani JE. Plasma MOTS-c levels are associated with insulin sensitivity in lean but not in obese individuals. J Investig Med. 2018 Aug;66(6):10 19-1022. doi: 10.1136/jim-2017-000681. Epub 2018 Mar 27. PMID: 29593067.
+[a https://doi.org/10.1136/jim-2017-000681] doi: 10.1136/jim-2017-000681
+[li] Lee C, Kim KH, Cohen P. MOTS-c: A novel mitochondrial-derived peptide regulating muscle and fat metabolism. Free Radic Biol Med. 2016 Nov;100:182-187. doi: 10.1016/j.freeradbiomed.2016.05.015. Epub 2016 May 20. PMID: 27216708; PMCID: PMC5116416.
+[a https://doi.org/10.1016/j.freeradbiomed.2016.05.015] doi: 10.1016/j.freeradbiomed.2016.05.015
+[li] Lee C, Zeng J, Drew BG, Sallam T, Martin-Montalvo A, Wan J, Kim SJ, Mehta H, Hevener AL, de Cabo R, Cohen P. The mitochondrial-derived peptide MOTS-c promotes metabolic homeostasis and reduces obesity and insulin resistance. Cell Metab. 2015 Mar 3;21(3):443-54. doi: 10.1016/j.cmet.2015.02.009. PMID: 25738459; PMCID: PMC4350682.
+[a https://doi.org/10.1016/j.cmet.2015.02.009] doi: 10.1016/j.cmet.2015.02.009
+[li] Che N, Qiu W, Wang JK, Sun XX, Xu LX, Liu R, Gu L. MOTS-c improves osteoporosis by promoting the synthesis of type I collagen in osteoblasts via TGF-β/SMAD signaling pathway. Eur Rev Med Pharmacol Sci. 2019 Apr;23(8):3183-3189. doi: 10.26355/eurrev_201904_17676. PMID: 31081069.
+[a https://www.europeanreview.org/article/17676] doi: 10.26355/eurrev_201904_17676
+[li] Hu BT, Chen WZ. MOTS-c improves osteoporosis by promoting osteogenic differentiation of bone marrow mesenchymal stem cells via TGF-β/Smad pathway. Eur Rev Med Pharmacol Sci. 2018 Nov;22(21):7156-7163. doi: 10.26355/eurrev_201811_16247. PMID: 30468456.
+[a https://doi.org/10.26355/eurrev_201811_16247] doi: 10.26355/eurrev_201811_16247
+[li] Qin Q, Delrio S, Wan J, Jay Widmer R, Cohen P, Lerman LO, Lerman A. Downregulation of circulating MOTS-c levels in patients with coronary endothelial dysfunction. Int J Cardiol. 2018 Mar 1;254:23-27. doi: 10.1016/j.ijcard.2017.12.001. Epub 2017 Dec 6. PMID: 29242099.
+[a https://doi.org/10.1016/j.ijcard.2017.12.001] doi: 10.1016/j.ijcard.2017.12.001
+[li] Fuku N, Pareja-Galeano H, Zempo H, Alis R, Arai Y, Lucia A, Hirose N. The mitochondrial-derived peptide MOTS-c: a player in exceptional longevity? Aging Cell. 2015 Dec;14(6):921-3. doi: 10.1111/acel.12389. Epub 2015 Aug 20. PMID: 26289118; PMCID: PMC4693465.
+[a https://doi.org/10.1111/acel.12389] doi: 10.1111/acel.12389
+[li] Mohtashami Z, Singh MK, Salimiaghdam N, Ozgul M, Kenney MC. MOTS-c, the Most Recent Mitochondrial Derived Peptide in Human Aging and Age-Related Diseases. Int J Mol Sci. 2022 Oct 9;23(19):11991. doi: 10.3390/ijms231911991. PMID: 36233287; PMCID: PMC9570330.
+[li] Reynolds JC, Lai RW, Woodhead JST, Joly JH, Mitchell CJ, Cameron-Smith D, Lu R, Cohen P, Graham NA, Benayoun BA, Merry TL, Lee C. MOTS-c is an exercise-induced mitochondrial-encoded regulator of age-dependent physical decline and muscle homeostasis. Nat Commun. 2021 Jan 20;12(1):470. doi: 10.1038/s41467-020-20790-0. PMID: 33473109; PMCID: PMC7817689.
+[a https://doi.org/10.1038/s41467-020-20790-0] doi: 10.1038/s41467-020-20790-0
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg) $87.00
+[a https://biotechpeptides.com/product/fragment-cjc-1295-ipamorelin-12mg-blend/] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg) $87.00
+[img] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Fragment-176-191-CJC-1295-Ipamorelin-238x317.webp
+[h2] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg)
+[li] AOD 9604 (5mg) $44.00
+[a https://biotechpeptides.com/product/aod-9604-5mg/] AOD 9604 (5mg) $44.00
+[img] AOD 9604 (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/AOD-9604-1-238x317.webp
+[h2] AOD 9604 (5mg)
+[li] Sale! Fragment 176-191 (5mg) $47.00 Original price was: $47.00.$44.00Current price is: $44.00.
+[a https://biotechpeptides.com/product/fragment-176-191-5mg/] Sale! Fragment 176-191 (5mg) $47.00 Original price was: $47.00.$44.00Current price is: $44.00.
+[img] Fragment 176-191 (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Fragment-176-191-1-238x317.webp
+[h2] Fragment 176-191 (5mg)
+[li] Adipotide FTPP (10mg) $77.00
+[a https://biotechpeptides.com/product/adipotide-ftpp-10mg/] Adipotide FTPP (10mg) $77.00
+[img] Adipotide FTPP (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Adipotide-FTPP-1-238x317.webp
+[h2] Adipotide FTPP (10mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

@@ -1,0 +1,99 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --primary-blue: #0c71c3;
+    --brand-accent: #188fe1;
+    --dark-footer: #212121;
+    --footer-bottom: #0d5b9c;
+  }
+
+  body {
+    font-family: "Poppins", "Helvetica", Arial, sans-serif;
+    color: #1a1a1a;
+    background-color: #ffffff;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Poppins", "Helvetica", Arial, sans-serif;
+    font-weight: 700;
+    color: #111111;
+  }
+}
+
+/* Gradient title used across Biotech Peptides heroes */
+.title-gradient {
+  background: linear-gradient(90deg, #0b72c3 0%, #42bafc 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Age Gate scroll lock */
+html:not(.biotech-age-ok),
+html:not(.biotech-age-ok) body {
+  overflow: hidden !important;
+}
+
+/* Clean animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.15s ease-out forwards;
+}
+
+/* Custom WooCommerce prose content rendering */
+.prose-biotech {
+  color: #333333;
+  line-height: 1.7;
+}
+
+.prose-biotech h2 {
+  font-size: 1.4rem;
+  margin-top: 1.8rem;
+  margin-bottom: 0.8rem;
+  color: #111827;
+  border-bottom: 2px solid #e5e7eb;
+  padding-bottom: 0.4rem;
+}
+
+.prose-biotech h3 {
+  font-size: 1.2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.6rem;
+  color: #1f2937;
+}
+
+.prose-biotech p {
+  margin-bottom: 1.1rem;
+}
+
+.prose-biotech ul, .prose-biotech ol {
+  margin-bottom: 1.2rem;
+  padding-left: 1.5rem;
+}
+
+.prose-biotech li {
+  margin-bottom: 0.4rem;
+}
+
+.prose-biotech table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+}
+
+.prose-biotech th, .prose-biotech td {
+  border: 1px solid #e5e7eb;
+  padding: 0.6rem 0.8rem;
+  text-align: left;
+}
+
+.prose-biotech th {
+  background-color: #f9fafb;
+}

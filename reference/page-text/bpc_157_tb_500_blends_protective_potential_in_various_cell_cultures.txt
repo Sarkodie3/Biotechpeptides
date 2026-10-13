@@ -1,0 +1,139 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] BPC-157 & TB-500 Blend’s Protective Potential in Various Cell Cultures
+[p] by Dr. Usman | Nov 20, 2024 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] BPC-157 & TB-500 Blend’s Protective Potential in Various Cell Cultures :: https://biotechpeptides.com/wp-content/uploads/2024/11/BPC-157-TB-500-Blends-Protective-Potential-in-Various-Cell-Cultures.avif
+[a https://biotechpeptides.com/product/bpc-157/] BPC-157
+[p] TB-500 is a laboratory-engineered peptide designed to mimic the functions of thymosin beta-4 (Tβ4), a peptide naturally produced in most cells, but especially the cells of the thymus gland. Thymosin beta-4 is known for its involvement in crucial cellular activities such as cell migration, differentiation, and tissue repair. Composed of 43 amino acids encoded by the TMSB4X gene, its specific amino acid sequence is arranged as SDKPDMAEI EKFDKSKLKK TETQEKNPLP SKETIEQEKQ AGES. Scientific research has explored the potential of TB-500 to modulate vital biological processes. It is believed to interact with various signaling pathways within cells, possibly influencing their behavior and promoting functions essential for tissue healing. Similar to BPC 157, TB-500 is also under research for its potential to support angiogenesis and modulate inflammation signaling. Additionally, experimental models suggest that TB-500 may contribute to cellular and tissue regeneration in experimental models.[2]
+[a https://biotechpeptides.com/product/tb-500-10mg/] TB-500
+[p] Contents:
+[li] Overview
+[a #Overview] Overview
+[li] Scientific and Research Studies
+[a #research] Scientific and Research Studies
+[li] BPC-157 & TB-500 Blend and Connective Tissues
+[a #Tissues] BPC-157 & TB-500 Blend and Connective Tissues
+[li] BPC-157 & TB-500 Blend and Angiogenesis
+[a #Angiogenesis] BPC-157 & TB-500 Blend and Angiogenesis
+[li] BPC-157 & TB-500 Blend Actions on Nerve Cell Signaling
+[a #Nerve] BPC-157 & TB-500 Blend Actions on Nerve Cell Signaling
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/bpc-157-tb-500-10mg-blend-2/] 
+[img] BPC-157 & TB-500 Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/BPC-157-TB-500.png
+[h3] Overview
+[p] BPC-157 is a peptide that may influence several biological processes through different mechanisms:[3]
+[li] One possible pathway involves the modulation of nitric oxide (NO) synthesis. By interacting with the NO system, BPC-157 may conceivably protect endothelial cells—the cells lining the interior of blood vessels—and promote angiogenesis, which is the formation of new blood vessels.
+[li] Additionally, BPC-157 might regulate the activity of cells responsible for tissue repair. It may support the expression of the early growth response 1 (EGR1) gene, which plays a role in producing cytokines and growth factors essential for tissue regeneration. This action may facilitate the early development of the extracellular matrix and stimulate collagen production.
+[li] The peptide may also affect inflammatory responses and interact with proteins like nerve growth factor 1-A binding protein-2 (NGFI-A BP2), potentially leading to the suppression of certain factors involved in inflammation or tissue remodeling.
+[p] Thymosin beta-4 (TB-500) is thought to affect recovery and inflammation in experimental models through different pathways:
+[li] The peptide may affect cell movement and the organization of the actin cytoskeleton by binding to globular actin (G-actin). This binding may modulate the assembly of actin filaments, which is essential for cellular migration—a vital process in wound healing and tissue repair.[4,5]
+[li] Scientific studies suggest that TB-500 may influence specific signaling pathways related to inflammation that are activated during tissue damage.[6] In experimental cell models, TB-500 has been observed to potentially increase the expression of microRNA-146a (miR-146a), a small non-coding RNA molecule known to downregulate certain signaling pathways within cells. The upregulation of miR-146a appears to lead to a decrease in the levels of two pro-inflammatory cytokines: interleukin-1 receptor-associated kinase 1 (IRAK1) and tumor necrosis factor receptor-associated factor 6 (TRAF6). Both IRAK1 and TRAF6 play significant roles in mediating inflammatory responses.
+[h2] Scientific and Research Studies
+[h3] BPC-157 & TB-500 Blend and Connective Tissues
+[p] BPC-157 and TB-500 may have favorable potential on connective tissue cells, such as the cells that make up tendons and ligaments, potentially by interacting with the survival and migration of these cells, as well as the organization of extracellular structures.
+[p] For example, histological examination suggested that TB-500 might support the organization of collagen fibers within healing ligament tissues.[7] In ligaments exposed to TB-500, the collagen fibers appeared regularly aligned and densely packed, oriented parallel to the ligament’s length. Conversely, ligaments from the control group seemed to exhibit disorganized collagen bundles with irregular spacing. Transmission electron microscopy (TEM) observations indicated that TB-500 could increase the diameter and uniformity of collagen fibrils, which are the smaller strands composing collagen fibers within granulation tissue. In the experimental group, these collagen fibrils appeared thicker and more uniformly distributed compared to those in the controls. Biomechanical testing, which assesses the mechanical strength and elasticity of tissues, suggested that TB-500 might support the functional recovery of connective tissues. Ligaments from the experimental group showed higher values of the maximum stress the tissue may withstand before failure compared to the controls, indicating a possible improvement in mechanical integrity.
+[p] Additionally, scientists hypothesized that the peptide BPC-157 might support the outgrowth of tendon fibroblast cells from tendon tissue samples cultured in vitro.[8] The experimental results in tendon explants suggested that “BPC 157 markedly increased the in vitro migration of tendon fibroblasts […] as revealed by transwell filter migration assay.” The support of cell migration and spreading suggests that BPC-157 may influence the dynamics of the cell’s cytoskeleton. At the molecular level, BPC-157 may activate the signaling pathway involving focal adhesion kinase (FAK) and paxillin, proteins that play key roles in cell adhesion and migration. Western blot analysis, a laboratory technique used to detect specific proteins, indicated that BPC-157 increased the phosphorylation levels (activation states) of FAK and paxillin proteins without changing their total protein amounts. Since the FAK-paxillin pathway is involved in cell movement and attachment, this activation might explain the observed increase in fibroblast motility. Furthermore, BPC-157 seemed to increase cell survival under oxidative stress induced by hydrogen peroxide (H₂O₂).
+[p] There is insufficient research to suggest whether BPC-157 and TB-500 may potentiate each other’s actions, but considering their differences in mechanisms of action, it is widely considered to be possible.
+[h3] BPC-157 & TB-500 Blend and Angiogenesis
+[p] Both BPC-157 & TB-500 are posited to interact with various growth factors that affect angiogenesis – the process of new blood vessel formation.
+[p] For example, in vitro studies suggest that BPC-157 might stimulate the expression of the early growth response gene-1 (egr-1), which is posited to induce the transcription of various cytokines and growth factors, which could contribute to angiogenesis.[9] The peptide apparently led to increased levels of egr-1 mRNA and protein shortly after stimulation, which may indicate a mechanism for promoting endothelial growth factors. This early expression of egr-1 might result in the production of factors that facilitate extracellular matrix formation and tissue regeneration. Since the formation of new blood vessels is a critical component of granulation tissue development, BPC-157’s action on egr-1 and subsequent growth factor induction may suggest its potential role in facilitating new blood vessel formation.
+[p] Research involving murine models of critical limb ischemia suggests that overexpression of TB-500 may also increase the viability, angiogenesis, and migratory ability of endothelial cells.[10] This action appears to be mediated by the upregulation of angiogenesis-related factors such as angiopoietin-2 (Ang2), TEK receptor tyrosine kinase 2 (tie2), and vascular endothelial growth factor A (VEGFA). Moreover, TB-500 may influence the Notch/NF-κB signaling pathways, which are posited to play roles in vascular development and angiogenesis. The overexpression of TB-500 apparently increased the expression of key components of these pathways, including the NOTCH1 intracellular domain (N1ICD), Notch receptor 3 (Notch3), NF-κB, and phosphorylated p65. The potential involvement of these pathways was further suggested by observations that inhibitors of the Notch and NF-κB pathways reversed the actions of TB-500 on angiogenesis-related factors. TB-500 overexpression may have also led to increased expression of markers associated with blood vessel formation, such as CD31 and α-smooth muscle actin (α-SMA). This suggests that TB-500 may potentially support capillary and arteriolar densities.
+[h3] BPC-157 & TB-500 Blend Actions on Nerve Cell Signaling
+[p] While research on TB-500 is scarce, there are several BPC-157 experiments suggesting that the peptide may interact with neurotransmitters and how different nerve cells interact. Studies involving murine models suggest that BPC-157 might influence both serotonin and dopamine systems.[11] It may affect the release of serotonin in specific regions of the nervous system, particularly within the nigrostriatal pathway—a neural circuit associated with movement control and reward mechanisms. Evidence indicates that BPC-157 may impact akinesia (loss of voluntary movement) and catalepsy (muscle rigidity and fixed posture), which are linked to impaired dopamine function.
+[p] Additionally, BPC-157 might exhibit neuroprotective actions on nerve cells. In other murine models, it appears to protect sensory neurons and promote the regeneration of peripheral nerves after injury.[12] It might also counteract the progression of neuronal injury by possibly reducing neuron death, loss of myelin sheath, and cyst formation in nerve tissue. These actions may be related to BPC-157’s influence on neurotransmitter systems and its interaction with signaling pathways involving genes like Egr-1 and its co-repressor NAB2. The peptide may also interact with other neurotransmitter systems, including those involving gamma-aminobutyric acid (GABA) and opioid receptor signaling. Thus, the peptide may lessen both immediate and long-term disturbances caused by neurotropic and neurotoxic agents, which might be connected to its interactions with the various signaling systems.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] Seiwerth S, Milavic M, Vukojevic J, Gojkovic S, Krezic I, Vuletic LB, Pavlov KH, Petrovic A, Sikiric S, Vranes H, Prtoric A, Zizek H, Durasin T, Dobric I, Staresinic M, Strbe S, Knezevic M, Sola M, Kokot A, Sever M, Lovric E, Skrtic A, Blagaic AB, Sikiric P. Stable Gastric Pentadecapeptide BPC 157 and Wound Healing. Front Pharmacol. 2021 Jun 29;12:627533. doi: 10.3389/fphar.2021.627533. PMID: 34267654; PMCID: PMC8275860.
+[a https://doi.org/10.3389/fphar.2021.627533] doi: 10.3389/fphar.2021.627533
+[li] Maar, K., Hetenyi, R., Maar, S., Faskerti, G., Hanna, D., Lippai, B., Takatsy, A., & Bock-Marquette, I. (2021). Utilizing Developmentally Essential Secreted Peptides Such as Thymosin Beta-4 to Remind the Adult Organs of Their Embryonic State-New Directions in Anti-Aging Regenerative Therapies. Cells, 10(6), 1343. https://doi.org/10.3390/cells10061343
+[a https://doi.org/10.3390/cells10061343] https://doi.org/10.3390/cells10061343
+[li] Sikiric P, Seiwerth S, Rucman R, Turkovic B, Rokotov DS, Brcic L, Sever M, Klicek R, Radic B, Drmic D, Ilic S, Kolenc D, Stambolija V, Zoricic Z, Vrcic H, Sebecic B. Focus on ulcerative colitis: stable gastric pentadecapeptide BPC 157. Curr Med Chem. 2012;19(1):126-32. doi: 10.2174/092986712803414015. PMID: 22300085.
+[a https://doi.org/10.2174/092986712803414015] doi: 10.2174/092986712803414015
+[li] Huff T, Müller CS, Otto AM, Netzker R, Hannappel E. beta-Thymosins, small acidic peptides with multiple functions. Int J Biochem Cell Biol. 2001 Mar;33(3):205-20. doi: 10.1016/s1357-2725(00)00087-x. PMID: 11311852.
+[a https://doi.org/10.1016/s1357-2725(00)00087-x] doi: 10.1016/s1357-2725(00)00087-x
+[li] Sanders MC, Goldstein AL, Wang YL. Thymosin beta 4 (Fx peptide) is a potent regulator of actin polymerization in living cells. Proc Natl Acad Sci U S A. 1992 May 15;89(10):4678-82. doi: 10.1073/pnas.89.10.4678. PMID: 1584803; PMCID: PMC49146.
+[a https://doi.org/10.1073/pnas.89.10.4678] doi: 10.1073/pnas.89.10.4678
+[li] Santra M, Zhang ZG, Yang J, Santra S, Santra S, Chopp M, Morris DC. Thymosin β4 up-regulation of microRNA-146a promotes oligodendrocyte differentiation and suppression of the Toll-like proinflammatory pathway. J Biol Chem. 2014 Jul 11;289(28):19508-18. doi: 10.1074/jbc.M113.529966. Epub 2014 May 14. PMID: 24828499; PMCID: PMC4094061.
+[li] Xu B, Yang M, Li Z, Zhang Y, Jiang Z, Guan S, Jiang D. Thymosin β4 enhances the healing of medial collateral ligament injury in rat. Regul Pept. 2013 Jun 10;184:1-5. doi: 10.1016/j.regpep.2013.03.026. Epub 2013 Mar 21. PMID: 23523891.
+[a https://doi.org/10.1016/j.regpep.2013.03.026] doi: 10.1016/j.regpep.2013.03.026
+[li] Chang CH, Tsai WC, Lin MS, Hsu YH, Pang JH. The promoting effect of pentadecapeptide BPC 157 on tendon healing involves tendon outgrowth, cell survival, and cell migration. J Appl Physiol (1985). 2011 Mar;110(3):774-80. doi: 10.1152/japplphysiol.00945.2010. Epub 2010 Oct 28. PMID: 21030672.
+[a https://doi.org/10.1152/japplphysiol.00945.2010] doi: 10.1152/japplphysiol.00945.2010
+[li] Tkalcević VI, Cuzić S, Brajsa K, Mildner B, Bokulić A, Situm K, Perović D, Glojnarić I, Parnham MJ. Enhancement by PL 14736 of granulation and collagen organization in healing wounds and the potential role of egr-1 expression. Eur J Pharmacol. 2007 Sep 10;570(1-3):212-21. doi: 10.1016/j.ejphar.2007.05.072. Epub 2007 Jun 16. PMID: 17628536.
+[a https://doi.org/10.1016/j.ejphar.2007.05.072] doi: 10.1016/j.ejphar.2007.05.072
+[li] Lv, S., Cai, H., Xu, Y., Dai, J., Rong, X., & Zheng, L. (2020). Thymosin‑β 4 induces angiogenesis in critical limb ischemia mice via regulating Notch/NF‑κB pathway. International journal of molecular medicine, 46(4), 1347–1358. https://doi.org/10.3892/ijmm.2020.4701
+[a https://doi.org/10.3892/ijmm.2020.4701] https://doi.org/10.3892/ijmm.2020.4701
+[li] Sikiric P, Seiwerth S, Rucman R, Kolenc D, Vuletic LB, Drmic D, Grgic T, Strbe S, Zukanovic G, Crvenkovic D, Madzarac G, Rukavina I, Sucic M, Baric M, Starcevic N, Krstonijevic Z, Bencic ML, Filipcic I, Rokotov DS, Vlainic J. Brain-gut Axis and Pentadecapeptide BPC 157: Theoretical and Practical Implications. Curr Neuropharmacol. 2016;14(8):857-865. doi: 10.2174/1570159×13666160502153022. PMID: 27138887; PMCID: PMC5333585.
+[a https://doi.org/10.2174/1570159x13666160502153022] doi: 10.2174/1570159×13666160502153022
+[li] Tohyama Y, Sikirić P, Diksic M. Effects of pentadecapeptide BPC157 on regional serotonin synthesis in the rat brain: alpha-methyl-L-tryptophan autoradiographic measurements. Life Sci. 2004 Dec 3;76(3):345-57. doi: 10.1016/j.lfs.2004.08.010. PMID: 15531385.
+[a https://doi.org/10.1016/j.lfs.2004.08.010] doi: 10.1016/j.lfs.2004.08.010
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

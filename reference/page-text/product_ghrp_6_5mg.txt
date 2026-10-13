@@ -1,0 +1,148 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-6-1.webp] 
+[img] GHRP-6 :: https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-6-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/GHRP-6-5mg-COA-scaled.webp] 
+[img] GHRP-6 (5mg) - COA :: https://biotechpeptides.com/wp-content/uploads/2026/04/GHRP-6-5mg-COA-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/GHRP-6-5mg-LC-scaled.webp] 
+[img] GHRP-6 (5mg) LC :: https://biotechpeptides.com/wp-content/uploads/2026/04/GHRP-6-5mg-LC-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/GHRP-6-5mg-MS-scaled.webp] 
+[img] GHRP-6 (5mg) MS :: https://biotechpeptides.com/wp-content/uploads/2026/04/GHRP-6-5mg-MS-scaled.webp
+[h1] GHRP-6 (5mg)
+[p] $21.00
+[p] GHRP-6 peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_708 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $19.95
+[input name=wccs_tier_select_708 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $18.90
+[label] GHRP-6 (5mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-6-5mg-.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] GHRP-6 Peptide
+[p] GHRP-6 peptide is a hexapeptide made of six amino acids and is classified amongst researchers as a growth hormone secretagogue (GHS), the classification of which is speculated to facilitate growth hormone (GH) release from the anterior pituitary gland cells. It may achieve this action by potentially acting as a ghrelin receptor agonist and is amongst the ghrelin analogs developed in recent decades. Researchers have suggested that the ghrelin receptor is found in anterior pituitary gland cells. Since their activation appears to result in the synthesis of growth hormone, the receptors are also termed “growth hormone secretagogue receptors” (GHS-Rs). Since ghrelin is posited to impact hunger hormone stimulation, GHRP-6 is also posited to exert similar actions and stimulate food intake. In addition, it has been suggested that it positively influences cardiac muscle cells even in fibrosis cases, and may deliver possible positive neurological impacts in experimental settings.
+[h3] Specifications
+[p] Molecular Formula: C46H56N12O6
+[p] Molecular Weight: 873.032 g/mol
+[p] Sequence: His-D-Trp-Ala-Trp-D-Phe-Lys
+[h3] GHRP-6 Peptide Research
+[p] GHRP-6 and the GHS receptors Upon binding to the GHS receptors, GHRP-6 likely triggers a cascade of intracellular signaling processes deemed crucial for GH secretion.[1] One of the primary pathways activated by GHRP-6 may involve the stimulation of Gq protein subtypes. This stimulation is theorized to lead to the activation of phospholipase C (PLC). Upon activation, PLC facilitates the hydrolysis of phosphatidylinositol 4,5-bisphosphate (PIP2) into two-second messengers: inositol triphosphate (IP3) and diacylglycerol (DAG). The release of IP3 into the cytoplasm may be pivotal in increasing intracellular calcium levels. IP3 appears to achieve this by binding to its receptors located on the endoplasmic reticulum (ER), prompting the release of calcium ions (Ca2+) from these intracellular stores. The surge in cytosolic calcium is believed to be a critical signal that promotes the fusion of GH-containing vesicles with the plasma membrane, leading to the secretion of growth hormone via exocytosis. Simultaneously, DAG appears to activate protein kinase C (PKC), a key signaling molecule in numerous cellular processes, including the secretion of hormones. The activation of PKC further supports the process of vesicle fusion and GH release. Researchers have observed a potential rise in growth hormone (GH) concentrations subsequent to exposure to GHRP-6. The data indicates that the average peak level of GH attained was approximately 15.7 nanograms per milliliter (ng/ml). Furthermore, the cumulative average quantity of GH secreted over the initial 90-minute period of the study was recorded at 674 ng/ml. [2] In a separate study, GHRP-6's actions were evaluated in comparison to a control compound. This analysis tentatively suggests that the influence of GHRP-6 correlated with a release of 15.4 ng/ml of GH, in contrast to the control group, which exhibited a level of 5.5 ng/ml. These observations imply a potential link between GHRP-6 exposure and increased GH levels.[3]
+[p] GHRP-6 and the CD36 receptors It is posited that GHRP-6, a growth hormone-releasing peptide, may potentially interact with receptor sites other than those specifically related to ghrelin, known as GHS-Rs. There is a possibility that these additional receptors might encompass CD36 receptors.[4] CD36 receptors, involved in an array of biological processes, are hypothesized to contribute to lipid metabolism. This function is thought to be mediated through their role as scavenger receptors, which help in the absorption and conveyance of lipids throughout the organism. Furthermore, CD36 receptors may exhibit some role in influencing immune responses. This might be particularly relevant in activities such as phagocytosis, where cells ingest harmful particles, and inflammation, a critical response of the immune system to infection and injury. Additionally, CD36 receptors have been associated with angiogenesis, a complex process involving the growth of new blood vessels from pre-existing ones, which is deemed crucial for tissue recovery and development.
+[p] GHRP-6 and Neurological Dysfunction A study conducted in 2018 highlighted the prevalence of ghrelin receptors in substantia nigra, a part of the brain considered to be impacted by the pathology of Parkinson’s Disease.[1] Further, the scientists noted that they “found a dramatic decrease in the expression of GHSR in PD-specific induced pluripotent stem cell (iPSC)-derived dopaminergic (DAnergic) neurons generated from [research models] carrying parkin gene (PARK2) mutations.” Genetically predisposed cases are posited to exhibit a significant reduction in ghrelin receptors in their substantia nigra. It was observed that genetically modulated rats may exhibit Parkinson’s symptoms when an antagonist is present. Scientists hypothesize that the peptide associated with receptors present in the substantia nigra may potentially decrease neuronal apoptosis and thus may subside or ameliorate the onset of this disease.
+[p] GHRP-6 Peptide and Brain Cell Death The role of the GHRP-6 peptide in ameliorating stroke has been evaluated in animal model research. Exposure to GHRP-6 may potentially mitigate the reduction of blood supply to brain tissues following a stroke and may participate in memory recall functions, which may be imperiled during a stroke.[2] At a molecular level, the peptide and its analogs may prevent apoptosis of neurons of the central nervous system, preventing genetic reprogramming and inflammation.
+[p] GHRP-6 and Cognitive Function Scientists have been investigating the role of mild muscular stress in cognitive functions encompassing learning and memory formation. It has been hypothesized that muscular action may support such functions. However, the precise mechanism has remained elusive. Initially, researchers suggested that physical activity facilitated improved blood circulation in the brain and thereby may have increased growth hormone production. Studies on rodent models have posited that GHRP-6 may support the transfer of short-term memories into long-term storage.[3] Significant scientific observations further posit the active role of ghrelin/GHRP-6 in spatial learning tasks.
+[p] GHRP-6 and Cardiac Tissues The GHRP-6 peptide was suggested to potentially inhibit free radical-mediated cytotoxicity of cardiac cells in porcine models.[4] The researchers commented, "levels of oxidative stress markers suggested that GHRP6 prevented myocardial injury via a decrease in reactive oxygen species and by the preservation of antioxidant defense systems.” Research is ongoing in this area.
+[p] GHRP-6 and Reproduction Studies on male rats have hypothesized the positive correlation of ghrelin receptors in the central nervous system in modulating arousal and mating impulses. GHRP-6 peptide and its modified counterpart (suggested to antagonize the ghrelin receptor) may influence brain areas that facilitate reward-seeking behavior.[5] There is also data to suggest that ghrelin may influence mood. The peptide and its analogs appear to impact brain function associated with mood, stress hormone secretion, and reward behavior in murine models.[6]
+[p] GHRP-6 and Fibrosis GHRP-6 researchers hypothesize the peptide may contribute to cell survival by decreasing programmed cell death (apoptosis). The peptide has been associated with the CD36 receptor, and researchers suggest that it may stimulate blood vessel growth, particularly in damaged tissue. Experiments with GHRP-6 peptide and rat models suggest it may hasten natural repair processes. It appears to support the formation of extracellular matrix proteins such as collagen, and the overall correct organization of tissue around a scar, thus reducing fibrosis. Hypertrophic scars, like keloids, may occur due to improper deposition of matrix proteins, and the process may potentially be ameliorated by GHRP-6.[7] Scientists suggest that GHRP-6 may block this aberrant process.[8] In a recent experimental study involving rodents, it was observed that exposure to GHRP-6 over a period of 60 days may have potentially lessened the severity of liver fibrosis.[13] This study noted a decline in the levels of several fibrogenic markers, including transforming growth factor-beta (TGF-β) and connective tissue growth factor (CTGF). Both factors appear to play a critical role in the development and progression of fibrotic tissue. Specifically, the research indicated that the fibrotic areas and the nodularity within the liver were decreased by an estimated 75% and more than 60%, respectively. Such preliminary data suggest that GHRP-6 may help mitigate fibrosis and assist in the healing processes within experimental settings.
+[p] GHRP-6 and Cellular Apoptosis Research has investigated the possible action of GHRP-6 on neuronal cells, specifically through its role in enhancing GH production and subsequently increasing levels of insulin-like growth factor-1 (IGF-1) in targeted areas. IGF-1, structurally similar to insulin, serves as GH's principal anabolic mechanism, facilitating hypertrophy and potentially supporting cell division and development. Initial observations suggest that GHRP-6 might elevate the messenger RNA (mRNA) expression of IGF-1 within specific brain regions, including the hypothalamus, cerebellum, and hippocampus. However, such an increase was notably absent in the cerebral cortex. This selective enhancement indicates that GHRP-6, via GH, may encourage IGF-1 synthesis in distinct neural areas. Moreover, the research evaluated the expression of the IGF-1 receptor and insulin-like growth factor-binding protein 2 (IGFBP-2). IGFBP-2 regulates the bioavailability of IGF-1 by binding to it, although the study did not record significant changes in their expression post-exposure to the peptide. However, there was observed phosphorylation of protein kinase B (Akt) and the Bcl-2-associated death promoter (BAD) in regions with heightened IGF-1 mRNA, potentially indicating that GH and GHRP-6 may activate cellular survival pathways in response to these growth factors. BAD, a member of the Bcl-2 protein family, is crucial in controlling cellular survival and death. In contrast, Akt participates in a spectrum of cellular processes, including metabolism, apoptosis, growth, transcription, and cell migration. Additionally, an increase in Bcl-2, an antiapoptotic protein, was noted in the same areas, suggesting a possible inclination toward cell survival rather than programmed cell death. In contrast, the levels of the proapoptotic protein Bax did not show a change. These findings tentatively propose that GHRP-6 might influence certain neuroprotective mechanisms in the brain.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Mousseaux D, Le Gallic L, Ryan J, Oiry C, Gagne D, Fehrentz JA, Galleyrand JC, Martinez J. Regulation of ERK1/2 activity by ghrelin-activated growth hormone secretagogue receptor 1A involves a PLC/PKCvarepsilon pathway. Br J Pharmacol. 2006 Jun;148(3):350-65. doi: 10.1038/sj.bjp.0706727. PMID: 16582936; PMCID: PMC1751558.
+[a https://doi.org/10.1038/sj.bjp.0706727] doi: 10.1038/sj.bjp.0706727
+[li] Cordido F, Peñalva A, Dieguez C, Casanueva FF. Massive growth hormone (GH) discharge in obese subjects after the combined administration of GH-releasing hormone and GHRP-6: evidence for a marked somatotroph secretory capability in obesity. J Clin Endocrinol Metab. 1993 Apr;76(4):819-23. doi: 10.1210/jcem.76.4.8473389. PMID: 8473389.
+[a https://doi.org/10.1210/jcem.76.4.8473389] doi: 10.1210/jcem.76.4.8473389
+[li] Frieboes RM, Murck H, Maier P, Schier T, Holsboer F, Steiger A. Growth hormone-releasing peptide-6 stimulates sleep, growth hormone, ACTH and cortisol release in normal man. Neuroendocrinology. 1995 May;61(5):584-9. doi: 10.1159/000126883. PMID: 7617137.
+[a https://doi.org/10.1159/000126883] doi: 10.1159/000126883
+[li] Demers, A., McNicoll, N., Febbraio, M., Servant, M., Marleau, S., Silverstein, R., & Ong, H. (2004). Identification of the growth hormone-releasing peptide binding site in CD36: a photoaffinity cross-linking study. The Biochemical journal, 382(Pt 2), 417–424. https://doi.org/10.1042/BJ20040036
+[a https://doi.org/10.1042/BJ20040036] https://doi.org/10.1042/BJ20040036
+[li] Suda, Y., Kuzumaki, N., Sone, T., Narita, M., Tanaka, K., Hamada, Y., Iwasawa, C., Shibasaki, M., Maekawa, A., Matsuo, M., Akamatsu, W., Hattori, N., Okano, H., & Narita, M. (2018). Down-regulation of ghrelin receptors on dopaminergic neurons in the substantia nigra contributes to Parkinson’s disease-like motor dysfunction. Molecular brain, 11(1), 6. https://doi.org/10.1186/s13041-018-0349-8
+[a https://doi.org/10.1186/s13041-018-0349-8] https://doi.org/10.1186/s13041-018-0349-8
+[li] Subirós, N., Pérez-Saad, H. M., Berlanga, J. A., Aldana, L., García-Illera, G., Gibson, C. L., & García-Del-Barco, D. (2016). Assessment of dose-effect and therapeutic time window in preclinical studies of rhEGF and GHRP-6 coadministration for stroke therapy. Neurological research, 38(3), 187–195. https://doi.org/10.1179/1743132815Y.0000000089
+[a https://doi.org/10.1179/1743132815Y.0000000089] https://doi.org/10.1179/1743132815Y.0000000089
+[li] Huang, C. C., Chou, D., Yeh, C. M., & Hsu, K. S. (2016). Acute food deprivation enhances fear extinction but inhibits long-term depression in the lateral amygdala via ghrelin signaling. Neuropharmacology, 101, 36–45. https://doi.org/10.1016/j.neuropharm.2015.09.018
+[a https://doi.org/10.1016/j.neuropharm.2015.09.018] https://doi.org/10.1016/j.neuropharm.2015.09.018
+[li] Berlanga, J., Cibrian, D., Guevara, L., Dominguez, H., Alba, J. S., Seralena, A., Guillén, G., López-Mola, E., López-Saura, P., Rodriguez, A., Perez, B., Garcia, D., & Vispo, N. S. (2007). Growth-hormone-releasing peptide 6 (GHRP6) prevents oxidant cytotoxicity and reduces myocardial necrosis in a model of acute myocardial infarction. Clinical science (London, England : 1979), 112(4), 241–250. https://doi.org/10.1042/CS20060103
+[a https://doi.org/10.1042/CS20060103] https://doi.org/10.1042/CS20060103
+[li] Hyland, L., Rosenbaum, S., Edwards, A., Palacios, D., Graham, M. D., Pfaus, J. G., Woodside, B., & Abizaid, A. (2018). Central ghrelin receptor stimulation modulates sex motivation in male rats in a site dependent manner. Hormones and behavior, 97, 56–66. https://doi.org/10.1016/j.yhbeh.2017.10.012
+[a https://doi.org/10.1016/j.yhbeh.2017.10.012] https://doi.org/10.1016/j.yhbeh.2017.10.012
+[li] Huang, H. J., Chen, X. R., Han, Q. Q., Wang, J., Pilot, A., Yu, R., Liu, Q., Li, B., Wu, G. C., Wang, Y. Q., & Yu, J. (2019). The protective effects of Ghrelin/GHSR on hippocampal neurogenesis in CUMS mice. Neuropharmacology, 155, 31–43. https://doi.org/10.1016/j.neuropharm.2019.05.013
+[a https://doi.org/10.1016/j.neuropharm.2019.05.013] https://doi.org/10.1016/j.neuropharm.2019.05.013
+[li] Mendoza Marí, Y., Fernández Mayola, M., Aguilera Barreto, A., García Ojalvo, A., Bermúdez Alvarez, Y., Mir Benítez, A. J., & Berlanga Acosta, J. (2016). Growth Hormone-Releasing Peptide 6 Enhances the Healing Process and Improves the Esthetic Outcome of the Wounds. Plastic surgery international, 2016, 4361702. https://doi.org/10.1155/2016/4361702
+[a https://doi.org/10.1155/2016/4361702] https://doi.org/10.1155/2016/4361702
+[li] Fernández-Mayola, M., Betancourt, L., Molina-Kautzman, A., Palomares, S., Mendoza-Marí, Y., Ugarte-Moreno, D., Aguilera-Barreto, A., Bermúdez-Álvarez, Y., Besada, V., González, L. J., García-Ojalvo, A., Mir-Benítez, A. J., Urquiza-Rodríguez, A., & Berlanga-Acosta, J. (2018). Growth hormone-releasing peptide 6 prevents cutaneous hypertrophic scarring: early mechanistic data from a proteome study. International wound journal, 15(4), 538–546. https://doi.org/10.1111/iwj.12895
+[a https://doi.org/10.1111/iwj.12895] https://doi.org/10.1111/iwj.12895
+[li] Berlanga-Acosta, J., Vázquez-Blomquist, D., Cibrián, D., Mendoza, Y., Ochagavía, M. E., Miranda, J., ... & Guillén-Nieto, G. E. (2012). Growth Hormone Releasing Peptide 6 (GHRP6) reduces liver fibrosis in CCl4 chronically intoxicated rats. Biotecnología Aplicada, 29(2), 60-72.
+[li] Frago LM, Pañeda C, Dickson SL, Hewson AK, Argente J, Chowen JA. Growth hormone (GH) and GH-releasing peptide-6 increase brain insulin-like growth factor-I expression and activate intracellular signaling pathways involved in neuroprotection. Endocrinology. 2002 Oct;143(10):4113-22. doi: 10.1210/en.2002-220261. PMID: 12239123.
+[a https://doi.org/10.1210/en.2002-220261] doi: 10.1210/en.2002-220261
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Mod GRF 1-29 & GHRP-6 (10mg) $86.00
+[a https://biotechpeptides.com/product/mod-grf-1-29-ghrp-6-10mg/] Mod GRF 1-29 & GHRP-6 (10mg) $86.00
+[img] Mod GRF 1-29 & GHRP-6 (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Mod-GRF-GHRP-6--238x317.webp
+[h2] Mod GRF 1-29 & GHRP-6 (10mg)
+[li] Sermorelin & GHRP-6 & GHRP-2 Blend (9mg) $88.00
+[a https://biotechpeptides.com/product/sermorelin-ghrp-6-ghrp-2-blend-9mg/] Sermorelin & GHRP-6 & GHRP-2 Blend (9mg) $88.00
+[img] Sermorelin & GHRP-6 & GHRP-2 Blend (9mg) :: https://biotechpeptides.com/wp-content/uploads/2026/01/Sermorelin-GHRP-6-GHRP-2-Blend-9mg-238x317.webp
+[h2] Sermorelin & GHRP-6 & GHRP-2 Blend (9mg)
+[li] CJC-1295 & GHRP-6 Blend (10mg) $86.00
+[a https://biotechpeptides.com/product/cjc-1295-ghrp-6-10mg-blend-2/] CJC-1295 & GHRP-6 Blend (10mg) $86.00
+[img] CJC-1295 & GHRP-6 Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-GHRP-6-1-238x317.webp
+[h2] CJC-1295 & GHRP-6 Blend (10mg)
+[li] GHRP-6 (10mg) $39.00
+[a https://biotechpeptides.com/product/ghrp-6-10mg/] GHRP-6 (10mg) $39.00
+[img] GHRP-6 :: https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-6-1-238x317.webp
+[h2] GHRP-6 (10mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

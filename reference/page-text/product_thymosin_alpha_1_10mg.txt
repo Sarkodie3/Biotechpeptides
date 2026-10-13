@@ -1,0 +1,142 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/04/Thymosin-Alpha-1-1.webp] 
+[img] Thymosin Alpha-1 (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Thymosin-Alpha-1-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/04/COA_Thymosin_alpha1_3141087_BP_page-0001.webp] 
+[img] Thymosin Alpha-1 (10mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2020/04/COA_Thymosin_alpha1_3141087_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/04/COA_Thymosin_alpha1_3141087_BP_page-0002.webp] 
+[img] Thymosin Alpha-1 (10mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2020/04/COA_Thymosin_alpha1_3141087_BP_page-0002.webp
+[h1] Thymosin Alpha-1 (10mg)
+[p] $130.00
+[p] Thymosin Alpha-1 peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_828 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $123.50
+[input name=wccs_tier_select_828 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $117.00
+[label] Thymosin Alpha-1 (10mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/04/COA_Thymosin_alpha1_3141087_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Thymosin (Alpha-1) Peptide
+[p] Thymosin Alpha-1, also known as TA1 or Tα1, is a naturally occurring peptide fragment that was discovered in 1972 and researched for its potential action within the context of studies relating to cystic fibrosis, infection (e.g., tuberculosis, cytomegalovirus), respiratory disorders, chronic hepatitis, and cancer. It is also referred to as Thymalfasin when synthetically developed. Originally, research on Thymosin Alpha-1 centered around its potential role in immune modulation. It is hypothesized that it might increase levels of Major Histocompatibility Complex (MHC) class I molecules and boost cytokine production, key components of the immune system that may enhance immune responses.[1][2] There is also a possibility that it might improve the activity of natural killer cells, which target virus-infected cells and tumors. Furthermore, it might enhance the expression of specific markers on T cells that are considered critical for their identification and function in the immune system, indicating a significant role in immune regulation. Thymosin Alpha-1 is also thought to possibly increase the presence of high-affinity interleukin-2 receptors on cell surfaces, potentially leading to the vigorous activation and proliferation of T lymphocytes, elements of immune response. There is speculation that it may affect both T-helper and cytotoxic T-cell populations, deemed essential for eliminating infected cells. Additionally, it might prompt the differentiation of thymocytes—precursor cells in the thymus—and peripheral blood lymphocytes into mature immune cells, increase natural killer cell numbers, and promote cytokine-driven inflammatory responses. Research also explores its potential role in enhancing macrophage efficiency—cells that engulf and digest pathogens—and in regulating the activity of alpha thrombin, a protein involved in blood clotting, highlighting its broad potential on immune function.[1][2]
+[h3] Specifications
+[p] Other Known Titles: Thymalfasin
+[p] Molecular Formula: C129H215N33O55
+[p] Molecular Weight: 3108.3 g/mol
+[p] Sequence: Ser-Asp-Ala-Ala-Val-Asp-Thr-Ser-Ser-Glu-Ile-Thr-Thr-Lys-Asp-Leu-Lys-Glu-Lys-Lys-Glu-Val-Val-Glu-Glu-Ala-Glu-Asn
+[h3] Thymosin Alpha-1 Research
+[p] Thymosin Alpha-1 and the Immune System Thymosin Alpha-1, first isolated from thymus gland tissue, has the potential to act as a regulator of immune function. The thymus is believed to control T-cell maturation and differentiation. T-cells are central to the operations of the adaptive immune system as they carry the memory of past infections and enhance the function of other immune cells for protection against infections. Murine models lacking thymus glands indicate that Thymosin Alpha-1 may be capable of restoring immune function and preventing widespread infection.[3] The scientists outline that “studies have demonstrated improvements in immune system cell subsets and the potential of Ta1 for the [research] of a range of diseases.” Further, the peptide appears to stimulate signaling pathways to produce cytokines and other molecules that may coordinate the activities of various cells in the immune system and may have widespread impacts, including in the cases of sepsis.[4] For example, the peptide was posited to possibly enhance the activity of innate immune cells like dendritic cells, macrophages, and monocytes. These cells may play crucial roles in the initial defense against pathogens, suggesting that Tα1 might mitigate early stages of sepsis by supporting the organism’s ability to fight such an infection. Additionally, Tα1 may enhance adaptive immunity, leading to better overall immune responses in septic conditions. For example, it apparently improves the function of T cells and natural killer cells, which are deemed vital for pathogen elimination and immune regulation. There's also data to suggest that Tα1 might help upregulate important immune receptors and markers on immune cells, potentially making them more effective at recognizing and responding to pathogens. Moreover, the study indicates that Tα1's potential actions in sepsis models may be linked to its potential to modulate immune responses, particularly in conditions of immune dysfunction or suppression, which may be prevalent in sepsis. Researchers are also considering possibly combining Tα1 with other agents, like ulinastatin (a protease inhibitor), to potentiallysupport its potential. This combination approach aims to tackle both excessive inflammation and immune dysfunction simultaneously.
+[a https://biotechpeptides.com/2021/04/12/thymosin-alpha-1-antiviral-immune-responses/] immune function
+[p] Thymosin Alpha-1 and Nerve Growth The immune system is believed to promote the central nervous system's growth, development, and maintenance. Research on the peptide suggests it may boost neurodevelopment in mice. It appears to modulate several genes responsible for neuron growth and the development of neuronal synapses. It may also promote growth and development and prevent inflammation and neuron dysfunction.[5] The molecule may also potentially address neurodevelopmental delays, such as cerebral palsy. More specifically, these actions have been possibly linked to increased levels of neurotrophic factors such as brain-derived neurotrophic factor (BDNF), nerve growth factor (NGF), and insulin-like growth factor-1 (IGF-1), along with a reduction in pro-inflammatory cytokines like interleukin-6 (IL-6) and tumor necrosis factor-alpha (TNF-α). The increase in beneficial cytokines and neurotrophic factors appeared to be accompanied by a decrease in those associated with inflammation, suggesting a potentially neuroprotective immunological shift. Further, there was a noted increase in the proliferation of various cells, including those labeled with BrdU, a marker of new DNA synthesis indicating cell proliferation, along with markers for neural stem cells (Nestin), neuronal progenitors (Tbr2), and mature neurons (NeuN). This increase points to enhanced neurogenesis—potentially due to a Th1-polarized immune response suggested by increased levels of interleukin-4 (IL-4) and interferon-gamma (IFN-γ), which may modulate this process. Moreover, Ta1 apparently blocked the impairment of hippocampal neurogenesis induced by lipopolysaccharide (LPS), a bacterial component that may elicit strong immune responses. This finding posits Ta1 not only as a promoter of neurogenesis but also as a neuroprotective agent against immune system-mediated neurodevelopmental disruptions.
+[p] Thymosin Alpha-1 and Fungus Dendritic cells are important for recognizing fungal infections. The peptide appears to aid in dendritic cell maturation, thereby rendering the immune system potentially more capable of fighting fungal infections.[6] It was observed to activate T-helper cells in murine aspergillus (fungal) infection models. Dendritic cells appear to operate by taking antigens, like bacteria and fungi, and presenting them to other immune system cells to recognize the antigens and respond appropriately. Dendritic cells are abundant in the skin, nose, lungs, and gastrointestinal system and are one of the immune system’s first responders. The peptide’s potential for regulating dendritic cells may impact immune system functioning at one of its most fundamental levels.[7]
+[p] Thymosin Alpha-1 and HIV Research Despite the development of antiretroviral procedures, full immunity in cases of HIV is not considered to be achievable. Interestingly, antiretroviral action has been implicated in a deficit of cytotoxic T-cells and consistent inflammatory situations. The peptide has been studied for its potential influence in restoring immunity in highly active antiretroviral therapy (HAART) cases.[8] It may also impact HIV infection by stimulating CD8 T-cells to release factors that inhibit HIV infection of other immune cells. It is possible, therefore, that the peptide may also mitigate latent HIV from becoming active.
+[p] Thymosin Alpha-1 and Blood Pressure One study has proposed that Thymalfasin may act to block an angiotensin-converting enzyme (ACE) and, through this action, may influence blood pressure.[9] According to the scientists, “Thα1 possess a multifunctional peptide with dual antioxidant and ACE-inhibitory properties.” ACE is a common target of high blood pressure. Inhibition of ACE is considered to not only lower blood pressure by relaxing blood vessels but may decrease cardiac remodeling, delay the progression of atherosclerosis (plaque development), and influence kidney function. The researchers suggested that Thα1 apparently acts as a mixed inhibitor, affecting both the velocity and affinity of the enzyme for its substrate as indicated by changes in kinetic parameters (Km and Vmax). Moreover, the researchers commented that Thα1 may have significant antioxidant capacity, as assessed by its potential to scavenge different types of radicals, including DPPH, ABTS, hydroxyl, and superoxide radicals. The potential of Thα1 to reduce cellular reactive oxygen species (ROS) levels in neural astrocytoma cells was also documented, suggesting that Thα1 might protect against oxidative stress. However, these findings are preliminary, and further detailed studies are needed to confirm them.
+[p] Thymosin Alpha-1 and Cancer Research Research on lung cancer cells (A549) suggested the anti-proliferative function of the peptide, reducing both the growth and metastasis of cancerous cells. The peptide appears to control cell migration and penetration of cancer cells into surrounding tissue (i.e., invasion).[10] The combination of Thymosin Alpha-1 with dacarbazine exhibited an improved progression-free survival rate and controlled toxicity rates in experimental studies. A long-acting variant of Thymalfasin has been tested against breast cancer cells in mice. The modified molecule appeared to be more efficacious in cancer cell growth inhibition. The modified peptide was reported to boost levels of CD4 and CD8 cells while increasing interferon-gamma and interleukin-2 levels in parallel. Thymosin Alpha-1 has been the subject of investigation in many different cancers, including breast, melanoma, liver, lung, and colon cancer.
+[p] Thymosin Alpha-1 and Inflammatory Pain Inflammatory pain is transmitted via specific peripheral and central nervous system pathways. Given the strong anti-inflammatory potential of Thymosin Alpha-1 reported in research studies so far, the molecule may potentially mitigate pain perception. Murine research suggests the hypothesis and has noted the specific pathways blocked by the peptide. It appears to act directly at the site of inflammation to reduce the production of cytokines and other molecules (e.g., TNF-alpha, IL-1beta, etc.) that trigger pain. Its action appears different from typical anti-inflammatory pain-relieving compounds, although research to fully elucidate its mechanism of action is still underway.
+[p] Thymosin Alpha-1 and Cystic Fibrosis A complication of cystic fibrosis (CF) may be extended inflammation, possibly causing poor mucous clearance, increased rates of infection, and associated issues. They appear to arise from a misfolding of a specific protein called CFTR. The Thymosin Alpha-1 (Tα1) peptide has been studied for its potential to reduce inflammation and improve the function of the CFTR protein. In one particular study, murine models were employed to assess the potential of Tα1 on inflammation in non-pulmonary tissues.[11] More specifically, Tα1 was speculated to have restored mucosal barrier integrity in the inflamed gastrointestinal tract of both normal and CF-specific murine models and in models of metabolic syndrome relevant to CF with high caloric diets but adequate pancreatic function. This ability suggests that Tα1 may potentially ameliorate the complications arising from the malfunction of CFTR in multiple organs beyond the lungs. Further, the study posits that the protective potential of Tα1 is not limited to the gastrointestinal tract. They may extend to the pancreas and liver, indicating a broad spectrum of potential influence in mitigating the impact of CF on these organs.
+[p] Thymosin Alpha-1 and Dental Damage The peptide may improve the repair of gums and surrounding soft tissue caused by the avulsed and replanted tooth and may promote the survival of the replanted tooth.[12] Though preliminary, the research findings suggest that Thymosin Alpha-1 may exhibit action in cases of traumatic tooth damage.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Garaci E. Thymosin alpha1: a historical overview. Ann N Y Acad Sci. 2007 Sep;1112:14-20. doi: 10.1196/annals.1415.039. Epub 2007 Jun 13. PMID: 17567941.
+[li] Dominari A, Hathaway Iii D, Pandav K, Matos W, Biswas S, Reddy G, Thevuthasan S, Khan MA, Mathew A, Makkar SS, Zaidi M, Fahem MMM, Beas R, Castaneda V, Paul T, Halpern J, Baralt D. Thymosin alpha 1: A comprehensive review of the literature. World J Virol. 2020 Dec 15;9(5):67-78. doi: 10.5501/wjv.v9.i5.67. PMID: 33362999; PMCID: PMC7747025.
+[li] King R, Tuthill C. Immune Modulation with Thymosin Alpha-1 Treatment. Vitam Horm. 2016;102:151-78. doi: 10.1016/bs.vh.2016.04.003. Epub 2016 May 24. PMID: 27450734.
+[a https://doi.org/10.1016/bs.vh.2016.04.003] doi: 10.1016/bs.vh.2016.04.003
+[li] Pei F, Guan X, Wu J. Thymosin Alpha-1 treatment for patients with sepsis. Expert Opin Biol Ther. 2018 Jul;18(sup1):71-76. doi: 10.1080/14712598.2018.1484104. PMID: 30063866.
+[a https://doi.org/10.1080/14712598.2018.1484104] doi: 10.1080/14712598.2018.1484104
+[li] Wang G, He F, Xu Y, Zhang Y, Wang X, Zhou C, Huang Y, Zou J. Immunopotentiator Thymosin Alpha-1 Promotes Neurogenesis and Cognition in the Developing Mouse via a Systemic Th1 Bias. Neurosci Bull. 2017 Dec;33(6):675-684. doi: 10.1007/s12264-017-0162-x. Epub 2017 Aug 5. PMID: 28780644; PMCID: PMC5725380.
+[a https://doi.org/10.1007/s12264-017-0162-x] doi: 10.1007/s12264-017-0162-x
+[li] Romani L, Bistoni F, Gaziano R, Bozza S, Montagnoli C, Perruccio K, Pitzurra L, Bellocchio S, Velardi A, Rasi G, Di Francesco P, Garaci E. Thymosin Alpha-1 activates dendritic cells for antifungal Th1 resistance through toll-like receptor signaling. Blood. 2004 Jun 1;103(11):4232-9. doi: 10.1182/blood-2003-11-4036. Epub 2004 Feb 24. PMID: 14982877.
+[a https://doi.org/10.1182/blood-2003-11-4036] doi: 10.1182/blood-2003-11-4036
+[li] Goldstein AL, Goldstein AL. From lab to bedside: emerging clinical applications of Thymosin Alpha-1. Expert Opin Biol Ther. 2009 May;9(5):593-608. doi: 10.1517/14712590902911412. PMID: 19392576.
+[a https://doi.org/10.1517/14712590902911412] doi: 10.1517/14712590902911412
+[li] Matteucci C, Grelli S, Balestrieri E, Minutolo A, Argaw-Denboba A, Macchi B, Sinibaldi-Vallebona P, Perno CF, Mastino A, Garaci E. Thymosin Alpha-1 and HIV-1: recent advances and future perspectives. Future Microbiol. 2017 Feb;12:141-155. doi: 10.2217/fmb-2016-0125. Epub 2017 Jan 20. PMID: 28106477.
+[a https://doi.org/10.2217/fmb-2016-0125] doi: 10.2217/fmb-2016-0125
+[li] Kharazmi-Khorassani J, Asoodeh A, Tanzadehpanah H. Antioxidant and angiotensin-converting enzyme (ACE) inhibitory activity of thymosin alpha-1 (Thα1) peptide. Bioorg Chem. 2019 Jun;87:743-752. doi: 10.1016/j.bioorg.2019.04.003. Epub 2019 Apr 4. PMID: 30974297.
+[a https://doi.org/10.1016/j.bioorg.2019.04.003] doi: 10.1016/j.bioorg.2019.04.003
+[li] Kharazmi-Khorassani J, Asoodeh A. Thymosin alpha-1; a natural peptide inhibits cellular proliferation, cell migration, the level of reactive oxygen species and promotes the activity of antioxidant enzymes in human lung epithelial adenocarcinoma cell line (A549). Environ Toxicol. 2019 Aug;34(8):941-949. doi: 10.1002/tox.22765. Epub 2019 May 8. PMID: 31067016.
+[a https://doi.org/10.1002/tox.22765] doi: 10.1002/tox.22765
+[li] Bellet MM, Borghi M, Pariano M, Renga G, Stincardini C, D'Onofrio F, Brancorsini S, Garaci E, Costantini C, Romani L. Thymosin alpha 1 exerts beneficial extrapulmonary effects in cystic fibrosis. Eur J Med Chem. 2021 Jan 1;209:112921. doi: 10.1016/j.ejmech.2020.112921. Epub 2020 Oct 9. PMID: 33071052.
+[li] Day P, Duggal M. Interventions for treating traumatised permanent front teeth: avulsed (knocked out) and replanted. Cochrane Database Syst Rev. 2010 Jan 20;(1):CD006542. doi: 10.1002/14651858.CD006542.pub2. Update in: Cochrane Database Syst Rev. 2019 Feb 05;2:CD006542. PMID: 20091594
+[a https://doi.org/10.1002/14651858.CD006542.pub2] doi: 10.1002/14651858.CD006542.pub2
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Epithalon (25mg) $94.00
+[a https://biotechpeptides.com/product/epithalon-25mg/] Epithalon (25mg) $94.00
+[img] Epithalon (25mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Epithalon-1-238x317.webp
+[h2] Epithalon (25mg)
+[li] Sale! Vilon (20mg) $65.00 Original price was: $65.00.$61.00Current price is: $61.00.
+[a https://biotechpeptides.com/product/vilon-20mg/] Sale! Vilon (20mg) $65.00 Original price was: $65.00.$61.00Current price is: $61.00.
+[img] Vilon (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Vilon-1-238x317.webp
+[h2] Vilon (20mg)
+[li] Follistatin-344 (1mg) $162.00
+[a https://biotechpeptides.com/product/follistatin-344-1mg/] Follistatin-344 (1mg) $162.00
+[img] Follistatin-344 (1mg) :: https://biotechpeptides.com/wp-content/uploads/2022/01/Follistatin-344-1-238x317.webp
+[h2] Follistatin-344 (1mg)
+[li] Thymalin (25mg) $114.00
+[a https://biotechpeptides.com/product/thymalin-25mg/] Thymalin (25mg) $114.00
+[img] Thymalin (25mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Thymalin-1-238x317.webp
+[h2] Thymalin (25mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

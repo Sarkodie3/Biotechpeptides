@@ -1,0 +1,127 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/B7-33-1.webp] 
+[img] B7-33 (6mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/B7-33-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/COA_B7-33_3141008_BP-1_page-0001.webp] 
+[img] B7-33 (6mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2021/12/COA_B7-33_3141008_BP-1_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/COA_B7-33_3141008_BP-1_page-0002.webp] 
+[img] B7-33 (6mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2021/12/COA_B7-33_3141008_BP-1_page-0002.webp
+[h1] B7-33 (6mg)
+[p] $62.00
+[p] B7-33 peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_3424 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $58.90
+[input name=wccs_tier_select_3424 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $55.80
+[label] B7-33 (6mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/COA_B7-33_3141008_BP-1.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] B7-33 Peptide
+[p] B7-33 is a soluble synthetic single-chain peptide obtained from the larger, naturally occurring protein H2-relaxin (Relaxin), which is considered to induce pleiotropic actions impacting the musculoskeletal system, cardiovascular system, and reproduction.[1] B7-33 appears to retain the anti-fibrotic properties of Relaxin without enhancing cAMP production, it may also stimulate ERK1/2 phosphorylation and promote matrix metalloproteinase 2 (MMP2) expression and the degradation of extracellular collagen. The Relaxin family of peptides has four endogenous receptors divided into two pairs (RXFP1/2 and RXFP3/4).[2] The Relaxin receptors appear to be stimulated by cAMP, orexin, corticotropin-releasing factor (CRF), several insulin-like peptides, and GLP-1. The agonists have been observed to exhibit anti-inflammatory, antioxidant, and tissue-repairing characteristics.
+[h3] Specifications
+[p] Other Known Titles: (B7-33)H2, GTPL9321
+[p] Sequence: VIKLSGRELVRAQIAISGMSTWSKRSL
+[p] PubChem: 318164840
+[h3] B7-33 Peptide Research
+[p] B7-33 Peptide Function Researchers have suggested that “B7-33 represents the first functionally selective agonist of [...] RXFP1.” They also suggest that while H2-relaxin seems to also activate RXFP2, B7-33 does not appear to influence cAMP activity in HEK-RXFP2 cells. B7-33 seemingly shows high potency in increasing the activity of the collagen-degrading enzyme metalloproteinase (MMP)-2 in cardiac fibroblasts and murine renal myofibroblasts, which may play a role in fibrosis prevention Still, this potency was apparently blocked by an RXFP1-specific antagonist. It appears that B7-33 may have activated pERK1/2, leading researchers to conclude that B7-33 might be a functionally selective agonist of RXFP1. Furthermore, studies suggested that both H2-relaxin and B7-33 might exert their biological activity through RXFP1 and potentially through RXFP1–AT2R heterodimers. Moreover, B7-33 appears to stimulate the pERK pathway over the cAMP pathway preferentially.[3] The pERK pathway regulates cell cycle arrest in the G1 phase and has been implicated in several diseases like Alzheimer’s and Creutzfeldt-Jakob. By blocking cell cycle progression in cells with RXFP1 receptors, B7-33 appears to exercise anti-fibrotic potential through the proposed ability to stimulate RXFP1-angiotensin II type 2 receptor heterodimering, which activates pERK1/2 signaling and thus triggers the increased production of the collagen-degrading enzyme matrix metalloproteinase (MMP) -2. B7-33 has exhibited some potential in activating pERK1/2 in fibroblasts, which may possibly be due to a supposed coupling of ERK1/2 to RXFP1 in these cells. Based on some speculation, there's a possibility that B7-33 might serve as a potential anti-fibrotic agent while having limited activity at cAMP pathways. Tests were conducted on B7-33 for its potential on a murine model of heart damage. From these tests, it appeared to exhibit anti-fibrotic activity, which seemed somewhat comparable to H2-relaxin. In addition to previous findings, B7-33 appeared to display an anti-remodeling and anti-fibrotic potential in a murine model of chronic allergic reaction. It has been hypothesized that the binding of B7-33 to RXFP1 may mediate anti-fibrotic actions through a pERK1/2-neuronal nitric oxide (NO) synthase (nNOS)-NO-cGMP-dependent pathway, which could potentially inhibit myofibroblast differentiation and excessive ECM/collagen deposition. Similar to H2-relaxin, it seems that B7-33 might stimulate MMPs associated with collagen degradation and potentially signal through constitutive RXFP1–AT2R heterodimers. Lastly, even though B7-33 appears to have high potency, it is largely unstructured in solution, which suggests that it may adopt the correct conformation for binding upon interaction with RXFP1. Researchers also note that, in contrast to H2-relaxin, B7-33 does not appear to promote tumor cell growth.
+[p] B7-33 and Ease of Production B7-33 is easier to produce and is more economical. It has less complicated 2D and 3D structures; producing a functional B7-33 protein is easier than a full H2-relaxin protein.
+[p] B7-33 and Anti-Fibrotic Properties Fibrosis involves scarring or unorganized tissue regeneration, and occurs at the end state of at least half of all chronic diseases. Research suggested that H2-relaxin introduction may lead to instant vasodilation and reduce long-term scarring following heart damage.[4] The peptide was also purported to immediately reduce dyspnea and other phenomena associated with heart failure. B7-33 peptide is under study for its potential to increase MMP-2 production, at a potentially slightly increased rate than H2-relaxin does. Research studies noted this potential, observing that the peptide appeared to significantly reduce cardiac fibrosis in rat models of MI-induced heart failure and improve cardiac function.[5] Similar impacts have been observed in mouse models of asthma and lung fibrosis. Further, B7-33 appeared to overcome tumor growth even when introduced at greater concentrations than those producing anti-fibrotic effects. It appears to work almost exclusively through the pERK pathway without stimulating cAMP production.
+[p] B7-33 and Blood Vessel Protection H2-relaxin has been studied for its potential to protect the vasculature against endothelial dysfunction and long-term scarring. Murine models suggested that both B7-33 and H2-relaxin may selectively enhance the bradykinin-mediated endothelium-dependent relaxation. This apparent enhancement appeared to be due to these substances potentially causing an increase in endothelium-derived hyperpolarization. However, it was not clearly observed that there was any significant impact on the relaxation in the small renal artery or the aorta. The study then moved to compare the actions of B7-33 and H2-relaxin using an experimental model of vascular disease. The mesenteric arteries from murine models were pre-incubated in placental trophoblast conditioned media, which may induce endothelial dysfunction. Co-incubation of these arteries in the trophoblast conditioned media with B7-33 or H2-relaxin seemed to inhibit the onset of endothelial dysfunction. The study tentatively suggested that equimolar concentrations of B7-33 might possibly reproduce the acute vascular action of H2-relaxin in the mesenteric arteries of murine models. Furthermore, B7-33 appeared to exhibit a preventative potential on endothelial dysfunction that may have been instigated by placental trophoblast conditioned media in murine model mesenteric arteries.[5] Thus, B7-33 appears to replicate the vasoprotective impacts of H2-relaxin by enhancing bradykinin-mediated endothelium-dependent relaxation in arteries by boosting endothelium-derived hyperpolarization in certain vascular beds.[5] Marshal et al. outlines that “equimolar [concentrations] of B7-33 replicated the acute beneficial vascular effects of serelaxin in rat mesenteric arteries and also prevented endothelial dysfunction induced by placental trophoblast conditioned media in mouse mesenteric arteries.”
+[p] B7-33 and Preeclampsia Preeclampsia is a complication of pregnancy characterized by high blood pressure and reduced fetal weight, and may be life-threatening. Research, however, suggests that Relaxin and its analogs (B7-33) may hold potential in controlling preeclampsia even in severe cases.[6] B7-33 has exhibiting binding potential with the RXFP-1 receptor, possibly contributing to an increase in VEGF production in cytotrophoblasts. These cells, found in the developing fetus, are considered to be crucial to establishing blood flow between the maternal circulation and the developing fetus. Therefore, the study focused on the potential actions of the recently developed B7-33 and its lipidated derivative on impaired cytotrophoblast (CTBs) function.[6] CTBs were subjected to various concentrations of MBG (marinobufagenin) - a cardiotonic bufadienolide steroid, or differing glucose levels, and they were introduced in combination with B7-33 or its lipidated derivative, either in the presence or absence of MBG or hyperglycemia exposure. Some CTBs were exposed to a relaxin antagonist (RXFP1) prior to MBG or hyperglycemia exposure. The levels of certain substances, namely vascular endothelial growth factor (VEGF), placental growth factor (PlGF), and soluble fms-like tyrosine kinase-1 (sFlt-1), were measured using ELISA kits. The study seemed to suggest that lipidation of B7-33 may notably improve the pharmacodynamics of B7-33, without visibly affecting its activity, according to the study authors. The authors commented that under exposure to glucose, CTBs might show an increase in the secretion of sFlt-1 and a decrease in VEGF and PIGF, potentially leading to an anti-angiogenic profile. When presented in combination with B7-33 and its lipidated derivative, CTBs appear to be safeguarded from this anti-angiogenic profile induced by both MBG and hyperglycemia. Both the agents seem to stimulate an increase in the expression of VEGF in CTBs, with no significant influence on other factors. However, this supposed increase in VEGF expression incited by B7-33 may be mitigated by the RXFP1 antagonist. Consequently, the study suggested that B7-33 and its lipidated derivative might lessen the dysfunction of CTBs caused by MBG and hyperglycemia, attenuating the anti-angiogenic phenotype. By triggering VEGF production, B7-33 exhibits some potential to promote the growth of blood vessels and thus improve the blood supply between mother and fetus. Studies observe that lipidated B7-33 appears to have a prolonged half-life and that lipidation does not appear to affect the activity of the peptides.[6]
+[p] B7-33 and Anti-Fibrotic Materials B7-33 appears to exhibit potential within the context of producing anti-fibrotic materials or materials that resist the foreign body response. Fibrosis becomes problematic for implanting devices, like a cardiovascular stent. In these cases, fibrosis may lead to dysfunction or degradation of the implant, artery occlusion, reduced blood supply, and potentially, a heart attack. There is potential for B7-33 to offer an ideal coating for use in implants. Research has suggested that the release of B7-33 from the coating of a device under research conditions had the apparent ability to reduce fibrotic capsule thickness by nearly 50% over a 6-week duration and opened up the possibility of a range of improved implantable devices.[7] B7-33 and similar peptides may avoid the need for systemic substances to reduce fibrosis of implanted devices. Research is ongoing.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Praveen, P., Kocan, M., Valkovic, A., Bathgate, R., & Hossain, M. A. (2019). Single chain peptide agonists of relaxin receptors. Molecular and cellular endocrinology, 487, 34-39.
+[li] Yegorov, S., Bogerd, J., & Good, S. V. (2014). The relaxin family peptide receptors and their ligands: new developments and paradigms in the evolution from jawless fish to mammals. General and comparative endocrinology, 209, 93–105. https://doi.org/10.1016/j.ygcen.2014.07.014
+[a https://doi.org/10.1016/j.ygcen.2014.07.014] https://doi.org/10.1016/j.ygcen.2014.07.014
+[li] Hossain, M. A., Kocan, M., Yao, S. T., Royce, S. G., Nair, V. B., Siwek, C., Patil, N. A., Harrison, I. P., Rosengren, K. J., Selemidis, S., Summers, R. J., Wade, J. D., Bathgate, R. A. D., & Samuel, C. S. (2016). A single-chain derivative of the relaxin hormone is a functionally selective agonist of the G protein-coupled receptor, RXFP1. Chemical science, 7(6), 3805–3819. https://doi.org/10.1039/c5sc04754d
+[a https://doi.org/10.1039/c5sc04754d] https://doi.org/10.1039/c5sc04754d
+[li] Teerlink, J. R., Cotter, G., Davison, B. A., Felker, G. M., Filippatos, G., Greenberg, B. H., Ponikowski, P., Unemori, E., Voors, A. A., Adams, K. F., Jr, Dorobantu, M. I., Grinfeld, L. R., Jondeau, G., Marmor, A., Masip, J., Pang, P. S., Werdan, K., Teichman, S. L., Trapani, A., Bush, C. A., … RELAXin in Acute Heart Failure (RELAX-AHF) Investigators (2013). Serelaxin, recombinant human relaxin-2, for treatment of acute heart failure (RELAX-AHF): a randomised, placebo-controlled trial. Lancet (London, England), 381(9860), 29–39. https://doi.org/10.1016/S0140-6736(12)61855-8
+[a https://doi.org/10.1016/S0140-6736(12)61855-8] https://doi.org/10.1016/S0140-6736(12)61855-8
+[li] Marshall, S. A., O’Sullivan, K., Ng, H. H., Bathgate, R. A. D., Parry, L. J., Hossain, M. A., & Leo, C. H. (2017). B7-33 replicates the vasoprotective functions of human relaxin-2 (serelaxin). European journal of pharmacology, 807, 190–197. https://doi.org/10.1016/j.ejphar.2017.05.005
+[a https://doi.org/10.1016/j.ejphar.2017.05.005] https://doi.org/10.1016/j.ejphar.2017.05.005
+[li] Afroze, S. H., Pantho, A. F., Sprague, D. C., Kuehl, T. J., Bathgate, R., Zawieja, D. C., … & Uddin, M. N. (2019). Abstract P3042: Novel Peptide B7-33 and It’s Lipidated Derivative Protect Cytotrophoblasts From Preeclampsia Phenotype in a Cellular Model of the Syndrome. Hypertension, 74(Suppl_1), AP3042-AP3042.
+[li] Welch, N. G., Mukherjee, S., Hossain, M. A., Praveen, P., Werkmeister, J. A., Wade, J. D., … & Thissen, H. (2019). Coatings releasing the relaxin peptide analogue B7-33 reduce fibrotic encapsulation. ACS applied materials & interfaces, 11(49), 45511-45519.
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] PNC-27 (5mg) $142.00
+[a https://biotechpeptides.com/product/pnc-27-5mg/] PNC-27 (5mg) $142.00
+[img] PNC-27 (5mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/PNC-27-1-238x317.webp
+[h2] PNC-27 (5mg)
+[li] LL-37 (5mg) $86.00
+[a https://biotechpeptides.com/product/ll-37-5mg/] LL-37 (5mg) $86.00
+[img] LL-37 (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/LL-37-1-238x317.webp
+[h2] LL-37 (5mg)
+[li] BPC-157 & TB-500 & GHK-Cu Blend (70mg) $205.00
+[a https://biotechpeptides.com/product/bpc-157-tb-500-ghk-cu-blend-70mg/] BPC-157 & TB-500 & GHK-Cu Blend (70mg) $205.00
+[img] BPC-157 & TB-500 & GHK-Cu Blend (70mg) :: https://biotechpeptides.com/wp-content/uploads/2026/01/BPC-157-TB-500-GHK-Cu-Blend-70mg-238x317.webp
+[h2] BPC-157 & TB-500 & GHK-Cu Blend (70mg)
+[li] ARA-290 (16mg) $88.00
+[a https://biotechpeptides.com/product/ara-290-16mg/] ARA-290 (16mg) $88.00
+[img] ARA-290 (16mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/ARA-290-1-238x317.webp
+[h2] ARA-290 (16mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

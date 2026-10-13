@@ -1,0 +1,144 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/Fragment-Mod-GRF-Ipamorelin-1.webp] 
+[img] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Fragment-Mod-GRF-Ipamorelin-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Fragment-176-191-Mod-GRF-1-29-Ipamorelin-Blend-12mg-COA-scaled.webp] 
+[img] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg) COA :: https://biotechpeptides.com/wp-content/uploads/2026/04/Fragment-176-191-Mod-GRF-1-29-Ipamorelin-Blend-12mg-COA-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Fragment-176-191-Mod-GRF-1-29-Ipamorelin-Blend-12mg-LC-scaled.webp] 
+[img] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg) LC :: https://biotechpeptides.com/wp-content/uploads/2026/04/Fragment-176-191-Mod-GRF-1-29-Ipamorelin-Blend-12mg-LC-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Fragment-176-191-Mod-GRF-1-29-Ipamorelin-Blend-12mg-MS-scaled.webp] 
+[img] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg) MS :: https://biotechpeptides.com/wp-content/uploads/2026/04/Fragment-176-191-Mod-GRF-1-29-Ipamorelin-Blend-12mg-MS-scaled.webp
+[h1] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg)
+[p] $87.00
+[p] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin peptides blend are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_732 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $82.65
+[input name=wccs_tier_select_732 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $78.30
+[label] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/Fragment-176-191-Mod-GRF-1-29-Ipamorelin-Blend-12mg-.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Peptide Blend
+[p] Studies have suggested that a maximal output of endogenous growth hormone (GH) from the anterior pituitary gland might be attained through a combination of growth hormone-releasing hormone (GHRH) analog and agonist of growth hormone secretagogue receptor (GHSR).[1] The combination of Ipamorelin with Modified GRF is one of the various combinations researchers have studied in an effort to achieve maximal growth hormone production. Interestingly, more specific results appear to be achieved beyond the increase in GH synthesis by refining the choice of GHRH and GHSR evaluated in a particular study. Modified GRF, which researchers have suggested may be a potent GHRH analog, may have impacts beyond growth hormone release. It has been speculated to impact intestinal inflammation, tissue repair, and cardiac function in addition to researchers’ suppositions on its impact on growth hormone release. Ipamorelin, classified as a growth hormone secretagogue, appears to interact with the GHSRs, also known as ghrelin receptors, and may have the potential to impact bone growth. Activating the ghrelin receptors may affect appetite, to increase food consumption and total weight gain. Depending on the desired outcome of the particular study, namely the addition or reduction of weight, this specific receptor activity may be mitigated by adding lipolytic molecules, which may help minimize the possibility of fat increase. Fragment 176-191 is often combined with Ipamorelin and other research peptides. The peptide known as Fragment 176-191, also referred to as hGH Fragment 176-191, Frag 176-191, tyr-hGH 177-191, or AOD-9604, is hypothesized to specifically target the fat-reduction pathways of growth hormone. This peptide consists of a sequence of 16 amino acids derived from the terminal portion of the growth hormone molecule, identified by researchers as the "lipolytic fragment" due to its potential fat-burning capabilities. The term 'lipolytic' describes the fragment's capacity to promote fat breakdown. To enhance the peptide's stability, the initial amino acid in the hGH Fragment 176-191 sequence is substituted with tyrosine, leading to its alternate designation as Fragment tyr-hGH 177-191.[2][3]
+[h4] Fragment 176-191 Specifications
+[p] Molecular Formula: C78H125N23O23S2
+[p] Molecular Weight: 1817.1 g/mol
+[p] Sequence: Tyr-Leu-Arg-Ile-Val-Gin-Cys-Arg-Ser-Val-Glu-Gly-Ser-Cys-Gly-Phe
+[h4] Mod GRF 1-29 Specifications
+[p] Molecular Formula: C152H252N44O42
+[p] Molecular Weight: 3367.95 g/mol
+[p] Sequence: H-Tyr-D-Ala-Asp-Ala-Ile-Phe-Thr-Gln-Ser-Tyr-Arg-Lys-Val-Leu-Ala-Gln-Leu-Ser-Ala-Arg-Lys-Leu-Leu-Gln-Asp-Ile-Leu-Ser-Arg-NH2
+[h4] Ipamorelin Specifications
+[p] Molecular Formula: C38H49N9O5
+[p] Molecular Weight: 711.86 g/mol
+[p] Sequence: Aib-His-D-2Nal-D-Phe-Lys-NH2
+[h3] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Peptide Research
+[p] Frag 176-191 & Mod GRF 1-29 & Ipamorelin and Growth Hormone Pulsatility Although no direct studies have focused on Modified GRF 1-29 actions, research has been conducted on peptides with similar structures. One study, in particular, evaluated the influence of a Modified GRF 1-29 analog on various physiological functions, including the production of growth hormone and insulin-like growth factor 1 (IGF-1) and the proliferation of skin cells and muscle tissue growth. The findings from this study indicate that the Modified GRF 1-29 analog may potentially affect the growth hormone IGF-1 signaling pathway. More cautiously, the results suggest that this peptide might enhance the release of growth hormone by 70% to 107% over a 12-hour period from the somatotroph cells in the anterior pituitary gland. Additionally, a rise in IGF-1 levels by approximately 28% was observed, which may suggest enhanced functionality of the growth hormone-IGF-1 axis.[4] Further research has also hinted at the possibility that Ipamorelin may increase growth hormone levels to about 80mIU/l (equivalent to 26.6ng/ml), a significant increase compared to the baseline levels of 1.31mIU/l or 0.4ng/ml in controls, potentially representing an increase of over 60 times.[5]
+[p] Frag 176-191 & Mod GRF 1-29 & Ipamorelin and Body Composition Researchers hope to find potential in these peptides to promote fat cell loss and increase muscle cell growth. Of the three, Fragment 176-191 (Frag 176-191) is considered to carry a lipolytic fragment. It appears to act on the beta-3 adrenergic receptors (ADRB3). This peptide has been suggested to increase fat cell dissolution in fatty tissues and fat breakdown by triggering thermogenesis (heat production) in skeletal muscles by acting on these receptors.[6] Researchers have noticed that knock-out mice without ADRB3 receptors appear to not respond to the actions of Fragment 176-191.[7] Fragment 176-191 may potentially engage additional cellular signaling pathways that indirectly promote fat metabolism. This may involve modulating pathways that increase the expression of enzymes considered critical to the process of lipolysis, or it may enhance the cellular responsiveness to lipolytic signals through the regulation of secondary messenger activities within the cell. Interestingly, researchers noticed that Fragment 176-191 only appeared to lead to weight loss in obese mice and did not appear to affect lean mice. It was reported to lead to a nearly 50% reduction in weight gain in obese mice noticed over three weeks. Additionally, this topic has been investigated through clinical studies, with METAOD005 being a prominent example. This study aimed to assess the fat-reducing potential of this specific peptide over a period of 12 weeks. Preliminary findings suggest that one of the Fragment 176-191 test groups might have experienced a noticeable reduction in body weight, estimated at approximately 5.7 pounds. Furthermore, it was hypothesized that the peptide may have potentially contributed to enhanced cholesterol profiles and improved glucose tolerance.[8] Other elements of this blend, such as Mod GRF (1-29), have been studied in relation to improving body composition by increasing muscle cells. The apparent increase in muscle mass may be due to two mechanisms triggered by this peptide: muscle hypertrophy (increase in the size of muscle fibers) and muscle hyperplasia (increase in the number of muscle fibers). It has been proposed that Ipamorelin may exert action in promoting anabolic activity, potentially through its involvement in the synthesis of growth hormone (hGH) and Insulin-like Growth Factor 1 (IGF-1). This hypothesis may be explored by examining its influence on nitrogen balance. In separate research, the action of Ipamorelin on liver markers related to alpha-amino-nitrogen transformation during catabolic states was investigated. The study specifically focused on the liver's ability to produce urea-N (CUNS), which may serve as a measure of the liver's nitrogen processing capabilities. Researchers examined the levels of messenger RNA (mRNA) for enzymes involved in the urea cycle, evaluated the overall nitrogen balance, and theorized about the distribution of nitrogen among various organs. Preliminary results indicated experimentation with Ipamorelin may be associated with an approximate 20% reduction in CUNS compared to conditions of induced catabolism. Additionally, there was a potential decrease in the expression of urea cycle enzymes, a possible reestablishment of nitrogen balance.[9]
+[p] Frag 176-191 & Mod GRF 1-29 & Ipamorelin and Bone, Joint Function Researchers suggested that when the hGH Fragment 176-191 was introduced in conjunction with hyaluronic acid in a study evaluating the impact of growth hormone in inhibiting consequences of osteoarthritis, they suggested the peptide may potentiate joint cartilage growth. The study suggested that peptide exposure in animal models of osteoarthritis appeared to improve joint cartilage.[10] These studies also reported that the apparent improvement was more marked when introduced in combination with hyaluronic acid. Kwon et al. concluded that “AOD9604 [exposure] using ultrasound guidance enhanced cartilage regeneration, and combined AOD9604 and HA … were more effective than HA or AOD9604 … alone in the collagenase-induced knee OA rabbit model.” In addition, peptides such as Modified GRF 1-29 and Ipamorelin have been suggested to improve bone function by activating bone cells via GH-mediated pathways. The action of these peptides within the organism may lead to increased activity, proliferation, and differentiation of bone-forming cells. It may also lead to an increase in bone mineral density (BMD) or bone mineral content (BMC). It has been suggested that Ipamorelin might potentially enhance bone mineral density. This hypothesis revolves around the possibility that Ipamorelin may activate osteoblasts—the cells responsible for bone formation—through mechanisms mediated by Growth Hormone (hGH), potentially resulting in increased proliferation, cell growth, and differentiation. In a specific study, mice were exposed either to Ipamorelin or a control compound. The actions of Ipamorelin on bone mineral density were meticulously monitored using real-time dual X-ray absorptiometry (DEXA) at key anatomical sites, such as the femur and L6 vertebra. Following the study period, further analysis of the femur was conducted using mid-diaphyseal peripheral quantitative computed tomography (pQCT) scans. Initial results suggested that the peptide might have contributed to increased body mass and possibly to higher bone mineral content (BMC) in the tibia and vertebrae, as indicated by DEXA measurements, compared to those in the control group. Additionally, pQCT data suggested that the increase in cortical BMC observed may be attributed to an increase in the cross-sectional area of the bones. However, the cortical volumetric bone mineral density (BMD)—which reflects the density of BMC per unit area—appeared to have remained constant. Consequently, it is plausible to infer that there was an expansion in the volume of both the femur and the L6 vertebrae, given that the BMC reportedly increased while the volumetric BMDs remained stable.[11]
+[a https://biotechpeptides.com/product/aod-9604-5mg/] AOD9604
+[p] Frag 176-191 & Mod GRF 1-29 & Ipamorelin and Cell Aging A blend of growth hormone-stimulating peptides, of which these three are classified, may potentially stimulate the natural increase in growth hormone levels. An increase in growth hormone levels has been associated with improved cell proliferation due to telomere shortening and a reduction in cellular death due to a decline in processes such as oxidative stress.[12]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Sinha DK, Balasubramanian A, Tatem AJ, Rivera-Mirabal J, Yu J, Kovac J, Pastuszak AW, Lipshultz LI. Beyond the androgen receptor: the role of growth hormone secretagogues in the modern management of body composition in hypogonadal males. Transl Androl Urol. 2020 Mar;9(Suppl 2):S149-S159. doi: 10.21037/tau.2019.11.30. PMID: 32257855; PMCID: PMC7108996.
+[a https://doi.org/10.21037/tau.2019.11.30] doi: 10.21037/tau.2019.11.30
+[li] Cox HD, Smeal SJ, Hughes CM, Cox JE, Eichner D. Detection and in vitro metabolism of AOD9604. Drug Test Anal. 2015 Jan;7(1):31-8. doi: 10.1002/dta.1715. Epub 2014 Sep 10. PMID: 25208511.
+[li] Heffernan, Mark, et al. "The Effects of Human GH and Its Lipolytic Fragment (AOD9604) on Lipid Metabolism Following Chronic Treatment in Obese Mice andβ 3-AR Knock-Out Mice." Endocrinology 142.12 (2001): 5182-5189.
+[li] Khorram, O., Laughlin, G. A., & Yen, S. S. (1997). Endocrine and metabolic effects of long-term administration of [Nle27]growth hormone-releasing hormone-(1-29)-NH2 in age-advanced men and women. The Journal of clinical endocrinology and metabolism, 82(5), 1472–1479. target="_blank" rel="noopener"https://doi.org/10.1210/jcem.82.5.3943
+[a https://doi.org/10.1210/jcem.82.5.3943] target="_blank" rel="noopener"https://doi.org/10.1210/jcem.82.5.3943
+[li] Gobburu, J.V.S., Agersø, H., Jusko, W.J. et al. Pharmacokinetic-Pharmacodynamic Modeling of Ipamorelin, a Growth Hormone Releasing Peptide, in Human Volunteers. Pharm Res 16, 1412–1416 (1999).
+[li] Ferrer-Lorente R, Cabot C, Fernández-López JA, Alemany M. Combined effects of oleoyl-estrone and a beta3-adrenergic agonist (CL316,243) on lipid stores of diet-induced overweight male Wistar rats. Life Sci. 2005 Sep 2;77(16):2051-8. doi: 10.1016/j.lfs.2005.04.008. PMID: 15935402.
+[a https://doi.org/10.1016/j.lfs.2005.04.008] doi: 10.1016/j.lfs.2005.04.008
+[li] Heffernan M, Summers RJ, Thorburn A, Ogru E, Gianello R, Jiang WJ, Ng FM. The effects of human GH and its lipolytic fragment (AOD9604) on lipid metabolism following chronic treatment in obese mice and beta(3)-AR knock-out mice. Endocrinology. 2001 Dec;142(12):5182-9. doi: 10.1210/endo.142.12.8522. PMID: 11713213.
+[a https://doi.org/10.1210/endo.142.12.8522] doi: 10.1210/endo.142.12.8522
+[li] Valentino, M A et al. “Central and peripheral molecular targets for antiobesity pharmacotherapy.” Clinical pharmacology and therapeutics vol. 87,6 (2010): 652-62. doi:10.1038/clpt.2010.57
+[li] Aagaard, N. K., Grøfte, T., Greisen, J., Malmlöf, K., Johansen, P. B., Grønbaek, H., Ørskov, H., Tygstrup, N., & Vilstrup, H. (2009). Growth hormone and growth hormone secretagogue effects on nitrogen balance and urea synthesis in steroid treated rats. Growth hormone & IGF research: official journal of the Growth Hormone Research Society and the International IGF Research Society, 19(5), 426–431. https://doi.org/10.1016/j.ghir.2009.01.001
+[a https://doi.org/10.1016/j.ghir.2009.01.001] https://doi.org/10.1016/j.ghir.2009.01.001
+[li] Kwon DR, Park GY. Effect of Intra-articular Injection of AOD9604 with or without Hyaluronic Acid in Rabbit Osteoarthritis Model. Ann Clin Lab Sci. 2015 Summer;45(4):426-32. PMID: 26275694.
+[li] Svensson, J., Lall, S., Dickson, S. L., Bengtsson, B. A., Rømer, J., Ahnfelt-Rønne, I., Ohlsson, C., & Jansson, J. O. (2000). The GH secretagogues ipamorelin and GH-releasing peptide-6 increase bone mineral content in adult female rats. The Journal of endocrinology, 165(3), 569–577. https://doi.org/10.1677/joe.0.1650569
+[a https://doi.org/10.1677/joe.0.1650569] https://doi.org/10.1677/joe.0.1650569
+[li] Waters MJ, Brooks AJ. Growth hormone and cell growth. Endocr Dev. 2012;23:86-95. doi: 10.1159/000341761. Epub 2012 Nov 23. PMID: 23182823.
+[a https://doi.org/10.1159/000341761] doi: 10.1159/000341761
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) $46.00
+[a https://biotechpeptides.com/product/mod-grf-1-29-5mg-cjc-1295-no-dac/] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) $46.00
+[img] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Mod-GRF-1-29-238x317.webp
+[h2] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg)
+[li] Sale! Ipamorelin (5mg) $53.00 Original price was: $53.00.$46.00Current price is: $46.00.
+[a https://biotechpeptides.com/product/ipamorelin-5mg/] Sale! Ipamorelin (5mg) $53.00 Original price was: $53.00.$46.00Current price is: $46.00.
+[img] Ipamorelin (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Ipamorelin-1-238x317.webp
+[h2] Ipamorelin (5mg)
+[li] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg) $87.00
+[a https://biotechpeptides.com/product/fragment-cjc-1295-ipamorelin-12mg-blend/] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg) $87.00
+[img] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Fragment-176-191-CJC-1295-Ipamorelin-238x317.webp
+[h2] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg)
+[li] Sale! Fragment 176-191 (5mg) $47.00 Original price was: $47.00.$44.00Current price is: $44.00.
+[a https://biotechpeptides.com/product/fragment-176-191-5mg/] Sale! Fragment 176-191 (5mg) $47.00 Original price was: $47.00.$44.00Current price is: $44.00.
+[img] Fragment 176-191 (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Fragment-176-191-1-238x317.webp
+[h2] Fragment 176-191 (5mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

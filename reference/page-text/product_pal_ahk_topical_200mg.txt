@@ -1,0 +1,120 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/Pal-AHK-2.webp] 
+[img] Pal-AHK (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Pal-AHK-2-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_PAL-AHK-Hydrochloride_3141061_BP_page-0001.webp] 
+[img] Pal-AHK (200mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_PAL-AHK-Hydrochloride_3141061_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_PAL-AHK-Hydrochloride_3141061_BP_page-0002.webp] 
+[img] Pal-AHK (200mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_PAL-AHK-Hydrochloride_3141061_BP_page-0002.webp
+[h1] Pal-AHK (200mg)
+[p] $192.00 Original price was: $192.00.$180.00Current price is: $180.00.
+[p] PAL-AHK (Palmitoyl Tripeptide-3) peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_6032 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $171.00
+[input name=wccs_tier_select_6032 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $162.00
+[label] Pal-AHK (200mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_PAL-AHK-Hydrochloride_3141061_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Pal-AHK Peptide
+[p] Pal-AHK, also referred to as Palmitoyl Tripeptide-3, is a tripeptide with a fatty acid attachment. It consists of amino acid sequences (alanine-histidine-lysine) and appears to be attached to a Palmitoyl fatty acid molecule. The fatty-acid component of AHK makes it lipophilic (soluble in fat), which may increase the potential of the peptide for penetration and absorption by epidermal cells in experimental models while maintaining the same mechanisms of action as regular AHK. AHK appears to be a multifunctional copper-binding peptide that has been studied for its potential role in supporting cellular functions related to the kin's extracellular matrix. Research indicates that AHK-Cu may increase the proliferation and viability of dermal fibroblasts—the primary cells responsible for producing collagen and other essential proteins in the extracellular matrix (ECM).[1] Moreover, the peptide appears to possess significant antioxidative potential compared to other tripeptides when investigated via chromatographic evaluations. This appears to be related to its potent metal-chelating properties.[2]
+[h3] Specifications
+[p] Molecular Formula: C31H56N6O5
+[p] Molecular Weight: 592.80 g/mol
+[p] Sequence: Palimitoyl-Ala-His-Lys
+[p] Synonyms: Palmitoyl Tripeptide-3
+[h3] Pal-AHK Research
+[p] Pal-AHK (Palmitoyl Tripeptide-3) and ECM Proteins In vitro studies have explored the potential actions of AHK on cultured dermal fibroblasts.[1] Researchers have observed that introducing AHK-Cu to these cells may stimulate cell proliferation and support cell viability. Specifically, assays such as neutral red uptake, which assesses cell viability, and sulforhodamine B staining, which quantifies cell proliferation, indicated that fibroblasts exposed to AHK-Cu indicated increased growth compared to controls. The peptide also appears to influence collagen synthesis, particularly collagen type I, which is a major component of the extracellular matrix. Using sandwich ELISA assays to measure collagen levels in the culture media; studies have reported that AHK-exposed fibroblasts produced up to 300% more collagen type I than control cells.[1] This substantial increase suggests that AHK-Cu might play a role in stimulating the biosynthetic pathways responsible for collagen production. The mechanisms behind these observed actions have yet to be fully understood but are thought to involve the peptide's interaction with cellular processes. It is posited that AHK-Cu may support the expression of growth factors within fibroblasts, which are essential for cell proliferation and extracellular matrix formation. Additionally, the peptide might activate matrix metalloproteinases (MMPs), enzymes involved in the remodeling of the extracellular matrix by degrading and reorganizing its components. Activation of MMPs may facilitate the removal of damaged matrix proteins and promote the deposition of new ones. There is also speculation that AHK-Cu may promote angiogenesis, the formation of new blood vessels, by upregulating factors involved in vascular growth. These potential actions might support nutrient and oxygen delivery to the cells, further supporting extracellular matrix renewal and overall cell function.
+[p] Pal-AHK (Palmitoyl Tripeptide-3) and Angiogenesis The binding properties of AHK tripeptide were investigated using molecular docking techniques in silico.[3] The tripeptide was docked onto vascular endothelial growth factor receptor 2 (VEGFR2), a protein that plays a crucial role in angiogenesis. By interacting with VEGFR2, AHK might affect pathways involved in endothelial cell proliferation and migration. The study's in silico approach offers a foundation for further experimental research to explore the potential of AHK tripeptide in promoting angiogenesis, possibly utilizing murine models for in vivo studies.
+[p] Pal-AHK and Hair Follicle Growth Studies suggest that AHK may have potential impacts on the proliferation of dermal papilla cells, which are specialized cells that play a crucial role in hair follicle morphogenesis and growth cycles. In laboratory studies, AHK has been relevant to researchers in its capacity as a reference to evaluate the biological actions of newly synthesized peptide derivatives on cell proliferation.[4] While some peptide derivatives appear to stimulate cell proliferation more than AHK, findings suggest that AHK itself might influence cell growth through mechanisms involving the activation of signaling pathways such as the mitogen-activated protein kinase (MAPK) extracellular signal-regulated kinase (ERK1/2) pathway. AHK may also impact the expression of genes related to regeneration, including vascular endothelial growth factor (VEGF) and fibroblast growth factors (FGF-2 and FGF-7), which are crucial regulators of normal blood vessel growth and keratinocyte activity. Further research on dermal papilla cells suggests that AHK-Cu possibly exerts its actions by modulating apoptotic pathways within DPCs.[5] Particularly, the researchers investigated The A copper-containing complex of AHK, which “stimulated the elongation of [...] hair follicles [...] and the proliferation of DPCs.” Exposure to this peptide may elevate the ratio of anti-apoptotic Bcl-2 to pro-apoptotic Bax proteins, potentially leading to reduced apoptosis of DPCs. Additionally, AHK seems to decrease the levels of cleaved caspase-3 and poly ADP-ribose polymerase (PARP), proteins involved in the execution phase of apoptosis. This indicates that AHK-Cu might promote hair growth by both stimulating cell proliferation and inhibiting programmed cell death in DPCs. The complex also appears to influence the production of growth factors. It may increase the secretion of vascular endothelial growth factor (VEGF), which may support vascularization around hair follicles and support their growth. Conversely, AHK might decrease the secretion of transforming growth factor-beta1 (TGF-β1), a factor believed to suppress epithelial cell growth.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Patt, Leonard M., and A. Procyte. “Neova® DNA Repair Factor Nourishing Lotion Stimulates Collagen and Speeds Natural Repair Process.” skin 1 (2009): 2.
+[li] Tsuge, N., Eikawa, Y., Nomura, Y., Yamamoto, M., & Sugisawa, K. (1991). The anti-oxidative activity of peptides prepared by enzymatic hydrolysis of egg-white albumin. Journal of the Agricultural Chemical Society of Japan.
+[li] Kecel-Gunduza, S., Kocb, E., Bicaka, B., Kokcub, Y., Ozela, A. E., & Akyuzc, S. (2020). IN SILICO ANALYSIS FOR CHARACTERIZING THE STRUCTURE AND BINDING PROPERTIES OF ALA-HIS-LYS (AHK) TRIPEPTIDE. The Online Journal of Science and Technology-July, 10(3).
+[li] Jeong, J., Park, K. Y., & Kim, J. (2021). Synthesis and biological evaluation of dimeric peptide derivatives as proliferation‐stimulating agents in human follicle dermal papilla cells. Bulletin of the Korean Chemical Society, 42(11), 1435-1439.
+[li] Pyo, H. K., Yoo, H. G., Won, C. H., Lee, S. H., Kang, Y. J., Eun, H. C., Cho, K. H., & Kim, K. H. (2007). The effect of the tripeptide-copper complex on human hair growth in vitro. Archives of pharmacal research, 30(7), 834–839. https://doi.org/10.1007/BF02978833
+[a https://doi.org/10.1007/BF02978833] https://doi.org/10.1007/BF02978833
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] AHK-Cu (200mg) $192.00
+[a https://biotechpeptides.com/product/ahk-cu-topical-200mg/] AHK-Cu (200mg) $192.00
+[img] AHK-Cu (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/AHK-Cu-1-238x317.webp
+[h2] AHK-Cu (200mg)
+[li] PTD-DBM (5mg) $86.00
+[a https://biotechpeptides.com/product/ptd-dbm-5mg/] PTD-DBM (5mg) $86.00
+[img] PTD-DBM (5mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/PTD-DBM-1-238x317.webp
+[h2] PTD-DBM (5mg)
+[li] GHK Basic (Tripeptide-1) (200mg) $165.00
+[a https://biotechpeptides.com/product/ghk-basic-tripeptide-1-topical-200mg/] GHK Basic (Tripeptide-1) (200mg) $165.00
+[img] Buy GHK Basic (Tripeptide-1) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/GHK-Basic-3-238x317.webp
+[h2] GHK Basic (Tripeptide-1) (200mg)
+[li] GHK-Cu (200mg) $186.00
+[a https://biotechpeptides.com/product/ghk-cu-topical-200mg/] GHK-Cu (200mg) $186.00
+[img] GHK-Cu (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/GHK-Cu-1-238x317.webp
+[h2] GHK-Cu (200mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

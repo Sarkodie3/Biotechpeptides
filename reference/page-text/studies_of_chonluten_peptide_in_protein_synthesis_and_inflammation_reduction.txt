@@ -1,0 +1,107 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Studies of Chonluten Peptide in Protein Synthesis and Inflammation Reduction
+[p] by Dr. Usman | Sep 7, 2022 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Studies of Chonluten Peptide in Protein Synthesis and Inflammation Reduction :: https://biotechpeptides.com/wp-content/uploads/2022/09/Studies-of-Chonluten-in-Protein-Synthesis-and-Inflammation-Reduction.avif
+[a https://biotechpeptides.com/product/chonluten-t-34-20mg/] Chonluten
+[p] Chonluten peptide has been researched as a potential geroprotective agent that may slow cell aging. It has also been suggested to hold anti-inflammatory characteristics in the lungs, possibly modulating mucosal function in chronic obstructive pulmonary disease (COPD).
+[p] Contents:
+[li] Tripeptides in Bioregulatory Processes
+[a #tripeptides] Tripeptides in Bioregulatory Processes
+[li] Chonluten and Gene Expression in the Lungs
+[a #lungs] Chonluten and Gene Expression in the Lungs
+[li] Chonluten and the Gastrointestinal Tract
+[a #gi] Chonluten and the Gastrointestinal Tract
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/chonluten-t-34-20mg/] 
+[img] Buy Chonluten (T-34) Peptide - 20mg :: https://biotechpeptides.com/wp-content/uploads/2022/06/Chonluten.png
+[h2] Tripeptides in Bioregulatory Processes
+[p] Several small di-, tri-, and tetrapeptides have been suggested in animal studies to inhibit the spontaneous development of tumors by up to 40%.[2] When combined with the rate at which biomarkers decline, scientists believe these tripeptides may potentially control gene expression and cellular processes such as apoptosis.
+[p] Studies have suggested that short peptides may control aspects of gene expression and epigenetic DNA methylation.[3] These findings indicate that a single short peptide may modulate genes by edging the cytoplasmic (cell) and nuclear membranes to bind to DNA at the promoter, suppressor, and other DNA control turfs using a simple docking method.
+[h3] Chonluten Peptide and Gene Expression in the Lungs
+[p] Chonluten peptide may potentially modify DNA expression to stabilize mucosa in the bronchi. The mucosa of the bronchi is considered to act as a barrier between external threats, cardiovascular inner chambers, and the rest of the organisms’ systems. Different inflammatory conditions, such as asthma or chronic obstructive pulmonary disease (COPD), may alter and damage the mucosa and cardiovascular chambers, resulting in changes in mucus secretion and extracellular matrix structure.
+[p] Chonluten’s mechanism of action has been hypothesized by researchers to be mediated by genes such as c-Fos, the shock protein gene HSP70, SOD, COX-2, TNF-alpha, and antioxidant system genes. The anti-inflammatory action of gene regulation, such as c-Fos, are of interest. The c-Fos protein is a proto-oncogene considered to be activated by depolarization in some neurons. As it may be identified using immunohistochemical techniques, its expression might be a marker for neuronal activity throughout the neuraxis due to peripheral stimulation. The c-Fos protein, activated in response to hypoxia and cellular damage, may be a regulator of cell proliferation, survival, and differentiation. Given that the protein’s local impact might benefit angiogenesis and cell proliferation following injury, widespread protein expression may potentially cause bronchial mucosa thickening and even cancer development. As a result, one of the possible pathophysiological changes in COPD and asthma is the ability to control c-Fos activities and expression.
+[h3] Chonluten Peptide and the Gastrointestinal Tract
+[p] Chonluten’s potential impact on the gastrointestinal tract (GI tract) may be nearly identical to those in the lungs. According to research, the peptide might reduce inflammation and vascular changes in the GI tract due to potential prevalence of inflammatory diseases such as ulcerative colitis and Crohn’s disease.[4] According to Khavinson et al. “The development of gastric ulcer is associated with morphological and molecular changes resulting from modulation of the synthesis of antioxidant and anti-inflammatory proteins. Peptide T-34 normalizes the synthesis of these proteins by regulating the expression of the corresponding genes.” Chonluten peptide research is ongoing.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Avolio F, Martinotti S, Khavinson VK, Esposito JE, Giambuzzi G, Marino A, Mironova E, Pulcini R, Robuffo I, Bologna G, Simeone P, Lanuti P, Guarnieri S, Trofimova S, Procopio AD, Toniato E. Peptides Regulating Proliferative Activity and Inflammatory Pathways in the Monocyte/Macrophage THP-1 Cell Line. Int J Mol Sci. 2022 Mar 25;23(7):3607. doi: 10.3390/ijms23073607. PMID: 35408963; PMCID: PMC8999041.
+[a https://doi.org/10.3390/ijms23073607] doi: 10.3390/ijms23073607
+[li] Anisimov, V. N. “Evolution of concepts in gerontology and physiological mechanisms of aging.” Molekulyarnye i fiziologicheskie mekhanizmy stareniya (Molecular and Physiological Mechanisms of Aging) Nauka, St Petersburg vol 1, parts 1–3, 49–95, 269–378. 2008.
+[li] Khavinson VK, Lin’kova NS, Tarnovskaya SI. Short Peptides Regulate Gene Expression. Bull Exp Biol Med. 2016 Dec;162(2):288-292. doi: 10.1007/s10517-016-3596-7. Epub 2016 Dec 1. PMID: 27909961.
+[a https://doi.org/10.1007/s10517-016-3596-7] doi: 10.1007/s10517-016-3596-7
+[li] Khavinson VKh, Lin’kova NS, Dudkov AV, Polyakova VO, Kvetnoi IM. Peptidergic regulation of expression of genes encoding antioxidant and anti-inflammatory proteins. Bull Exp Biol Med. 2012 Mar;152(5):615-8. English, Russian. doi: 10.1007/s10517-012-1590-2. PMID: 22803148.
+[a https://doi.org/10.1007/s10517-012-1590-2] doi: 10.1007/s10517-012-1590-2
+[li] Khavinson, V., Linkova, N., Dyatlova, A., Kuznik, B., & Umnov, R. (2020). Peptides: Prospects for Use in the Treatment of COVID-19. Molecules (Basel, Switzerland), 25(19), 4389. https://doi.org/10.3390/molecules25194389
+[a https://doi.org/10.3390/molecules25194389] https://doi.org/10.3390/molecules25194389
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

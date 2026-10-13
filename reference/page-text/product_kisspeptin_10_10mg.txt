@@ -1,0 +1,138 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/11/Kisspeptin-10-1.webp] 
+[img] Kisspeptin-10 (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/Kisspeptin-10-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/11/COA_Kisspeptin10_-3141041_BP_page-0001.webp] 
+[img] Kisspeptin-10 (10mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2021/11/COA_Kisspeptin10_-3141041_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/11/COA_Kisspeptin10_-3141041_BP_page-0002.webp] 
+[img] Kisspeptin-10 (10mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2021/11/COA_Kisspeptin10_-3141041_BP_page-0002.webp
+[h1] Kisspeptin-10 (10mg)
+[p] $52.00
+[p] Kisspeptin peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_3361 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $49.40
+[input name=wccs_tier_select_3361 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $46.80
+[label] Kisspeptin-10 (10mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/11/COA_Kisspeptin10_-3141041_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Kisspeptin-10 Peptide
+[p] Kisspeptin-10 is a peptide fragment derived from the full-length Kisspeptin (also referred to as Kisspeptin-54 or Metastin). Specifically, Kisspeptin-10 is a fragment containing the 45-54 sequence from the larger parent molecule. Research into this peptide has suggested that the compound may act as a mediator of endocrine signaling between various endocrine cells. Originating from the KISS1 gene, which is thought to play a critical role in reproductive cell signaling and physiology, Kisspeptin-10 is particularly interesting to researchers for its potential to influence the secretion of gonadotropin-releasing hormone (GnRH). This, in turn, may affect the release of other reproductive hormones from cells with receptors for GnRH. In addition, researchers posit that the compound may potentially impact the development and regulation of blood vessels and renal function, and some studies have suggested it may mitigate cancer cell proliferation and metastasis.[1]
+[h3] Specifications
+[p] Molecular Weight: 1302.4 g/mol
+[p] Molecular Formula: C63H83N17O14
+[p] Sequence: YNWNSFGLRF
+[p] Other Known Titles: KISS-1, Protein KISS-1, Metastin, Kp-10 peptide
+[h3] Kisspeptin-10 Research
+[p] Kisspeptin-10 and Gonadotropin-Releasing Hormone Signalling Researchers have posited that Kisspeptin-10 may affect the hypothalamic-pituitary-gonadal axis. This axis consists of hypothalamic cells producing GnRH, which in turn interacts with pituitary cells, possibly increasing the rate at which LH and FSH are released. Studies suggest that this release may induce a ~3x increase in testosterone synthesis by male gonadal cells.[2] Kisspeptin appears to act at the top of the hypothalamic-pituitary-gonadal axis, interacting with the hypothalamic cells, which produce GnRH. Researchers suggest that similar to its parent molecule (Kisspeptin-54), Kisspeptin-10 may present the possibility of some biological activity towards GPR54 receptors, also called KISS1 receptors (KISS1Rs).[3] These smaller peptides have been posited to bind with a low affinity to the GPR54 receptors and possibly stimulate calcium mobilization, arachidonic acid release, and extracellular signal-regulated protein kinase 1 (ERK1), ERK2, and p38 MAP kinase phosphorylation. These events may depolarize the GnRH neurons and modulate GnRH release. However, this modulation may not necessarily be positive. While Kisspeptin-10 may initially upregulate the production of GnRH, data from KP-54 studies suggests that repeated exposure to Kisspeptin-10 may potentially desensitize KISS1R receptors. This desensitization might reduce the receptors' responsiveness to endogenous kisspeptins, which may contribute to the suppression of the hypothalamic-pituitary-gonadal axis. Observations by relevant scientists indicate that frequent exposure to kisspeptin analogs like KP-54 may diminish luteinizing hormone responses over time and nearly abolish follicle-stimulating hormone responsiveness within a short period. This phenomenon might be attributed to receptor downregulation or internalization, although the exact mechanisms remain to be fully elucidated.[4]
+[p] Kisspeptin-10 and Energy Metabolism Researchers posit that there may be a “novel role of kisspeptin neurons as active players within the neuronal circuits that govern energy balance [...], offering [data supportive] of a bidirectional role of these neurons as a nexus between metabolism and reproduction.” [5] Indeed, Kisspeptin-10 interacts with hypothalamic cells, and the hypothalamus is thought to be a brain region involved in the regulation of hunger hormone signals. For example, recent experimental observations suggest that Kisspeptin-10 might influence the expression of genes associated with neuropeptide Y (NPY) and brain-derived neurotrophic factor (BDNF).[6] In this context, NPY is a neurotransmitter that may play a crucial role in appetite regulation and energy balance. At the same time, BDNF is a protein that may be essential for neuron survival and synaptic plasticity. Moreover, Kisspeptin-10 is hypothesized to potentially impact the concentrations of certain neurotransmitters and their metabolites within hypothalamic neurons, specifically in a cell line referred to as Hypo-E22 cells derived from the hypothalamus. Neurotransmitters that might be impacted include dopamine, norepinephrine, and serotonin (also referred to as 5-hydroxytryptamine or 5-HT). Their respective metabolites of interest are dihydroxyphenylacetic acid (DOPAC), a primary metabolite of dopamine, and hydroxy indole acetic acid (5-HIAA), the main metabolite of serotonin. Experimental findings imply that Hypo-E22 cells may respond to Kisspeptin-10 by increasing the expression of the NPY gene. This may potentially support the production of neuropeptide Y and may increase satiety following caloric intake.
+[p] Kisspeptin-10 and Cancer Cells Kisspeptin has been suggested to influence the malignancy of melanoma cells by interacting with the KISS1 receptors. This assumption has been attributed to the peptide’s potential to impact the migration of cancerous cells by reducing the adhesive capacity of these cells. Cancer cell cultures taken from tissues such as the breast, urinary bladder, gastrointestinal tract, prostate, pancreas, ovaries, epidermis, and thyroid tissue of research models all appeared to exhibit reduced expression of Kisspeptin. This suggests that exposure to the peptide may support environments for the metastasis of malignant cells. Research has also linked the levels of endogenous Kisspeptin and melatonin production to sunlight.[7] Upon extensive sun exposure, murine models were assessed, reporting excess Kisspeptin and melatonin production.
+[p] Kisspeptin-10 and Behavioral Regulation Hormonal release cycles influence reproductive activities, energy levels, and certain behavioral factors. Researchers posit that Kisspeptin levels may affect reproduction and energy homeostasis. Recent studies have observed better-supported limbic brain activity, such as increased reward-seeking behavior and enthusiasm, upon increased Kisspeptin exposure.[8] Research in this area is ongoing.
+[p] Kisspeptin-10 and Kidney, Heart Other than its potential mitigatory role in tumor metastasis, Kisspeptin appears to have regulatory capacity within the kidney and heart. Kisspeptin-10 and its receptors appear to be expressed in renal tissues, and studies have reported that the Kiss-1 receptor knockouts fail to regulate glomerular development.[9] Scientists report that “Kisspeptins and kisspeptin receptors are altered in the kidney tissues of chronic renal impairment, raising the possibility of their pathophysiological roles in chronic renal failure.” Furthermore, Kisspeptin has been observed to control vasoconstriction and sometimes cardiac output under specific laboratory conditions.[10] Such regulation may be related to Kisspeptin’s potential to impact vascular development and response to injury, the exact mechanism of which remains to be elucidated.
+[p] Kisspeptin-10 and Neuroprotection Kisspeptin-10 may potentially protect nerve cells in laboratory settings by mitigating the negative potential associated with α-synuclein (α-syn), a protein implicated in neurodegenerative conditions.[11] In experiments using cholinergic-like neurons engineered to overexpress either wild-type or mutant forms of α-syn, Kisspeptin-10 apparently reduced the rate of apoptosis. It was observed to mitigate mitochondrial depolarization induced by excessive α-syn. Computational models have posited that Kisspeptin-10 might directly interact with α-syn by fitting into binding pockets located at the protein's C-terminal region. This possible direct binding might inhibit the formation of toxic α-syn aggregates, thereby reducing neurotoxicity. Interestingly, Kisspeptin-10's neuroprotective actions seem to be independent of its typical receptor, GPR54. The presence of a GPR54 antagonist did not diminish Kisspeptin-10's protective actions, suggesting that Kisspeptin-10 might exert its actions through a receptor-independent mechanism. Furthermore, Kisspeptin-10 was observed to decrease the immunoreactivity of both α-syn and choline acetyltransferase (ChAT) in neurons overexpressing α-syn. This finding may imply that Kisspeptin-10 may influence the expression levels or aggregation state of α-syn and affect cholinergic neuronal function.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Jayasena CN, Nijher GM, Comninos AN, Abbara A, Januszewki A, Vaal ML, Sriskandarajah L, Murphy KG, Farzad Z, Ghatei MA, Bloom SR, Dhillo WS. The effects of kisspeptin-10 on reproductive hormone release show sexual dimorphism in humans. J Clin Endocrinol Metab. 2011 Dec;96(12):E1963-72. doi: 10.1210/jc.2011-1408. Epub 2011 Oct 5. PMID: 21976724; PMCID: PMC3232613.
+[a https://doi.org/10.1210/jc.2011-1408] doi: 10.1210/jc.2011-1408
+[li] George JT, Veldhuis JD, Roseweir AK, Newton CL, Faccenda E, Millar RP, Anderson RA. Kisspeptin-10 is a potent stimulator of LH and increases pulse frequency in men. J Clin Endocrinol Metab. 2011 Aug;96(8):E1228-36. doi: 10.1210/jc.2011-0089. Epub 2011 Jun 1. PMID: 21632807; PMCID: PMC3380939.
+[a https://doi.org/10.1210/jc.2011-0089] doi: 10.1210/jc.2011-0089
+[li] Rønnekleiv OK, Kelly MJ. Kisspeptin excitation of GnRH neurons. Adv Exp Med Biol. 2013;784:113-31. doi: 10.1007/978-1-4614-6199-9_6. PMID: 23550004; PMCID: PMC4019505.
+[a https://doi.org/10.1007/978-1-4614-6199-9_6] doi: 10.1007/978-1-4614-6199-9_6
+[li] Jayasena CN, Nijher GM, Abbara A, Murphy KG, Lim A, Patel D, Mehta A, Todd C, Donaldson M, Trew GH, Ghatei MA, Bloom SR, Dhillo WS. Twice-weekly administration of kisspeptin-54 for 8 weeks stimulates release of reproductive hormones in women with hypothalamic amenorrhea. Clin Pharmacol Ther. 2010 Dec;88(6):840-7. doi: 10.1038/clpt.2010.204. Epub 2010 Oct 27. PMID: 20980998.
+[a https://doi.org/10.1038/clpt.2010.204] doi: 10.1038/clpt.2010.204
+[li] Navarro VM. Metabolic regulation of kisspeptin – the link between energy balance and reproduction. Nat Rev Endocrinol. 2020 Aug;16(8):407-420. doi: 10.1038/s41574-020-0363-7. Epub 2020 May 19. PMID: 32427949; PMCID: PMC8852368.
+[a https://doi.org/10.1038/s41574-020-0363-7] doi: 10.1038/s41574-020-0363-7
+[li] Orlando G, Leone S, Ferrante C, Chiavaroli A, Mollica A, Stefanucci A, Macedonio G, Dimmito MP, Leporini L, Menghini L, Brunetti L, Recinella L. Effects of Kisspeptin-10 on Hypothalamic Neuropeptides and Neurotransmitters Involved in Appetite Control. Molecules. 2018 Nov 24;23(12):3071. doi: 10.3390/molecules23123071. PMID: 30477219; PMCID: PMC6321454.
+[li] Pazarci P, Kaplan H, Alptekin D, Yilmaz M, Lüleyap U, Singirik E, Pelit A, Kasap H, Yegani A. The effects of daylight exposure on melatonin levels, Kiss1 expression, and melanoma formation in mice. Croat Med J. 2020 Feb 29;61(1):55-61. doi: 10.3325/cmj.2020.61.55. PMID: 32118379; PMCID: PMC7063558.
+[a https://doi.org/10.3325/cmj.2020.61.55] doi: 10.3325/cmj.2020.61.55
+[li] Comninos AN, Wall MB, Demetriou L, Shah AJ, Clarke SA, Narayanaswamy S, Nesbitt A, Izzi-Engbeaya C, Prague JK, Abbara A, Ratnasabapathy R, Salem V, Nijher GM, Jayasena CN, Tanner M, Bassett P, Mehta A, Rabiner EA, Hönigsperger C, Silva MR, Brandtzaeg OK, Lundanes E, Wilson SR, Brown RC, Thomas SA, Bloom SR, Dhillo WS. Kisspeptin modulates sexual and emotional brain processing in humans. J Clin Invest. 2017 Feb 1;127(2):709-719. doi: 10.1172/JCI89519. Epub 2017 Jan 23. PMID: 28112678; PMCID: PMC5272173.
+[a https://doi.org/10.1172/JCI89519] doi: 10.1172/JCI89519
+[li] Shoji I, Hirose T, Mori N, Hiraishi K, Kato I, Shibasaki A, Yamamoto H, Ohba K, Kaneko K, Morimoto R, Satoh F, Kohzuki M, Totsune K, Takahashi K. Expression of kisspeptins and kisspeptin receptor in the kidney of chronic renal failure rats. Peptides. 2010 Oct;31(10):1920-5. doi: 10.1016/j.peptides.2010.07.001. Epub 2010 Jul 17. PMID: 20621140.
+[a https://doi.org/10.1016/j.peptides.2010.07.001] doi: 10.1016/j.peptides.2010.07.001
+[li] Sato K, Shirai R, Hontani M, Shinooka R, Hasegawa A, Kichise T, Yamashita T, Yoshizawa H, Watanabe R, Matsuyama TA, Ishibashi-Ueda H, Koba S, Kobayashi Y, Hirano T, Watanabe T. Potent Vasoconstrictor Kisspeptin-10 Induces Atherosclerotic Plaque Progression and Instability: Reversal by its Receptor GPR54 Antagonist. J Am Heart Assoc. 2017 Apr 14;6(4):e005790. doi: 10.1161/JAHA.117.005790. PMID: 28411243; PMCID: PMC5533042.
+[a https://doi.org/10.1161/JAHA.117.005790] doi: 10.1161/JAHA.117.005790
+[li] Simon, C., Soga, T., & Parhar, I. (2023). Kisspeptin-10 Mitigates α-Synuclein-Mediated Mitochondrial Apoptosis in SH-SY5Y-Derived Neurons via a Kisspeptin Receptor-Independent Manner. International journal of molecular sciences, 24(7), 6056. https://doi.org/10.3390/ijms24076056
+[a https://doi.org/10.3390/ijms24076056] https://doi.org/10.3390/ijms24076056
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] PT-141 (Bremelanotide) (10mg) $45.00
+[a https://biotechpeptides.com/product/pt-141-10mg-bremelanotide/] PT-141 (Bremelanotide) (10mg) $45.00
+[img] PT-141 (Bremelanotide) (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/PT-141-1-238x317.webp
+[h2] PT-141 (Bremelanotide) (10mg)
+[li] Oxytocin (10mg) $45.00
+[a https://biotechpeptides.com/product/oxytocin-10mg/] Oxytocin (10mg) $45.00
+[img] Oxytocin (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Oxytocin-1-238x317.webp
+[h2] Oxytocin (10mg)
+[li] Sale! Melanotan 1 (10mg) $41.00 Original price was: $41.00.$38.00Current price is: $38.00.
+[a https://biotechpeptides.com/product/melanotan-1-10mg/] Sale! Melanotan 1 (10mg) $41.00 Original price was: $41.00.$38.00Current price is: $38.00.
+[img] Melanotan 1 (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Melanotan-1-1-238x317.webp
+[h2] Melanotan 1 (10mg)
+[li] Gonadorelin (GnRH) (10mg) $79.00
+[a https://biotechpeptides.com/product/gonadorelin-gnrh-10mg/] Gonadorelin (GnRH) (10mg) $79.00
+[img] Gonadorelin (GnRH) (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Gonadorelin-GnRH-1-238x317.webp
+[h2] Gonadorelin (GnRH) (10mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

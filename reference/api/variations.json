@@ -1,0 +1,765 @@
+{
+  "5970": {
+    "id": 5970,
+    "name": "NAD+ (100mg &#038; 250mg &#038; 500mg)",
+    "slug": "nad-100mg-750mg",
+    "parent": 3808,
+    "type": "variation",
+    "variation": "Please select a size: 100mg",
+    "permalink": "https://biotechpeptides.com/product/nad-100mg-500mg/?attribute_pa_size=100-mg",
+    "sku": "NAD+100mg",
+    "short_description": "",
+    "description": "",
+    "on_sale": false,
+    "prices": {
+      "price": "4600",
+      "regular_price": "4600",
+      "sale_price": "4600",
+      "price_range": null,
+      "currency_code": "USD",
+      "currency_symbol": "$",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "$",
+      "currency_suffix": ""
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#036;</span>46.00</span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 166259,
+        "src": "https://biotechpeptides.com/wp-content/uploads/2022/01/NAD-2.webp",
+        "thumbnail": "https://biotechpeptides.com/wp-content/uploads/2022/01/NAD-2-238x317.webp",
+        "srcset": "https://biotechpeptides.com/wp-content/uploads/2022/01/NAD-2.webp 800w, https://biotechpeptides.com/wp-content/uploads/2022/01/NAD-2-480x605.webp 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 800px, 100vw",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "",
+        "name": "NAD+ (100mg &#038; 500mg)",
+        "alt": "NAD+ (100mg & 500mg)"
+      }
+    ],
+    "categories": [],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;NAD+ (100mg &#038; 250mg &#038; 500mg) &#8211; 100mg&rdquo;",
+      "url": "https://biotechpeptides.com/product/nad-100mg-500mg/?attribute_pa_size=100-mg&#038;variation_id=5970&#038;add-to-cart=3808",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {
+      "woocommerce_google_analytics_integration": {
+        "identifier": "NAD+100mg"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products/5970",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products/3808"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products?related=5970&per_page=10"
+        }
+      ]
+    }
+  },
+  "5971": {
+    "id": 5971,
+    "name": "NAD+ (100mg &#038; 250mg &#038; 500mg)",
+    "slug": "nad-100mg-750mg-2",
+    "parent": 3808,
+    "type": "variation",
+    "variation": "Please select a size: 500mg",
+    "permalink": "https://biotechpeptides.com/product/nad-100mg-500mg/?attribute_pa_size=500-mg",
+    "sku": "NAD+500mg",
+    "short_description": "",
+    "description": "",
+    "on_sale": false,
+    "prices": {
+      "price": "17900",
+      "regular_price": "17900",
+      "sale_price": "17900",
+      "price_range": null,
+      "currency_code": "USD",
+      "currency_symbol": "$",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "$",
+      "currency_suffix": ""
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#036;</span>179.00</span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 166259,
+        "src": "https://biotechpeptides.com/wp-content/uploads/2022/01/NAD-2.webp",
+        "thumbnail": "https://biotechpeptides.com/wp-content/uploads/2022/01/NAD-2-238x317.webp",
+        "srcset": "https://biotechpeptides.com/wp-content/uploads/2022/01/NAD-2.webp 800w, https://biotechpeptides.com/wp-content/uploads/2022/01/NAD-2-480x605.webp 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 800px, 100vw",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "",
+        "name": "NAD+ (100mg &#038; 500mg)",
+        "alt": "NAD+ (100mg & 500mg)"
+      }
+    ],
+    "categories": [],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;NAD+ (100mg &#038; 250mg &#038; 500mg) &#8211; 500mg&rdquo;",
+      "url": "https://biotechpeptides.com/product/nad-100mg-500mg/?attribute_pa_size=500-mg&#038;variation_id=5971&#038;add-to-cart=3808",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {
+      "woocommerce_google_analytics_integration": {
+        "identifier": "NAD+500mg"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products/5971",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products/3808"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products?related=5971&per_page=10"
+        }
+      ]
+    }
+  },
+  "29214": {
+    "id": 29214,
+    "name": "BPC-157 (5mg &#038; 10mg)",
+    "slug": "bpc-157-5mg-10mg",
+    "parent": 687,
+    "type": "variation",
+    "variation": "Please select a size: 10mg",
+    "permalink": "https://biotechpeptides.com/product/bpc-157/?attribute_pa_size=10-mg",
+    "sku": "BPC157-10mg",
+    "short_description": "",
+    "description": "",
+    "on_sale": false,
+    "prices": {
+      "price": "9200",
+      "regular_price": "9200",
+      "sale_price": "9200",
+      "price_range": null,
+      "currency_code": "USD",
+      "currency_symbol": "$",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "$",
+      "currency_suffix": ""
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#036;</span>92.00</span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 166191,
+        "src": "https://biotechpeptides.com/wp-content/uploads/2020/03/BPC-157-2.webp",
+        "thumbnail": "https://biotechpeptides.com/wp-content/uploads/2020/03/BPC-157-2-238x317.webp",
+        "srcset": "",
+        "sizes": "",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "",
+        "name": "BPC-157",
+        "alt": "BPC-157"
+      }
+    ],
+    "categories": [],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;BPC-157 (5mg &#038; 10mg) &#8211; 10mg&rdquo;",
+      "url": "https://biotechpeptides.com/product/bpc-157/?attribute_pa_size=10-mg&#038;variation_id=29214&#038;add-to-cart=687",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {
+      "woocommerce_google_analytics_integration": {
+        "identifier": "BPC157-10mg"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products/29214",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products/687"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products?related=29214&per_page=10"
+        }
+      ]
+    }
+  },
+  "29215": {
+    "id": 29215,
+    "name": "BPC-157 (5mg &#038; 10mg)",
+    "slug": "bpc-157-5mg-5mg",
+    "parent": 687,
+    "type": "variation",
+    "variation": "Please select a size: 5mg",
+    "permalink": "https://biotechpeptides.com/product/bpc-157/?attribute_pa_size=5-mg",
+    "sku": "BPC157-5mg",
+    "short_description": "",
+    "description": "",
+    "on_sale": false,
+    "prices": {
+      "price": "5200",
+      "regular_price": "5200",
+      "sale_price": "5200",
+      "price_range": null,
+      "currency_code": "USD",
+      "currency_symbol": "$",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "$",
+      "currency_suffix": ""
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#036;</span>52.00</span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 166191,
+        "src": "https://biotechpeptides.com/wp-content/uploads/2020/03/BPC-157-2.webp",
+        "thumbnail": "https://biotechpeptides.com/wp-content/uploads/2020/03/BPC-157-2-238x317.webp",
+        "srcset": "",
+        "sizes": "",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "",
+        "name": "BPC-157",
+        "alt": "BPC-157"
+      }
+    ],
+    "categories": [],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;BPC-157 (5mg &#038; 10mg) &#8211; 5mg&rdquo;",
+      "url": "https://biotechpeptides.com/product/bpc-157/?attribute_pa_size=5-mg&#038;variation_id=29215&#038;add-to-cart=687",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {
+      "woocommerce_google_analytics_integration": {
+        "identifier": "BPC157-5mg"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products/29215",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products/687"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products?related=29215&per_page=10"
+        }
+      ]
+    }
+  },
+  "38984": {
+    "id": 38984,
+    "name": "Tesamorelin (5mg &#038; 10mg)",
+    "slug": "tesamorelin-10mg-10mg",
+    "parent": 825,
+    "type": "variation",
+    "variation": "Please select a size: 10mg",
+    "permalink": "https://biotechpeptides.com/product/tesamorelin/?attribute_pa_size=10-mg",
+    "sku": "tesamorelin-10",
+    "short_description": "",
+    "description": "",
+    "on_sale": true,
+    "prices": {
+      "price": "7300",
+      "regular_price": "9200",
+      "sale_price": "7300",
+      "price_range": null,
+      "currency_code": "USD",
+      "currency_symbol": "$",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "$",
+      "currency_suffix": ""
+    },
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#036;</span>92.00</span></del> <span class=\"screen-reader-text\">Original price was: &#036;92.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#036;</span>73.00</span></ins><span class=\"screen-reader-text\">Current price is: &#036;73.00.</span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 166230,
+        "src": "https://biotechpeptides.com/wp-content/uploads/2020/04/Tesamorelin-1.webp",
+        "thumbnail": "https://biotechpeptides.com/wp-content/uploads/2020/04/Tesamorelin-1-238x317.webp",
+        "srcset": "https://biotechpeptides.com/wp-content/uploads/2020/04/Tesamorelin-1.webp 800w, https://biotechpeptides.com/wp-content/uploads/2020/04/Tesamorelin-1-480x605.webp 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 800px, 100vw",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "",
+        "name": "Tesamorelin (5mg &#038; 10mg)",
+        "alt": "Tesamorelin (5mg & 10mg)"
+      }
+    ],
+    "categories": [],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Tesamorelin (5mg &#038; 10mg) &#8211; 10mg&rdquo;",
+      "url": "https://biotechpeptides.com/product/tesamorelin/?attribute_pa_size=10-mg&#038;variation_id=38984&#038;add-to-cart=825",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {
+      "woocommerce_google_analytics_integration": {
+        "identifier": "tesamorelin-10"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products/38984",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products/825"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products?related=38984&per_page=10"
+        }
+      ]
+    }
+  },
+  "38985": {
+    "id": 38985,
+    "name": "Tesamorelin (5mg &#038; 10mg)",
+    "slug": "tesamorelin-10mg-5mg",
+    "parent": 825,
+    "type": "variation",
+    "variation": "Please select a size: 5mg",
+    "permalink": "https://biotechpeptides.com/product/tesamorelin/?attribute_pa_size=5-mg",
+    "sku": "tesamorelin-5",
+    "short_description": "",
+    "description": "",
+    "on_sale": false,
+    "prices": {
+      "price": "3800",
+      "regular_price": "3800",
+      "sale_price": "3800",
+      "price_range": null,
+      "currency_code": "USD",
+      "currency_symbol": "$",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "$",
+      "currency_suffix": ""
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#036;</span>38.00</span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 166230,
+        "src": "https://biotechpeptides.com/wp-content/uploads/2020/04/Tesamorelin-1.webp",
+        "thumbnail": "https://biotechpeptides.com/wp-content/uploads/2020/04/Tesamorelin-1-238x317.webp",
+        "srcset": "https://biotechpeptides.com/wp-content/uploads/2020/04/Tesamorelin-1.webp 800w, https://biotechpeptides.com/wp-content/uploads/2020/04/Tesamorelin-1-480x605.webp 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 800px, 100vw",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "",
+        "name": "Tesamorelin (5mg &#038; 10mg)",
+        "alt": "Tesamorelin (5mg & 10mg)"
+      }
+    ],
+    "categories": [],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Tesamorelin (5mg &#038; 10mg) &#8211; 5mg&rdquo;",
+      "url": "https://biotechpeptides.com/product/tesamorelin/?attribute_pa_size=5-mg&#038;variation_id=38985&#038;add-to-cart=825",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {
+      "woocommerce_google_analytics_integration": {
+        "identifier": "tesamorelin-5"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products/38985",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products/825"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products?related=38985&per_page=10"
+        }
+      ]
+    }
+  },
+  "135913": {
+    "id": 135913,
+    "name": "NAD+ (100mg &#038; 250mg &#038; 500mg)",
+    "slug": "nad-100mg-500mg",
+    "parent": 3808,
+    "type": "variation",
+    "variation": "Please select a size: 250mg",
+    "permalink": "https://biotechpeptides.com/product/nad-100mg-500mg/?attribute_pa_size=250-mg",
+    "sku": "NAD+250mg",
+    "short_description": "",
+    "description": "",
+    "on_sale": false,
+    "prices": {
+      "price": "10100",
+      "regular_price": "10100",
+      "sale_price": "10100",
+      "price_range": null,
+      "currency_code": "USD",
+      "currency_symbol": "$",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "$",
+      "currency_suffix": ""
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#036;</span>101.00</span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 166259,
+        "src": "https://biotechpeptides.com/wp-content/uploads/2022/01/NAD-2.webp",
+        "thumbnail": "https://biotechpeptides.com/wp-content/uploads/2022/01/NAD-2-238x317.webp",
+        "srcset": "https://biotechpeptides.com/wp-content/uploads/2022/01/NAD-2.webp 800w, https://biotechpeptides.com/wp-content/uploads/2022/01/NAD-2-480x605.webp 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 800px, 100vw",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "",
+        "name": "NAD+ (100mg &#038; 500mg)",
+        "alt": "NAD+ (100mg & 500mg)"
+      }
+    ],
+    "categories": [],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": false,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "Out of stock",
+      "class": "out-of-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Read more",
+      "description": "Read more about &ldquo;NAD+ (100mg &#038; 250mg &#038; 500mg) &#8211; 250mg&rdquo;",
+      "url": "https://biotechpeptides.com/product/nad-100mg-500mg/?attribute_pa_size=250-mg&#038;variation_id=135913&#038;add-to-cart=3808",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {
+      "woocommerce_google_analytics_integration": {
+        "identifier": "NAD+250mg"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products/135913",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products/3808"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://biotechpeptides.com/wp-json/wc/store/v1/products?related=135913&per_page=10"
+        }
+      ]
+    }
+  }
+}

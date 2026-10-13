@@ -1,0 +1,135 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/GHK-Cu-2.webp] 
+[img] GHK-CU (Copper) (50mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/GHK-Cu-2-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_GHK-Cu_3141032_BP_page-0001.webp] 
+[img] GHK-CU (Copper) (50mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_GHK-Cu_3141032_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_GHK-Cu_3141032_BP_page-0002.webp] 
+[img] GHK-CU (Copper) (50mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_GHK-Cu_3141032_BP_page-0002.webp
+[h1] GHK-CU (Copper) (50mg)
+[p] $64.00
+[p] GHK-CU (Copper) peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_693 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $60.80
+[input name=wccs_tier_select_693 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $57.60
+[label] GHK-CU (Copper) (50mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_GHK-Cu_3141032_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] GHK-Cu Peptide
+[p] GHK-Cu is a naturally occurring peptide that was first purified from blood plasma, though its traces have also been identified in both saliva and urine. Experimental research in GHK-Cu indicates the peptide may host the potential to impact tissue repair and affect certain immunological functions.[1] The peptide has been studied for its potential in mitigating cell aging, inducing protein synthesis, minimizing free-radical damage, preventing bacterial infection, and improving the function of skin fibroblasts. Research in this multifaceted peptide is still ongoing.
+[h3] Specifications
+[p] Molecular Formula: C14H23CuN6O4
+[p] Molecular Weight: 340.38 g/mol
+[p] Sequence: Gly-His-LysCu.xHAc
+[h3] GHK-Cu Research
+[p] GHK-Cu and Skin Cells GHK-Cu is a natural component of blood and has been studied for its potential impact on dermal regeneration pathways. Research in skin cultures has suggested that GHK may stimulate the synthesis as well as the breaking down of collagen, glycosaminoglycans, and other components of the skin’s extracellular matrix like proteoglycans and chondroitin sulfate. This potential appears to be partially mediated through the positive action of GHK-Cu recruitment on fibroblasts, endothelial cells, and immune cells. The peptide appears to attract these cells to the wound site and coordinates their activity in repairing the damage. The peptide has also been researched for its potential modulation of collagen synthesis. Research in the roles of GHK-Cu suggests its actions may be mediated partially via an expression of transforming growth factor Beta. It is likely that the peptide works through various biochemical pathways and may modify gene expression. Studies in mice suggest that GHK-Cu may increase the rate of wound healing in burns by as much as 33%.[1] The peptide appears to recruit immune cells and fibroblasts to sites of injury and may promote the development of new blood vessels at these sites.
+[p] GHK-Cu and Cognitive, Nervous System Functions The mechanism behind neuronal death, which occurs in degenerative diseases such as Alzheimer’s, is poorly understood. Studies have suggested GHK-Cu’s potential to inhibit loss in neuronal function, which has been associated with such diseases.[2] In these studies, the molecule has been observed to enhance angiogenesis in the nervous system, to potentially stimulate nerve outgrowth, and decrease inflammation in the central nervous system. Further scientific studies support the theory that it may alter the expression profiles of pathological genes and help reset a state of controlled function in dysfunctional systems. Natural GHK-Cu expression is considered to naturally decrease. Some scientists believe that GHK-Cu may possibly exert neuroprotective action against natural insults like gene dysregulation. The peptide has been suggested to protect neurons in rat brains from apoptosis through the well-known miR-339-59/VEGFA pathway, which is considered to become active after brain bleeds and stroke. In the rat models, GHK-Cu was reported to improve the neurological deficits in the brain, reducing swelling and preventing neuronal death associated with over-expression of miR-339-5p.
+[p] GHK-Cu and Bacteria GHK-Cu, in combination with certain fatty acids, may create a potentially antimicrobial compound acting against bacteria and fungi that is considered to interfere with tissue repair processes. Diabetes research has suggested that GHK-Cu may exert such action, with findings reporting a combination of standard procedure and GHK-Cu to induce a 40% increase in wound closure and a 27% reduction in infection rates as opposed to control groups.[3] Similar results have also been noted from studies in ischemic wounds. Researchers report that “GHK-Cu improved healing of ischemic wounds and suppresses inflammation by lowering the level of acute-phase inflammatory cytokines such as TGF-beta and TNF-alpha.”
+[p] GHK-Cu and Lungs Studies in murine models have suggested that GHK-Cu may protect the lungs against fibrosis.[4] The study has also explored the mechanistic action of the peptide. It was observed to modulate TNF-alpha and IL-6 levels, both of which are considered to function as inflammatory molecules and may affect the extracellular matrix and smooth muscles of the lungs. The peptide may reduce lung inflammation, thereby enhancing collagen production and preventing fibrotic remodeling. GHK-Cu was also suggested to be effective in murine research models of acute respiratory distress syndrome (ARDS). This inflammatory lung condition may become aggravated very fast and may be fatal. ARDS is linked with injury and infection. Once again, the suggested underlying mechanism of the peptide action is decreasing the expression of TNF-alpha and IL-6.[5] In another study, GHK-Cu was investigated for its potential actions on inflammation within a murine model of emphysema induced by cigarette smoke (CS). The experimentation with GHK-Cu appeared to reduce inflammation in the lung tissues of these models. This action was indicated by a decrease in inflammatory cytokines such as IL-1β and TNF-α in the bronchoalveolar lavage fluid, suggesting that GHK-Cu may have an inhibitory action on these proinflammatory markers. Furthermore, the study noted an apparent reduction in myeloperoxidase (MPO) activity, which is primarily found in neutrophils and is an enzyme involved in the model's response to inflammation. These findings suggest that GHK-Cu might potentially attenuate the inflammatory response triggered by CS exposure. The mechanism behind the potential anti-inflammatory action of GHK-Cu may be associated with its influence on the NF-κB pathway, a key regulator of inflammation. The study observed that GHK-Cu exposure possibly suppresses the activation of NF-κB by modifying the phosphorylation of its inhibitor IκBα, thereby reducing the expression of inflammatory mediators. Additionally, the pre-exposure with GHK-Cu was posited to decrease i-NOS levels through the NF-κB pathway, linking it further to anti-inflammatory processes.[6]
+[p] GHK-Cu and Pain Perception In rat models, the exposure of GHK-Cu was reported to exhibit a concentration-dependent impact on pain-induced behavior. The peptide appeared to deliver analgesic effects mediated through increased levels of the natural painkiller L-lysine.[7] The researchers reported that “It was found the L-lysine residue plays the key role in these effects, because they were observed under the influence of L-lysine [introduction] in [concentrations] close to its equimolar content in the studied tripeptide.” Similar studies have suggested the potential of the peptide to enhance levels of L-arginine, another analgesic amino acid.[8]
+[p] GHK-Cu and Oxidative Stress One research hypothesis suggests that GHK may contribute to reducing the release of iron from ferritin, which catalyzes lipid peroxidation. Specifically, data indicates that GHK may restrict the formation of iron complexes in damaged tissues, potentially reducing inflammation.[9] The proposed mechanism of GHK involves its interaction with the pathways controlling iron release from ferritin, potentially reducing iron release by approximately 87%. This reduction may theoretically lessen inflammation and oxidative stress in impacted tissues. Furthermore, a palmitoylated form of the compound, Pal-GHK, may also decrease the generation of reactive oxygen species and inflammatory cytokines, while potentially enhancing the activity of antioxidant enzymes. In a study conducted using a mouse model, Pal-GHK appeared to inhibit the activation of the Nuclear Factor kappa-light-chain-enhancer of activated B cells (NF-κB) and p38 mitogen-activated protein kinase (MAPK) signaling pathways. Both pathways play significant roles in the inflammatory process.[10] NF-κB is a protein complex that functions as a transcription factor, regulating the expression of genes involved in immune and inflammatory responses. The p38 MAPK pathway is considered to be heavily involved in cellular responses to stress and inflammation. Pal-GHK might inhibit p38 MAPK activation by obstructing the upstream kinases that activate this pathway or interfering with the signaling molecules responsible for its phosphorylation. Such inhibition might diminish the inflammatory response, reducing cellular stress. This, in turn, may result in decreased infiltration of inflammatory cells into lung tissues in murine models, alongside lower levels of tumor necrosis factor-alpha (TNF-α) and interleukin-6 (IL-6) production, further mitigating tissue damage.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Pickart L, Margolina A. Regenerative and Protective Actions of the GHK-Cu Peptide in the Light of the New Gene Data. Int J Mol Sci. 2018 Jul 7;19(7):1987. doi: 10.3390/ijms19071987. PMID: 29986520; PMCID: PMC6073405.
+[a https://doi.org/10.3390/ijms19071987] doi: 10.3390/ijms19071987
+[li] Pickart L, Vasquez-Soltero JM, Margolina A. The Effect of the Human Peptide GHK on Gene Expression Relevant to Nervous System Function and Cognitive Decline. Brain Sci. 2017 Feb 15;7(2):20. doi: 10.3390/brainsci7020020. PMID: 28212278; PMCID: PMC5332963.
+[a https://doi.org/10.3390/brainsci7020020] doi: 10.3390/brainsci7020020
+[li] Pickart L, Vasquez-Soltero JM, Margolina A. The human tripeptide GHK-Cu in prevention of oxidative stress and degenerative conditions of aging: implications for cognitive health. Oxid Med Cell Longev. 2012;2012:324832. doi: 10.1155/2012/324832. Epub 2012 May 10. PMID: 22666519; PMCID: PMC3359723.
+[a https://doi.org/10.1155/2012/324832] doi: 10.1155/2012/324832
+[li] Zhou XM, Wang GL, Wang XB, Liu L, Zhang Q, Yin Y, Wang QY, Kang J, Hou G. GHK Peptide Inhibits Bleomycin-Induced Pulmonary Fibrosis in Mice by Suppressing TGFβ1/Smad-Mediated Epithelial-to-Mesenchymal Transition. Front Pharmacol. 2017 Dec 12;8:904. doi: 10.3389/fphar.2017.00904. PMID: 29311918; PMCID: PMC5733019.
+[a https://doi.org/10.3389/fphar.2017.00904] doi: 10.3389/fphar.2017.00904
+[li] Park JR, Lee H, Kim SI, Yang SR. The tri-peptide GHK-Cu complex ameliorates lipopolysaccharide-induced acute lung injury in mice. Oncotarget. 2016 Sep 6;7(36):58405-58417. doi: 10.18632/oncotarget.11168. PMID: 27517151; PMCID: PMC5295439.
+[a https://doi.org/10.18632/oncotarget.11168] doi: 10.18632/oncotarget.11168
+[li] Zhang, Q., Yan, L., Lu, J., & Zhou, X. (2022). Glycyl-L-histidyl-L-lysine-Cu2+ attenuates cigarette smoke-induced pulmonary emphysema and inflammation by reducing oxidative stress pathway. Frontiers in molecular biosciences, 9, 925700. https://doi.org/10.3389/fmolb.2022.925700
+[a https://doi.org/10.3389/fmolb.2022.925700] https://doi.org/10.3389/fmolb.2022.925700
+[li] Sever’yanova LА, Dolgintsev ME. Effects of Tripeptide Gly-His-Lys in Pain-Induced Aggressive-Defensive Behavior in Rats. Bull Exp Biol Med. 2017 Dec;164(2):140-143. doi: 10.1007/s10517-017-3943-3. Epub 2017 Nov 27. PMID: 29181666
+[a https://doi.org/10.1007/s10517-017-3943-3] doi: 10.1007/s10517-017-3943-3
+[li] Sever’yanova LА, Plotnikov DV. Binding of Glyprolines to L-Arginine Inverts Its Analgesic and Antiagressogenic Effects. Bull Exp Biol Med. 2018 Sep;165(5):621-624. doi: 10.1007/s10517-018-4227-2. Epub 2018 Sep 17. PMID: 30225713
+[a https://doi.org/10.1007/s10517-018-4227-2] doi: 10.1007/s10517-018-4227-2
+[li] Miller, D. M., DeSilva, D., Pickart, L., & Aust, S. D. (1990). Effects of glycyl-histidyl-lysyl chelated Cu(II) on ferritin dependent lipid peroxidation. Advances in experimental medicine and biology, 264, 79–84. https://doi.org/10.1007/978-1-4684-5730-8_11
+[a https://doi.org/10.1007/978-1-4684-5730-8_11] https://doi.org/10.1007/978-1-4684-5730-8_11
+[li] Sakuma, S., Ishimura, M., Yuba, Y., Itoh, Y., & Fujimoto, Y. (2018). The peptide glycyl-ʟ-histidyl-ʟ-lysine is an endogenous antioxidant in living organisms, possibly by diminishing hydroxyl and peroxyl radicals. International journal of physiology, pathophysiology and pharmacology, 10(3), 132–138.
+[a https://biotechpeptstg.wpengine.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] GHK Basic (50mg) $51.00
+[a https://biotechpeptides.com/product/ghk-basic-50mg/] GHK Basic (50mg) $51.00
+[img] GHK Basic (50mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/GHK-Basic-2-238x317.webp
+[h2] GHK Basic (50mg)
+[li] GHK-Cu (200mg) $186.00
+[a https://biotechpeptides.com/product/ghk-cu-topical-200mg/] GHK-Cu (200mg) $186.00
+[img] GHK-Cu (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/GHK-Cu-1-238x317.webp
+[h2] GHK-Cu (200mg)
+[li] BPC-157 & TB-500 & GHK-Cu Blend (70mg) $205.00
+[a https://biotechpeptides.com/product/bpc-157-tb-500-ghk-cu-blend-70mg/] BPC-157 & TB-500 & GHK-Cu Blend (70mg) $205.00
+[img] BPC-157 & TB-500 & GHK-Cu Blend (70mg) :: https://biotechpeptides.com/wp-content/uploads/2026/01/BPC-157-TB-500-GHK-Cu-Blend-70mg-238x317.webp
+[h2] BPC-157 & TB-500 & GHK-Cu Blend (70mg)
+[li] GHK Basic (Tripeptide-1) (200mg) $165.00
+[a https://biotechpeptides.com/product/ghk-basic-tripeptide-1-topical-200mg/] GHK Basic (Tripeptide-1) (200mg) $165.00
+[img] Buy GHK Basic (Tripeptide-1) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/GHK-Basic-3-238x317.webp
+[h2] GHK Basic (Tripeptide-1) (200mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

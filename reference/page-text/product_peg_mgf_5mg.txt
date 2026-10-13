@@ -1,0 +1,152 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/04/PEG-MGF-1.webp] 
+[img] PEG-MGF (Pegylated MGF) (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/PEG-MGF-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/04/COA_PEG-MGF_3141064_BP_page-0001.webp] 
+[img] PEG-MGF (Pegylated MGF) (5mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2020/04/COA_PEG-MGF_3141064_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/04/COA_PEG-MGF_3141064_BP_page-0002.webp] 
+[img] PEG-MGF (Pegylated MGF) (5mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2020/04/COA_PEG-MGF_3141064_BP_page-0002.webp
+[h1] PEG-MGF (Pegylated MGF) (5mg)
+[p] $79.00
+[p] PEG-MGF (Pegylated MGF) peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_820 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $75.05
+[input name=wccs_tier_select_820 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $71.10
+[label] PEG-MGF (Pegylated MGF) (5mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/04/COA_PEG-MGF_3141064_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] PEG-MGF Peptide
+[p] Pegylated Mechano-growth factor (PEG-MGF) is a peptide that originates from the IGF-I (main anabolic mediator of growth hormone) gene sequence, which undergoes a process called alternative splicing.[1] This process allows for the synthesis of additional segments, which form new functional molecules. During stress or injury, it has been suggested that muscles produce an alternative peptide called IGF-IEc, which contains extra "exons" or domains. This is thought to result in an additional segment at the C-terminus of IGF-I, known as the Ec-peptide, which comprises 40 amino acids.[2] MGF, or mechano-growth factor, is a synthetic peptide that represents the last 24 amino acids from the naturally occurring IGF-IEc molecule (the Ec-peptide). This 24 amino acid fragment is also called the E-domain or MGF-E and is thought to mediate the beneficial actions of IGF-IEc on muscle recovery and cell proliferation.[5]. It appears to stimulate myoblast (muscle cell) proliferation and differentiation. It has further been researched for its potential to increase endurance, stimulate the function of the immune system, and possible applications that may decrease cholesterol. PEG-MGF may also hasten wound healing via immune function regulation. The up-regulation of IGF-IEc, sometimes referred to as full-length MGF, during periods of stress or injury has been correlated by researchers with the proliferation of satellite cells and muscle cells. This suggests a potential role in muscle tissue repair and regeneration.[3][4] The attachment of a polyethylene glycol moiety to another chemical compound is termed “Pegylation.” Pegylation appears to increase the plasma stability of a compound like MGF by decreasing its clearance and potentially masking its immunogenicity. Pegylation may be considered a common and typically advantageous modification. MGF appears to have a shorter half-life than other peptides. With this in mind, the pegylation of the peptide may overcome any rapid clearance.
+[a https://biotechpeptides.com/product/mgf-5mg/] MGF
+[h3] Specifications
+[p] Other Known Titles: Pegylated MGF, Pegylated Mechano Growth Factor
+[p] Molecular Formula: C121H200N42O39
+[p] Sequence: Tyr-Gln-Pro-Pro-Ser-Thr-Asn-Lys-Asn-Thr-Lys-Ser-Gln-Arg-Arg-Lys-Gly-Ser-Thr-Phe-Glu-Glu-Arg-Lys
+[h3] PEG-MGF Research
+[p] Currently, research on PEG-MGF is limited. Therefore, the experimentation explained below has been conducted with MGF-E and full-length MGF instead. PEG-MGF is thought to have similar properties combined with improved stability.
+[p] PEG-MGF and Skeletal Muscle Cell Injury Injury, which normally occurs during muscle resistance activity, may activate mechano-growth factor (MGF) mRNA in muscle tissues. Researchers observed a substantial 163% rise from baseline levels in closed trials.[6] This increase suggests a direct response of MGF to mechanical stimuli and muscle injury. Additionally, a surge in growth hormone levels, typically accompanying muscle resistance, may further complicate this molecular interaction. Data indicates a 456% rise in MGF mRNA during resistance activities, while an increase in growth hormone alone may influence MGF mRNA expression by about 80% from baseline. It is hypothesized that MGF plays a critical role in mitigating muscle damage and promoting tissue repair in response to mechanical stress. Murine studies suggest that exposure to MGF in the muscles may decrease proinflammatory hormone production, reduce oxidative stress, and protect muscle cells.[7] Scientists observe that “Although MGF overexpression did not obviously affect muscle regeneration outcomes, the findings are novel and provide insights on the physiological roles of MGF in muscle regeneration.” Researchers Sun et al. also suggested that MGF may regulate muscle inflammation and are also helped by the recruitment of neutrophils and macrophages to injury sites.[7] The research mentioned above is based on prior reports of induction of IGF-1Ea and IGF-1Eb (both closely related to MGF) by muscle injury. This function suggests that PEG-MGF may produce impacts similar to IGF-1. This may lead to improved muscle repair, enhanced fat metabolism, and overall increases in lean body mass.
+[p] PEG-MGF and Skeletal Muscle Cell Growth A research experiment examining the correlative effects of MGF reported a 25% increase in mean muscle fiber size in exercising mice. Researchers Goldspink and Jakeman considered it a concerning limitation, as the peptide might require direct exposure to every muscle to mediate hypertrophy possibly.[8] Further research implies that the potential of MGF on muscle cell growth may depend on the age of the cellular lineage.[8] In this research, muscle cell cultures from multiple stages of test subject cell maturity were assessed after being exposed to MGF. Findings indicated that in younger cells, MGF appeared to promote increased cell proliferation. This may suggest the potential for enhanced muscle growth and regenerative capabilities. However, this proliferation was not observed in older cells. In these older cells, there was a noticeable increase in muscle hypertrophy, reflected by an enlarged muscle cell size. Interestingly, the study noted a significant decrease in the number of reserve cells, which typically remain undifferentiated and do not immediately merge into myotubes. This reduced proportion of reserve cells in the culture was evident. Myotubes, essential structures in muscle development formed by the fusion of muscle cells, were apparently enhanced in size across all age groups by MGF. This enhancement likely improved the muscle’s functional abilities through the elevated expression of muscle-specific contractile proteins. This observation is crucial as it implies that MGF may promote these reserve cells to become more actively involved in muscle formation.[9]
+[p] PEG-MGF and Heart Muscle Research carried out by researchers at the University of Illinois by Doroudian et al. observed that MGF may inhibit hypoxia-induced programmed cell death (apoptosis) of cardiac muscle cells.[10] The peptide appears to promote regeneration and healing after a cardiac event by recruiting cardiac stem cells to the site of tissue injury. Researchers report that rats given MGF within eight hours of hypoxia appeared to exhibit less cell death and greater stem cell recruitment compared to placebo controls. Dr. Doroudian, the lead author of the research, suggests that the MGF exposure to damaged cardiac tissues may have provided a localized impact to control pathologic hypertrophy and lessen cardiac remodeling. The researchers' observations propose that the peptide might support the proliferation and enlargement (hypertrophy) of stem cells within cardiac tissue, potentially aiding in cell survival. In particular, MGF seems to enhance the movement of mesenchymal stem cells (MSCs). MSCs are a type of multipotent stromal cell that may differentiate into a variety of cell types, including those found in the heart. This migratory response may exhibit a chemotactic action, meaning it may attract stem cells to regions impacted by damage or disease. Early data suggests an increase in the expression levels of the Bcl-2 gene. Bcl-2 is a gene that is commonly linked to cell growth and survival, which seems to support this hypothesis, although further validation is necessary. A group of other researchers, namely Carpenter et al., have reported similar observations with a 35% approximate reduction of heart muscle cell apoptosis upon peptide exposure in cardiomyocyte injury models.[11]
+[p] PEG-MGF and Bone Repair, Growth PEG-MGF has been observed to promote osteoblast proliferation and hasten bone repair in bone defect models.[12] The models exposed to high concentrations of MGF appeared to exhibit equivalent bone recovery in just four weeks compared to controls in six weeks duration. Findings from the study indicate that MGF could potentially impact the cell cycle by possibly arresting it at certain phases. Furthermore, MGF might activate the Mitogen-Activated Protein Kinase (MAPK) and Extracellular Signal-Regulated Kinase 1/2 (Erk1/2) signaling pathway. This pathway is significant in transmitting signals from the cell surface to DNA in the cell’s nucleus, which may impact various cellular activities, including growth and division. The data suggests that MGF might employ a complex approach to promote cell proliferation, which appears to involve modifications to cell cycle dynamics and the activation of specific molecular pathways. These pathways are believed to play essential roles in cellular repair and regeneration, indicating that MGF could possibly influence cellular functions on multiple levels. The exact mechanisms remain uncertain, and further investigation is required to understand how MGF interacts with these cellular processes fully. These findings highlight the peptide's promising potential from the perspective of researchers studying bone tissues and repair.
+[p] PEG-MGF and Cartilage MGF may also improve the function of chondrocytes, the cells essential for cartilage function and deposition. Studies in mice suggest that MGF may promote the migration of chondrocytes from bone – their site of origin – into cartilage, where they appear to function.[13] The researchers also noted that “The results also demonstrate that the degeneration of OA cartilage may be delayed by MGF [exposure] partially via unfolded protein response regulated by protein kinase RNA-like endoplasmic reticulum kinase.”
+[p] PEG-MGF and Dental Activity Periodontal ligament cell culture studies indicate that the pegylated peptide may improve osteogenic differentiation and potentially enhance MMP-1 and MMP-2 expression.[14] These factors may improve the repair of ligaments, such as those that attach teeth to bone. The peptide may even have the potential to salvage damaged or avulsed dental material.
+[p] PEG-MGF and Neuroprotection Researcher Alexander Walker reviewed a study based on the long-term consequences of elevated levels of MGF in the brain and central nervous system.[15] The work observes how increased MGF may potentially influence neuron degeneration. Mice exposed to the peptide appeared to maintain their cognitive ability and function optimally for long into old age. As per Walker, “the efficacy of MGF in the brain is age-dependent,” as the mice in the study had shown better outcomes initially and over the long term if the peptide over-expression occurred earlier in life. MGF exposure may improve muscle weakness and decrease the loss of motor neurons in murine models of ALS. According to Dluzniewska et al., MGF is naturally produced in the brain after hypoxic injury and is over-expressed in the segments with the greatest neuronal damage.[16]
+[p] PEG-MGF and Muscle Cell Scarring Researchers have explored the potential role of MGF in muscle scarring, a condition that may impair muscle function.[17] Muscle scarring involves the excessive development of connective tissue in response to injury, which hinders muscle movement and function. One study used murine models, inducing muscle contusions and depleting macrophages to observe the actions. Initial findings suggest that MGF might aid in the functional and structural recovery of damaged muscle tissues by potentially reducing fibrosis and lowering levels of inflammatory cytokines, chemokines, and stress-related factors. There is speculation that MGF may inhibit fibrosis by suppressing the expression of type I and III collagen, which are said to be key components of the extracellular matrix involved in fibrotic tissue development. Observations also indicated a potential decrease in markers of oxidative stress and matrix metalloproteinases (MMPs), which degrade extracellular matrix proteins. This suggests a potential role for MGF in mitigating the inflammatory response following muscle injury. The study also noted a possible reduction in muscle contusions, which might facilitate tissue repair processes. MGF's impact on satellite cells and immune cell dynamics post-injury appeared minimal, which researchers inferred from stable levels of MyoD and myogenin, markers indicating satellite cell activity. Additionally, MGF might influence the inflammatory environment in injured muscles. This was suggested by reduced expression of significant pro-inflammatory cytokines observed by researchers, such as tumor necrosis factor-alpha (TNF-α), interferon-gamma (IFN-γ), interleukin-1 beta (IL-1β), and transforming growth factor-beta (TGF-β). Chemokines like CCL2, CCL5, and CXCR4 also appeared to be less expressed, along with a possible reduction in gp91phox, a component involved in oxidative stress. These findings hint at MGF's potential role in modulating inflammation and remodeling within skeletal muscle tissues.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Matheny, R. W., Jr, Nindl, B. C., & Adamo, M. L. (2010). Minireview: Mechano-growth factor: a putative product of IGF-I gene expression involved in tissue repair and regeneration. Endocrinology, 151(3), 865–875. https://doi.org/10.1210/en.2009-1217
+[a https://doi.org/10.1210/en.2009-1217] https://doi.org/10.1210/en.2009-1217
+[li] Li, C., Vu, K., Hazelgrove, K., & Kuemmerle, J. F. (2015). Increased IGF-IEc expression and mechano-growth factor production in intestinal muscle of fibrostenotic Crohn's disease and smooth muscle hypertrophy. American journal of physiology. Gastrointestinal and liver physiology, 309(11), G888–G899. https://doi.org/10.1152/ajpgi.00414.2014
+[a https://doi.org/10.1152/ajpgi.00414.2014] https://doi.org/10.1152/ajpgi.00414.2014
+[li] Janssen, J. A., Hofland, L. J., Strasburger, C. J., van den Dungen, E. S., & Thevis, M. (2016). Potency of Full-Length MGF to Induce Maximal Activation of the IGF-I R Is Similar to Recombinant Human IGF-I at High Equimolar Concentrations. PloS one, 11(3), e0150453. https://doi.org/10.1371/journal.pone.0150453
+[a https://doi.org/10.1371/journal.pone.0150453] https://doi.org/10.1371/journal.pone.0150453
+[li] Esposito, S., Deventer, K., & Van Eenoo, P. (2012). Characterization and identification of a C-terminal amidated mechano growth factor (MGF) analogue in black market products. Rapid communications in mass spectrometry : RCM, 26(6), 686–692. https://doi.org/10.1002/rcm.6144
+[a https://doi.org/10.1002/rcm.6144] https://doi.org/10.1002/rcm.6144
+[li] Dai, Z., Wu, F., Yeung, E. W., & Li, Y. (2010). IGF-IEc expression, regulation and biological function in different tissues. Growth hormone & IGF research : official journal of the Growth Hormone Research Society and the International IGF Research Society, 20(4), 275–281. https://doi.org/10.1016/j.ghir.2010.03.005
+[a https://doi.org/10.1016/j.ghir.2010.03.005] https://doi.org/10.1016/j.ghir.2010.03.005
+[li] Hameed M, Lange KH, Andersen JL, Schjerling P, Kjaer M, Harridge SD, Goldspink G. The effect of recombinant human growth hormone and resistance training on IGF-I mRNA expression in the muscles of elderly men. J Physiol. 2004 Feb 15;555(Pt 1):231-40. doi: 10.1113/jphysiol.2003.051722. Epub 2003 Oct 17. PMID: 14565994; PMCID: PMC1664832.
+[a https://doi.org/10.1113/jphysiol.2003.051722] doi: 10.1113/jphysiol.2003.051722
+[li] Sun KT, Cheung KK, Au SWN, Yeung SS, Yeung EW. Overexpression of Mechano-Growth Factor Modulates Inflammatory Cytokine Expression and Macrophage Resolution in Skeletal Muscle Injury. Front Physiol. 2018 Jul 26;9:999. doi: 10.3389/fphys.2018.00999. PMID: 30140235; PMCID: PMC6094977.
+[a https://doi.org/10.3389/fphys.2018.00999] doi: 10.3389/fphys.2018.00999
+[li] Goldspink G. Research on mechano growth factor: its potential for optimising physical training as well as misuse in doping. Br J Sports Med. 2005 Nov;39(11):787-8; discussion 787-8. doi: 10.1136/bjsm.2004.015826. PMID: 16244184; PMCID: PMC1725070.
+[a https://doi.org/10.1136/bjsm.2004.015826] doi: 10.1136/bjsm.2004.015826
+[li] Kandalla PK, Goldspink G, Butler-Browne G, Mouly V. Mechano Growth Factor E peptide (MGF-E), derived from an isoform of IGF-1, activates human muscle progenitor cells and induces an increase in their fusion potential at different ages. Mech Ageing Dev. 2011 Apr.
+[li] Doroudian G, Pinney J, Ayala P, Los T, Desai TA, Russell B. Sustained delivery of MGF peptide from microrods attracts stem cells and reduces apoptosis of myocytes. Biomed Microdevices. 2014 Oct;16(5):705-15. https://pubmed.ncbi.nlm.nih.gov/24908137/
+[a https://pubmed.ncbi.nlm.nih.gov/24908137/] https://pubmed.ncbi.nlm.nih.gov/24908137/
+[li] Carpenter V, Matthews K, Devlin G, Stuart S, Jensen J, Conaglen J, Jeanplong F, Goldspink P, Yang SY, Goldspink G, Bass J, McMahon C. Mechano-growth factor reduces loss of cardiac function in acute myocardial infarction. Heart Lung Circ. 2008 Feb;17(1):33-9. doi: 10.1016/j.hlc.2007.04.013. Epub 2007 Jun 19. PMID: 17581790.
+[a https://doi.org/10.1016/j.hlc.2007.04.013] doi: 10.1016/j.hlc.2007.04.013
+[li] Deng M, Zhang B, Wang K, Liu F, Xiao H, Zhao J, Liu P, Li Y, Lin F, Wang Y. Mechano growth factor E peptide promotes osteoblasts proliferation and bone-defect healing in rabbits. Int Orthop. 2011 Jul;35(7):1099-106. doi: 10.1007/s00264-010-1141-2. Epub 2010 Nov 6. PMID: 21057789; PMCID: PMC3167400.
+[a https://doi.org/10.1007/s00264-010-1141-2] doi: 10.1007/s00264-010-1141-2
+[li] Song Y, Xu K, Yu C, Dong L, Chen P, Lv Y, Chiang MYM, Li L, Liu W, Yang L. The use of mechano growth factor to prevent cartilage degeneration in knee osteoarthritis. J Tissue Eng Regen Med. 2018 Mar;12(3):738-749. doi: 10.1002/term.2493. Epub 2017 Oct 6. PMID: 28599103.
+[a https://doi.org/10.1002/term.2493] doi: 10.1002/term.2493
+[li] Chen JT, Wang Y, Zhou ZF, Wei KW. [Mechano-growth factor regulated cyclic stretch-induced osteogenic differentiation and MMP-1, MMP-2 expression in human periodontal ligament cells by activating the MEK/ERK1/2 pathway]. Shanghai Kou Qiang Yi Xue. 2019 Feb;28(1):6-12. Chinese. PMID: 31080992.
+[li] Tang JJ, Podratz JL, Lange M, Scrable HJ, Jang MH, Windebank AJ. Mechano growth factor, a splice variant of IGF-1, promotes neurogenesis in the aging mouse brain. Mol Brain. 2017 Jul 7;10(1):23. doi: 10.1186/s13041-017-0304-0. PMID: 28683812; PMCID: PMC5501366.
+[a https://doi.org/10.1186/s13041-017-0304-0] doi: 10.1186/s13041-017-0304-0
+[li] Dluzniewska J, Sarnowska A, Beresewicz M, Johnson I, Srai SK, Ramesh B, Goldspink G, Górecki DC, Zabłocka B. A strong neuroprotective effect of the autonomous C-terminal peptide of IGF-1 Ec (MGF) in brain ischemia. FASEB J. 2005 Nov;19(13):1896-8. doi: 10.1096/fj.05-3786fje. Epub 2005 Sep 6. PMID: 16144956.
+[a https://doi.org/10.1096/fj.05-3786fje] doi: 10.1096/fj.05-3786fje
+[li] Liu X, Zeng Z, Zhao L, Chen P, Xiao W. Impaired Skeletal Muscle Regeneration Induced by Macrophage Depletion Could Be Partly Ameliorated by MGF Injection. Front Physiol. 2019 May 17;10:601. https://pubmed.ncbi.nlm.nih.gov/31164836/
+[a https://pubmed.ncbi.nlm.nih.gov/31164836/] https://pubmed.ncbi.nlm.nih.gov/31164836/
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Receptor Grade IGF-1 LR3 (1mg) $145.00
+[a https://biotechpeptides.com/product/receptor-grade-igf-1-lr3-1mg/] Receptor Grade IGF-1 LR3 (1mg) $145.00
+[img] Receptor Grade IGF-1 LR3 :: https://biotechpeptides.com/wp-content/uploads/2020/03/IGF-1-LR3-Receptor-Grade-1-238x317.webp
+[h2] Receptor Grade IGF-1 LR3 (1mg)
+[li] Receptor Grade IGF-1 LR3 (100mcg) $27.00
+[a https://biotechpeptides.com/product/receptor-grade-igf-1-lr3-100mcg/] Receptor Grade IGF-1 LR3 (100mcg) $27.00
+[img] Receptor Grade IGF-1 LR3 :: https://biotechpeptides.com/wp-content/uploads/2020/03/IGF-1-LR3-Receptor-Grade-1-238x317.webp
+[h2] Receptor Grade IGF-1 LR3 (100mcg)
+[li] MGF (Mechano-Growth Factor) (5mg) $59.00
+[a https://biotechpeptides.com/product/mgf-5mg/] MGF (Mechano-Growth Factor) (5mg) $59.00
+[img] MGF (Mechano-Growth Factor) (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/MGF-1-238x317.webp
+[h2] MGF (Mechano-Growth Factor) (5mg)
+[li] Sale! Tesamorelin (5mg & 10mg) $38.00 – $92.00Price range: $38.00 through $92.00 $38.00 – $73.00Price range: $38.00 through $73.00
+[a https://biotechpeptides.com/product/tesamorelin/] Sale! Tesamorelin (5mg & 10mg) $38.00 – $92.00Price range: $38.00 through $92.00 $38.00 – $73.00Price range: $38.00 through $73.00
+[img] Tesamorelin (5mg & 10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Tesamorelin-1-238x317.webp
+[h2] Tesamorelin (5mg & 10mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

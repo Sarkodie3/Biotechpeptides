@@ -1,0 +1,118 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Potential Research Applications of PE-22-28 Peptide
+[p] by Dr. Usman | May 4, 2023 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Potential Research Applications of PE-22-28 Peptide :: https://biotechpeptides.com/wp-content/uploads/2023/05/Potential-Research-Applications-of-PE-22-28-Peptide.webp
+[p] Contents:
+[li] PE-22-28 Peptide and TREK-1 Inhibition
+[a #trek-1] PE-22-28 Peptide and TREK-1 Inhibition
+[li] PE-22-28 Peptide and Serotonin Transmission
+[a #serotonin] PE-22-28 Peptide and Serotonin Transmission
+[li] PE-22-28 Peptide and Neuroplasticity
+[a #neuroplasticity] PE-22-28 Peptide and Neuroplasticity
+[li] Conclusion
+[a #conclusion] Conclusion
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/pe-22-28-8mg/] 
+[img] PE-22-28 (8mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/PE-22-28.png
+[p] Scientists consider TREK-1 to be widely expressed in the central nervous system, playing a possible role in pain perception, mood regulation, and neuroprotection. PE-22-28 has exhibited potential binding activity to the extracellular domain of TREK-1, thereby inhibiting the channel’s activity. Further research is needed to fully understand the mechanisms of action and potential research applications of PE-22-28 peptide. PE 22–28 has also been used as the core peptide to design other analogs with different N- and C-terminal end modifications.
+[h2] PE-22-28 Peptide and TREK-1 Inhibition
+[p] The primary potential mechanism of action of PE-22–28 peptide is considered by researchers to be exerted via blocking the TREK-1 channels in the central nervous system. According to Djillani et al., PE-22–28 is “the shortest, most efficient sequence capable of blocking the TREK-1 channel with higher potency” than spadin.[2] TREK-1 is generally the most studied background two-pore domain potassium channel. Its main role is considered to be controling cell excitability and maintaining the membrane potential below the threshold of depolarization.[3] TREK-1 may also be multi-regulated by a variety of physical and chemical stimuli. TREK-1 has also been reported in the heart and several other organs, but inhibition of these channels has unknown impact.[4]
+[p] By blocking TREK-1, murine studies suggest that PE-22–28 may significantly decrease immobility time in the forced swim test (FST) compared to control mice that received saline.[1] The FST is a common test used to measure depressive behavior in rodents, where the mice are placed in a water tank, and their mobility is monitored. In addition, the study also evaluated the potential of PE-22–28 on the learned helplessness test (LHT), another test with similar indications as FST. The LHT measures the time it takes for mice to escape from an aversive stimulus. The study commented that the sub-chronic presentation of PE-22–28 appears to significantly reduce the escape latencies in the LHT.
+[p] Furthermore, the trial evaluated the potential of PE-22-28 on a mice model of long-term corticosterone presentation.[1] Corticosterone is a hormone that is involved in the body’s response to stress, and chronic exposure to high levels of corticosterone has been associated with depressive behavior in rodents. The results of this study suggested that PE-22–28 peptide may result in decreasing immobility time in the FST. It may also reduce the latency to eat in the novelty-suppressed feeding (NSF) test, which measures an animal’s willingness to eat in a stressful environment.
+[a https://biotechpeptides.com/product/pe-22-28-8mg/] PE-22-28
+[h2] PE-22-28 Peptide and Serotonin Transmission
+[p] Researchers posit that PE-22–28 may inhibit TREK-1, possibly leading to the excitation of the dorsal raphé nucleus and the firing of serotonin transmission.[5] The researchers suggest that “if a viral vector that leads to the secretion of PE 22-28 is [presented to] the dorsal raphé nucleus, the peptide will block the channel and thereby activate the serotonergic neurons, resulting in the facilitation of serotonergic transmission, as SSRIs do.”
+[p] Studies suggest that PE-22–28 peptide may act as a blocker of the TREK-1 channel, similar to spadin, and Maati et al. investigated these actions in relation to the connectivity between the medial prefrontal cortex (mPFC) and dorsal raphé serotonergic neurons.[6] The study commented that spadin might increase the firing rate of serotonin neurons and that the action of spadin and 5-HT4 agonists appeared additive and independent of each other. However, adding a mGluR2/3 antagonist reportedly blocked the action of spadin, suggesting that spadin likely depends on mPFC TREK-1 channels coupled to mGluR2/3 receptors. Therefore, the researchers further suggested that PE-22-28 may also interact with the mGluR2/3 receptors, similar to spadin, to fire up the serotonin neurons.
+[p] The mGluR2/3 is a metabotropic glutamate receptor found in the central nervous system. They are G protein-coupled receptors that are considered to be activated by the neurotransmitter glutamate. There are two subtypes of mGluR2/3 receptors: mGluR2 and mGluR3, and they are both involved in regulating neurotransmitter release.[7] Activation of mGluR2/3 receptors appears to inhibit the release of glutamate and other neurotransmitters, such as GABA and dopamine. This mechanism may help to regulate synaptic transmission and maintain the balance of excitatory and inhibitory neurotransmission in the brain. The study also suggested that the combination of 5-HT activators should be cautiously approached.[6]
+[h2] PE-22-28 Peptide and Neuroplasticity
+[p] One in vitro trial suggested that inhibiting TREK-1 may increase neuronal membrane potential and activate both MAPK and PI3K signaling pathways in a time- and concentration-dependent manner.[8] The latter pathway has been linked to the supposed protective action of spadin against apoptosis. Inhibiting TREK-1 also appeared to enhance mRNA expression and protein levels of two markers of synaptogenesis, PSD-95, and synapsin. Inhibiting TREK-1 may increase the proportion of mature spines in cortical neurons, suggesting increased neuroplasticity. Inhibiting TREK-1 appeared in other experimental models to increase mRNA expression and protein levels of brain-derived neurotrophic factor (BDNF) in the hippocampus, suggesting a neuroplasticity potential.[8]
+[p] In one murine model, PE-22-28 was presented for 4 days, and on the 5th day, the brains of the rats were analyzed.[1] The results suggested that PE-22-28 significantly increased the number of bromodeoxyuridine (BrdU) positive cells in the hippocampus compared with saline mice, suggesting that PE-22-28 may induce hippocampal neurogenesis similar to spadin. BrdU is a thymidine analog that incorporates the DNA of dividing cells during the S-phase of the cell cycle.
+[h2] Conclusion
+[p] PE-22-28 is a synthetic peptide analogous to spadin, a protein naturally produced in the central nervous system and considered by researchers to possibly inhibit the action of TREK-1. As a result, the peptide appears to upregulate serotonin production, possibly improving neuroplasticity and reducing depressive behavior in animal models. Nevertheless, more research is needed to evaluate its potential actions.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Djillani, A., Pietri, M., Moreno, S., Heurteaux, C., Mazella, J., & Borsotto, M. (2017). Shortened Spadin Analogs Display Better TREK-1 Inhibition, In Vivo Stability and Antidepressant Activity. Frontiers in pharmacology, 8, 643. https://doi.org/10.3389/fphar.2017.00643
+[a https://doi.org/10.3389/fphar.2017.00643] https://doi.org/10.3389/fphar.2017.00643
+[li] Djillani, A., Pietri, M., Mazella, J., Heurteaux, C., & Borsotto, M. (2019). Fighting against depression with TREK-1 blockers: Past and future. A focus on spadin. Pharmacology & therapeutics, 194, 185–198. https://doi.org/10.1016/j.pharmthera.2018.10.003
+[a https://doi.org/10.1016/j.pharmthera.2018.10.003] https://doi.org/10.1016/j.pharmthera.2018.10.003
+[li] Djillani, A., Mazella, J., Heurteaux, C., & Borsotto, M. (2019). Role of TREK-1 in Health and Disease, Focus on the Central Nervous System. Frontiers in pharmacology, 10, 379. https://doi.org/10.3389/fphar.2019.00379
+[a https://doi.org/10.3389/fphar.2019.00379] https://doi.org/10.3389/fphar.2019.00379
+[li] Fink M, Duprat F, Lesage F, Reyes R, Romey G, Heurteaux C, Lazdunski M. Cloning, functional expression and brain localization of a novel unconventional outward rectifier K+ channel. EMBO J. 1996 Dec 16;15(24):6854-62. PMID: 9003761; PMCID: PMC452511.
+[li] Okada, M., & Ortiz, E. (2022). Viral vector-mediated expressions of venom peptides as novel gene therapy for anxiety and depression. Medical Hypotheses, 166, 110910.
+[li] Moha ou Maati, H., Bourcier-Lucas, C., Veyssiere, J., Kanzari, A., Heurteaux, C., Borsotto, M., Haddjeri, N., & Lucas, G. (2016). The peptidic antidepressant spadin interacts with prefrontal 5-HT(4) and mGluR(2) receptors in the control of serotonergic function. Brain structure & function, 221(1), 21–37. https://doi.org/10.1007/s00429-014-0890-x
+[a https://doi.org/10.1007/s00429-014-0890-x] https://doi.org/10.1007/s00429-014-0890-x
+[li] Jin LE, Wang M, Galvin VC, Lightbourne TC, Conn PJ, Arnsten AFT, Paspalas CD. mGluR2 versus mGluR3 Metabotropic Glutamate Receptors in Primate Dorsolateral Prefrontal Cortex: Postsynaptic mGluR3 Strengthen Working Memory Networks. Cereb Cortex. 2018 Mar 1;28(3):974-987. doi: 10.1093/cercor/bhx005. PMID: 28108498; PMCID: PMC5974790.
+[li] Devader, C., Khayachi, A., Veyssière, J., Moha Ou Maati, H., Roulot, M., Moreno, S., Borsotto, M., Martin, S., Heurteaux, C., & Mazella, J. (2015). In vitro and in vivo regulation of synaptogenesis by the novel antidepressant spadin. British journal of pharmacology, 172(10), 2604–2617. https://doi.org/10.1111/bph.13083
+[a https://doi.org/10.1111/bph.13083] https://doi.org/10.1111/bph.13083
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

@@ -1,0 +1,121 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Adipotide FTPP and Metabolism of Adipocytes
+[p] by Dr. Usman | Dec 30, 2024 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Adipotide FTPP and Metabolism of Adipocytes :: https://biotechpeptides.com/wp-content/uploads/2024/12/Adipotide-FTPP-and-Metabolism-of-Adipocytes.avif
+[p] Scientists believe that these two proteins function primarily as targets that help direct the Adipotide molecule to specific cells. Specifically, each of them appears to be present in different cells. Still, they are posited to form a unique ANXA2-PHB receptor system only found in white fat tissue, thus allowing for precise targeting.[2] The remaining segment (KLAKLAK)₂ is believed to interfere with the function of mitochondria—the energy-producing parts of cells. Adipotide is posited to impede their function, leading to cell death. Early studies suggest that Adipotide FTPP may act mostly on white adipose tissue (WAT) cells, but the broader implications remain areas of ongoing research.
+[a https://biotechpeptides.com/product/adipotide-ftpp-10mg/] Adipotide
+[p] Contents:
+[li] Mechanism of Action
+[a #ma] Mechanism of Action
+[li] Scientific and Research Studies
+[a #research] Scientific and Research Studies
+[li] Adipotide FTPP and Fat Cells Metabolism
+[a #fcm] Adipotide FTPP and Fat Cells Metabolism
+[li] Adipotide FTPP and Energy Intaken
+[a #ei] Adipotide FTPP and Energy Intaken
+[li] Adipotide FTPP and Insulin Resistance Models
+[a #irm] Adipotide FTPP and Insulin Resistance Models
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/adipotide-ftpp-10mg/] 
+[img] Adipotide FTPP (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Adipotide-FTPP.png
+[h2] Mechanism of Action
+[p] ANXA2 and PHB are often found on endothelial cells in blood vessels connected to cells like fat cells (adipocyte-like cells) grown under laboratory conditions. Although the exact mechanisms are not fully understood, one component of Adipotide FTPP, also referred to by researchers as the CKGGRAKDC motif, may bind to these receptor complexes. After the peptide is taken up into the cell, another segment—called the (KLAKLAK)₂ domain—may compromise the integrity of the membranes of the mitochondria of endocrine cells, which may trigger processes leading to cell death (apoptosis). This process is posited to lead to the reduction or destruction of the adipose vasculature, which in turn might influence the local adipose microenvironment.
+[p] Through this process, researchers believe that Adipotide FTPP may contribute to some level of reduction in the vascular network that nourishes white adipose tissue, ultimately resulting in diminished adipose mass.[3] Furthermore, the binding of the peptide to the receptors might influence the positioning and activity of proteins involved in transporting fatty acids, such as CD36, potentially affecting how these cells take in and process fats. Specifically, researchers posit that a “biochemical interaction between ANX2 and PHB regulates CD36-mediated fatty acid transport in WAT, thus revealing a new potential pathway for intervention in metabolic diseases.”[4] Thus, by interfering with the normal partnership between ANXA2 and PHB, Adipotide FTPP might reduce the efficiency with which fatty acids enter adipocyte-like cells.
+[h2] Scientific Research and Studies
+[h3] Adipotide FTPP and Fat Cells Metabolism
+[p] Laboratory investigations in different models indicate that targeting the vascular supply may induce notable reductions in white adipose mass.[5] Over a few weeks of experimentation, the researchers were able to produce imaging-based assessments such as DEXA scanning and MRI and have apparently observed a total adiposity reduction of approximately 38.7%, including localized decreases that may range from around 17.5% to 27.0%. Such changes may be related to a diminished capillary network that potentially limits nutrient and oxygen delivery to adipose compartments. This may hinder the survival and maintenance of cells like these.
+[p] Early evaluations further suggest that shifts in metabolic parameters might accompany these vascular alterations. It remains unclear whether these outcomes arise directly from the reduced vascular supply or from more complex signaling feedback originating within the disrupted adipose milieu, where metabolic intermediaries or hormonal cues might adjust in response to the altered environment. The researchers also commented that the apparent “weight loss is also accompanied by a modest reduction in serum-free fatty acids and an improvement in insulin resistance.”
+[a https://biotechpeptides.com/2022/05/16/adipotide-peptide-ftpp-and-its-metabolic-properties/] Early evaluations
+[h3] Adipotide FTPP and Energy Intake
+[p] In controlled laboratory settings, murine models exposed to Adipotide FTPP apparently displayed considerable fat mass reduction when on high-fat diets. Still, the same was not true for murine research models on low-fat diets.[6] This difference may be related to the expanded adipose compartment in high-fat–fed models, which possibly provides a more substantial vascular target. Moreover, during several days of exposure to Adipotide FTPP directed at white adipose vasculature, observation of these research models indicated a progressive decrease in caloric intake that was not immediately obvious at the initiation of the experimentation but occurred after some delay.
+[p] Such a delay in reduced consumption may indicate that the targeted apoptotic process requires some time to influence downstream metabolic or behavioral signals. Although leptin levels, typically associated with suppression of hunger hormone signals, appeared reduced along with fat mass, the researchers posit that the diminished nutrient supply and possible adipose-derived signals might have overridden the usual compensatory hyperphagic response expected from lower circulating leptin.
+[h3] Adipotide FTPP and Insulin Resistance Models
+[p] Through the destruction of these vascular cells, there is potentially a reduction in nutrient and oxygen delivery to the adipose tissue itself, which may lead to fewer and possibly smaller adipocytes. Researchers suggest that this vascular targeting apparently results in reprogramming of metabolic pathways, as indicated by altered expression profiles of genes involved in mitochondrial processes, oxidative phosphorylation, and branched-chain amino acid degradation.[7] Such transcriptional shifts may potentially restore or at least partly normalize adipose tissue function that had been disrupted in the context of excess adiposity. In controlled laboratory work with murine models, the peptide’s influence on circulating lipids and metabolites suggests that it may decrease reliance on fatty acid oxidation and instead promote glucose utilization.
+[p] Altered levels of various metabolites, including a range of fatty acids and acylcarnitines, might reflect a metabolic state more conducive to better-supported glucose regulation. Although the exact details remain uncertain, the peptide may restore a more favorable metabolic profile within adipose tissue. Something like this may potentially contribute to the reversal of some of the mitochondrial and metabolic impairments that develop during exposure to high-fat conditions. At the same time, the peptide’s potential influence on macrophage-related gene expression hints at subtle immunological shifts in the adipose environment, though the implications for these changes remain unclear.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] Kolonin MG, Saha PK, Chan L, Pasqualini R, Arap W. Reversal of obesity by targeted ablation of adipose tissue. Nat Med. 2004 Jun;10(6):625-32. doi: 10.1038/nm1048. Epub 2004 May 9. PMID: 15133506.
+[a https://doi.org/10.1038/nm1048] doi: 10.1038/nm1048
+[li] Staquicini FI, Cardó-Vila M, Kolonin MG, Trepel M, Edwards JK, Nunes DN, Sergeeva A, Efstathiou E, Sun J, Almeida NF, Tu SM, Botz GH, Wallace MJ, O’Connell DJ, Krajewski S, Gershenwald JE, Molldrem JJ, Flamm AL, Koivunen E, Pentz RD, Dias-Neto E, Setubal JC, Cahill DJ, Troncoso P, Do KA, Logothetis CJ, Sidman RL, Pasqualini R, Arap W. Vascular ligand-receptor mapping by direct combinatorial selection in cancer patients. Proc Natl Acad Sci U S A. 2011 Nov 15;108(46):18637-42. doi: 10.1073/pnas.1114503108. Epub 2011 Nov 2. PMID: 22049339; PMCID: PMC3219136.
+[a https://doi.org/10.1073/pnas.1114503108] doi: 10.1073/pnas.1114503108
+[li] Hossen N, Kajimoto K, Akita H, Hyodo M, Harashima H. A comparative study between nanoparticle-targeted therapeutics and bioconjugates as obesity medication. J Control Release. 2013 Oct 28;171(2):104-12. doi: 10.1016/j.jconrel.2013.07.013. Epub 2013 Jul 18. PMID: 23871959.
+[a https://doi.org/10.1016/j.jconrel.2013.07.013] doi: 10.1016/j.jconrel.2013.07.013
+[li] Salameh A, Daquinag AC, Staquicini DI, An Z, Hajjar KA, Pasqualini R, Arap W, Kolonin MG. Prohibitin/annexin 2 interaction regulates fatty acid transport in adipose tissue. JCI Insight. 2016 Jul 7;1(10):e86351. doi: 10.1172/jci.insight.86351. PMID: 27468426; PMCID: PMC4959783.
+[a https://doi.org/10.1172/jci.insight.86351] doi: 10.1172/jci.insight.86351
+[li] Barnhart KF, Christianson DR, Hanley PW, Driessen WH, Bernacky BJ, Baze WB, Wen S, Tian M, Ma J, Kolonin MG, Saha PK, Do KA, Hulvat JF, Gelovani JG, Chan L, Arap W, Pasqualini R. A peptidomimetic targeting white fat causes weight loss and improved insulin resistance in obese monkeys. Sci Transl Med. 2011 Nov 9;3(108):108ra112. doi: 10.Doi6/scitranslmed.3002621. PMID: 22072637; PMCID: PMC3666164.
+[li] Kim DH, Woods SC, Seeley RJ. Peptide is designed to elicit apoptosis in adipose tissue endothelium and reduce food intake and body weight. Diabetes. 2010 Apr;59(4):907-15. doi: 10.2337/db09-1141. Epub 2010 Jan 26. PMID: 20103704; PMCID: PMC2844838.
+[a https://doi.org/10.2337/db09-1141] doi: 10.2337/db09-1141
+[li] Kim DH, Sartor MA, Bain JR, Sandoval D, Stevens RD, Medvedovic M, Newgard CB, Woods SC, Seeley RJ. Rapid and weight-independent improvement of glucose tolerance induced by a peptide designed to elicit apoptosis in adipose tissue endothelium. Diabetes. 2012 Sep;61(9):2299-310. doi: 10.2337/db11-1579. Epub 2012 Jun 25. PMID: 22733798; PMCID: PMC3425411.
+[a https://doi.org/10.2337/db11-1579] doi: 10.2337/db11-1579
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

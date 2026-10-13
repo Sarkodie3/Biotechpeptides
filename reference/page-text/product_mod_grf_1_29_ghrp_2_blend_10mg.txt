@@ -1,0 +1,144 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/Mod-GRF-GHRP-2-1.webp] 
+[img] Mod GRF 1-29 & GHRP-2 Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Mod-GRF-GHRP-2-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Mod-GRF-1-29-GHRP-2-Blend-10mg-COA-scaled.webp] 
+[img] Mod GRF 1-29 & GHRP-2 Blend (10mg) COA :: https://biotechpeptides.com/wp-content/uploads/2026/04/Mod-GRF-1-29-GHRP-2-Blend-10mg-COA-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Mod-GRF-1-29-GHRP-2-Blend-10mg-LC-scaled.webp] 
+[img] Mod GRF 1-29 & GHRP-2 Blend (10mg) LC :: https://biotechpeptides.com/wp-content/uploads/2026/04/Mod-GRF-1-29-GHRP-2-Blend-10mg-LC-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Mod-GRF-1-29-GHRP-2-Blend-10mg-MS-scaled.webp] 
+[img] Mod GRF 1-29 & GHRP-2 Blend (10mg) MS :: https://biotechpeptides.com/wp-content/uploads/2026/04/Mod-GRF-1-29-GHRP-2-Blend-10mg-MS-scaled.webp
+[h1] Mod GRF 1-29 & GHRP-2 Blend (10mg)
+[p] $84.00
+[p] Mod GRF 1-29 & GHRP-2 blend is Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_742 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $79.80
+[input name=wccs_tier_select_742 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $75.60
+[label] Mod GRF 1-29 & GHRP-2 Blend (10mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2026/06/Mod-GRF-1-29-GHRP-2-Blend-10mg-.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Modified GRF 1-29 & GHRP-2 Peptide Blend
+[p] Modified GRF 1-29 (also abbreviated as Mod GRF 1-29), is a synthetic peptide analog of Growth Hormone Releasing Hormone (GHRH). It is a modified version of the first twenty-nine amino acids of the naturally occurring GHRH. This modification has been suggested to provide better stability and potentially reduce metabolic clearance. More specifically, the modifications may involve the substitution of four specific amino acids within the initial 29 amino acids of Growth Hormone-Releasing Hormone (GHRH). These changes occur at the 2nd, 8th, 15th, and 27th positions and may potentially enhance the peptide's durability against enzymatic degradation, especially by enzymes such as dipeptidyl peptidase-4 (DPP-4). It is hypothesized that replacing L-alanine with D-alanine at the second position may increase resistance to molecular breakdown. Furthermore, replacing asparagine with glutamine at the eighth position might reduce the likelihood of asparagine reconfiguration and amide hydrolysis. Additionally, substituting glycine with alanine at the 15th position may improve bioactivity. Lastly, the switch from methionine to leucine at the 27th position is thought to help prevent methionine oxidation. It may lead to natural growth hormone production and increased levels of IGF-1 (Insulin-Like Growth Factor-1).[1] GHRP-2 (Growth Hormone Releasing Peptide) is a second-generation GHRP, a type of Growth Hormone Secretagogue. Other examples include GHRP-6, Ipamorelin, and Hexarelin, among others. It has been studied for its potential to increase growth hormone production by activating the receptors for the hunger hormone, ghrelin.[2] Various peptides have been studied regarding their potential to increase endogenous GH production. None have been lauded as inducing significant impact, primarily attributed to their apparent short-term activity. However, Modified GRF 1-29, or Mod GRF 1-29, is classified as a growth hormone peptide, which researchers suggest may have the potential to provide a prolonged increase in the peak and basal growth hormone levels. Like the natural Growth Hormone Release Hormone (GHRH), this peptide appears to act by binding to the growth hormone-releasing hormone receptors in the pituitary gland. A negative feedback mechanism by Somatostatin appears to regulate any Modified GRF 1-29 action on growth hormone release. It may potentially prevent excessive hormone secretion and sustain a natural pattern of growth hormone concentration.
+[a https://biotechpeptides.com/product/mod-grf-1-29-5mg-cjc-1295-no-dac/] Modified GRF 1-29
+[a https://biotechpeptides.com/product/ghrp-2-5mg/] GHRP-2
+[h3] Modified GRF 1-29 Specifications
+[p] Molecular Formula: C152H252N44O42
+[p] Molecular Weight: 3367.95 g/mol
+[p] Sequence: H-Tyr-D-Ala-Asp-Ala-Ile-Phe-Thr-Gln-Ser-Tyr-Arg-Lys-Val-Leu-Ala-Gln-Leu-Ser-Ala-Arg-Lys-Leu-Leu-Gln-Asp-Ile-Leu-Ser-Arg-NH2
+[h3] GHRP-2 Specifications
+[p] Molecular Formula: C45H55N9O6
+[p] Molecular Weight: 817.97 g/mol
+[p] Sequence: H-D-Ala-D-2-Nal-Ala-Trp-D-Phe-Lys-NH2
+[h3] Modified GRF 1-29 & GHRP-2 Blend Research
+[p] Mechanisms of Action Researchers suggest that both Modified GRF 1-29 and GHRP-2 appear to act by stimulating the production of GH via the action of somatotroph cells in the pituitary gland. Still, they may activate different receptors to achieve this.[2,3] Modified GRF 1-29 is thought to interact with GHRH receptors on somatotroph cells in the anterior pituitary gland. This interaction is believed to initiate a chain of intracellular events that may lead to growth hormone release. It is suggested that Modified GRF 1-29 may trigger a series of intracellular signaling pathways. One of these pathways may involve adenylyl cyclase, potentially converting ATP (adenosine triphosphate) to cAMP (cyclic adenosine monophosphate). Increased cAMP levels might activate protein kinase A (PKA), which may phosphorylate various proteins, including those forming voltage-dependent calcium channels on the cell membrane. It is theorized that the phosphorylation and opening of these channels may allow calcium ions to enter the somatotropic cells. Such an increase in intracellular calcium levels is considered to potentially play a role in the further steps leading to growth hormone release. Moreover, it is speculated that elevated calcium levels inside the cells might stimulate the release of growth hormone from secretory vesicles into the bloodstream. Further, GHRP-2 is hypothesized by some researchers to interact with and possibly activate the ghrelin receptor, known as GHS-R1a (Growth Hormone Secretagogue Receptor 1a).[4] This interaction may theoretically trigger the release of growth hormone. GHRP-2, a synthetic hexapeptide, is thought to have a strong affinity for the GHS-R1a receptor. It is suggested that GHRP-2 may induce a potential conformational change in the receptor upon binding, possibly leading to its activation. The presumed engagement of GHRP-2 with GHS-R1a is thought to activate multiple intracellular signaling pathways. Among these, the phospholipase C (PLC) pathway appears to be implicated, potentially resulting in the generation of inositol trisphosphate (IP3) and diacylglycerol (DAG). It is speculated that IP3 may then prompt the release of calcium from intracellular stores, possibly elevating intracellular calcium levels. Such an increase in calcium is believed to be instrumental in stimulating the release of growth hormone from the pituitary gland.
+[p] Modified GRF 1-29 & GHRP-2 and Body Mass An increase in muscle cell growth is a widely studied potential association of Growth Hormone peptides.[5] They appear to increase muscle growth by increasing the size of already present muscle cells and the number of muscle fibers. Both classified as growth hormone-stimulating peptides, Modified GRF 1-29 and GHRP-2 may potentially impact growth hormone production and muscle cell activities.
+[p] Modified GRF 1-29 & GHRP-2 and Tissue Repair An increase in growth hormone levels may support cellular repair and reduce cellular damage. It may enhance collagen production and fibroblast proliferation, which in turn may support repair activities in damaged tissues. In addition, studies on these peptides suggest they may help to mitigate oxidative stress.
+[p] Modified GRF 1-29 & GHRP-2 and Blood Sugar Level Regulation GHRH analogs appear to play a role in blood-glucose-level regulation by enhancing cell survival and cellular proliferation of pancreatic islets in diabetes. They appear to up-regulate the release of Insulin-Like Growth Factors.[6] The researchers report “short term [exposure] of GHRH [appeared to reverse] age-related decreases in GH and IGF-I.” Studies have suggested a profound increase in islet size and insulin expression in rats under the influence of GHRH. In addition to the high blood sugar levels that characterize diabetes, dyslipidemias may also significantly increase the morbidity associated with diabetes. Research in GHRH analogs has suggested its potential to reduce triglyceride-rich lipoproteins in the blood.
+[p] Modified GRF 1-29 & GHRP-2 and Bone Mineral Density GHRH analogs, through their Insulin-Like-Growth Factor 1(IGF-1) mediated actions are believed to enhance proliferation, differentiation, and survival of bone-forming cells.[7] Research into the activities of this peptide blend has indicated some potential to increase bone mineral density and mineralization. Studies in the peptide blend also suggest that it may play a protective role against hormone-induced bone loss, such as that seen in osteoporosis.
+[p] Modified GRF 1-29 & GHRP-2 and Cardioprotection Various studies have suggested the role of GHRH analogs in promoting the repair of cardiac tissue, improving heart ejection fraction, and reducing the infarct size following myocardial infarction.[8] The scientists suggest that “GHRH-A [appeared to have] improved cardiac diastolic hemodynamics, including end-diastolic pressure, end-diastolic pressure–volume ratio, and stroke work, compared to placebo.” Some laboratory studies reported a decrease in infarct size and attenuation of cardiac hypertrophy in mice. It also appears to protect the myocardial tissue from oxidative stress induced by reactive oxygen species following ischemia.
+[p] Modified GRF 1-29 & GHRP-2 Synergism Research indicates that the original, unchanged form of Modified GRF 1-29 (full GHRH) appears to induce a 20-fold increase in pulsatile growth hormone release. Concurrently, researchers have suggested that GHRP-2 exposure may have led to a 47-fold increase in these hormone levels, according to studies in cell cultures. Intriguingly, the potential combination of GHRH and GHRP-2 may have resulted in a 54-fold increase in pulsatile growth hormone release compared to the baseline, suggesting a possible synergistic action. Theoretically, this combination may further enhance the stimulation of growth hormone secretion.[9]
+[p] Modified GRF 1-29 & GHRP-2 and Hunger GHRP-2 is thought to potentially interact with ghrelin receptors beyond the pituitary gland, suggesting it may act to increase hunger and appetite. Research has suggested that peptide exposure may have led to increased appetite and apparent consumption of roughtly 35% more calories in experimental research models than in controls, with data observing an increase in appetite relative to weight. Additionally, growth hormone levels appeared to rise notably in peptide-exposed models. These findings suggest the possibility that GHRP-2 may contribute to heightened food intake and appetite in this context.[10]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Valcavi R, Jordan V, Dieguez C, John R, Manicardi E, Portioli I, Rodriguez-Arnao MD, Gomez-Pan A, Hall R, Scanlon MF. Growth hormone responses to GRF 1-29 in patients with primary hypothyroidism before and during replacement therapy with thyroxine. Clin Endocrinol (Oxf). 1986 Jun;24(6):693-8. doi: 10.1111/j.1365-2265.1986.tb01666.x. PMID: 3098458.
+[a https://doi.org/10.1111/j.1365-2265.1986.tb01666.x] doi: 10.1111/j.1365-2265.1986.tb01666.x
+[li] Laferrère, Blandine et al. “Growth hormone releasing peptide-2 (GHRP-2), like ghrelin, increases food intake in healthy men.” The Journal of clinical endocrinology and metabolism vol. 90,2 (2005): 611-4. doi:10.1210/jc.2004-1719
+[li] Waelbroeck M, Robberecht P, Coy DH, Camus JC, De Neef P, Christophe J. Interaction of growth hormone-releasing factor (GRF) and 14 GRF analogs with vasoactive intestinal peptide (VIP) receptors of rat pancreas. Discovery of (N-Ac-Tyr1,D-Phe2)-GRF(1-29)-NH2 as a VIP antagonist. Endocrinology. 1985 Jun;116(6):2643-9. doi: 10.1210/endo-116-6-2643. PMID: 2859987.
+[a https://doi.org/10.1210/endo-116-6-2643] doi: 10.1210/endo-116-6-2643
+[li] Yin, Y., Li, Y., & Zhang, W. (2014). The growth hormone secretagogue receptor: its intracellular signaling and regulation. International journal of molecular sciences, 15(3), 4837–4855. https://doi.org/10.3390/ijms15034837
+[a https://doi.org/10.3390/ijms15034837] https://doi.org/10.3390/ijms15034837
+[li] Sinha DK, Balasubramanian A, Tatem AJ, Rivera-Mirabal J, Yu J, Kovac J, Pastuszak AW, Lipshultz LI. Beyond the androgen receptor: the role of growth hormone secretagogues in the modern management of body composition in hypogonadal males. Transl Androl Urol. 2020 Mar;9(Suppl 2):S149-S159. doi: 10.21037/tau.2019.11.30. PMID: 32257855; PMCID: PMC7108996.
+[a https://doi.org/10.21037/tau.2019.11.30] doi: 10.21037/tau.2019.11.30
+[li] Corpas E, Harman SM, Piñeyro MA, Roberson R, Blackman MR. Growth hormone (GH)-releasing hormone-(1-29) twice daily reverses the decreased GH and insulin-like growth factor-I levels in old men. J Clin Endocrinol Metab. 1992 Aug;75(2):530-5. doi: 10.1210/jcem.75.2.1379256. PMID: 1379256.
+[a https://doi.org/10.1210/jcem.75.2.1379256] doi: 10.1210/jcem.75.2.1379256
+[li] Dubreuil P, Abribat T, Broxup B, Brazeau P. Long-term growth hormone-releasing factor administration on growth hormone, insulin-like growth factor-I concentrations, and bone healing in the Beagle. Can J Vet Res. 1996 Jan;60(1):7-13. PMID: 8825987; PMCID: PMC1263793.
+[li] Rieger AC, Bagno LL, Salerno A, Florea V, Rodriguez J, Rosado M, Turner D, Dulce RA, Takeuchi LM, Kanashiro-Takeuchi RM, Buchwald P, Wanschel ACBA, Balkan W, Schulman IH, Schally AV, Hare JM. Growth hormone-releasing hormone agonists ameliorate chronic kidney disease-induced heart failure with preserved ejection fraction. Proc Natl Acad Sci U S A. 2021 Jan 26;118(4):e2019835118. doi: 10.1073/pnas.2019835118. PMID: 33468654; PMCID: PMC7848727.
+[a https://doi.org/10.1073/pnas.2019835118] doi: 10.1073/pnas.2019835118
+[li] Veldhuis, J. D., & Keenan, D. M. (2008). Secretagogues govern GH secretory-burst waveform and mass in healthy eugonadal and short-term hypogonadal men. European journal of endocrinology, 159(5), 547–554. https://doi.org/10.1530/EJE-08-0414
+[a https://doi.org/10.1530/EJE-08-0414] https://doi.org/10.1530/EJE-08-0414
+[li] Laferrère, Blandine et al. “Growth hormone releasing peptide-2 (GHRP-2), like ghrelin, increases food intake in healthy men.” The Journal of clinical endocrinology and metabolism vol. 90,2 (2005): 611-4. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2824650/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2824650/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2824650/
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] CJC-1295 & GHRP-2 Blend (10mg) $84.00
+[a https://biotechpeptides.com/product/cjc-1295-ghrp-2-blend-10mg/] CJC-1295 & GHRP-2 Blend (10mg) $84.00
+[img] CJC-1295 & GHRP-2 Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2023/06/CJC-1295-GHRP-2-1-238x317.webp
+[h2] CJC-1295 & GHRP-2 Blend (10mg)
+[li] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) $46.00
+[a https://biotechpeptides.com/product/mod-grf-1-29-5mg-cjc-1295-no-dac/] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) $46.00
+[img] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Mod-GRF-1-29-238x317.webp
+[h2] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg)
+[li] GHRP-2 (10mg) $39.00
+[a https://biotechpeptides.com/product/ghrp-2-10mg/] GHRP-2 (10mg) $39.00
+[img] GHRP-2 :: https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-2-238x317.webp
+[h2] GHRP-2 (10mg)
+[li] GHRP-2 (5mg) $20.00
+[a https://biotechpeptides.com/product/ghrp-2-5mg/] GHRP-2 (5mg) $20.00
+[img] GHRP-2 :: https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-2-238x317.webp
+[h2] GHRP-2 (5mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

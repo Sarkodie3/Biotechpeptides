@@ -1,0 +1,134 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/Pinealon-1.webp] 
+[img] Pinealon (20mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Pinealon-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Pinealon-20mg-COA-scaled.webp] 
+[img] Pinealon (20mg) COA :: https://biotechpeptides.com/wp-content/uploads/2026/04/Pinealon-20mg-COA-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Pinealon-20mg-LC-scaled.webp] 
+[img] Pinealon (20mg) LC :: https://biotechpeptides.com/wp-content/uploads/2026/04/Pinealon-20mg-LC-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Pinealon-20mg-MS-scaled.webp] 
+[img] Pinealon (20mg) MS :: https://biotechpeptides.com/wp-content/uploads/2026/04/Pinealon-20mg-MS-scaled.webp
+[h1] Pinealon (20mg)
+[p] $68.00
+[p] Pinealon peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_3422 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $64.60
+[input name=wccs_tier_select_3422 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $61.20
+[label] Pinealon (20mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2026/06/Pinealon-20mg-.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Pinealon Peptide
+[p] Pinealon (also referred to as EDR) is a short peptide comprising only three amino acids (Glu-Asp-Arg). Additionally, it is classified as one of Khavinson’s peptides. EDR is generally extracted from a crude polypeptide extract called Cortexin. Pinealon is considered to be a peptide bioregulator, and it appears to interact directly with DNA. It may contribute to the alteration of gene expression levels. It may potentially exhibit behavior modification and may protect various cell types, including neurons, against hypoxia. Pinealon has been studied for its potential to impact the pineal gland to address issues with metabolism, circadian rhythm disorders, and certain cognitive functions. Pinealon, unlike most other peptides, does not appear to bind to the cell surface or cytoplasmic receptors. Research studies exploring cell cultures (HeLa cells) have suggested that the peptide penetrates the cell membrane and the nuclear membrane to interact with DNA directly.[1] The researchers conclude that “The site-specific interactions of peptides with DNA [may] control epigenetically the cell genetic functions, and they seem to play an important role in regulation of gene activity even at the earliest stages of… origin and in evolution.” Thus, it is believed that the peptide may function in some ways as a potential regulator of gene expression and mediate myriad cellular actions. In experiments where the peptide is exposed to research models at high concentrations, it has been observed that Pinealon appears to contribute to modulation of the cell cycle. Researchers have posited that the peptide might interact directly with the cell genome. Pinealon may also have specific actions toward nerve cells, specifically related to protecting them against oxidative stress. Some studies suggest that the peptide may exert its anti-cellular aging and nerve cell protective actions at low concentrations based on its anti-oxidative actions in laboratory settings.[6]
+[h3] Specifications
+[p] Molecular Weight: 418.407 g/mol
+[p] Molecular Formula: C15H26N6O8
+[p] Sequence: Glu-Asp-Arg
+[p] Other Known Titles: Glutamylaspartylarginine, T-33 peptide
+[h3] Pinealon Research
+[p] Pinealon and Cellular Aging Pinealon may have anti-aging impacts on cells, particularly noted within the central nervous system. It appears to be anabolic in the brain and may reduce the rate of cellular aging when examined via certain bioindicators.[2] It is hypothesized that these neuroprotective and anti-apoptotic properties may be mediated by influencing the mitogen-activated protein kinase (MAPK) and extracellular signal-regulated kinase (ERK) signaling pathways. The MAPK pathway is believed to be a critical signaling mechanism that transmits signals from the cell surface to the DNA in the nucleus. This may impact gene expression and may have supportive implications for cell functions such as growth, division, and death. ERK is considered a specific component of the MAPK pathway that may regulate various cellular activities, including proliferation and survival. Researchers propose that by influencing MAPK/ERK, Pinealon might reduce the intracellular production of reactive oxygen species (ROS). While ROS are endogenous byproducts of cellular metabolism and may play roles in cell signaling, excessive levels are thought to cause oxidative stress and potentially damage cellular components. ROS are suggested to act as secondary messengers in the MAPK and ERK signaling pathways, meaning they might activate these pathways and influence cellular responses. Pinealon might attenuate the activation of MAPK and ERK pathways by potentially contributing to a decrease in ROS levels. This attenuation may lead to reduced cellular stress and may inhibit apoptosis, the programmed cell death mechanism.[3] Pinealon appears to influence other cells as well, such as muscle cells, by seemingly altering Irisin expression. Researchers believe that Irisin plays a role in protecting muscle cells during physical exertion, influencing metabolic rate, and potentially triggering telomere elongation.[4] Thus, the peptide may exhibit the potential to protect the muscle cell telomeres and help these cells overcome the negative impacts of cellular aging and oxidative stress.
+[p] Pinealon and Neuron Protection Research studies observe that Pinealon may protect neurons against oxidative stress in rats, supporting cognitive function and motor coordination.[5] According to the researchers, these “experiments allowed confirming the neuroprotective properties of pinealon, which is in agreement with the previous data obtained by us in vitro.” This particular study noted a significant reduction in both reactive oxygen species accumulation and necrotic cells in experimental brain models. The peptide may have the potential to protect proliferation pathways and modify the cell cycle as part of its protection against cell death.[6] Under oxidative stress, this action is considered to control the damaging potential of reactive oxygen species. This oxidative stress may be induced by receptor-dependent processes, such as exposure to homocysteine, which may activate NMDA receptors and lead to excitotoxicity. In this phenomenon, excessive stimulation of NMDA receptors results in neuronal cell damage due to increased calcium influx and subsequent ROS production. Pinealon also appears to increase neurons' resistance to hypoxic stress through the activation of innate anti-oxidative enzyme systems and reduce the excitotoxic potential of N-methyl-D-aspartate (NMDA). Indeed, the laboratory experiment suggested that the peptide possibly decreases necrotic cell death, as indicated by propidium iodide staining. This protective action is accompanied by a delayed activation of ERK 1/2 kinases, which are part of the MAPK signaling pathway involved in cell survival and proliferation.
+[p] Pinealon and Serotonin Signaling Pinealon may host potential for neuroprotective and geroprotective characteristics, and research has begun to examine its possible impact within the context of depression research. For example, the peptide may promote the expression of 5-tryptophan hydroxylase via epigenetic changes in brain cortex cells. 5-tryptophan hydroxylase (TPH) is considered crucial for the production and secretion of serotonin.[7] Pinealon’s underlying mechanisms are thought to involve Pinealon's interaction with DNA within the cell nucleus. It is hypothesized that Pinealon might bind specifically to certain nucleotide sequences in the promoter region of the TPH gene. The promoter region is a segment of DNA that controls the initiation of gene transcription—the process by which a gene's DNA sequence is copied into messenger RNA. By potentially binding to this region, Pinealon might better support the transcriptional activity of the TPH gene, which may lead to increased production of the TPH enzyme and subsequently elevate serotonin synthesis. To explore this possibility, researchers employed molecular docking simulations, which suggested that Pinealon may have a lower (more negative) binding energy when interacting with DNA compared to other bioregulatory peptides. A lower binding energy might indicate a more stable interaction between Pinealon and DNA. This potentially more stable binding may lead to increased synthesis of the TPH enzyme, possibly resulting in higher levels of serotonin production. Preliminary research also suggests that Pinealon may increase serotonin synthesis by approximately 1.9 times in younger cell cultures compared to control groups.
+[p] Pinealon and Cell Death Researchers suggest that the peptide may alter cytokine signaling, which may induce an increase in the levels of the caspase-3 enzyme. Caspase-3 is considered to initiate apoptosis directly through genetic instruction.[8] By potentially contributing to the regulation of caspase-3, Pinealon may block at least one pathway to cell death and thereby control the impact of oxygen deprivation, as suggested by experiments on research models of stroke. In addition to its potential role in caspase-3 modulation, Pinealon has been suggested to affect levels of interleukin-6 (IL-6) and tumor necrosis factor-alpha (TNF-α). IL-6 and TNF-α are cytokines commonly associated with inflammation and cellular stress responses. The implication is that Pinealon might help restore these inflammatory markers to their normal levels, potentially reducing the inflammatory response and apoptosis induced by hypoxic conditions. By possibly fostering an environment conducive to the survival and functioning of nerve cells during hypoxic stress, some researchers posit that Pinealon may contribute to the resilience of nerve cells against oxygen deprivation. Pinealon may also reduce caspase-3 levels in myocardial infarction models. The short peptide may have plausible outcomes within the context of research on heart attacks and controlling the long-term remodeling that causes dysfunction following myocardial infarction. Pinealon also appears to promote cell proliferation in young and old animals by blocking apoptosis in dermal and epidermal cells. This appears to increase the regenerative process and may offset age-related pathology in dermal and epidermal cells.[9]
+[p] Pinealon and Sleep Regulation Research indicates that Pinealon may help mitigate negative impacts of certain sleep cycle dysfunctions. The peptide has been observed by researchers to apparently contribute to resetting the pineal gland to baseline in event of circadian rhythm disruption. It is thought that this type of influence over circadian rhythm function may potentially contribute to multifaceted downstream impacts.[10] Disturbed sleep is considered extremely hazardous to biological function over time. Pinealon may help reduce the impact of sleep disturbance and thereby offset its impact. Research in this area is ongoing.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Fedoreyeva LI, Kireev II, Khavinson VKh, Vanyushin BF. Penetration of short fluorescence-labeled peptides into the nucleus in HeLa cells and in vitro specific interaction of the peptides with deoxyribooligonucleotides and DNA. Biochemistry (Mosc). 2011 Nov;76(11):1210-9. doi: 10.1134/S0006297911110022. PMID: 22117547.
+[a https://doi.org/10.1134/S0006297911110022] doi: 10.1134/S0006297911110022
+[li] Meshchaninov VN, Tkachenko EL, Zharkov SV, Gavrilov IV, Katyreva IuE. [EFFECT OF SYNTHETIC PEPTIDES ON AGING OF PATIENTS WITH CHRONIC POLYMORBIDITY AND ORGANIC BRAIN SYNDROME OF THE CENTRAL NERVOUS SYSTEM IN REMISSION]. Adv Gerontol. 2015;28(1):62-7. Russian. PMID: 26390612.
+[li] Khavinson, V., Linkova, N., Kozhevnikova, E., & Trofimova, S. (2020). EDR Peptide: Possible Mechanism of Gene Expression and Protein Synthesis Regulation Involved in the Pathogenesis of Alzheimer's Disease. Molecules (Basel, Switzerland), 26(1), 159. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7795577/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7795577/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7795577/
+[li] Khavinson VKh, Kuznik BI, Tarnovskaya SI, Lin’kova NS. Short Peptides and Telomere Length Regulator Hormone Irisin. Bull Exp Biol Med. 2016 Jan;160(3):347-9. doi: 10.1007/s10517-016-3167-y. Epub 2016 Jan 8. PMID: 26742748.
+[a https://doi.org/10.1007/s10517-016-3167-y] doi: 10.1007/s10517-016-3167-y
+[li] Arutjunyan A, Kozina L, Stvolinskiy S, Bulygina Y, Mashkina A, Khavinson V. Pinealon protects the rat offspring from prenatal hyperhomocysteinemia. Int J Clin Exp Med. 2012;5(2):179-85. Epub 2012 Apr 6. PMID: 22567179; PMCID: PMC3342713.
+[li] Khavinson V, Ribakova Y, Kulebiakin K, Vladychenskaya E, Kozina L, Arutjunyan A, Boldyrev A. Pinealon increases cell viability by suppression of free radical levels and activating proliferative processes. Rejuvenation Res. 2011 Oct;14(5):535-41. doi: 10.1089/rej.2011.1172. Epub 2011 Oct 6. PMID: 21978084.
+[a https://doi.org/10.1089/rej.2011.1172] doi: 10.1089/rej.2011.1172
+[li] Khavinson VKh, Lin’kova NS, Tarnovskaya SI, Umnov RS, Elashkina EV, Durnova AO. Short peptides stimulate serotonin expression in cells of the brain cortex. Bull Exp Biol Med. 2014 May;157(1):77-80. doi: 10.1007/s10517-014-2496-y. Epub 2014 Jun 10. PMID: 24909721.
+[a https://doi.org/10.1007/s10517-014-2496-y] doi: 10.1007/s10517-014-2496-y
+[li] Mendzheritskiĭ AM, Karantysh GV, Ryzhak GA, Dem’ianenko SV. [Regulation of content of cytokines in blood serum and of caspase-3 activity in brains of old rats in a model of sharp hypoxic hypoxia with Cortexin and Pinealon]. Adv Gerontol. 2014;27(1):94-7. Russian. PMID: 25051764.
+[li] Voicekhovskaya MA, Chalisova NI, Kontsevaya EA, Ryzhak GA. Effect of bioregulatory tripeptides on the culture of skin cells from young and old rats. Bull Exp Biol Med. 2012 Jan;152(3):357-9. doi: 10.1007/s10517-012-1527-9. PMID: 22803085. https://pubmed.ncbi.nlm.nih.gov/22803085/
+[a https://pubmed.ncbi.nlm.nih.gov/22803085/] https://pubmed.ncbi.nlm.nih.gov/22803085/
+[li] Bashkireva AS, Artamonova VG. [The peptide correction of neurotic disorders among professional truck drivers]. Adv Gerontol. 2012;25(4):718-28. Russian. PMID: 23734521.
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Sale! Vilon (20mg) $65.00 Original price was: $65.00.$61.00Current price is: $61.00.
+[a https://biotechpeptides.com/product/vilon-20mg/] Sale! Vilon (20mg) $65.00 Original price was: $65.00.$61.00Current price is: $61.00.
+[img] Vilon (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Vilon-1-238x317.webp
+[h2] Vilon (20mg)
+[li] Chonluten (T-34) (20mg) $62.00
+[a https://biotechpeptides.com/product/chonluten-t-34-20mg/] Chonluten (T-34) (20mg) $62.00
+[img] Chonluten (T-34) (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Chonluten-1-238x317.webp
+[h2] Chonluten (T-34) (20mg)
+[li] Livagen (20mg) $62.00
+[a https://biotechpeptides.com/product/livagen-20mg/] Livagen (20mg) $62.00
+[img] Livagen (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Livagen-1-238x317.webp
+[h2] Livagen (20mg)
+[li] Cardiogen (20mg) $62.00
+[a https://biotechpeptides.com/product/cardiogen-20mg/] Cardiogen (20mg) $62.00
+[img] Cardiogen (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Cardiogen-1-238x317.webp
+[h2] Cardiogen (20mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

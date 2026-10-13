@@ -1,0 +1,137 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/04/AICAR-1.webp] 
+[img] AICAR (50mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/AICAR-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/04/COA_AICAR_3140005_20260721_BP_page-0001.webp] 
+[img] AICAR (50mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2022/04/COA_AICAR_3140005_20260721_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/04/COA_AICAR_3140005_20260721_BP_page-0002.webp] 
+[img] AICAR (50mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2022/04/COA_AICAR_3140005_20260721_BP_page-0002.webp
+[h1] AICAR (50mg)
+[p] $56.00
+[p] AICAR peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_4569 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $53.20
+[input name=wccs_tier_select_4569 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $50.40
+[p] Out of stock
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/04/COA_AICAR_3140005_20260721_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] AICAR Peptide
+[p] AICAR or 5-Aminoimidazole-4-carboxamide ribonucleotide, is a synthetic adenosine monophosphate analog. It was developed to stimulate the AMP-dependent protein kinase (AMPK) activity.[1][2] It is currently being investigated as a protective agent against ischemic damage in the cardiac myocytes during cardiac injury. The AMP-activated protein kinase is an enzyme and a protein that may play a regulatory role in several metabolic pathways. Its expression has been observed in several tissues, including the skeletal muscles, liver, and brain. In all these tissues, it is considered to exert a potential net effect on lipogenesis and may inhibit cholesterol synthesis and ketogenesis. It may also modulate insulin secretion and skeletal muscle fatty acid oxidation with glucose uptake. Several energy deficit states may trigger the release of AMPK, like hypoxia or hypoglycemia.
+[h3] Specifications
+[p] SYNONYMS: Z-nucleotide, 5-amino-4-imidazolecarboxamide ribotide, 5'-Phosphoribosyl-5-amino-4-imidazolecarboxamide
+[p] MOLECULAR WEIGHT: 338.213 g/mol
+[p] MOLECULAR FORMULA: C9H15N4O8P
+[h3] AICAR Research
+[p] AICAR and the Heart AICAR has been researched for its potential two-way protective role in protecting the heart from the ischemia associated with CVD. Inflammation is considered to be a significant contributor to the disease pathology in atherosclerosis and other heart diseases. Research on rabbits posited that AICAR may suppress vascular smooth muscle proliferation.[3] The control of vascular inflammation may reduce the risk of short-term and long-term complications of stent placement and may also contribute to the heart's overall function. One of the immune responses that may trigger a heart attack is macrophage proliferation in response to high LDL levels. AICAR may play a role in suppressing this immune response.[4] AICAR has been studied for its potentially protective characteristics post-heart attack, with researchers suggesting that the peptide may act by delaying the process of cell death through preconditioning. By the same coin, AICAR, in an ischemic heart, has been suggested to possibly reduce the frequency and size of the infarct by up to 25%. It may also improve the overall blood flow to the heart. One study aimed to investigate the mechanisms potentially involved in promoting myocardial glycogenolysis through the activation of AMPK.[5] The experiments were conducted using isolated working hearts from halothane-anesthetized murine models. The hearts were perfused in the absence or presence of AICAR, an adenosine analog suggested to activate AMPK and potentially penetrate cells. The researchers observed that AICAR appeared to have increased glycogen degradation (glycogenolysis) in the myocardium, while glycogen synthesis apparently remained unaffected. This finding suggests that AMPK activation may potentially play a specific role in glycogenolysis. Additionally, AICAR appeared to have increased the levels of myocardial 5-aminoimidazole-4-carboxamide 1-beta-d-ribofuranotide (ZMP), which is the active intracellular form of AICAR. However, AICAR did not appear to alter the activity of glycogen synthase (GS) and glycogen phosphorylase (GP) when measured in tissue homogenates, nor did it apparently affect the levels of glucose-6-phosphate and adenine nucleotides in freeze-clamped tissue. This finding potentially suggests that ZMP may hypothetically allosterically activate GP, potentially leading to glycogenolysis in the intact murine model heart.[5]
+[p] AICAR and Insulin Resistance Insulin resistance is considered to result from reduced sensitivity of muscles to insulin and increased uptake in the fatty tissues, which may also lead to increased levels of inflammation. This process results in raised insulin and blood glucose levels. The suppression of inflammation results in increased insulin sensitivity with improved glucose homeostasis. AICAR may improve insulin sensitivity and lipid metabolism via its possible anti-inflammatory role in different metabolic pathways. In diabetic murine models, AICAR was observed to reduce blood glucose levels without registering weight changes[6]. AICAR appears to mimic the action that physical activity may induce in glucose uptake by muscles. Researchers suggest that it has the potential to upregulate the GLUT-4 receptors on muscles that are prime transporters involved in glucose uptake. There was another study that investigated the potential mechanisms underlying the effects AMPK activation on the prevention of obesity-related diabetes using murine models.[7] It has been hypothesized that AMPK, a key regulator of glucose and lipid metabolism, may mediate many of the beneficial effects of physical activity on these processes. To examine the potential impact of long-term physical exertion and AMPK activation, male Zucker diabetic fatty (ZDF) murine models, known as a genetic model of type 2 diabetes, were utilized. These murine models were either subjected to daily treadmill running or AICAR, a considered activator of AMPK, over 8 weeks. They were then compared to a control group. The study's outcome suggested that both the exercised murine models and the AICAR murine models did not develop hyperglycemia (high blood sugar levels) during the intervention period, unlike the control group. Furthermore, it appears that whole-body insulin sensitivity, which refers to the murine model ability to respond to and utilize insulin effectively, may have been improved in the exercised and AICAR murine models compared to the control ZDF murine models. This improvement in insulin sensitivity may indicate enhanced glucose metabolism and reduced insulin resistance, potentially important factors in developing type 2 diabetes. Additionally, the morphology of pancreatic beta cells, responsible for producing insulin, appeared to be nearly normal in the exercised and AICAR murine models. This observation suggests that chronic activation of AMPK may potentially help preserve beta-cell function, which is typically impaired in type 2 diabetes. Considering all these factors, it may be posited that “activation of AMPK may represent a therapeutic approach to improve insulin action and prevent a decrease in beta-cell function associated with type 2 diabetes.”
+[p] AICAR and Cancer AICAR, via its AMPK activation, may play a role in cancer cell metabolism. In research conducted on cell cultures and rats, prolonged AICAR influence appeared to slow down the metabolism of cancer cells and hence their proliferation.[8] It also may make the cancerous cells more vulnerable to harsh environmental factors. This vulnerability in cancer cells may support future AICAR studies. Thyroid cancer cell research has also suggested that AICAR may induce apoptosis in cancer cells by p21 induction and caspase-3 activations, potentially causing inhibition of cancer cell proliferation. Further, one study suggested that AICAR may induce apoptosis in all tested samples of B-CLL (B-cell chronic lymphocytic leukemia) cells.[9] The study suggests that the activation of caspase-3, -8, and -9, as well as the release of cytochrome c, may be involved in AICAR-induced apoptosis. Furthermore, it appears that incubating B-CLL cells with AICAR may potentially lead to the phosphorylation of AMPK, indicating a likely activation of this protein by AICAR. To investigate the necessity of AICAR incorporation into the cell and its subsequent phosphorylation to AICA ribotide (ZMP) for inducing apoptosis, the study used various inhibitors. Nitrobenzylthioinosine (NBTI), a nucleoside transport inhibitor, 5-iodotubercidin, an inhibitor of adenosine kinase, and adenosine were suggested to potentially inhibit AICAR-induced apoptosis and AMPK phosphorylation. In contrast, inhibitors of protein kinase A and mitogen-activated protein kinases apparently did not protect B-CLL cells from AICAR-induced apoptosis. Additionally, AICAR was not observed to have impacted the levels or phosphorylation of p53, suggesting that the mechanism of apoptosis triggered by AICAR in B-CLL cells may be p53-independent. The study also compared the sensitivity of normal B lymphocytes and T cells to AICAR-induced apoptosis. Both normal B lymphocytes and B-CLL cells were suggested to be equally sensitive to AICAR-induced apoptosis. However, T cells from B-CLL cells suggested only slight sensitivity to AICAR. Interestingly, AMPK phosphorylation potentially did not occur in T cells exposed to AICAR. Moreover, when both B-CLL cells and T cells were exposed to AICAR, intracellular levels of ZMP were apparently higher in B-CLL cells compared to T cells. This suggests that the accumulation of ZMP potentially plays a role in activating AMPK and inducing apoptosis. Overall, the scientists commented that AICAR may present a promising “new pathway involving AMPK in the control of apoptosis in B-CLL cells”[9]
+[p] AICAR and Fertility A large amount of AICAR research has been directed toward its proposed action in possibly improving fertility in male specimens. Various studies on murine models have observed that AMPK activation appears to have potentially improved the models' fertility.[10] Since AICAR is proposed to act as an AMPK activator, its long-term influence may improve sperm motility. Should AICAR regulate the activity of all the active enzymes involved in sperm motility, its presentation may have the potential to provide a profound positive effect on fertilization.
+[p] AICAR and Inflammation AMPK activation appears to have an overall anti-inflammatory effect at a cellular level. Inflammation forms a part of the pathogenesis of several diseases. The same is valid for diabetes, making AICAR a potential subject for diabetic research. Animal research has suggested its potential positive impact on various inflammatory disorders like hepatitis, acute lung injury, asthma, colitis, and atherosclerosis.[11] AICAR may have significant cardioprotective characteristics and has also been studied for its possible ability to improve metabolic health and associated complications. One study focused on the mechanisms that potentially underlie the activation of AMPK and its apparent effects on glucose transport in muscle cells.[12] The researchers hypothesized the role of AMPK activators, specifically AICAR, and physical activity in potentially interacting with atypical protein kinase C (aPKC) and extracellular signal-regulated kinase (ERK) in muscle cells. In cultured L6 myotubes, the activation of AMPK by AICAR may be necessary to activate aPKC and ERK. The activation of aPKC seemingly involves the phosphorylation of Thr410-PKC-ζ potentially by phosphoinositide-dependent kinase 1 (PDK1). Furthermore, the phosphorylation and activation of aPKC at Thr410 may require the involvement of MEK1-dependent ERK. The researchers suggested that the impact of AICAR on glucose transport were potentially inhibited when dominant-negative AMPK, kinase-inactive PDK1, MEK1 inhibitors, kinase-inactive PKC-ζ, or RNA interference (RNAi)-mediated knockdown of PKC-ζ were introduced. To further investigate the role of aPKC, murine models were studied. Muscle-specific depletion of aPKC (PKC-λ) appeared to impair AICAR-induced glucose disposal, as well as the potentially stimulatory effects of AICAR on glucose uptake in muscle. Interestingly, the activation of AMPK appeared to remain unaffected in these conditions. In contrast, treadmill exercise-induced stimulation of glucose uptake was not apparently inhibited in aPKC-knockout murine models, suggesting that aPKC activation may potentially not be necessary for exercise-induced increases in glucose transport. Finally, the study examined the potential activation of aPKC in muscle and liver tissues of intact rodents. They suggested that aPKC was potentially activated by AICAR in muscle but not in the liver, despite the apparent activation of AMPK in both tissues.[12]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Corton, J. M., Gillespie, J. G., Hawley, S. A., & Hardie, D. G. (1995). 5-aminoimidazole-4-carboxamide ribonucleoside. A specific method for activating AMP-activated protein kinase in intact cells?. European journal of biochemistry, 229(2), 558–565. https://doi.org/10.1111/j.1432-1033.1995.tb20498.x
+[a https://doi.org/10.1111/j.1432-1033.1995.tb20498.x] https://doi.org/10.1111/j.1432-1033.1995.tb20498.x
+[li] Sun, N., Youle, R. J., & Finkel, T. (2016). The Mitochondrial Basis of Aging. Molecular cell, 61(5), 654–666. https://doi.org/10.1016/j.molcel.2016.01.028
+[a https://doi.org/10.1016/j.molcel.2016.01.028] https://doi.org/10.1016/j.molcel.2016.01.028
+[li] Stone, J. D., Narine, A., & Tulis, D. A. (2012). Inhibition of vascular smooth muscle growth via signaling crosstalk between AMP-activated protein kinase and cAMP-dependent protein kinase. Frontiers in physiology, 3, 409. https://doi.org/10.3389/fphys.2012.00409
+[a https://doi.org/10.3389/fphys.2012.00409] https://doi.org/10.3389/fphys.2012.00409
+[li] Ishii, N., Matsumura, T., Kinoshita, H., Motoshima, H., Kojima, K., Tsutsumi, A., Kawasaki, S., Yano, M., Senokuchi, T., Asano, T., Nishikawa, T., & Araki, E. (2009). Activation of AMP-activated protein kinase suppresses oxidized low-density lipoprotein-induced macrophage proliferation. The Journal of biological chemistry, 284(50), 34561–34569. https://doi.org/10.1074/jbc.M109.028043
+[a https://doi.org/10.1074/jbc.M109.028043] https://doi.org/10.1074/jbc.M109.028043
+[li] Longnus, S. L., Wambolt, R. B., Parsons, H. L., Brownsey, R. W., & Allard, M. F. (2003). 5-Aminoimidazole-4-carboxamide 1-beta -D-ribofuranoside (AICAR) stimulates myocardial glycogenolysis by allosteric mechanisms. American journal of physiology. Regulatory, integrative and comparative physiology, 284(4), R936–R944. https://doi.org/10.1152/ajpregu.00319.2002
+[a https://doi.org/10.1152/ajpregu.00319.2002] https://doi.org/10.1152/ajpregu.00319.2002
+[li] Buhl, E. S., Jessen, N., Pold, R., Ledet, T., Flyvbjerg, A., Pedersen, S. B., Pedersen, O., Schmitz, O., & Lund, S. (2002). Long-term AICAR administration reduces metabolic disturbances and lowers blood pressure in rats displaying features of the insulin resistance syndrome. Diabetes, 51(7), 2199–2206. https://doi.org/10.2337/diabetes.51.7.2199
+[a https://doi.org/10.2337/diabetes.51.7.2199] https://doi.org/10.2337/diabetes.51.7.2199
+[li] Pold, R., Jensen, L. S., Jessen, N., Buhl, E. S., Schmitz, O., Flyvbjerg, A., Fujii, N., Goodyear, L. J., Gotfredsen, C. F., Brand, C. L., & Lund, S. (2005). Long-term AICAR administration and exercise prevents diabetes in ZDF rats. Diabetes, 54(4), 928–934. https://doi.org/10.2337/diabetes.54.4.928
+[a https://doi.org/10.2337/diabetes.54.4.928] https://doi.org/10.2337/diabetes.54.4.928
+[li] Su, C. C., Hsieh, K. L., Liu, P. L., Yeh, H. C., Huang, S. P., Fang, S. H., Cheng, W. C., Huang, K. H., Chiu, F. Y., Lin, I. L., Huang, M. Y., & Li, C. Y. (2019). AICAR Induces Apoptosis and Inhibits Migration and Invasion in Prostate Cancer Cells Through an AMPK/mTOR-Dependent Pathway. International journal of molecular sciences, 20(7), 1647. https://doi.org/10.3390/ijms20071647
+[a https://doi.org/10.3390/ijms20071647] https://doi.org/10.3390/ijms20071647
+[li] Campàs, C., Lopez, J. M., Santidrián, A. F., Barragán, M., Bellosillo, B., Colomer, D., & Gil, J. (2003). Acadesine activates AMPK and induces apoptosis in B-cell chronic lymphocytic leukemia cells but not in T lymphocytes. Blood, 101(9), 3674–3680. https://doi.org/10.1182/blood-2002-07-2339
+[a https://doi.org/10.1182/blood-2002-07-2339] https://doi.org/10.1182/blood-2002-07-2339
+[li] Martin-Hidalgo, D., Hurtado de Llera, A., Calle-Guisado, V., Gonzalez-Fernandez, L., Garcia-Marin, L., & Bragado, M. J. (2018). AMPK Function in Mammalian Spermatozoa. International journal of molecular sciences, 19(11), 3293. https://doi.org/10.3390/ijms19113293
+[a https://doi.org/10.3390/ijms19113293] https://doi.org/10.3390/ijms19113293
+[li] Idrovo, J. P., Yang, W. L., Jacob, A., Aziz, M., Nicastro, J., Coppa, G. F., & Wang, P. (2015). AICAR attenuates organ injury and inflammatory response after intestinal ischemia and reperfusion. Molecular medicine (Cambridge, Mass.), 20(1), 676–683. https://doi.org/10.2119/molmed.2014.00134
+[a https://doi.org/10.2119/molmed.2014.00134] https://doi.org/10.2119/molmed.2014.00134
+[li] Sajan, M. P., Bandyopadhyay, G., Miura, A., Standaert, M. L., Nimal, S., Longnus, S. L., Van Obberghen, E., Hainault, I., Foufelle, F., Kahn, R., Braun, U., Leitges, M., & Farese, R. V. (2010). AICAR and metformin, but not exercise, increase muscle glucose transport through AMPK-, ERK-, and PDK1-dependent activation of atypical PKC. American journal of physiology. Endocrinology and metabolism, 298(2), E179–E192. https://doi.org/10.1152/ajpendo.00392.2009
+[a https://doi.org/10.1152/ajpendo.00392.2009] https://doi.org/10.1152/ajpendo.00392.2009
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Receptor Grade IGF-1 LR3 (1mg) $145.00
+[a https://biotechpeptides.com/product/receptor-grade-igf-1-lr3-1mg/] Receptor Grade IGF-1 LR3 (1mg) $145.00
+[img] Receptor Grade IGF-1 LR3 :: https://biotechpeptides.com/wp-content/uploads/2020/03/IGF-1-LR3-Receptor-Grade-1-238x317.webp
+[h2] Receptor Grade IGF-1 LR3 (1mg)
+[li] Humanin (10mg) $140.00
+[a https://biotechpeptides.com/product/humanin-10mg/] Humanin (10mg) $140.00
+[img] Humanin (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/Humanin-1-238x317.webp
+[h2] Humanin (10mg)
+[li] MOTS-c (10mg) $99.00
+[a https://biotechpeptides.com/product/mots-c-10mg/] MOTS-c (10mg) $99.00
+[img] MOTS-c (10mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/MOTS-c-1-238x317.webp
+[h2] MOTS-c (10mg)
+[li] NAD+ (100mg & 250mg & 500mg) $46.00 – $179.00Price range: $46.00 through $179.00
+[a https://biotechpeptides.com/product/nad-100mg-500mg/] NAD+ (100mg & 250mg & 500mg) $46.00 – $179.00Price range: $46.00 through $179.00
+[img] NAD+ (100mg & 500mg) :: https://biotechpeptides.com/wp-content/uploads/2022/01/NAD-2-238x317.webp
+[h2] NAD+ (100mg & 250mg & 500mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

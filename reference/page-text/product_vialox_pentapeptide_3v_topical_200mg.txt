@@ -1,0 +1,119 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/Vialox-1.webp] 
+[img] Vialox (Pentapeptide-3V) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Vialox-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Vialox_3140101_20260721_BTP_page-0001.webp] 
+[img] Vialox (Pentapeptide-3V) (200mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Vialox_3140101_20260721_BTP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Vialox_3140101_20260721_BTP_page-0002.webp] 
+[img] Vialox (Pentapeptide-3V) (200mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Vialox_3140101_20260721_BTP_page-0002.webp
+[h1] Vialox (Pentapeptide-3V) (200mg)
+[p] $210.00
+[p] Vialox (Pentapeptide-3V) peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_6044 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $199.50
+[input name=wccs_tier_select_6044 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $189.00
+[label] Vialox (Pentapeptide-3V) (200mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Vialox_3140101_20260721_BTP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Vialox (Pentapeptide-3V) Peptide
+[p] Vialox, also known as Pentapeptide-3V, is a peptide with a five amino acid sequence (Gly-Pro-Arg-Pro-Ala). It was originally isolated from endogenously produced snake venom. The peptide appears to replicate temporary muscular paralysis. This result has been observed by researchers in paralytic compounds such as botulinum toxin, which are believed to reduce wrinkle depth. Vialox appears to inhibit nicotinic acetylcholine receptors. This potential may enable curare-like actions at the neuromuscular junction, which might block nervous system electrical impulses from reaching muscles. A block like this may ultimately halt muscle contraction. This mechanism appears to be analogous to the function of tubocurarine. This function is observed through Vialox’s hypothetical interaction with acetylcholine receptors on the postsynaptic membrane of muscle cells. Tubocurarine, a naturally occurring alkaloid compound, is primarily found in the bark of certain plants. This includes Chondrodendron tomentosum, commonly referred to as "curare." Experts recognize this compound as a potent neurotoxin. Its mode of action is considered to function as a non-depolarizing neuromuscular blocker. It is hypothesized that this function obstructs the activity of acetylcholine—a neurotransmitter deemed by researchers to be critical for muscle contraction—at the neuromuscular junction, which might inhibit muscle contraction.[1]
+[h3] Specifications
+[p] Sequence: Gly-Pro-Arg-Pro-Ala
+[p] Molecular Formula: C21H37N9O5
+[p] Molecular Weight: 495.58 g/mol
+[p] PubChem: CID 67073230
+[a https://pubchem.ncbi.nlm.nih.gov/compound/67073230] PubChem
+[p] Synonyms: Pentapeptide-3V
+[h3] Vialox Peptide Research
+[p] Vialox (Pentapeptide-3V) and General Studies Vialox (Pentapeptide-3V) is a peptide of interest to scientists because of its suggested propensity to disrupt nerve-muscle communication. Unlike other nicotinic acetylcholine receptor (N-AChR) antagonists, Vialox appears to operate solely on peripheral nicotinic acetylcholine receptors. According to studies on animal test models, the peptide may not have much impact on central neuronal receptors. Vialox appears to disrupt signal transmission between neurons and muscles. Researchers explain that it may be an antagonist of the acetylcholine receptor and that it might block nerves at the post-synaptic membrane. This blockage may lead to muscle relaxation.[2] Scientific studies posit that acetylcholine, once released from the nerve’s axon, may travel to the neuromuscular junction and bind to receptors on the muscle cell membrane, such as nicotinic acetylcholine receptors (N-AChR). The binding of the axon to the receptor might allow an influx of sodium ions into the muscle cell, which may lead to depolarization (the reduction of the electrical charge across the cell membrane). Depolarization may initiate an electrical pulse that may trigger muscle contraction. Vialox has been studied for its theoretical ability to halt this process by attaching to N-AChR. The peptide appears to inhibit the attachment of acetylcholine, a neurotransmitter, to its specific receptor sites on muscle cells. This inhibition likely prevents the subsequent opening of sodium ion channels, which experts consider to be crucial for the depolarization process that typically results in muscle contraction. By interfering with acetylcholine receptor activity, Vialox may function as a non-depolarizing neuromuscular blocker. Consequently, it may contribute to smooth muscles, such as those found in various internal organs, remaining relaxed.[3] The overall hypothetical action of Vialox is a decrease in acetylcholine binding as well as a possible decrease in the frequency and intensity of muscular contraction. Following the partial paralysis of the muscles, forced relaxation is typically observed. Studies on the subject have implied that the peptide may reduce muscle contractions by 71% within 1 minute of experimentation. Vialox may have contributed to a 58% reduction in muscle contractions a full 2 hours later. Consequently, Gorouhi et al. commented that "...in vitro studies [...] showed that this product [may have led to] softened wrinkles and reduced skin roughness".[3]
+[p] Vialox (Pentapeptide-3V) and Wrinkles The aging process of skin structure includes a decline in the levels of skin cells, which are thought to include astrocytes. Astrocytes are theorized to be responsible for the production of proteins like collagen. Natural aging may also result in a decline in levels of proteins like collagen and elastin. A decline in the levels of these proteins may lead to increased wrinkling of the top layers of the skin structure. According to studies conducted by specialists in the Department of Dermatology, Reddy et al. noted “this product [may be] effective in smoothing [and]…immediate[ly] tightening the skin.” Experimental models suggest that Vialox may eliminate wrinkles in 50% of the experimental cohort and skin surface roughness in around 47% of the experimental cohort after 28 days of twice-daily exposure.[4]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Husein el Hadmed, H., & Castillo, R. F. (2016). Cosmeceuticals: peptides, proteins, and growth factors. Journal of cosmetic dermatology, 15(4), 514-519.
+[li] Lupo, M. P., & Cole, A. L. (2007). Cosmeceutical peptides. Dermatologic therapy, 20(5), 343-349.
+[li] Gorouhi, F., & Maibach, H. I. (2009). Role of topical peptides in preventing or treating aged skin. International journal of cosmetic science, 31(5), 327-345.
+[li] Reddy, B. Y., Jow, T., & Hantash, B. M. (2012). Bioactive oligopeptides in dermatology: Part II. Experimental dermatology, 21(8), 569-575.
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Acetyl Hexapeptide-3 (Argireline) (200mg) $210.00
+[a https://biotechpeptides.com/product/acetyl-hexapeptide-3-argireline-200mg/] Acetyl Hexapeptide-3 (Argireline) (200mg) $210.00
+[img] Acetyl Hexapeptide-3 (Argireline) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Acetyl-Hexapeptide-3-1-238x317.webp
+[h2] Acetyl Hexapeptide-3 (Argireline) (200mg)
+[li] Lipopeptide (Biopeptide EL) (200mg) $220.00
+[a https://biotechpeptides.com/product/lipopeptide-biopeptide-el-topical-200mg/] Lipopeptide (Biopeptide EL) (200mg) $220.00
+[img] Lipopeptide (Biopeptide EL) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Lipopetide-1-238x317.webp
+[h2] Lipopeptide (Biopeptide EL) (200mg)
+[li] AHK-Cu (200mg) $192.00
+[a https://biotechpeptides.com/product/ahk-cu-topical-200mg/] AHK-Cu (200mg) $192.00
+[img] AHK-Cu (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/AHK-Cu-1-238x317.webp
+[h2] AHK-Cu (200mg)
+[li] Matrixyl (200mg) $190.00
+[a https://biotechpeptides.com/product/matrixyl-topical-200mg/] Matrixyl (200mg) $190.00
+[img] Matrixyl (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Matrixyl-1-238x317.webp
+[h2] Matrixyl (200mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

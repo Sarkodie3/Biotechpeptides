@@ -1,0 +1,134 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] B7-33 Peptide: Research in Preeclampsia and Vasoprotection
+[p] by Dr. Usman | Dec 4, 2023 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] B7-33 Peptide Research in Preeclampsia and Vasoprotection :: https://biotechpeptides.com/wp-content/uploads/2023/12/B7-33-Peptide-Research-in-Preeclampsia-and-Vasoprotection.webp
+[a https://biotechpeptides.com/product/b7-33-6mg/] B7-33
+[p] Contents:
+[li] Protein and Peptide Structural Elucidation
+[a #pse] Protein and Peptide Structural Elucidation
+[li] B7-33 Peptide Synthesis and Structural Modification
+[a #sm] B7-33 Peptide Synthesis and Structural Modification
+[li] B7-33 and Activation of pERK Pathway
+[a #perk] B7-33 and Activation of pERK Pathway
+[li] Research and Scientific Studies
+[a #research] Research and Scientific Studies
+[li] B7-33 Peptide and Preeclampsia
+[a #preeclampsia] B7-33 Peptide and Preeclampsia
+[li] B7-33 Peptide and Vasoprotection
+[a #vasoprotection] B7-33 Peptide and Vasoprotection
+[li] B7-33 Peptide and Anti-Fibrosis
+[a #af] B7-33 Peptide and Anti-Fibrosis
+[li] B7-33 Peptide as Coating Material
+[a #cm] B7-33 Peptide as Coating Material
+[li] In Summary
+[a #summary] In Summary
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/b7-33-6mg/] 
+[img] B7-33 (6mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/B7-33.png
+[h2] Protein and Peptide Structural Elucidation
+[p] The H2-relaxin protein, a complex ensemble comprising relaxin, H3-relaxin, insulin-like peptide-3, and insulin-like peptide-5, is considered by scientists to govern diverse biological impacts, extending its influence to gene regulation and reproductive, musculoskeletal, and cardiovascular systems. This protein family appears to intricately interact with four distinct receptors – RXFP-1, RXFP-2, RXFP-3, and RXFP-4 – each wielding specific physiological actions.
+[p] RXFP-1, for instance, is considered to modulate sperm motility, joint function, and may play a role in pregnancy. RXFP-2 appears to influence testicular descent, RXFP-3 is implicated in sleep regulation, and RXFP-4 exhibits indications of involvement in hunger cycles. Given the expansive array of receptor interactions and the consequential biological impacts, intensive investigations have been undertaken, delving into the H2-relaxin protein and its derivatives, including the intriguing B7-33 peptide, to unveil their manifold research implications.
+[h2] B7-33 Peptide Synthesis and Structural Modification
+[p] The conventional relaxin peptide encompasses four distinct components: a signal peptide, a B chain, a C chain, and a COOH terminal. Initial attempts to replicate this intricate structure resulted in high insolubility and inactivity in peptides. However, through meticulous structural modifications involving the production of a B chain and elongation of the COOH terminal, scientists achieved a groundbreaking milestone in 2016 – synthesizing the first-ever soluble analog, B7-33 peptide.[3]
+[h2] B7-33 and Activation of pERK Pathway
+[p] Current research suggests that the B7-33 peptide may diverge from the canonical cAMP pathway typically associated with the anti-fibrotic properties of H2-relaxin. Activation of the cAMP pathway by H2-relaxin is considered to stimulate tumorigenesis, an adverse action of relaxin exposure. Intriguingly, the B7-33 peptide appears to display a notable affinity for RXFP-1 receptors. Binding the peptide to these receptors may induce pERK pathway activation, potentially resulting in heightened synthesis of matrix metalloproteinase 2 (MMP-2). The pivotal role of MMP-2 lies in inhibiting tissue scarring, thus providing a promising avenue for fibrosis research.[2]
+[h2] Research and Scientific Studies
+[h3] B7-33 Peptide and Preeclampsia
+[p] Preeclampsia is characterized by maternal hypertension and fetal growth restriction. A pivotal study delved into the impact of B7-33 peptide exposure on research models of preeclampsia using cytotrophoblasts. The results indicated an elevation in vascular endothelial growth factor (VEGF) levels, indicating the potential of B7-33 to counteract elevated glucose and marinobufagenin (MBG) levels, thereby attenuating the pathophysiology of preeclampsia.[4]
+[p] As per researchers Syeda H Afroze et al: ”Both B7-33 and its lipidated derivative mitigate the MBG- and hyperglycemia-induced dysfunction of CTBs by attenuating anti-angiogenic phenotype similar to that seen in preE. Moreover, the B7-33 and its lipidated derivative-induced effect on CTBs are attenuated by a relaxin antagonist.”[4]
+[h3] B7-33 Peptide and Vasoprotection
+[p] H2-relaxin has earned its reputation as a vasoprotective compound among researchers, as a potential mitigator of cardiac failure and fibrosis. However, the cumbersome and expensive exogenous production of H2-relaxin prompted investigations into its analog, B7-33 peptide. In a comprehensive study involving male Wistar rats, vascular functions were meticulously assessed after the introduction of a placebo peptide, H2-relaxin, or B7-33 peptide. While impacts in the renal artery and abdominal aorta were negligible, both B7-33 and H2-relaxin appeared to have exhibited improvements in vasodilatory properties in the mesenteric artery. Another study in female mice hinted at potential effectiveness in preventing endothelial dysfunction induced by placental trophoblast conditioned media.[5]
+[p] Sarah A. Marshall et al. state, “In conclusion, … B7-33 replicated the acute beneficial vascular effects of serelaxin in rat mesenteric arteries and also prevented endothelial dysfunction induced by placental trophoblast conditioned media in mouse mesenteric arteries.”[5]
+[h3] B7-33 Peptide and Anti-Fibrosis
+[p] Studies have posited that fully extended H2-relaxin may inadvertently stimulate carcinogenic cell proliferation via cAMP activation. In stark contrast, introduction of the B7-33 peptide to mice models of myocardial infarction indicated a substantial reduction in cardiac tissue fibrosis and improved heart function. This remarkable result was attributed to an increased concentration of matrix metalloproteinase protein, countering collagen-damaging cells and preventing fibrosis. Furthermore, in a prostate cancer study, both low and high concentrations of B7-33 appeared to have supported the prevention of fibrosis development and tumor spread. This finding suggested the exclusive activation of the pERK pathway, thereby possibly preventing cancer cell spread without activating cAMP. [6,7]
+[h3] B7-33 Peptide as Coating Material
+[p] To surmount the immune response against foreign substances, a potential solution involves coating internal devices with the B7-33 peptide. A meticulous study in mice involved the implantation of a device coated with the peptide, which was released to counteract the fibrotic effects on the research models. The results indicated a significant reduction in device thickness induced by fibrosis over the 6-week duration of the study. While this marks only the initial step, these findings strongly suggest the potential of B7-33 peptide within the realm of coating material for devices and implants, though further research is ongoing.
+[h2] In Summary
+[p] B7-33 peptide, a structural variant of H2-relaxin, emerges as a promising research compound with distinctive potential action. Its proposed action to activate the pERK pathway without inducing cAMP makes it a unique candidate in the realm of anti-fibrotic and vasoprotective research. The notable anti-fibrotic and vasoprotective potential of B7-33 signify its possible relevance in research related diverse cardiovascular and pulmonary disorders and preeclampsia.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] Summers RJ. Recent progress in the understanding of relaxin family peptides and their receptors. Br J Pharmacol. 2017 May;174(10):915-920. doi: 10.1111/bph.13778. PMID: 28447360. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5406287/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5406287/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5406287/
+[li] Mohammed Akhter Hossain et al., A single-chain derivative of the relaxin hormone is a functionally selective agonist of the G protein-coupled receptor, RXFP1, Drug Discovery Biology Pharmacology Monash Biomedicine Discovery Institute, Vol 7, 2016.
+[li] Nitin A Patil et al, Relaxin family peptides: structure–activity relationship studies, British Pharmacological Society, vol 174 issue 10, published 06 December 2016. https://doi.org/10.1111/bph.13684
+[a https://doi.org/10.1111/bph.13684] https://doi.org/10.1111/bph.13684
+[li] H Afroze et al., Abstract P3042: Novel Peptide B7-33 and Its Lipidated Derivative Protect Cytotrophoblasts From Preeclampsia Phenotype in a Cellular Model of the Syndrome, 4 Sep 2019. https://doi.org/10.1161/hyp.74.suppl_1.P3042
+[a https://doi.org/10.1161/hyp.74.suppl_1.P3042] https://doi.org/10.1161/hyp.74.suppl_1.P3042
+[li] Marshall SA, O’Sullivan K, Ng HH, Bathgate RAD, Parry LJ, Hossain MA, Leo CH. B7-33 replicates the vasoprotective functions of human relaxin-2 (serelaxin). Eur J Pharmacol. 2017 Jul 15;807:190-197. doi: 10.1016/j.ejphar.2017.05.005. Epub 2017 May 3. PMID: 28478069. https://pubmed.ncbi.nlm.nih.gov/28478069/
+[a https://pubmed.ncbi.nlm.nih.gov/28478069/] https://pubmed.ncbi.nlm.nih.gov/28478069/
+[li] Silvertown JD, Ng J, Sato T, Summerlee AJ, Medin JA. H2 relaxin overexpression increases in vivo prostate xenograft tumor growth and angiogenesis. Int J Cancer. 2006 Jan 1;118(1):62-73. https://pubmed.ncbi.nlm.nih.gov/16049981
+[a https://pubmed.ncbi.nlm.nih.gov/16049981] https://pubmed.ncbi.nlm.nih.gov/16049981
+[li] Shu Feng, Irina U. Agoulnik, Natalia V. Bogatcheva, Aparna A. Kamat, Bernard Kwabi-Addo, Rile Li, Gustavo Ayala, Michael M. Ittmann and Alexander I. Agoulnik, Relaxin Promotes Prostate Cancer Progression, March 2007. https://clincancerres.aacrjournals.org/content/13/6/1695
+[a https://clincancerres.aacrjournals.org/content/13/6/1695] https://clincancerres.aacrjournals.org/content/13/6/1695
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

@@ -1,0 +1,142 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/04/GHK-Cu-1.webp] 
+[img] GHK-Cu (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/GHK-Cu-1-460x580.webp
+[h1] GHK-Cu (200mg)
+[p] $186.00
+[p] EXTERNAL APPLICATION ONLY. See our lyophilized GHK-Cu in a vial:
+[a https://biotechpeptides.com/product/ghk-cu-50mg-copper/] GHK-CU (Copper) (50mg)
+[p] GHK-Cu peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_4575 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $176.70
+[input name=wccs_tier_select_4575 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $167.40
+[label] GHK-Cu (200mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Description
+[a #tab-description] Description
+[h3] GHK-Cu Peptide
+[p] GHK-Cu (Copper Tripeptide) is a tripeptide that scientists assert is naturally present in blood plasma. It has a sequence of Gly-His-Lys (glycine, histidine, and lysine,) which readily binds with copper to form the copper tripeptide. Scientific studies carried out in different research laboratories worldwide have explored its various biological roles. GHK-Cu exhibits some potential to influence various biological pathways, including an apparent induction of tissue repair, attraction of immune cells, antioxidant and anti-inflammatory characteristics, activation of collagen and glycosaminoglycan synthesis in skin fibroblasts, regulation of extracellular matrix components like decorin, and possible promotion of blood vessel growth. Recent studies indicate its potential role in stem cell biology and anti-tumor research as well.
+[h3] Specifications
+[p] Molecular Formula: C14H23CuN6O4
+[p] Molecular Weight: 340.38 g/mol
+[p] Sequence: Gly-His-LysCu.xHAc
+[h3] GHK-Cu Peptide Research
+[p] GHK-Cu and Potential Mechanisms Research suggests that GHK-Cu might function as a repair signal by potentially imitating the presence of a GHK triplet in the collagen alpha-2 type I chains.[1] Specifically, the tripeptide sequence Gly-His-Lys may naturally signal the presence of “broken” collagen. The breakdown of collagen typically corresponds with the disintegration of collagen fibers, often occurring due to tissue damage. It is hypothesized that this peptide sequence might act as a repair signal in cellular communication processes, particularly targeting fibroblasts. Fibroblasts are specialized cells considered crucial for producing new collagen fibers, which may provide structural support in various tissues. The interaction between the GHK sequence and fibroblasts is speculated to potentially trigger a series of biological events. These events may lead to the synthesis of new collagen, thereby possibly contributing to tissue repair and regeneration mechanisms. Another potential mechanism suggested by experimental research is the potential GHK-Cu action on synthesis of matrix metalloproteinase-2 (MMP-2) and tissue inhibitors of metalloproteinases (TIMPs), which are deemed crucial for extracellular matrix remodeling. Firstly, researchers observed that GHK-Cu increases MMP-2 levels in the conditioned media of cultured dermal fibroblasts, a process not replicated by GHK alone, suggesting that the presence of copper is posited to be necessary for this activity.[2] This increase in MMP-2 was also accompanied by a rise in MMP-2 mRNA levels, indicating that GHK-Cu potentially enhances MMP-2 expression at the transcriptional level. Interestingly, the study suggests that GHK-Cu might stimulate the secretion of TIMP-1 and TIMP-2, which are specific inhibitors of metalloproteinases, indicating a role in finely tuning the balance of matrix remodeling. This dual action of promoting both MMP-2 and TIMPs might appear contradictory; however, it posits a regulatory mechanism where TIMPs modulate the activity of MMPs, thereby balancing extracellular matrix degradation and formation. TIMP-2, for example, is speculated to interact with membrane-type 1 MMP (MT1-MMP) to facilitate the activation of proMMP-2, highlighting a complex interplay in matrix regulation. Furthermore, GHK-Cu's potential mechanism might involve the facilitation of copper uptake by cells, which might then be utilized by intracellular copper-dependent enzymes or directly activate transcription factors. This possibility aligns with the known requirement of copper for the angiogenic and cellular activation properties of GHK-Cu.
+[p] GHK-Cu and Wound Models Studies have observed that GHK-Cu may have yielded positive results in diabetes models when evaluated in the context of rapid tissue healing. The study findings posit that the peptide appeared to enhance the percentage of ulcer closure from 60.8% to 98.5% and decrease the infection rate from 34% to 7%.[3] In another murine study, exposure to the amino acid sequence of GHK-Cu was reported to potentially enhance wound healing.[4] The results suggest that wounds exposed to biotinylated GHK may have nearly achieved complete closure, reaching 99.39%. This appears to be a substantial improvement compared to the 69.49% closure rate observed in the control group. Further analysis indicated that the wounds exposed to the peptide might have exhibited increased levels of glutathione and ascorbic acid. These compounds are considered important antioxidants that may play a key role in tissue repair by protecting cells from oxidative damage. Additionally, there was a tentative observation of increased epithelialization, which is the process deemed necessary for the regeneration of stratum cornuem, or outer most layer of the skin barrier, under these experimental conditions. Moreover, besides the enhanced activity of fibroblasts, which are considered essential for collagen synthesis, tissue repair, and regeneration, there was also a potential rise in mast cell activation. Mast cells are important for mediating inflammatory responses, which are considered crucial during the initial stages of wound healing.
+[p] GHK-Cu and Fibroblasts Recent research has suggested the molecular mechanisms of the copper-peptide. Pollard et al. posited that GHK-Cu might restore the function of fibroblasts damaged by radiation and thus may help to accelerate cell repair and regenerative processes.[9] The researchers posited that “An early increase in basic fibroblast growth factor and vascular endothelial growth factor production by GHK-Cu-[exposed] irradiated fibroblasts may improve wound healing.” Further studies in the copper peptide GHK-Cu have supported this hypothetical activity of copper peptide GHK-Cu within fibroblasts. Abdulghani et al. noted that a compound containing GHK-Cu appeared to improve collagen in skin models of photodamage.[5] The peptide was observed to induce greater results than the control group exposed to a solution of Vitamin C and Retinoic Acid.
+[p] GHK-Cu and Skin Topography GHK-Cu peptide has been proposed as a potentially influential agent for mitigating experimental models of disrupted skin texture, such as wrinkles and fine lines. For example, Leyden et al. conducted a 12-week study of the possible impacts of GHK-Cu peptide.[6] The study reported significant improvement in skin laxity and a reduction in depth of creases and wrinkles along the stratum corneum. It appeared to increase density and thickness of photodamaged skin compared to control compound likewise evaluated. Further examination by the same research team compared the actions of GHK-Cu with those of a control compound and vitamin K. Over another 12-week period, GHK-Cu appeared to outperform the control group in diminishing epidermal wrinkles. Again, the peptide was observed to potentially increase skin density and thickness.[7] Finkley et al. conducted a parallel 12-week study.[8] Experts observed in the study that GHK-Cu compound appeared to have induced dermal Keratinocyte proliferation, as was observed in the histological analysis of biopsies. Copper peptide GHK-Cu and its analogs were observed to potentially stimulate hair follicle development as well. This peptide was also linked with a potential reduction in coarse wrinkles pigmentation. Research is ongoing.
+[p] GHK-Cu and Nerve Regeneration In 2005, Ahmed et al. suggested that tripeptide may also promote nerve regeneration.[10] In the study, GHK-Cu appeared to increase the production rate of nerve growth factor expression of integrins and increased the regeneration rate of myelinated nerve fibers.
+[p] GHK-Cu and Stem Cells In 2009, research findings from a group of researchers from the Seoul National University (Republic of Korea) highlighted that the copper-peptide GHK-Cu appeared to stimulate the proliferation of Keratinocytes and increased the expression of integrins.[11] The researchers also reported the presence of p63 protein in the epidermal stem cells. P63 is considered to be a significant marker of stem cell and anti-senescence protein. The authors concluded that GHK-copper may help restore the proliferative potential of epidermal stem cells and increase their potential to repair tissue.
+[p] GHK-Cu and Cancer Cells In 2010, Hong Y. et al. (Department of Colorectal Surgery, Singapore General Hospital, Singapore) observed the potential of GHK-Cu to reverse the synthesis of a group of genes that play a role in the metastatic spreading of colon cancer.[12] GHK-Cu peptide was observed to yield results within the study conditions at a low concentration. The researchers also concluded that “Gly-His-Lys and securinine might reverse the differential expressions of these genes significantly, suggesting that they have combinatorial … effect on the metastasis-prone [cases].”
+[p] GHK-Cu and Different Types of Collagen Studies on photodamaged skin models imply that GHK-Cu may stimulate type I collagen production more actively than standard compounds, other peptides, and antioxidants like vitamins C and A.[13] This research primarily focused on the peptide's potential impact on dermal procollagen synthesis, the proliferation and differentiation of keratinocytes (the predominant cell type in the epidermis), and cutaneous inflammation. GHK-Cu seemed to enhance all these indicators, with researchers reporting noticeable increases in skin thickness, elasticity, and hydration. In a separate study, the actions of GHK-Cu on type 4 collagen fibers were explored.[14] Here, GHK-Cu was combined with hyaluronic acid (HA), a key component of skin cells lauded for its apparent moisture-binding capacity and its influence on cell proliferation and inflammation. The study utilized HA with different molecular weights—low molecular weight (LMW) and high molecular weight (HMW)—due to their presumed distinct biological activities. The experimental setup exposed dermal fibroblasts to various combinations of GHK-Cu and HA. It was suggested that certain combinations, particularly a GHK-Cu to LMW HA ratio of 1:9, significantly increased the synthesis of collagen 4 compared to when either compound was examined alone. This indicates a potential synergistic action between GHK-Cu and HA in enhancing collagen 4 levels. This synergy may result from GHK-Cu stimulating glycosaminoglycan production and promoting collagen synthesis, while HA may reduce collagen degradation by scavenging reactive oxygen species and inhibiting matrix metalloproteinases. Further support for these findings came from an ex vivo skin model, which also showed a notable increase in collagen 4 synthesis at the dermal-epidermal junction when exposed to the optimized GHK-Cu and LMW HA mixture.
+[p] GHK-Cu and Photodamage-related Oxidative Stress Photodamage to tissues, including the skin, may involve the generation of reactive oxygen species (ROS), reactive nitrogen species (RNS), and reactive carbonyl species (RCS), which might lead to damage to proteins, DNA, and lipids. Emerging data implies that the amino acid sequence in GHK-Cu might possess antioxidative characteristics. For instance, one experiment indicates the anti-RCS potential of GHK-Cu against radicals such as 4-hydroxynonenal, acrolein, and malondialdehyde, among others. These radicals are highly reactive molecules that may cause significant cellular damage.[15] Additionally, GHK-Cu might potentially inhibit protein glycation, a process where sugar molecules bind to proteins, impairing their function. Another study suggests that GHK-Cu might have antioxidative actions on ROS, including hydroxyl radicals. Hydroxyl radicals are extremely reactive and may cause extensive damage to cellular components.[16] Moreover, there is a hypothesis that GHK-Cu might reduce the release of iron from ferritin. Ferritin acts as a catalyst for lipid peroxidation, a process where free radicals attack lipids leading to cell damage. GHK-Cu may help mitigate the formation of harmful iron complexes in damaged tissues, thereby potentially reducing inflammation. One particular study indicated that GHK-Cu might decrease iron release by 87%, which might lower oxidation levels in damaged tissues.[17]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Maquart, F. X., Pickart, L., Laurent, M., Gillery, P., Monboisse, J. C., & Borel, J. P. (1988). Stimulation of collagen synthesis in fibroblast cultures by the tripeptide-copper complex glycyl-L-histidyl-L-lysine-Cu2+. FEBS letters, 238(2), 343–346. https://doi.org/10.1016/0014-5793(88)80509-x
+[a https://doi.org/10.1016/0014-5793(88)80509-x] https://doi.org/10.1016/0014-5793(88)80509-x
+[li] Siméon A, Emonard H, Hornebeck W, Maquart FX. The tripeptide-copper complex glycyl-L-histidyl-L-lysine-Cu2+ stimulates matrix metalloproteinase-2 expression by fibroblast cultures. Life Sci. 2000 Sep 22;67(18):2257-65. doi: 10.1016/s0024-3205(00)00803-1. PMID: 11045606.
+[a https://doi.org/10.1016/s0024-3205(00)00803-1] doi: 10.1016/s0024-3205(00)00803-1
+[li] Mulder GD, Patt LM, Sanders L, Rosenstock J, Altman MI, Hanley ME, Duncan GW. Enhanced healing of ulcers in patients with diabetes by treatment with glycyl-l-histidyl-l-lysine copper. Wound Repair Regen. 1994 Oct;2(4):259-69. doi: 10.1046/j.1524-475X.1994.20406.x. PMID: 17147644
+[a https://doi.org/10.1046/j.1524-475X.1994.20406.x] doi: 10.1046/j.1524-475X.1994.20406.x
+[li] Alven, S., Peter, S., Mbese, Z., & Aderibigbe, B. A. (2022). Polymer-Based Wound Dressing Materials Loaded with Bioactive Agents: Potential Materials for the Treatment of Diabetic Wounds. Polymers, 14(4), 724. https://doi.org/10.3390/polym14040724
+[a https://doi.org/10.3390/polym14040724] https://doi.org/10.3390/polym14040724
+[li] Abdulghani, AA, Sherr S, Shirin S, Solodkina G, Tapia EM,Gottlieb AB. Effects of creams containing vitamin C, a copper-binding peptide cream and melatonin compared with tretinoin on the ultrastructure of normal skin – A pilot clinical, histologic, and ultrastructural study. Disease Manag Clin Outcomes. 1998;1:136-141
+[li] Leyden J, Stephens T, Finkey MB, Appa, Y, Barkovic S, Skin Care Benefits of Copper Peptide Containing Facial Cream. Amer Academy Dermat Meeting, February 2002, Abstract P68, P69
+[li] Leyden J., Stephens T., Finkey M., Barkovic S. Skin Care Benefits of Copper Peptide Containing Eye Creams. University of Pennsylvania; 2002.
+[li] Finkley MB, Appa Y, Bhandarkar S. Copper Peptide and Skin. Cosmeceuticals and Active Cosmetic, 2nd Edition, P. Eisner and H.I. Maibach (Eds.) Marcel Dekker, New York. 2005:549-563
+[li] Pollard JD, Quan S, Kang T, Koch RJ. Effects of copper tripeptide on the growth and expression of growth factors by normal and irradiated fibroblasts. Arch Facial Plast Surg. 2005 Jan-Feb;7(1):27-31. doi: 10.1001/archfaci.7.1.27. PMID: 15655171.
+[a https://doi.org/10.1001/archfaci.7.1.27] doi: 10.1001/archfaci.7.1.27
+[li] Ahmed MR, Basha SH, Gopinath D, Muthusamy R, Jayakumar R. Initial upregulation of growth factors and inflammatory mediators during nerve regeneration in the presence of cell adhesive peptide-incorporated collagen tubes. J Peripher Nerv Syst. 2005 Mar;10(1):17-30. doi: 10.1111/j.1085-9489.2005.10105.x. PMID: 15703015.
+[a https://doi.org/10.1111/j.1085-9489.2005.10105.x] doi: 10.1111/j.1085-9489.2005.10105.x
+[li] Kang YA, Choi HR, Na JI, Huh CH, Kim MJ, Youn SW, Kim KH, Park KC. Copper-GHK increases integrin expression and p63 positivity by keratinocytes. Arch Dermatol Res. 2009 Apr;301(4):301-6. doi: 10.1007/s00403-009-0942-x. Epub 2009 Mar 25. PMID: 19319546.
+[li] Hong Y, Downey T, Eu KW, Koh PK, Cheah PY. A ‘metastasis-prone’ signature for early-stage mismatch-repair proficient sporadic colorectal cancer patients and its implications for possible therapeutics. Clin Exp Metastasis. 2010 Feb;27(2):83-90. doi: 10.1007/s10585-010-9305-4. Epub 2010 Feb 9. PMID: 20143136.
+[a https://doi.org/10.1007/s10585-010-9305-4] doi: 10.1007/s10585-010-9305-4
+[li] Abdulghani, A. A., Sherr, A., Shirin, S., Solodkina, G., Tapia, E. M., Wolf, B., & Gottlieb, A. B. (1998). Effects of creams containing vitamin C, a copper-binding peptide cream and melatonin compared with tretinoin on the ultrastructure of normal skin-A pilot clinical, histologic, and ultrastructural study. Disease Management and Clinical Outcomes, 4(1), 136-141.
+[li] Jiang F, Wu Y, Liu Z, Hong M, Huang Y. Synergy of GHK-Cu and hyaluronic acid on collagen IV upregulation via fibroblast and ex-vivo skin tests. J Cosmet Dermatol. 2023 Sep;22(9):2598-2604. doi: 10.1111/jocd.15763. Epub 2023 Apr 16. PMID: 37062921.
+[li] Cebrián, J., Messeguer, A., Facino, R. M., & García Antón, J. M. (2005). New anti-RNS and -RCS products for cosmetic treatment. International journal of cosmetic science, 27(5), 271–278. https://doi.org/10.1111/j.1467-2494.2005.00279.x
+[a https://doi.org/10.1111/j.1467-2494.2005.00279.x] https://doi.org/10.1111/j.1467-2494.2005.00279.x
+[li] Sakuma, S., Ishimura, M., Yuba, Y., Itoh, Y., & Fujimoto, Y. (2018). The peptide glycyl-ʟ-histidyl-ʟ-lysine is an endogenous antioxidant in living organisms, possibly by diminishing hydroxyl and peroxyl radicals. International journal of physiology, pathophysiology and pharmacology, 10(3), 132–138.
+[li] Miller, D. M., DeSilva, D., Pickart, L., & Aust, S. D. (1990). Effects of glycyl-histidyl-lysyl chelated Cu(II) on ferritin dependent lipid peroxidation. Advances in experimental medicine and biology, 264, 79–84. https://doi.org/10.1007/978-1-4684-5730-8_11
+[a https://doi.org/10.1007/978-1-4684-5730-8_11] https://doi.org/10.1007/978-1-4684-5730-8_11
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] AHK-Cu (200mg) $192.00
+[a https://biotechpeptides.com/product/ahk-cu-topical-200mg/] AHK-Cu (200mg) $192.00
+[img] AHK-Cu (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/AHK-Cu-1-238x317.webp
+[h2] AHK-Cu (200mg)
+[li] Sale! Pal-AHK (200mg) $192.00 Original price was: $192.00.$180.00Current price is: $180.00.
+[a https://biotechpeptides.com/product/pal-ahk-topical-200mg/] Sale! Pal-AHK (200mg) $192.00 Original price was: $192.00.$180.00Current price is: $180.00.
+[img] Pal-AHK (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Pal-AHK-2-238x317.webp
+[h2] Pal-AHK (200mg)
+[li] Acetyl Hexapeptide-3 (Argireline) (200mg) $210.00
+[a https://biotechpeptides.com/product/acetyl-hexapeptide-3-argireline-200mg/] Acetyl Hexapeptide-3 (Argireline) (200mg) $210.00
+[img] Acetyl Hexapeptide-3 (Argireline) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Acetyl-Hexapeptide-3-1-238x317.webp
+[h2] Acetyl Hexapeptide-3 (Argireline) (200mg)
+[li] Pal-GHK (Palmitoyl Tripeptide-1) (200mg) $199.00
+[a https://biotechpeptides.com/product/pal-ghk-palmitoyl-tripeptide-1-topical-200mg/] Pal-GHK (Palmitoyl Tripeptide-1) (200mg) $199.00
+[img] Pal-GHK (Palmitoyl Tripeptide-1) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Pal-GHK-1-238x317.webp
+[h2] Pal-GHK (Palmitoyl Tripeptide-1) (200mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

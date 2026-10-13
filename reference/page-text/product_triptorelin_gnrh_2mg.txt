@@ -1,0 +1,137 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/Triptorelin-1.webp] 
+[img] Triptorelin (GnRH) (2mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Triptorelin-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Triptorelin_3141090_BP_page-0001.webp] 
+[img] Triptorelin (GnRH) (2mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Triptorelin_3141090_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Triptorelin_3141090_BP_page-0002.webp] 
+[img] Triptorelin (GnRH) (2mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Triptorelin_3141090_BP_page-0002.webp
+[h1] Triptorelin (GnRH) (2mg)
+[p] $36.00
+[p] Triptorelin (GnRH) peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_3468 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $34.20
+[input name=wccs_tier_select_3468 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $32.40
+[label] Triptorelin (GnRH) (2mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Triptorelin_3141090_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Triptorelin (GnRH) Peptide
+[p] Triptorelin is a synthetic analog of gonadotropin-releasing hormone (GnRH), potentially mimicking the structure and function of the natural hormone. It may bind to GnRH receptors, initially stimulating the hypothalamic-pituitary-gonadal (HPG) axis, leading to a temporary surge in luteinizing hormone (LH) and follicle-stimulating hormone (FSH) levels. In turn, LH and FSH are thought to stimulate endocrine cells, like testicular cells that produce testosterone (T). However, with prolonged exposure, Triptorelin appears to desensitize the GnRH receptors, resulting in suppressed production of LH and FSH, thereby apparently reducing testosterone and estrogen levels. This potential mechanism has been extensively researched in models of androgen deprivation, exploring its potential in various contexts such as prostate cancer cells and receptor-positive breast cancer cells.
+[h3] Specifications
+[p] OTHER KNOWN TITLES: Decapeptyl, TRP(6)-LHRH, Trelstar, Triptoreline, Decapeptyl, Gonapeptyl
+[p] MOLECULAR FORMULA: C64H82N18O13
+[p] MOLECULAR WEIGHT: 1311.473 g/mol
+[p] SEQUENCE: Pyr-His-Trp-Ser-Tyr-D-Trp-Leu-Arg-Pro-Gly
+[h3] Triptorelin (GnRH) Research
+[p] Triptorelin and Testosterone Secretion Studies have suggested that Triptorelin may exhibit the potential to rapidly raise testosterone levels, with long-term studies suggesting the peptide may also suppress production after chronic exposure. Scientists in animal models report that testosterone may peak following Triptorelin exposure within the first few days. This suggests that GnRH analogs, when specific experimental conditions are applied, may potentially raise testosterone levels. For example, research has explored the potential of Triptorelin on artificially induced hypogonadotropic hypogonadism within a test model. The model was designed to simulate the condition typically resulting from prolonged exposure to anabolic steroids which involves disruption of the hypothalamic-pituitary-gonadal (HPG) axis and reduced LH and FSH. The main experiment involved a single exposure of Triptorelin, and the outcomes were measured in terms of normalization of levels of serum testosterone, FSH, and LH. Specifically, within ten days post-exposure, the testosterone levels significantly increased, and by one month, these levels had returned to the normal range, suggesting a reactivation of the HPG axis. This model posits that Triptorelin may have the potential to kickstart the HPG axis in scenarios where it is suppressed due to external factors like steroid exposure.[10]
+[p] Triptorelin and GnRH Research Triptorelin is classified as an analog of GnRH. Researchers posit that the peptide appears to stimulate the anterior pituitary gland to release FSH and LH. The exact levels of FSH and LH appear to depend on the size and frequency of GnRH pulses and, therefore, on the concentration and frequency of Triptorelin exposure. However, introduction of Triptorelin in a steady-state rather than a pulse may ultimately suppress LH and FSH secretion, and testosterone and estrogen production. Most of the research on Triptorelin focuses on the potential of the peptide to suppress the production of these hormones, particularly in studies within the context of oncology and cancer progression. Moreover, studies suggest that these suppressive actions may be fully reversible.[9]
+[p] Triptorelin and Breast Cancer Hormone suppression has been considered by scientists as a potential cancer cell mitigation method in cancers sensitive to hormone levels. Selective estrogen receptor modulators (SERMs) are currently the most widely recognized substances in this context. SERMs appear to reduce the risk of breast cancer recurrence by approximately 30% – 50% depending on certain criterion in the observed research model. It is also speculated to act to shrink tumor growth, though research has speculated that tumors may become more resistant to SERMs over time. The search for SERM alternatives and excipients has led scientists to investigate the role of Triptorelin in research models of breast cancer.[1] The researchers conclude that “HOBOE study shows that in [research models of] early breast cancer undergoing ovarian function suppression with Triptorelin, ZL significantly improves DFS, while worsening compliance and toxicity, as compared with [the SERM substance].” Similar studies also suggest the addition of Triptorelin to SERM exposure in early-stage breast cancer may improve and increase disease control and increase survival rates amongst the laboratory models examined.[2]
+[p] Triptorelin and Prostate Cancer Triptorelin has also been evaluated in prostate cancer research studies for its speculated growth-inhibiting activity. The peptide has been suggested to impact testosterone levels, with researchers observing that Triptorelin may reduce 10-year mortality to less than 5% in models of hormone-sensitive prostate cancer.[3] New studies suggest that the combination of Triptorelin and radiation may have exerted the same impact as complete androgen deprivation. In one study, severe symptoms from prostate cancer appeared to be reduced from ~54% to 12% following exposure to Triptorelin peptide.[4] The researchers conclude that “A reduction of LUTS is observed in [research models] with locally advanced or metastatic prostate cancer treated with Triptorelin in routine practice. This is in agreement with similar observational studies of Triptorelin conducted in other [studies].”
+[p] Triptorelin and Endometriosis Studies suggest that Triptorelin may help to relieve pain associated with endometriosis by decreasing the number of diseased nodules. Triptorelin has been studied for its potential as in the case of endometriosis-associated complications.[6] Preliminary animal studies suggest that Triptorelin may improve the outcome of endometriosis laparoscopic surgery.[7] It appeared to be especially impactful with increasing pregnancy rates following surgery. Triptorelin may have a profound effect on models of colorectal endometriosis.
+[p] Triptorelin and Immune Function Studies on murine models suggest that GnRH may have an integral impact due to its apparent regulatory ability in the thymus and certain aspects of the immune system. Cellular aging and low regeneration rates may lead to a decrease in the GnRH agonist binding sites on the thymus. It appears that cellular aging is accompanied by a notable reduction in GnRH-binding sites in the thymus gland of murine models. The data suggest that there might be a 50% reduction in these sites. This reduction in receptor availability is paralleled by potential decreases in thymus weight and alterations in thymic structure, which include losses in thymic mass and changes in the organization of the thymus' cortical and medullary regions. The study posits that chronic exposure with the potent GnRH agonists like Triptorelin, may possibly reverse some of the age-related declines in thymus weight and GnRH-binding sites. Histologically, while the thymus of younger murine models typically displayed well-defined cortical and medullary areas, only remnants of these structures were evident in older models. The study suggests that chronic exposure with GnRH analogs might lead to a partial restoration of these thymic structures. Notably, exposed older murine models were reported to show a more organized thymic architecture with a potentially increased width of the cortical layer densely populated by lymphocytes. Moreover, the functional aspect of thymic aging was explored by examining the proliferative response of thymocytes to the mitogen Concanavalin-A. In mature murine models, there was an almost complete loss of this proliferative response, which was purportedly significantly restored by either the chronic exposure to GnRH analogs.[8]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Perrone F, De Laurentiis M, De Placido S, Orditura M, Cinieri S, Riccardi F, Ribecco AS, Putzu C, Del Mastro L, Rossi E, Tinessa V, Mosconi AM, Nuzzo F, Di Rella F, Gravina A, Iodice G, Landi G, Pacilio C, Forestieri V, Lauria R, Fabbri A, Ibrahim T, De Maio E, Barni S, Gori S, Simeon V, Arenare L, Daniele G, Piccirillo MC, Normanno N, de Matteis A, Gallo C. Adjuvant zoledronic acid and letrozole plus ovarian function suppression in premenopausal breast cancer: HOBOE phase 3 randomised trial. Eur J Cancer. 2019 Sep;118:178-186. doi: 10.1016/j.ejca.2019.05.004. Epub 2019 Jun 1. PMID: 31164265.
+[a https://doi.org/10.1016/j.ejca.2019.05.004] doi: 10.1016/j.ejca.2019.05.004
+[li] Frampton JE. Triptorelin: A Review of its Use as an Adjuvant Anticancer Therapy in Early Breast Cancer. Drugs. 2017 Dec;77(18):2037-2048. doi: 10.1007/s40265-017-0849-3. PMID: 29177573.
+[a https://doi.org/10.1007/s40265-017-0849-3] doi: 10.1007/s40265-017-0849-3
+[li] Merseburger AS, Hupe MC. An Update on Triptorelin: Current Thinking on Androgen Deprivation Therapy for Prostate Cancer. Adv Ther. 2016 Jul;33(7):1072-93. doi: 10.1007/s12325-016-0351-4. Epub 2016 May 31. PMID: 27246172; PMCID: PMC4939158.
+[a https://doi.org/10.1007/s12325-016-0351-4] doi: 10.1007/s12325-016-0351-4
+[li] Hachi K, Boualga K, Chettibi K, Harouni M, Ounnoughene M, Bekkat-Berkani N, Maisonobe P, Yousfi MJ. Étude algérienne des effets bénéfiques de la Triptoreline sur les symptômes du bas appareil urinaire chez les patients atteints d’un cancer de la prostate non localisé [Study of the beneficial effects of Triptorelin on lower urinary tract symptoms in Algeria in patients with non-localized prostate cancer]. Prog Urol. 2018 Jun;28(8-9):450-459. French. doi: 10.1016/j.purol.2018.03.014. Epub 2018 May 20. PMID: 29789236.
+[a https://doi.org/10.1016/j.purol.2018.03.014] doi: 10.1016/j.purol.2018.03.014
+[li] Del Mastro L, Boni L, Michelotti A, Gamucci T, Olmeo N, Gori S, Giordano M, Garrone O, Pronzato P, Bighin C, Levaggi A, Giraudi S, Cresti N, Magnolfi E, Scotto T, Vecchio C, Venturini M. Effect of the gonadotropin-releasing hormone analogue Triptorelin on the occurrence of chemotherapy-induced early menopause in premenopausal women with breast cancer: a randomized trial. JAMA. 2011 Jul 20;306(3):269-76. doi: 10.1001/jama.2011.991. PMID: 21771987.
+[a https://doi.org/10.1001/jama.2011.991] doi: 10.1001/jama.2011.991
+[li] Leone Roberti Maggiore U, Scala C, Remorgida V, Venturini PL, Del Deo F, Torella M, Colacurci N, Salvatore S, Ferrari S, Papaleo E, Candiani M, Ferrero S. Triptorelin for the treatment of endometriosis. Expert Opin Pharmacother. 2014 Jun;15(8):1153-79. doi: 10.1517/14656566.2014.916279. PMID: 24832495.
+[a https://doi.org/10.1517/14656566.2014.916279] doi: 10.1517/14656566.2014.916279
+[li] Xue H, Liu M, Hao W, Li Y. Clinical evaluation of laparoscopic surgery combined with Triptorelin acetate in patients with endometriosis and infertility. Pak J Med Sci. 2018 Sep-Oct;34(5):1064-1069. doi: 10.12669/pjms.345.15574. PMID: 30344551; PMCID: PMC6191787.
+[a https://doi.org/10.12669/pjms.345.15574] doi: 10.12669/pjms.345.15574
+[li] Marchetti B, Guarcello V, Morale MC, Bartoloni G, Raiti F, Palumbo G Jr, Farinella Z, Cordaro S, Scapagnini U. Luteinizing hormone-releasing hormone (LHRH) agonist restoration of age-associated decline of thymus weight, thymic LHRH receptors, and thymocyte proliferative capacity. Endocrinology. 1989 Aug;125(2):1037-45. doi: 10.1210/endo-125-2-1037. PMID: 2546733.
+[a https://doi.org/10.1210/endo-125-2-1037] doi: 10.1210/endo-125-2-1037
+[li] Goericke-Pesch S. Long-term effects of GnRH agonists on fertility and behaviour. Reprod Domest Anim. 2017 Apr;52 Suppl 2:336-347. doi: 10.1111/rda.12898. Epub 2016 Dec 27. PMID: 28025851.
+[a https://doi.org/10.1111/rda.12898] doi: 10.1111/rda.12898
+[li] Pirola I, Cappelli C, Delbarba A, Scalvini T, Agosti B, Assanelli D, Bonetti A, Castellano M. Anabolic steroids purchased on the Internet as a cause of prolonged hypogonadotropic hypogonadism. Fertil Steril. 2010 Nov;94(6):2331.e1-3. doi: 10.1016/j.fertnstert.2010.03.042. Epub 2010 Apr 22. PMID: 20416868.
+[a https://doi.org/10.1016/j.fertnstert.2010.03.042] doi: 10.1016/j.fertnstert.2010.03.042
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Oxytocin (10mg) $45.00
+[a https://biotechpeptides.com/product/oxytocin-10mg/] Oxytocin (10mg) $45.00
+[img] Oxytocin (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Oxytocin-1-238x317.webp
+[h2] Oxytocin (10mg)
+[li] Kisspeptin-10 (10mg) $52.00
+[a https://biotechpeptides.com/product/kisspeptin-10-10mg/] Kisspeptin-10 (10mg) $52.00
+[img] Kisspeptin-10 (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/Kisspeptin-10-1-238x317.webp
+[h2] Kisspeptin-10 (10mg)
+[li] Gonadorelin (GnRH) (10mg) $79.00
+[a https://biotechpeptides.com/product/gonadorelin-gnrh-10mg/] Gonadorelin (GnRH) (10mg) $79.00
+[img] Gonadorelin (GnRH) (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Gonadorelin-GnRH-1-238x317.webp
+[h2] Gonadorelin (GnRH) (10mg)
+[li] PT-141 (Bremelanotide) (10mg) $45.00
+[a https://biotechpeptides.com/product/pt-141-10mg-bremelanotide/] PT-141 (Bremelanotide) (10mg) $45.00
+[img] PT-141 (Bremelanotide) (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/PT-141-1-238x317.webp
+[h2] PT-141 (Bremelanotide) (10mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

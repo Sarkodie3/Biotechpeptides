@@ -1,0 +1,121 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/04/Syn-AKE-1.webp] 
+[img] Syn-AKE (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/Syn-AKE-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/04/COA_Syn-AKE_3140086_20260721_BTP_page-0001.webp] 
+[img] Syn-AKE (200mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2022/04/COA_Syn-AKE_3140086_20260721_BTP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/04/COA_Syn-AKE_3140086_20260721_BTP_page-0002.webp] 
+[img] Syn-AKE (200mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2022/04/COA_Syn-AKE_3140086_20260721_BTP_page-0002.webp
+[h1] Syn-AKE (200mg)
+[p] $210.00
+[p] Syn-AKE peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_4601 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $199.50
+[input name=wccs_tier_select_4601 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $189.00
+[label] Syn-AKE (200mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/04/COA_Syn-AKE_3140086_20260721_BTP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Syn-AKE Peptide
+[p] Syn-AKE is a peptide, also known as tripeptide-3 or dipeptide diaminobutyroyl benzyl amide diacetate. Syn-AKE, a synthetic peptide ingredient, appears to mimic the actions of the Waglerin-1 peptide, which is 21 amino acids in length. Waglerin-1 functions primarily as a muscle relaxant by inhibiting the activity of acetylcholine at the neuromuscular junction, which may potentially result in reduced muscle contractions. Acetylcholine is a neurotransmitter considered essential for muscle movement, and its inhibition at the neuromuscular junction prevents the normal contraction signals from reaching muscles. In the development of Syn-AKE, researchers sought to synthesize a peptide that might potentially mimic this action. Thus, the peptide Syn-AKE was engineered to emulate the mechanism by which Waglerin-1 acts, but in a more selective manner. Researchers suggest Syn-AKE may act to reduce transmission between muscles and nerves, working similarly to botulinum toxin to relax muscles and thus reduce instances of creasing and wrinkle development along epidermal surfaces, as suggested in animal model research. The apparent reduction of this transmission appears to be reversible when triggered by Syn-AKE. Therefore its action is temporary.[1] According to Pentapharm, “the Syn-AKE invokes its action by blocking the muscle nAChR in a reversible manner by blocking the ion channel. As a result, the Na+ uptake is substantially disturbed, and the muscles remain relaxed.”
+[h3] Specifications
+[p] Molecular Formula: C23H37N5O7
+[p] Molecular Weight: 495.57 g/mol
+[p] Sequence: β-Ala-Pro-Dab-NHBn .2Acetate
+[h3] Syn-AKE Research
+[p] Syn-AKE and Neurotransmission Syn-AKE studies indicate that the peptide may reduce the number of muscular movements and reduce cellular mobility.[2] The synthetic equivalent of the Waglerin-1 peptide appears to temporarily reduce contractile force in certain muscle groups. Syn-AKE appears to be a competitive antagonist of acetylcholine receptors in the muscles.[3] In other words, it may compete with acetylcholine to attach to the acetylcholine receptors. Acetylcholine is considered to be a primary neurotransmitter, signaling from nerves to muscles. Syn-AKE appears to occupy and block the acetylcholine receptors, thereby inhibiting the muscular impulse similar to Waglerin-1 from which the tripeptide is derived. Yet, Syn-AKE appears to be considerably more selective in this action than Waglerin-1, as the former appears to lack any activity towards the gamma-aminobutyric acid (GABA) receptors in nervous tissues. Syn-AKE targets specifically the N-acetylcholine receptors that mediate the impulse between nerve tissue and muscle tissues. Research reports that the peptide action may occur quickly after introduction and induce an 82% reduction of the frequency of innervated muscle cell contractions.[4]
+[p] Syn-AKE and Skin Topography According to researchers, the main action of the peptide is its ability to immediately reduce muscle contraction. The relaxed muscles may reduce the natural creasing that occurs across the epidermal surface.[5] Syn-AKE has been studied for its potential impact primarily within the context of skin and muscle cells. For instance, in a quarter-year research initiative involving models exhibiting mild to moderate wrinkling in the stratum corneum, it has been suggested that the Syn-AKE may exhibit both immediate and sustained impacts on skin topography. Preliminary observations indicated a possible diminution in wrinkle depth soon after exposure to the peptide, with further assessments at the one and three-month markers hinting at continued improvement. These findings imply that Syn-AKE might confer both short-term and enduring influence in diminishing the visibility of both fine and more pronounced creasing.[4] One of the more extensive inquiries into Syn-AKE involved its comparison with alternative peptides and a control compound. Initial results indicate that Syn-AKE might be markedly more efficacious across all measured outcomes compared to its counterparts. Additionally, it has been hypothesized that the influence of Syn-AKE might progressively increase with regular exposure, potentially surpassing a 50% improvement threshold after four weeks of consistent evaluation. Further study specifically highlighted the potential of Syn-AKE which possibly led to as much as a 52% reduction in wrinkle visibility.[6][7] Research in the peptide is still ongoing.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Munawar A, Ali SA, Akrem A, Betzel C. Snake Venom Peptides: Tools of Biodiscovery. Toxins (Basel). 2018;10(11):474. Published 2018 Nov 14. doi:10.3390/toxins10110474.
+[a https://doi.org/10.3390/toxins10110474] doi:10.3390/toxins10110474
+[li] Zhmak, Maxim Nurgayanovich, et al. “Peptide inhibitors of nicotinic acetylcholine receptor.” U.S. Patent No. 9,550,808. 24 Jan. 2017.
+[li] Balaev, A. N., K. A. Okhmanovich, and V. N. Osipov. “A shortened, protecting group free, synthesis of the anti-wrinkle venom analogue Syn-Ake® exploiting an optimized Hofmann-type rearrangement.” Tetrahedron Letters 55.42 (2014): 5745-5747.
+[li] Reddy, B., Jow, T., & Hantash, B. M. (2012). Bioactive oligopeptides in dermatology: Part I. Experimental dermatology, 21(8), 563–568. https://doi.org/10.1111/j.1600-0625.2012.01528.x
+[a https://doi.org/10.1111/j.1600-0625.2012.01528.x] https://doi.org/10.1111/j.1600-0625.2012.01528.x
+[li] Chhipa, Nadim MR, and B. Chaudhari. “Toxin as a Medicine.” Journal of Current Pharmaceutical Research 9.1 (2012): 11-8.
+[li] Trookman, Nathan S., et al. “Immediate and long-term clinical benefits of a treatment for facial lines and wrinkles.” The Journal of clinical and aesthetic dermatology 2.3 (2009): 38.
+[li] Pai, V. V., Bhandari, P., & Shukla, P. (2017). Topical peptides as cosmeceuticals. Indian Journal of Dermatology, Venereology and Leprology, 83, 9.
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Pentapeptide-18 (Leuphasyl) (200mg) $215.00
+[a https://biotechpeptides.com/product/pentapeptide-18-leuphasyl-topical-200mg/] Pentapeptide-18 (Leuphasyl) (200mg) $215.00
+[img] Pentapeptide-18 (Leuphasyl) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Pentapeptide-1-238x317.webp
+[h2] Pentapeptide-18 (Leuphasyl) (200mg)
+[li] Syn-Coll (Palmitoyl Tripeptide-5) (200mg) $217.00
+[a https://biotechpeptides.com/product/syn-coll-palmitoyl-tripeptide-5-topical-200mg/] Syn-Coll (Palmitoyl Tripeptide-5) (200mg) $217.00
+[img] Syn-Coll (Palmitoyl Tripeptide-5) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Syn-Coll-1-238x317.webp
+[h2] Syn-Coll (Palmitoyl Tripeptide-5) (200mg)
+[li] Sale! Nonapeptide-1 (200mg) $228.00 Original price was: $228.00.$219.00Current price is: $219.00.
+[a https://biotechpeptides.com/product/nonapeptide-1-topical-200mg/] Sale! Nonapeptide-1 (200mg) $228.00 Original price was: $228.00.$219.00Current price is: $219.00.
+[img] Nonapeptide-1 (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Nonapeptide-1-238x317.webp
+[h2] Nonapeptide-1 (200mg)
+[li] Sale! Decapeptide-12 (200mg) $239.00 Original price was: $239.00.$226.00Current price is: $226.00.
+[a https://biotechpeptides.com/product/decapeptide-12-topical-200mg/] Sale! Decapeptide-12 (200mg) $239.00 Original price was: $239.00.$226.00Current price is: $226.00.
+[img] Decapeptide-12 (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Decapeptide-12-1-238x317.webp
+[h2] Decapeptide-12 (200mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

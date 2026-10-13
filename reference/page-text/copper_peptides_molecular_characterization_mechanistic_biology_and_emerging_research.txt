@@ -1,0 +1,175 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Copper Peptides: Molecular Characterization, Mechanistic Biology, and Emerging Research
+[p] by Dr. Usman | Jul 10, 2026 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/07/Copper-Peptides-Mechanistic-Biology-and-Emerging-Research.webp
+[p] GHK-Cu is the most extensively characterized member of this class. It is a tripeptide originally isolated from plasma albumin fractions and subsequently detected in saliva, urine, and wound fluid.[11][6] Research has attributed broad biological activity to GHK-Cu, encompassing extracellular matrix (ECM) remodelling, gene expression modulation, antioxidant pathway activation, wound repair facilitation, and neuromodulatory effects in preclinical models.[13]
+[a https://biotechpeptides.com/product/ghk-cu-topical-200mg/] GHK-Cu
+[p] DAHK-Cu is a tetrapeptide corresponding to the N-terminal copper-binding domain of serum albumin, studied principally for its role in copper(II) transport, redox regulation, and neuroprotective signalling.[2] AHK-Cu (PubChem CID 168431292) is a tripeptide investigated for its capacity to stimulate dermal fibroblast activity, modulate growth factor expression, and influence follicular biology.[4][13]
+[p] Contents:
+[li] Copper Peptides Historical Development
+[a #hd] Copper Peptides Historical Development
+[li] Copper Peptides Coordination Chemistry and Proposed Mechanisms of Action
+[a #pma] Copper Peptides Coordination Chemistry and Proposed Mechanisms of Action
+[li] Copper Peptides Scientific Research and Studies
+[a #research] Copper Peptides Scientific Research and Studies
+[li] GHK-Cu and Extracellular Matrix Biology: Collagen Synthesis and Matrix Metalloproteinase Regulation
+[a #emb] GHK-Cu and Extracellular Matrix Biology: Collagen Synthesis and Matrix Metalloproteinase Regulation
+[li] GHK-Cu and Wound Repair: Comparative Preclinical Models
+[a #wr] GHK-Cu and Wound Repair: Comparative Preclinical Models
+[li] GHK-Cu in Neuropathic Ulcer Models
+[a #num] GHK-Cu in Neuropathic Ulcer Models
+[li] GHK-Cu and GHK-Cu-Loaded Biomaterial Dressings: Wound Healing Research
+[a #whr] GHK-Cu and GHK-Cu-Loaded Biomaterial Dressings: Wound Healing Research
+[li] GHK-Cu and Antioxidant and Anti-inflammatory Signalling in Pulmonary Models
+[a #pm] GHK-Cu and Antioxidant and Anti-inflammatory Signalling in Pulmonary Models
+[li] GHK-Cu and Neuromodulatory Biology: Anxiety, Aggression, and Pain
+[a #nb] GHK-Cu and Neuromodulatory Biology: Anxiety, Aggression, and Pain
+[li] GHK-Cu and Cognitive Resilience in Aged Animal Models
+[a #aam] GHK-Cu and Cognitive Resilience in Aged Animal Models
+[li] AHK-Cu: Dermal Fibroblast Activation, Collagen Synthesis, and Hair Follicle Biology
+[a #hfb] AHK-Cu: Dermal Fibroblast Activation, Collagen Synthesis, and Hair Follicle Biology
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/ghk-cu-50mg-copper/] 
+[img] GHK-CU (Copper) Peptide (50mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/GHK-Cu-webp.avif
+[h3] Copper Peptides Historical Development
+[p] GHK-Cu was first isolated in 1973 by Pickart and Thayer, who identified a plasma albumin-derived tripeptide fraction capable of stimulating protein synthesis in aged liver tissue to levels characteristic of younger tissue.[1] This seminal observation established the conceptual basis for GHK-Cu as a biological signalling molecule associated with tissue maintenance and cellular rejuvenation. Subsequent characterization confirmed GHK’s high affinity for cupric ions (Cu²⁺), and the resulting copper complex (GHK-Cu) was found to be the biologically active species.¹ Research suggests that plasma GHK-Cu concentrations may decline over time from approximately 200 ng/mL in the first 25% of life to approximately 80 ng/mL by the 70%, a trajectory that might suggest a functional association between GHK-Cu availability and time-related tissue repair capacity.[1]
+[p] Interest in the broader copper peptide class subsequently expanded. DAHK-Cu was identified as the N-terminal copper-binding sequence of serum albumin and investigated computationally and biochemically for its coordination geometry and redox properties.[2] AHK-Cu emerged from applied research into dermatological active ingredients, with preclinical investigations examining its effects on fibroblast proliferation and hair follicle biology.[4][13]
+[p] Early cellular biology investigations in the 1980s established that GHK-Cu could stimulate collagen synthesis in fibroblast cultures and subsequent decades of research extended the characterization of this class into wound repair, oncological, neurological, pulmonary, and skin biology research contexts.
+[h3] Copper Peptides Coordination Chemistry and Proposed Mechanisms of Action
+[p] The biological activity of copper peptides is thought to arise primarily from their ability to coordinate and mobilize Cu²⁺ ions within the extracellular environment, modulating intracellular signalling cascades through copper-dependent enzymatic and transcriptional pathways.[13]
+[p] GHK-Cu coordinates Cu²⁺ through the imidazole nitrogen of the histidine residue, the terminal α-amino group, and deprotonated amide nitrogen atoms of the peptide backbone, forming a square-planar chelate geometry. This geometry is thought to influence the redox state of coordinated copper, potentially enabling participation in both oxidative and reductive cellular reactions.[1]
+[p] Research suggests DAHK-Cu exhibits distinct coordination behaviour attributable to the aspartyl residue at its N-terminus, which may contribute to carboxylate-mediated chelation alongside histidine imidazole coordination.[2] Computational modelling suggests DAHK-Cu may adopt multiple stable copper-binding configurations, with relative stability influenced by solvent environment and pH. These properties position DAHK-Cu as a potentially relevant species in albumin-mediated copper transport and in redox biology research contexts.
+[p] AHK-Cu has been investigated for its potential to modulate vascular endothelial growth factor (VEGF) and TGF-β1 expression in fibroblast and endothelial cell cultures, with research suggesting potential regulatory roles in angiogenesis and ECM remodelling.[4]
+[h2] Copper Peptides Scientific and Research Studies
+[h3] GHK-Cu and Extracellular Matrix Biology: Collagen Synthesis and Matrix Metalloproteinase Regulation
+[p] Foundational research by Maquart et al. (1988)[5] characterized the perceived effects of GHK-Cu on collagen synthesis in primary fibroblast cultures. GHK-Cu exposure at nanomolar concentrations was associated with measurable increases in collagen production relative to untreated control cultures, establishing a precedent for the peptide’s potential role as a fibroblast-activating signal. These early observations prompted investigation into the ECM regulatory mechanisms through which GHK-Cu might exert its effects.
+[p] Subsequent investigations by Siméon et al. (2000)[6] extended this characterization to matrix metalloproteinase (MMP) biology. GHK-Cu exposure in fibroblast cultures was associated with elevated matrix metalloproteinase-2 (MMP-2) expression, alongside concurrent up-regulation of tissue inhibitors of metalloproteinases-1 and -2 (TIMP-1 and TIMP-2). Research suggests this dual regulatory pattern appear to show that GHK-Cu participates in a coordinated ECM remodelling response, in which controlled MMP-mediated matrix degradation is balanced by TIMP-mediated inhibition to preserve matrix structural integrity. These findings may inform the study of age-related changes in ECM homeostasis and wound-associated tissue remodelling processes.[6]
+[h3] GHK-Cu and Wound Repair: Comparative Preclinical Models
+[p] A controlled study by Cangul et al. (2006)[7] evaluated GHK-Cu against zinc oxide in a standardized open-wound model using 18 New Zealand White rabbits divided into three groups: GHK-Cu, zinc oxide, and placebo. Wound assessments were conducted over a 21-day period following standardized wound induction. The investigators reported that the GHK-Cu group exhibited significantly greater mean wound contraction relative to both the zinc oxide and placebo groups, and concluded that the tripeptide-copper complex may represent a more effective choice within wound care research protocols compared to zinc oxide under the conditions studied.[7]
+[p] A follow-up investigation by Gul et al. (2008)[8] compared GHK-Cu with helium-neon laser therapy at energy levels of 1 J/cm² and 3 J/cm² across 24 New Zealand White rabbits over a 28-day wound monitoring period. Post-experimental histological analysis suggest that subjects receiving GHK-Cu exhibited reduced neutrophil infiltration indicative of attenuated inflammatory response and increased neovascularization, potentially reflecting accelerated tissue regeneration. Research suggests these findings might suggest complementary anti-inflammatory and pro-angiogenic properties of GHK-Cu in wound repair contexts.[8]
+[h3] GHK-Cu in Neuropathic Ulcer Models
+[p] A controlled trial by Mulder et al. (1994)[9] evaluated GHK-Cu peptide complex gel in subjects with neuropathic plantar ulcers, employing a randomized placebo-controlled design with a standardized sharp debridement protocol. Subjects allocated to the GHK-Cu gel group exhibited wound closure rates exceedingly high, compared to relatively lower rate in the placebo control group.9] Research suggests these findings might show that GHK-Cu engagement of tissue remodelling and cellular regeneration pathways may produce measurable improvements in wound resolution relative to standard care in neuropathic ulcer models.
+[h3] GHK-Cu and GHK-Cu-Loaded Biomaterial Dressings: Wound Healing Research
+[p] A recent investigation by Wang et al. (2024)[15] developed and evaluated an electrospun GHK-Cu/pionin-loaded polyvinyl butyral/polyvinylpyrrolidone (PVB/PVP) smart wound dressing in a controlled wound healing model. The composite dressing was designed to enable controlled release of GHK-Cu from a fibrous scaffold matrix. Outcomes assessed included oxidative stress markers, inflammatory cytokine profiles, antimicrobial activity, and tissue regenerative endpoints across wound closure assessments.[15]
+[p] Research suggests that the GHK-Cu-loaded composite dressing was associated with accelerated wound closure, reduced pro-inflammatory cytokine expression, decreased oxidative stress markers, and enhanced tissue regeneration relative to control dressings. The investigators proposed that GHK-Cu’s anti-oxidant, anti-inflammatory, and ECM-modulatory properties may be delivered in a sustained, localized manner through electrospun scaffold integration. Research suggests these findings suggest that GHK-Cu-functionalized biomaterial platforms could represent a relevant direction for investigating advanced wound care systems in preclinical models.
+[h3] GHK-Cu and Antioxidant and Anti-inflammatory Signalling in Pulmonary Models
+[p] Research by Zhang et al. (2022)[10] examined the potential of GHK-Cu in murine models exposed to cigarette smoke (CS), evaluating pro-inflammatory cytokine expression, neutrophil-mediated inflammatory indices, and oxidative stress biomarkers in pulmonary tissue. Findings appear to show that GHK-Cu exposure was associated with reductions in bronchoalveolar lavage concentrations of interleukin-1β (IL-1β) and tumour necrosis factor-α (TNF-α), and with attenuation of myeloperoxidase (MPO) activity in lung tissue.[10]
+[h3] GHK-Cu and Neuromodulatory Biology: Anxiety, Aggression, and Pain
+[p] Preclinical behavioural investigations have explored the neuromodulatory properties of GHK-Cu across multiple experimental paradigms. Bobyntsev et al. (2015)[11] evaluated any anxiolytic effects using an elevated plus maze model in rodents, a validated paradigm in which increased open-arm exploration reflects reduced anxiety-like behaviour. GHK-Cu-exposed animals reportedly exhibited significant changes in anxiety-related behavioural measures relative to untreated controls, with the pattern of results interpreted as potentially consistent with anxiolytic activity.[11]
+[p] Another research[12] examined GHK effects on pain-induced aggressive-defensive behaviour in a rodent model employing mild electrical stimulation to provoke aggression between paired animals. Exposure to the Gly-His-Lys peptide sequence 12 minutes prior to stimulation was associated with an approximately fivefold reduction in aggressive interaction frequency relative to untreated controls.[12] Research suggests these observations speculate that GHK-Cu may modulate stress-induced behavioural responses through neuromodulatory mechanisms, though the specific receptor and signalling pathways underlying these preclinical findings warrant further mechanistic characterization.
+[h3] GHK-Cu and Cognitive Resilience in Aged Animal Models
+[p] A recent preprint investigation by Tucker et al. (2023)[14] examined the potential of intranasal GHK-Cu on cognitive performance and neuroinflammatory markers in aged C57BL/6 mice at 20 months of age. The experimental model involved twice-daily intranasal GHK-Cu exposure over a two-month period, with cognitive performance evaluated using spatial memory and learning navigation tasks, and neurobiological outcomes assessed through markers of neuroinflammation and axonal integrity.
+[p] Findings suggested that aged mice receiving GHK-Cu exhibited enhanced cognitive performance in spatial memory and learning navigation tasks relative to saline-treated controls. Additionally, neuroinflammatory marker expression and axonal damage indices were reduced in GHK-Cu-treated animals compared to controls.[14] Research suggests these preliminary observations might suggest that GHK-Cu engagement of antioxidant and anti-inflammatory pathways may extend to the central nervous system, and that copper peptide signalling could represent a relevant target for investigating age-associated cognitive decline in preclinical models. The authors note that further peer-reviewed investigation is warranted to confirm and extend these findings.
+[h3] AHK-Cu: Dermal Fibroblast Activation, Collagen Synthesis, and Hair Follicle Biology
+[p] AHK-Cu has been investigated in dermatological and follicular biology research contexts. Preclinical data reviewed by Patt et al.[4] suggest that AHK-Cu may stimulate collagen synthesis in dermal fibroblast models, with observed increases in collagen and elastin production associated with enhanced dermal matrix density in animal models. The proposed mechanism involves AHK-Cu-mediated modulation of VEGF and TGF-β1 expression, with downstream activation of both fibroblasts which produce structural matrix proteins and endothelial cells, which support vascular network formation in regenerating tissue.[4]
+[a https://biotechpeptides.com/product/ahk-cu-topical-200mg/] AHK-Cu
+[h3] DAHK-Cu: Computational Characterization and Redox Biology
+[p] Milner et al. (2021)² conducted a computational study of copper binding to the DAHK tetrapeptide using molecular modelling approaches to characterize the coordination geometry, binding energy landscape, and electronic properties of the DAHK-Cu complex. Findings reportedly suggest that DAHK may adopt multiple stable Cu²⁺ coordination configurations, with the aspartyl carboxylate and histidyl imidazole residues contributing to a flexible multi-dentate coordination environment.² Research suggests these computational findings might suggest that DAHK-Cu’s structural flexibility could enable dynamic participation in copper ion transport and redox cycling processes in albumin-mediated copper homeostasis, with potential implications for the study of copper dysregulation in oxidative stress and neurodegenerative research contexts.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] Pickart L, Margolina A. Regenerative and Protective Actions of the GHK-Cu Peptide in the Light of the New Gene Data. Int J Mol Sci. 2018;19(7):1987. doi:10.3390/ijms19071987. PMID: 29986520. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC6073405/
+[a https://pmc.ncbi.nlm.nih.gov/articles/PMC6073405/] https://pmc.ncbi.nlm.nih.gov/articles/PMC6073405/
+[li] Milner A, Alshammari N, Platts JA. Computational study of copper binding to DAHK peptide. Inorganica Chimica Acta. 2021;528:120589. doi:10.1016/j.ica.2021.120589. Available from: https://doi.org/10.1016/j.ica.2021.120589
+[a https://doi.org/10.1016/j.ica.2021.120589] https://doi.org/10.1016/j.ica.2021.120589
+[li] Pickart L, Vasquez-Soltero JM, Margolina A. GHK and DNA: resetting the human genome to health. Biomed Res Int. 2014;2014:151479. doi:10.1155/2014/151479. PMID: 25302294. Available from: https://pubmed.ncbi.nlm.nih.gov/25302294/
+[a https://pubmed.ncbi.nlm.nih.gov/25302294/] https://pubmed.ncbi.nlm.nih.gov/25302294/
+[li] Patt LM. Neova DNA Repair Factor Nourishing Lotion Stimulates Collagen and Speeds Natural Repair Process. Procyte/Neova Clinical Study Report. Available from: https://www.dermacaredirect.co.uk/skin/frontend/default/dermacare/pdf/neova-dna-nourishing-study.pdf
+[a https://www.dermacaredirect.co.uk/skin/frontend/default/dermacare/pdf/neova-dna-nourishing-study.pdf] https://www.dermacaredirect.co.uk/skin/frontend/default/dermacare/pdf/neova-dna-nourishing-study.pdf
+[li] Maquart FX, Pickart L, Laurent M, Gillery P, Monboisse JC, Borel JP. Stimulation of collagen synthesis in fibroblast cultures by the tripeptide-copper complex glycyl-L-histidyl-L-lysine-Cu2+. FEBS Lett. 1988;238(2):343-6. doi:10.1016/0014-5793(88)80509-x. PMID: 3169264. Available from: https://pubmed.ncbi.nlm.nih.gov/3169264/
+[a https://pubmed.ncbi.nlm.nih.gov/3169264/] https://pubmed.ncbi.nlm.nih.gov/3169264/
+[li] Siméon A, Emonard H, Hornebeck W, Maquart FX. The tripeptide-copper complex glycyl-L-histidyl-L-lysine-Cu2+ stimulates matrix metalloproteinase-2 expression by fibroblast cultures. Life Sci. 2000;67(18):2257-65. doi:10.1016/s0024-3205(00)00803-1. PMID: 11045606. Available from: https://pubmed.ncbi.nlm.nih.gov/11045606/
+[a https://pubmed.ncbi.nlm.nih.gov/11045606/] https://pubmed.ncbi.nlm.nih.gov/11045606/
+[li] Cangul IT, Gul NY, Topal A, Yilmaz R. Evaluation of the effects of tripeptide-copper complex and zinc oxide on open-wound healing in rabbits. Vet Dermatol. 2006;17(6):417-23. doi:10.1111/j.1365-3164.2006.00551.x. PMID: 17083573. Available from: https://pubmed.ncbi.nlm.nih.gov/17083573/
+[a https://pubmed.ncbi.nlm.nih.gov/17083573/] https://pubmed.ncbi.nlm.nih.gov/17083573/
+[li] Gul NY, Topal A, Cangul IT, Yanik K. The effects of tripeptide copper complex and helium-neon laser on wound healing in rabbits. Vet Dermatol. 2008;19(1):7-14. doi:10.1111/j.1365-3164.2007.00647.x. PMID: 18177285. Available from: https://pubmed.ncbi.nlm.nih.gov/18177285/
+[a https://pubmed.ncbi.nlm.nih.gov/18177285/] https://pubmed.ncbi.nlm.nih.gov/18177285/
+[li] Mulder GD, Patt LM, Sanders L, Rosenstock J, Altman MI, Hanley ME, Duncan GW. Enhanced healing of ulcers in patients with diabetes by treatment with glycyl-l-histidyl-l-lysine copper. Wound Repair Regen. 1994;2(4):259-69. doi:10.1046/j.1524-475X.1994.20406.x. PMID: 17147644. Available from: https://pubmed.ncbi.nlm.nih.gov/17147644/
+[a https://pubmed.ncbi.nlm.nih.gov/17147644/] https://pubmed.ncbi.nlm.nih.gov/17147644/
+[li] Zhang Q, Yan L, Lu J, Zhou X. Glycyl-L-histidyl-L-lysine-Cu2+ attenuates cigarette smoke-induced pulmonary emphysema and inflammation by reducing oxidative stress pathway. Front Mol Biosci. 2022;9:925700. doi:10.3389/fmolb.2022.925700. Available from: https://doi.org/10.3389/fmolb.2022.925700
+[a https://doi.org/10.3389/fmolb.2022.925700] https://doi.org/10.3389/fmolb.2022.925700
+[li] Bobyntsev II, Chernysheva OI, Dolgintsev ME, Smakhtin MY, Belykh AE. Anxiolytic effects of Gly-His-Lys peptide and its analogs. Bull Exp Biol Med. 2015;158(6):726-8. doi:10.1007/s10517-015-2847-3. PMID: 25900608. Available from: https://pubmed.ncbi.nlm.nih.gov/25900608/
+[a https://pubmed.ncbi.nlm.nih.gov/25900608/] https://pubmed.ncbi.nlm.nih.gov/25900608/
+[li] Sever’yanova LA, Dolgintsev ME. Effects of Tripeptide Gly-His-Lys in Pain-Induced Aggressive-Defensive Behavior in Rats. Bull Exp Biol Med. 2017;164(2):140-143. doi:10.1007/s10517-017-3943-3. PMID: 29181666. Available from: https://pubmed.ncbi.nlm.nih.gov/29181666/
+[a https://pubmed.ncbi.nlm.nih.gov/29181666/] https://pubmed.ncbi.nlm.nih.gov/29181666/
+[li] Pyo HK, Yoo HG, Won CH, Lee SH, Kang YJ, Eun HC, Cho KH, Kim KH. The effect of tripeptide-copper complex on hair growth in vitro. Arch Pharm Res. 2007;30(7):834-9. doi:10.1007/BF02978833. PMID: 17703734. Available from: https://pubmed.ncbi.nlm.nih.gov/17703734/
+[a https://pubmed.ncbi.nlm.nih.gov/17703734/] https://pubmed.ncbi.nlm.nih.gov/17703734/
+[li] Tucker M, Keely A, Park JY, Rosenfeld M, Wezeman J, Mangalindan R, Ratner D, Ladiges W. Intranasal GHK peptide enhances resilience to cognitive decline in aging mice. bioRxiv [Preprint]. 2023 Nov 17:2023.11.16.567423. doi:10.1101/2023.11.16.567423. PMCID: PMC10680828. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC10680828/
+[a https://pmc.ncbi.nlm.nih.gov/articles/PMC10680828/] https://pmc.ncbi.nlm.nih.gov/articles/PMC10680828/
+[li] Wang Y, Zheng Z, Pathak JL, Cheng H, Huang S, Fu Z, Li P, Wu L, Zheng H. GHK-Cu/pionin-loaded in situ electrospun PVB/PVP smart dressing promotes wound healing via anti-oxidant, anti-inflammatory, antimicrobial, and tissue regenerative effects. Chem Eng J. 2024;492:152154. doi:10.1016/j.cej.2024.152154. Available from: https://doi.org/10.1016/j.cej.2024.152154
+[a https://doi.org/10.1016/j.cej.2024.152154] https://doi.org/10.1016/j.cej.2024.152154
+[li] National Center for Biotechnology Information. PubChem Compound Summary for CID 133697840, GHK-Cu. 2025. Available from: https://pubchem.ncbi.nlm.nih.gov/compound/GHK-Cu
+[a https://pubchem.ncbi.nlm.nih.gov/compound/GHK-Cu] https://pubchem.ncbi.nlm.nih.gov/compound/GHK-Cu
+[li] National Center for Biotechnology Information. PubChem Compound Summary for CID 168431292, AHK-Cu. 2025. Available from: https://pubchem.ncbi.nlm.nih.gov/compound/168431292
+[a https://pubchem.ncbi.nlm.nih.gov/compound/168431292] https://pubchem.ncbi.nlm.nih.gov/compound/168431292
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

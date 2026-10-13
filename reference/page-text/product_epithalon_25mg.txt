@@ -1,0 +1,135 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/Epithalon-1.webp] 
+[img] Epithalon (25mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Epithalon-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Epithalon-25mg-COA-scaled.webp] 
+[img] Epithalon (25mg) COA :: https://biotechpeptides.com/wp-content/uploads/2026/04/Epithalon-25mg-COA-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Epithalon-25mg-LC-scaled.webp] 
+[img] Epithalon (25mg) LC :: https://biotechpeptides.com/wp-content/uploads/2026/04/Epithalon-25mg-LC-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Epithalon-25mg-MS-scaled.webp] 
+[img] Epithalon (25mg) MS :: https://biotechpeptides.com/wp-content/uploads/2026/04/Epithalon-25mg-MS-scaled.webp
+[h1] Epithalon (25mg)
+[p] $94.00
+[p] Epithalon peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_690 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $89.30
+[input name=wccs_tier_select_690 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $84.60
+[label] Epithalon (25mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/Epithalon-25mg-.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Epithalon Peptide
+[p] Epithalon, or Epitalon, is a small synthetic peptide that appears to activate the telomerase enzyme and may promote the release of melatonin. Experimental research has suggested its potential to slow alterations in reproductive and immune systems and improve life spans in mice and rats.[1] Apart from its potential in regulating cell aging, the peptide has also played an important role in research conducted on certain classes of cancer, infectious diseases, and DNA regulation.
+[h3] Specifications
+[p] Molecular Formula: C14H22N4O9
+[p] Molecular Weight: 390.34 g/mol
+[p] Sequence: Ala-Glu-Asp-Gly
+[p] Other Known Titles: Epitalon, Epithalone, Epithalamin
+[h3] Epithalon Research
+[p] Epithalon and Cell Aging Early research on insect and murine models hypothesized that Epithalon may improve cell span to a significant extent.[2] More specifically, epithalamin, a related pineal peptide preparation containing Epithalon, has been suggested to potentially increase the mean lifespan of insect and murine models by 11–31%. Furthermore, the experiment in rats suggested a 52% decrease in mortality upon Epithalon exposure. It appears to have been impactful in mice models of cardiac disease, where the life expectancy was reported to be increased by 27% compared to control animals. The peptide has been observed to mediate action by eliminating free radicals (charged molecules that damage tissue). More specifically, this potential antioxidative action of the peptide may inhibit free radical processes in both murine and insect models, and it is suggested that these antioxidative properties may potentially lead to increased lifespan in other test models. Apart from studies focused on its antioxidant activity, Epithalon has also been studied for its potential to activate an enzyme called telomerase in cell culture assays. Telomerase is considered to preserve the ends of chromosomes, known as telomeres, which are deemed crucial for maintaining the integrity of DNA. Epithalon may potentially preserve the DNA from damage by activating the telomerase and decreasing the number of errors in the DNA strands. This dual potential of enhancing antioxidant defense and possibly boosting telomere integrity might explain some of the lifespan-extending actions hypothesized in epithalamin and Epithalon models. Another study posited that Epithalon might reduce intracellular reactive oxygen species (ROS) in aged oocyte cells, suggesting antioxidative characteristics.[3] Specifically, Epithalon appeared to decrease ROS accumulation significantly compared to higher concentrations, which did not yield the same protective action. This reduction in ROS might be crucial, as oxidative stress is considered a key factor in cellular aging. Epithalon also potentially preserves oocyte structural integrity. It was observed to decrease fragmentation rates in post-ovulatory aged oocytes and during parthenogenetic activation. Fragmentation, indicative of compromised cytoplasmic integrity, was notably reduced in the 0.1mM Epithalon group, implying a protective action on cellular morphology. Additionally, Epithalon appeared to maintain spindle integrity and proper cortical granule (CG) distribution. Spindle abnormalities, common in aged oocytes, appeared to have been mitigated by Epithalon, as was the mislocalization of CGs, which are essential for fertilization. These findings suggest that epithalons may help preserve the cytoskeletal and cortical structure of oocytes during aging. Mitochondrial function, a critical aspect of oocyte viability, appeared to be also positively affected by Epithalon. The study reported higher mitochondrial membrane potential and increased mtDNA copy numbers in Epithalon-exposed oocytes. Given that mitochondria are pivotal in ATP production and cellular energy metabolism, these findings propose that Epithalon may support mitochondrial integrity and functionality during oocyte aging. Furthermore, Epithalon experimentation seemed to reduce DNA damage and apoptosis in aged oocytes. The peptide decreased the fluorescence intensity of γH2AX signals, a marker of DNA damage, and appeared to have lowered apoptosis rates as indicated by Annexin-V staining. This implies that Epithalon might enhance oocyte survival by mitigating oxidative damage and preserving genomic stability.
+[p] Epithalon and DNA Activation and Gene Expression Epithalon is being actively researched to explore the mechanisms by which this peptide may mediate longevity. One such potential pathway may be the regulation of certain gene expressions.[4] Studies evaluating the effect of peptide exposure in cell cultures have noted that Epithalon appears to directly interact with promoter regions of certain genes such as Tram1, IL-2, CD5, and MMP2 and may also enhance their expression. CD5 and IL-2 are both involved in the functions of the immune system, while MMP2 is considered to play a role in the maintenance of extracellular matrix in tendons, skin, and other connective tissue. Epithalon appears to trigger interferon-gamma synthesis from aging lymphocytes in rats. Interferon-gamma is a relevant signaling molecule of the immune system and supports combating viral infections through T lymphocyte, macrophage, and natural killer cell activation. Another study investigated the potential mechanisms of the Epithalon in influencing gene expression and protein synthesis in stem cells such as gingival mesenchymal stem cells (hGMSCs).[5] The Epithalon peptide was suggested to induce neuronal cell differentiation in retinal and periodontal ligament stem cells (hPDLSCs). Epithalon peptide experimentation appeared to have led to an upregulation of neurogenic differentiation markers, including Nestin, GAP43, β Tubulin III, and Doublecortin, in hGMSCs. Specifically, mRNA expression of these markers increased by 1.6 to 1.8 times. This suggests a potential epigenetic mechanism where Epithalon peptide may regulate gene expression and protein synthesis related to neuronal differentiation. The study posits that the Epithalon peptide may interact specifically with histones, altering chromatin structure and thereby modulating gene expression. The Epithalon peptide's epigenetic regulation mechanism might involve competitive binding with histones at DNA interaction sites, increasing the likelihood of transcription for genes involved in neuronal differentiation. Molecular modeling indicated that Epithalon peptide may bind preferentially with histones H1/6 and H1/3 at specific sites, which may interact with DNA. This binding might facilitate increased transcription of neurogenic differentiation genes. The peptide-histone interaction might disrupt histone-DNA binding, potentially enhancing gene accessibility for transcription.
+[p] Epithalon and Extracellular Matrix (Skin ECM) Experimental research suggests Epithalon’s potential to induce MMP2 expression. MMP2 is a protein found in connective tissue like skin. It may act as an enzyme with a potential role in the breakdown of extracellular matrix components, vital for tissue remodeling and repair. In the context of Epithalon, the induction of MMP2 expression might imply enhanced tissue regeneration and repair processes. Research in rodents indicates that apart from the activation of MMP2, the peptide might also activate fibroblasts, which produce and maintain MMP2 and other components of the extracellular matrix, such as collagen and elastin. Mice exposed to Epithalon exhibited 30-45% higher activation of fibroblasts than controls.[6] This increase in fibroblast activity suggests a possible route through which Epithalon may exert its actions on tissue repair and regeneration. Epithalon also appears to inhibit the activity of Caspase-3, a key enzyme that is considered to promote apoptosis (programmed cell death).[7] By inhibiting Caspase-3, Epithalon might contribute to cellular longevity and reduced apoptosis, which may complement its regenerative potential, yet this hypothesis demands more comprehensive research for validation.
+[p] Epithalon and Tumor Growth Daily exposure to the peptide in rat models of cancerous tumors reported a reduction in tumor growth, with the burden diminishing the metastasis of the cells to distant tissues. Epithalon is currently under research for its interaction in Her-2/neu positive breast cancer, testicular cancer, and certain types of leukemia. Scientific research associates the peptide with activating the PER1 protein produced in the hypothalamus.[8] The gene is involved in regulating the circadian rhythm and is considered under-expressed in cancer instances. PER1 has been suggested to influence cancer progression once cancer has been established. It follows that control of PER1 expression may potentially be employed to reduce tumor growth. PER1 expression in cells appears to sensitize cancer cells to radiation. This is considered to exhibit a two-fold action. It may not only decrease tumor size and burden and decrease radiation, but it may also minimize the chances of secondary tumors from extensive radiation. Research is ongoing to further elucidate this hypothesis.
+[p] Epithalon and Melatonin Secretion Melatonin is a hormone produced by the pineal gland that regulates sleep cycles. Studies on rats have suggested that Epithalon and similar peptides may potentially regulate the synthesis and secretion of melatonin by influencing the expression of two proteins: arylalkylamine-N-acetyltransferase (AANAT) and pCREB transcription protein.[9] These genes are believed to be involved in melatonin production and the circadian (day/night) control of hormone release. Research in monkeys observed that Epithalon may potentially restore normal physiological levels of melatonin.
+[p] Epithalon and Vision Epithalon has been studied in rat models of retinitis pigmentosa.[10] These studies reported that the peptide appeared to improve the outcome in 90% of the cohort. Generally, research in Epithalon has suggested its potential to preserve the overall structure of the eye and boost the retina's bioelectric function, which is deemed important for fully functional vision.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Khavinson VKh. Peptides and Ageing. Neuro Endocrinol Lett. 2002;23 Suppl 3:11-144. PMID: 12374906.
+[li] Anisimov VN, Mylnikov SV, Khavinson VK. Pineal peptide preparation epithalamin increases the lifespan of fruit flies, mice and rats. Mech Ageing Dev. 1998 Jun 15;103(2):123-32. doi: 10.1016/s0047-6374(98)00034-7. PMID: 9701766.
+[a https://doi.org/10.1016/s0047-6374(98)00034-7] doi: 10.1016/s0047-6374(98)00034-7
+[li] Yue X, Liu SL, Guo JN, Meng TG, Zhang XR, Li HX, Song CY, Wang ZB, Schatten H, Sun QY, Guo XP. Epitalon protects against post-ovulatory aging-related damage of mouse oocytes in vitro. Aging (Albany NY). 2022 Apr 12;14(7):3191-3202. doi: 10.18632/aging.204007. Epub 2022 Apr 12. PMID: 35413689; PMCID: PMC9037278.
+[a https://pubmed.ncbi.nlm.nih.gov/35413689/] doi: 10.18632/aging.204007
+[li] Khavinson, V. K.h, Tarnovskaya, S. I., Linkova, N. S., Pronyaeva, V. E., Shataeva, L. K., & Yakutseni, P. P. (2013). Short cell-penetrating peptides: a model of interactions with gene promoter sites. Bulletin of experimental biology and medicine, 154(3), 403–410. https://doi.org/10.1007/s10517-013-1961-3
+[a https://doi.org/10.1007/s10517-013-1961-3] https://doi.org/10.1007/s10517-013-1961-3
+[li] Khavinson V, Diomede F, Mironova E, Linkova N, Trofimova S, Trubiani O, Caputi S, Sinjari B. AEDG Peptide (Epitalon) Stimulates Gene Expression and Protein Synthesis during Neurogenesis: Possible Epigenetic Mechanism. Molecules. 2020 Jan 30;25(3):609. doi: 10.3390/molecules25030609. PMID: 32019204; PMCID: PMC7037223.
+[a https://pubmed.ncbi.nlm.nih.gov/32019204/] doi: 10.3390/molecules25030609
+[li] Chalisova, N. I., Lin'kova, N. S., Zhekalov, A. N., Orlova, A. O., Ryzhak, G. A., & Khavinson, V. K.h (2014). Advances in gerontology = Uspekhi gerontologii, 27(4), 699–703.
+[li] Lin'kova, N. S., Drobintseva, A. O., Orlova, O. A., Kuznetsova, E. P., Polyakova, V. O., Kvetnoy, I. M., & Khavinson, V. K.h (2016). Peptide Regulation of Skin Fibroblast Functions during Their Aging In Vitro. Bulletin of experimental biology and medicine, 161(1), 175–178. https://doi.org/10.1007/s10517-016-3370-x
+[a https://doi.org/10.1007/s10517-016-3370-x] https://doi.org/10.1007/s10517-016-3370-x
+[li] Gery, S., Komatsu, N., Baldjyan, L., Yu, A., Koo, D., & Koeffler, H. P. (2006). The circadian gene per1 plays an important role in cell growth and DNA damage control in human cancer cells. Molecular cell, 22(3), 375–382. https://doi.org/10.1016/j.molcel.2006.03.038
+[a https://doi.org/10.1016/j.molcel.2006.03.038] https://doi.org/10.1016/j.molcel.2006.03.038
+[li] Korkushko, O. V., Lapin, B. A., Goncharova, N. D., Khavinson, V. K.h, Shatilo, V. B., Vengerin, A. A., Antoniuk-Shcheglova, I. A., & Magdich, L. V. (2007). Advances in gerontology = Uspekhi gerontologii, 20(1), 74–85.
+[li] Khavinson, V., Razumovsky, M., Trofimova, S., Grigorian, R., & Razumovskaya, A. (2002). Pineal-regulating tetrapeptide epitalon improves eye retina condition in retinitis pigmentosa. Neuro endocrinology letters, 23(4), 365–368.
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Thymalin (25mg) $114.00
+[a https://biotechpeptides.com/product/thymalin-25mg/] Thymalin (25mg) $114.00
+[img] Thymalin (25mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Thymalin-1-238x317.webp
+[h2] Thymalin (25mg)
+[li] Thymosin Alpha-1 (10mg) $130.00
+[a https://biotechpeptides.com/product/thymosin-alpha-1-10mg/] Thymosin Alpha-1 (10mg) $130.00
+[img] Thymosin Alpha-1 (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Thymosin-Alpha-1-1-238x317.webp
+[h2] Thymosin Alpha-1 (10mg)
+[li] Pinealon (20mg) $68.00
+[a https://biotechpeptides.com/product/pinealon-20mg/] Pinealon (20mg) $68.00
+[img] Pinealon (20mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Pinealon-1-238x317.webp
+[h2] Pinealon (20mg)
+[li] FOXO4-DRI (Proxofim) (10mg) $270.00
+[a https://biotechpeptides.com/product/foxo4-dri-proxofim-10mg/] FOXO4-DRI (Proxofim) (10mg) $270.00
+[img] FOXO4-DRI (Proxofim) (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/FOX04-DRI-1-1-238x317.webp
+[h2] FOXO4-DRI (Proxofim) (10mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

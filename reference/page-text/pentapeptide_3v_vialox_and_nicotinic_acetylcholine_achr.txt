@@ -1,0 +1,90 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Pentapeptide-3V (Vialox) and Nicotinic Acetylcholine (ACHR)
+[p] by Dr. Usman | Jul 27, 2022 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Pentapeptide-3V (Vialox) and Nicotinic Acetylcholine (ACHR) :: https://biotechpeptides.com/wp-content/uploads/2022/07/Pentapeptide-3V-Vialox-and-Nicotinic-Acetylcholine-ACHR.avif
+[a https://biotechpeptides.com/product/vialox-pentapeptide-3v-topical-200mg/] Vialox
+[p] Pentapeptide-3V may prevent muscle contraction by exhibiting a curare-like effect at the neuromuscular junction, disallowing the nervous system signals from reaching the muscles.
+[p] Pentapeptide-3V is of primary interest because of its influential ability to communicate between muscles and nerves.
+[p] Pentapeptide-3V may affect the signal transmission between nerves and muscles. In normal conditions, signals are transmitted following the release of acetylcholine from its axon by nerves. Contraction occurs following the conduction of acetylcholine across the neuromuscular junction to bind to a receptor on the muscle. Pentapeptide-3V appears to halt contraction by binding to the AChR.[3] By doing this, it may block acetylcholine from binding. This may result in a reduced amount of acetylcholine binding and reduced strength and number of muscle contractions.
+[p] Acetylcholine appears to bind to a muscle receptor, limiting sodium ion release at the neuromuscular junction. Depolarization occurs, resulting in electrical pulses that cause wrinkles and muscle contraction. By binding to AChR, Pentapeptide-3V may potentially inhibit this process. When Pentapeptide-3V binds to AChR, it may inhibit acetylcholine binding.
+[p] Pentapeptide-3V appears to only affect peripheral AChRs and may not potentially affect central neuronal receptors, unlike the other nicotinic acetylcholine receptor antagonists. This suggests that Pentapeptide-3V only acts on the neuromuscular junction.
+[p] The overall result of Pentapeptide-3V activity is suggested to be a reduction in acetylcholine binding following the reduction in the frequency and intensity of muscular contractions.[4]
+[p] Pentapeptide-3V may potentially reduce average skin roughness by 11% and relief by 8%. Because relief is proportional to wrinkle size, Vialox can reduce wrinkles by an average of 8%. These are in approximately 60% and 47% of the animal subjects examined. According to Reddy et al. “this product is effective in smoothing … wrinkles and provides an immediate tightening effect to the skin.”[5]
+[p] Pentapeptide-3V, a protein composed of lysine, threonine, and serine, is considered an abundant protein in skin collagen. It appears to act directly on the dermis to stimulate collagen production. Ancillary compounds examined in studies, such as Vitamin A, according to research conducted by specialists in the Department of Dermatology, suggest that Pentapeptide-3V may potentially increase collagen growth, improving skin compaction. Pentapeptide-3V may stimulate collagen production in the skin, reversing aging and minimizing wrinkles. Vialox may also improve the production of melanin to act in mitigatory fashion against UV radiation.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Servent, D. et al. Only Snake Curaremimetic Toxins with a Fifth Disulfide Bond Have High Affinity for the Neuronal α7 Nicotinic Receptor. J. Biol. Chem. 272, 24279–24286 (1997) DOI: 10.1074/jbc.272.39.24279
+[a https://doi.org/10.1074/jbc.272.39.24279] DOI: 10.1074/jbc.272.39.24279
+[li] Zhmak, M. N., Utkin, Y. N., Andreeva, T. V., Kudryavtsev, D. S., Kryukova, E. V., Tsetlin, V. I., … & Shelukhina, I. V. E. (2017). U.S. Patent No. 9,550,808. Washington, DC: U.S. Patent and Trademark Office.
+[li] Gupta, V. K. Biotechnology of Bioactive Compounds: Sources and Applications. (John Wiley & Sons, 2015)
+[li] Reddy, B. Y., Jow, T., & Hantash, B. M. (2012). Bioactive oligopeptides in dermatology: Part II. Experimental dermatology, 21(8), 569-575.
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

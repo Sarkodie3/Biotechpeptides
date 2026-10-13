@@ -1,0 +1,119 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Chonluten (T-34) and its Potential in Gene Expression
+[p] by Dr. Usman | Jul 17, 2023 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Chonluten (T-34) and its Potential in Gene Expression :: https://biotechpeptides.com/wp-content/uploads/2023/07/Chonluten-T-34-and-its-Potential-in-Gene-Expression.webp
+[a https://biotechpeptides.com/product/chonluten-t-34-20mg/] Chonluten, also known as EDG tripeptide or T-34
+[p] According to laboratory research, Chonluten (T-34) may be derived from respiratory lung tissue, more specifically mucosa.[1] There, Chonluten is considered to normalize the performance of bronchial mucous membrane cells by potentially regulating genes related to inflammation, antioxidant activity, and proliferation. The peptide may also potentially improve the regeneration of cells in the gastrointestinal system.[2]
+[p] Contents:
+[li] Chonluten (T-34)Mechanisms of Action
+[a #Mechanisms] Chonluten (T-34)Mechanisms of Action
+[li] Chonluten (T-34) and Anti-Inflammatory Mechanisms
+[a #Anti-Inflammatory] Chonluten (T-34) and Anti-Inflammatory Mechanisms
+[li] Chonluten (T-34) and Gastric Cell Regeneration
+[a #Gastric] Chonluten (T-34) and Gastric Cell Regeneration
+[li] Conclusion
+[a #conclusion] Conclusion
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/chonluten-t-34-20mg/] 
+[img] Buy Chonluten (T-34) Peptide - 20mg :: https://biotechpeptides.com/wp-content/uploads/2022/06/Chonluten.png
+[h2] Chonluten (T-34) Mechanisms of Action
+[p] The peptide likely achieves its potential for regulating gene expression thanks to its small size, which may allow it to penetrate the cell’s nuclei. Researchers report that “Short peptides, consisting of 2-7 amino acid residues, can penetrate into the nuclei and nucleoli of cells and interact with the nucleosome, the histone proteins, and both single- and double-stranded DNA. DNA-peptide interactions, including sequence recognition in gene promoters, are important for template-directed synthetic reactions, replication, transcription, and reparation. Peptides can regulate the status of DNA methylation, which is an epigenetic mechanism for the activation or repression of genes“.[3] [4] [5] However, it is important to note that the aforementioned researchers have shared this information for short-peptides in general and not for Chonluten per se.
+[h2] Chonluten and Anti-Inflammatory Mechanisms
+[p] Chonluten may potentially activate the phosphorylation of STAT molecules, particularly STAT1, in macrophage cells. This activation appears to occur independently of receptor-associated kinases. STAT1, a transcription factor involved in signal transduction and gene expression regulation, potentially cooperates with receptor-associated kinases to facilitate the transfer of cytokine-mediated biological responses into the nuclei.[1]
+[p] It is hypothesized that Chonluten may potentially downregulate the phosphorylation of STAT3, another transcription factor involved in cellular signaling. STAT3 is considered to be associated with acute inflammatory stimuli and may play a role in the transcription of IL-6, a key cytokine in the acute phase response during inflammation and infectious diseases. By modulating STAT3 phosphorylation, Chonluten could affect the transcriptional activity of IL-6 and influence the inflammatory response.[1]
+[p] Moreover, Chonluten (T-34) research has posited its possible efficacy in decreasing the levels of IL-6, TNF (tumor necrosis factor), and IL-17 in macrophages activated by lipopolysaccharide (LPS), a component of bacterial cell walls. IL-6 is a pro-inflammatory cytokine involved in immune responses, while TNF and IL-17 are also pro-inflammatory cytokines that contribute to inflammation and immune system regulation. Chonluten’s potential ability to downregulate the production of these cytokines suggests its possible role in dampening pro-inflammatory processes in activated macrophages. More specifically, the researchers comment that “tripeptide, derived from bronchial epithelial cells, inhibited in vitro tumor necrosis factor (TNF) production of monocytes exposed to pro-inflammatory bacterial lipopolysaccharide (LPS). The low TNF release by monocytes is linked to a documented mechanism of TNF tolerance, promoting attenuation of inflammatory action.“[1]
+[p] Additionally, Chonluten may attenuate the adhesion mechanism between endothelium (the inner lining of blood vessels) and immune cells. This observation was made in co-incubation experiments with LPS-activated endothelial cells. By modulating this adhesion mechanism, Chonluten might influence immune cell migration and trafficking, essential in inflammation and immune responses.[1]
+[h2] Chonluten (T-34) and Gastric Cell Regeneration
+[p] Chonluten appears to have the potential to enhance gastrointestinal cell regeneration by potentially regulating the expression of genes associated with antioxidant enzymes, such as superoxide dismutase (SOD). Research conducted on the peptide has suggested this ability through the compound apparently normalizing the expression of these genes, through which Chonluten seemingly aids in restoring the balance of antioxidant defense mechanisms in the gastric mucosa. This regulatory action on antioxidant systems may contribute to a potential reduction in oxidative stress and promote cell regeneration.[2]
+[p] Furthermore, it is hypothesized that the Chonluten peptide may have an anti-inflammatory potential by influencing the expression of genes involved in the inflammatory response, such as TNF-α and cyclooxygenase-2 (Cox-2). By potentially reducing the expression of these inflammatory mediators, the Chonluten peptide supposedly assists in controlling inflammation in the gastric mucosa, thus facilitating the cell regeneration process.[2]
+[p] Moreover, the Chonluten may possibly stimulate granulation tissue formation, which is crucial for tissue repair. It may stimulate the proliferation of fibroblasts and the growth of blood vessels within the granulation tissue and also may facilitate the regeneration of damaged gastric mucosa. Additionally, Chonluten may promote the epithelialization of the ulcer by the apparent stimulation of the proliferation of epithelial cells, potentially leading to the closure of the ulcer defect.[2]
+[p] It is also posited that Chonluten (T-34) may exhibit a reparative action by potentially reducing excessive apoptosis (programmed cell death) in the gastric mucosa. It has been suggested by researchers to possibly regulate the expression of heat shock protein 70 (HSP70), which is believed to play a role in protecting cells from apoptotic stimuli. By modulating HSP70 expression, the peptide might help prevent excessive cell apoptosis and potentially promote tissue survival and repair.[2]
+[p] In contrast, additional studies have reported that Chonluten may have insignificant potential for the proliferation of other cell lines, such as skin cell lines.[6] Therefore, more research is needed to delve into the potential mechanisms and actions of Chonluten.
+[h2] Conclusion
+[p] In conclusion, Chonluten, a short peptide consisting of three amino acids, appears to hold promising potential as a bioregulator of gene expression. The mechanisms of action of Chonluten suggest that it may have the ability to penetrate cell nuclei and potentially interact with DNA, hypothetically regulating gene activation or repression. Further, Chonluten (T-34) seemingly exhibits anti-inflammatory properties by modulating the phosphorylation of transcription factors involved in cytokine-mediated responses and potentially reducing the production of pro-inflammatory cytokines. Some studies also suggest that Chonluten might promote gastric cell regeneration by regulating antioxidant enzyme expression, controlling inflammatory mediators, stimulating tissue formation and epithelialization, and preventing excessive apoptosis, but more research is needed. Overall, further investigation is required to fully understand the potential of Chonluten on other cell lines and cell cultures.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Avolio, F., Martinotti, S., Khavinson, V. K., Esposito, J. E., Giambuzzi, G., Marino, A., Mironova, E., Pulcini, R., Robuffo, I., Bologna, G., Simeone, P., Lanuti, P., Guarnieri, S., Trofimova, S., Procopio, A. D., & Toniato, E. (2022). Peptides Regulating Proliferative Activity and Inflammatory Pathways in the Monocyte/Macrophage THP-1 Cell Line. International journal of molecular sciences, 23(7), 3607. https://doi.org/10.3390/ijms23073607
+[a https://doi.org/10.3390/ijms23073607] https://doi.org/10.3390/ijms23073607
+[li] Khavinson, V. K.h, Lin’kova, N. S., Dudkov, A. V., Polyakova, V. O., & Kvetnoi, I. M. (2012). Peptidergic regulation of expression of genes encoding antioxidant and anti-inflammatory proteins. Bulletin of experimental biology and medicine, 152(5), 615–618. https://doi.org/10.1007/s10517-012-1590-2
+[a https://doi.org/10.1007/s10517-012-1590-2] https://doi.org/10.1007/s10517-012-1590-2
+[li] Khavinson, V. K., Popovich, I. G., Linkova, N. S., Mironova, E. S., & Ilina, A. R. (2021). Peptide Regulation of Gene Expression: A Systematic Review. Molecules (Basel, Switzerland), 26(22), 7053. https://doi.org/10.3390/molecules26227053
+[a https://doi.org/10.3390/molecules26227053] https://doi.org/10.3390/molecules26227053
+[li] Khavinson, V. K., Lin’kova, N. S., & Tarnovskaya, S. I. (2016). Short Peptides Regulate Gene Expression. Bulletin of experimental biology and medicine, 162(2), 288–292. https://doi.org/10.1007/s10517-016-3596-7
+[a https://doi.org/10.1007/s10517-016-3596-7] https://doi.org/10.1007/s10517-016-3596-7
+[li] Fedoreyeva, L. I., Kireev, I. I., Khavinson, V. K.h, & Vanyushin, B. F. (2011). Penetration of short fluorescence-labeled peptides into the nucleus in HeLa cells and in vitro specific interaction of the peptides with deoxyribooligonucleotides and DNA. Biochemistry. Biokhimiia, 76(11), 1210–1219. https://doi.org/10.1134/S0006297911110022
+[a https://doi.org/10.1134/S0006297911110022] https://doi.org/10.1134/S0006297911110022
+[li] Voicekhovskaya, M. A., Chalisova, N. I., Kontsevaya, E. A., & Ryzhak, G. A. (2012). Effect of bioregulatory tripeptides on the culture of skin cells from young and old rats. Bulletin of experimental biology and medicine, 152(3), 357–359. https://doi.org/10.1007/s10517-012-1527-9
+[a https://doi.org/10.1007/s10517-012-1527-9] https://doi.org/10.1007/s10517-012-1527-9
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

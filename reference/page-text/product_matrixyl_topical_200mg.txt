@@ -1,0 +1,127 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/Matrixyl-1.webp] 
+[img] Matrixyl (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Matrixyl-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Matrixyl_3141046_BT_page-0001.webp] 
+[img] Matrixyl (200mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Matrixyl_3141046_BT_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Matrixyl_3141046_BT_page-0002.webp] 
+[img] Matrixyl (200mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Matrixyl_3141046_BT_page-0002.webp
+[h1] Matrixyl (200mg)
+[p] $190.00
+[p] Matrixyl peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_3554 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $180.50
+[input name=wccs_tier_select_3554 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $171.00
+[label] Matrixyl (200mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/12/COA_Matrixyl_3141046_BT.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h2] Matrixyl Peptide
+[p] Matrixyl is a lipopeptide that combines fatty acids with amino acids. The peptide is also sometimes referred to as palmitoyl pentapeptide-4 or palmitoyl pentapeptide-3. The palmitoylated sequence of Lys-Thr-Thr-Lys-Ser-OH, which makes up the peptide, is posited to be a signal peptide fragment of the C-terminal propeptide of type I collagen.[1] Researchers report that “The conjugation with the palmitoyl moiety [may] result in more [impactful] delivery across the skin and better stability to skin proteases.” Overall, this signal peptide is posited to act as a stimulus to fibroblasts and stimulate them into producing extracellular matrix (ECM) proteins such as collagen. Therefore, Matrixyl is considered by researchers to be a matrikine - a messenger peptide capable of regulating cell activities by interacting with their specific receptors.
+[h2] Specifications
+[p] MOLECULAR WEIGHT: 802.05 g/mol
+[p] MOLECULAR FORMULA: C39H75N7O10
+[p] SEQUENCE: Pal-Lys-Thr-Thr-Ser-OH or Pal-KTTS-OH
+[p] SYNONYMS: palmitoyl pentapeptide-3
+[h2] Matrixyl Research
+[p] Matrixyl and Fibroblasts Fibroblasts are cells responsible for producing collagen, a key structural protein in dermal tissues. When skin cells are exposed to varying amounts of Matrixyl, scientists have observed what appeared to be a concentration-dependent increase in collagen synthesis, particularly at concentrations near a specific threshold called the critical aggregation concentration (CAC).[2] The CAC is the concentration at which Matrixyl molecules begin to self-assemble into larger nanostructures. One possible explanation for the increased collagen production is that Matrixyl may self-assemble around the CAC, forming organized nanostructures like nanotapes or fibrils. These formations are thought to present the peptide sequences in a configuration that supports their interaction with fibroblasts, potentially leading to increased collagen synthesis. The specific arrangement of peptides within these nanostructures might make it easier for fibroblasts to recognize and respond to them, thereby promoting collagen deposition. Interestingly, while Matrixyl seemed to reduce the rate at which fibroblasts divide—a process referred to as cell proliferation—the amount of collagen produced by each cell appeared to increase. This observation might suggest that Matrixyl encourages fibroblasts to prioritize collagen production over cell division. Further research suggests that by potentially boosting collagen production by fibroblasts, Matrixyl might counteract the degradation of the dermal matrix associated with photoaging.[3] This degradation is often linked to the formation of wrinkles and a loss of skin structure elasticity. Therefore, Matrixyl may be a promising candidate for laboratory research focused on mitigating dermal cell photoaging by supporting the skin's structural support through collagen synthesis.
+[p] Matrixyl and Wound Closure Researchers investigating Matrixyl have noted that the “delicate balance between the wound healing properties and pro-fibrotic abilities of pentapeptide should be considered” in the context of wound closure.[4] More specifically, it is believed that Matrixyl may modulate fibroblast activity, particularly in relation to the trans-differentiation of fibroblasts into myofibroblasts—a key process in wound contraction and scar formation. Myofibroblasts are posited to contribute to wound closure through their contractile ability and may thus lead to excessive scarring if they persist beyond the normal healing period. Experimental studies have examined how Matrixyl is thought to impact the expression of alpha-smooth muscle actin (a-SMA) and connective tissue growth factor (CTGF), both of which are associated with fibrotic processes. Observations indicate that Matrixyl may reduce the expression of a-SMA in fibroblasts. This reduction suggests a possible decrease in the formation of myofibroblasts, which may influence the extent of wound contraction and scarring. Additionally, Matrixyl may influence CTGF levels, which play a role in collagen production and extracellular matrix remodeling. By potentially modulating CTGF expression, Matrixyl is believed to impact the balance between tissue repair and fibrotic scarring potentially. The interplay between CTGF and a-SMA is significant because sustained overexpression of these proteins is associated with fibrotic tissue formation. In experimental murine models, Matrixyl has been investigated for its potential role in supporting tissue healing.[5] Matrixyl has been posited to reach fibroblasts in the dermis, possibly binding to cell surface receptors and activating signaling pathways similar to the TGF-β pathway. This activation may potentially lead to increased collagen production and inhibition of collagenase activity, thereby potentially supporting extracellular matrix formation. Studies suggest that Matrixyl might accelerate wound closure and support collagen density compared to controls. The scientists commented that "the macroscopic results [indicated] that wound healing was [raised] from 63.5 up to 81.81% in [Matrixyl] groups compared to that in the negative control group." These observations imply that Matrixyl has the potential to be an agent that promotes tissue repair and regeneration in laboratory settings.
+[p] Matrixyl and Wrinkles Researchers suggest that Matrixyl may stimulate different types of collagen, including types I, III, and IV. Other ECM proteins like elastin, fibronectin, and glycosaminoglycans may also be upregulated. By possibly supporting the synthesis of these structural proteins, Matrixyl may contribute to better-supported tissue firmness and elasticity, potentially reducing the appearance of wrinkles. Experimental observations have apparently indicated that formulations containing Matrixyl might lead to quantitative decreases in wrinkle depth and thickness, as well as support for tissue firmness.[6] For instance, reductions in fold depth by 18 percent, fold thickness by 37 percent, and increases in firmness by 21 percent have been reported in certain settings. These findings suggest that Matrixyl has the potential to affect tissue properties related to wrinkling positively. Furthermore, laboratory studies utilizing advanced topometric techniques like Fast Optical Topometry and Matrixyl have apparently posited additional support in dermal layer roughness parameters.[7] Specifically, reductions in mean dermal layer roughness and maximum dermal roughness have been observed in research models. Additionally, meaningful changes were observed, which may indicate a decrease in wrinkle depth and support of overall dermal tissue smoothness.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Errante F, Ledwoń P, Latajka R, Rovero P, Papini AM. Cosmeceutical Peptides in the Framework of Sustainable Wellness Economy. Front Chem. 2020 Oct 30;8:572923. doi: 10.3389/fchem.2020.572923. PMID: 33195061; PMCID: PMC7662462.
+[a https://doi.org/10.3389/fchem.2020.572923] doi: 10.3389/fchem.2020.572923
+[li] Jones RR, Castelletto V, Connon CJ, Hamley IW. Collagen stimulating effect of peptide amphiphile C16-KTTKS on human fibroblasts. Mol Pharm. 2013 Mar 4;10(3):1063-9. doi: 10.1021/mp300549d. Epub 2013 Feb 4. PMID: 23320752.
+[a https://doi.org/10.1021/mp300549d] doi: 10.1021/mp300549d
+[li] Robinson LR, Fitzgerald NC, Doughty DG, Dawes NC, Berge CA, Bissett DL. Palmitoyl pentapeptide provides improvement in photoaged human facial skin. Int J Cosmet Sci. 2005 Jun;27(3):155-60. doi: 10.1111/j.1467-2494.2005.00261.x. PMID: 18492182.
+[a https://doi.org/10.1111/j.1467-2494.2005.00261.x] doi: 10.1111/j.1467-2494.2005.00261.x
+[li] Park H, An E, Cho Lee AR. Effect of Palmitoyl-Pentapeptide (Pal-KTTKS) on Wound Contractile Process in Relation with Connective Tissue Growth Factor and α-Smooth Muscle Actin Expression. Tissue Eng Regen Med. 2017 Jan 19;14(1):73-80. doi: 10.1007/s13770-016-0017-y. PMID: 30603464; PMCID: PMC6171572.
+[a https://doi.org/10.1007/s13770-016-0017-y] doi: 10.1007/s13770-016-0017-y
+[li] Kachooeian M, Mousivand Z, Sharifikolouei E, Shirangi M, Firoozpour L, Raoufi M, Sharifzadeh M. Matrixyl Patch vs Matrixyl Cream: A Comparative In Vivo Investigation of Matrixyl (MTI) Effect on Wound Healing. ACS Omega. 2022 Jul 11;7(28):24695-24704. doi: 10.1021/acsomega.2c02592. PMID: 35874243; PMCID: PMC9301720.
+[a https://doi.org/10.1021/acsomega.2c02592] doi: 10.1021/acsomega.2c02592
+[li] Aruan RR, Hutabarat H, Widodo AA, Firdiyono MTCC, Wirawanty C, Fransiska L. Double-blind, Randomized Trial on the Effectiveness of Acetylhexapeptide-3 Cream and Palmitoyl Pentapeptide-4 Cream for Crow's Feet. J Clin Aesthet Dermatol. 2023 Feb;16(2):37-43. PMID: 36909866; PMCID: PMC10005804.
+[li] Kaczvinsky JR, Griffiths CE, Schnicker MS, Li J. Efficacy of anti-aging products for periorbital wrinkles as measured by 3-D imaging. J Cosmet Dermatol. 2009 Sep;8(3):228-33. doi: 10.1111/j.1473-2165.2009.00444.x. PMID: 19735523.
+[a https://doi.org/10.1111/j.1473-2165.2009.00444.x] doi: 10.1111/j.1473-2165.2009.00444.x
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Lipopeptide (Biopeptide EL) (200mg) $220.00
+[a https://biotechpeptides.com/product/lipopeptide-biopeptide-el-topical-200mg/] Lipopeptide (Biopeptide EL) (200mg) $220.00
+[img] Lipopeptide (Biopeptide EL) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Lipopetide-1-238x317.webp
+[h2] Lipopeptide (Biopeptide EL) (200mg)
+[li] Acetyl Hexapeptide-3 (Argireline) (200mg) $210.00
+[a https://biotechpeptides.com/product/acetyl-hexapeptide-3-argireline-200mg/] Acetyl Hexapeptide-3 (Argireline) (200mg) $210.00
+[img] Acetyl Hexapeptide-3 (Argireline) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Acetyl-Hexapeptide-3-1-238x317.webp
+[h2] Acetyl Hexapeptide-3 (Argireline) (200mg)
+[li] Vialox (Pentapeptide-3V) (200mg) $210.00
+[a https://biotechpeptides.com/product/vialox-pentapeptide-3v-topical-200mg/] Vialox (Pentapeptide-3V) (200mg) $210.00
+[img] Vialox (Pentapeptide-3V) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Vialox-1-238x317.webp
+[h2] Vialox (Pentapeptide-3V) (200mg)
+[li] Syn-AKE (200mg) $210.00
+[a https://biotechpeptides.com/product/syn-ake-topical-200mg/] Syn-AKE (200mg) $210.00
+[img] Syn-AKE (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/Syn-AKE-1-238x317.webp
+[h2] Syn-AKE (200mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

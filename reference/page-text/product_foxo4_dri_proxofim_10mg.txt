@@ -1,0 +1,131 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/11/FOX04-DRI-1-1.webp] 
+[img] FOXO4-DRI (Proxofim) (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/FOX04-DRI-1-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/11/COA_FOXO4-DRI_3140025_20260725_BP_page-0001.webp] 
+[img] FOXO4-DRI (Proxofim) (10mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2021/11/COA_FOXO4-DRI_3140025_20260725_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/11/COA_FOXO4-DRI_3140025_20260725_BP_page-0002.webp] 
+[img] FOXO4-DRI (Proxofim) (10mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2021/11/COA_FOXO4-DRI_3140025_20260725_BP_page-0002.webp
+[h1] FOXO4-DRI (Proxofim) (10mg)
+[p] $270.00
+[p] FOXO4-DRI peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_3357 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $256.50
+[input name=wccs_tier_select_3357 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $243.00
+[label] FOXO4-DRI (Proxofim) (10mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/11/COA_FOXO4-DRI_3140025_20260725_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] FOXO4-DRI Peptide
+[p] FOXO4-DRI is a synthetic version of FOXO4, containing D amino acids instead of L amino acids. This modification is intended to allow the peptide to retain the functionality of the original protein but with a longer shelf life and lower clearance. Its most prominent function has been suggested to regulate apoptosis in senescent cells.[1] It has been suggested in scientific studies that senescent cells might exhibit resistance to apoptosis, aka programmed cell death. This resistance has been associated with increased binding of FOXO4 with another protein, p53, which should trigger apoptosis but become inactivated. FOXO4-DRI appears to work by inhibiting FOXO4-p53 binding; thereby, p53 may target pro-apoptotic genes and promote their expression. These proteins, in turn, may induce apoptosis of old cells, thereby reducing the old cell burden in tissues. The accumulation of senescent cells, often referred to as the "old cell burden," is a concern because these cells can secrete a variety of harmful substances as part of the senescence-associated secretory phenotype (SASP). SASP is characterized by the release of inflammatory and tissue-degrading molecules that can impair tissue function and structure, potentially leading to age-related deterioration. By possibly disrupting the harmful cycle of senescent cell accumulation through the action of FOXO4-DRI, there might be an improvement in tissue function. This restoration of tissue function could also be accompanied by a reduction in the biomarkers associated with cellular aging, suggesting a return toward a more balanced state of cell function. This may also lead to increases in cellular differentiation and tissue repair. FOXO4 protein is a prominent member of the group of transcription factors classified as exhibiting potential to regulate growth and differentiation. It appears to be endogenously abundant in tissues such as the placenta, ovaries, fat cells, testes, and adrenal glands. Post-translational modifications, especially those in the DNA binding domain of FOXO4 protein, appear to modify its functionality as a transcription factor and regulation of pathways such as apoptosis, cellular senescence, insulin signaling, and senescence. FOXO4-D-Retro-Inverso is a synthetic and partially altered form of the original FOXO4 protein. The modification was developed to help enhance the half-life of the protein and allow it to obstruct the normal FOXO4 function. FOXO4-DRI has been suggested to prevent normal FOXO4 binding to p53, eliminate senescent cells, enhance organ function, and reduce cell death progression. FOXO4-DRI also appears to influence insulin signaling, cell cycle regulation, and oxidative stress signaling pathways. The peptide appears to be permeable into cells, and researchers have suggested selectively inducing senescent cell apoptosis based on results found in studies.
+[h3] Specifications
+[p] Other Known Titles: Forkhead box protein O4, Proxofim, FOXO4a, AFX, AFX1, MLLT7
+[p] Sequence: H-D-Leu-D-Thr-D-Leu-D-Arg-D-Lys-D-Glu-D-Pro-D-Ala-D-Ser-D-Glu-D-Ile-D-Ala-D-Gln-D-Ser-D-Ile-D-Leu-D-Glu-D-Ala-D-Tyr-D-Ser-D-Gln-D-Asn-D-Gly-D-Trp-D-Ala-D-Asn-D-Arg-D-Arg-D-Ser-D-Gly-D-Gly-D-Lys-D-Arg-D-Pro-D-Pro-D-Pro-D-Arg-D-Arg-D-Arg-D-Gln-D-Arg-D-Arg-D-Lys-D-Lys-D-Arg-D-Gly-OH
+[p] Molecular Formula: C228H388N86O64
+[p] Molecular Weight: 5358.05 g/mol
+[h3] FOXO4-DRI Research
+[p] DRI peptides are synthetic variants of their natural counterparts. The synthetic alternatives have the sequence of amino acids reversed and the alpha chirality changed[2]. Naturally occurring amino acids have an L chiral configuration, while the DRI peptides appear to be composed of D chiral amino acids. This has the potential to protect the synthetic peptides from enzymatic degradation, which may lead to prolonged functional viability. They are also potential candidates for peptidomimetics for studying protein-protein, protein-peptide, and peptide-peptide interactions.
+[p] FOXO4-DRI and Research in Cell Aging, Senescence FOXO4 is suggested to help the perpetuation of aged or senescent cells. It appears to bind to p53 and thereby may prevent apoptotic death of the senescent cells.[3] The FOXO4-DRI peptide appears to prevent FOXO4-p53 interaction; thus, p53 may activate apoptotic protein and induce cellular death. The p53 protein itself acts as an intrinsic regulator within the cell, primarily tasked with overseeing the cell cycle's progression, including the initiation of cell death. Lauded for its potential as a tumor suppressor, p53 appears to primarily function to halt the division of cells that have undergone DNA damage. In situations where the FOXO4 protein is bound to p53, there is a tentative observation that p53 is prevented from binding to DNA, inhibiting the process of apoptosis and allowing cells to avoid programmed death. This phenomenon might result in an increased presence of senescent cells, defined as cells that cease to divide but fail to die, thereby contributing to the aging of the cell population. However, in scenarios where the FOXO4 is linked with the DRI peptide, it is suggested that this binding may not occur, potentially allowing p53 to interact with DNA and facilitate the continuation of the cell cycle toward programmed death. Therefore, the interaction involving the FOXO4-DRI peptide may host the potential to restore p53's ability to initiate the destruction of senescent cells through apoptosis. Thus, the old cells may be cleared from tissues, naturally allowing for better tissue regeneration. Studies have observed that exposing aging mice to the DRI peptide reportedly resulted in improved tissue regeneration and health span. Healthspan refers to the tenure of lifespan wherein the cell body remains active. It decreases with age. Tissue renewal may certainly reduce the biological aging of tissues and thereby enhance healthspan. The aged mice exhibited a longer healthspan, exerted greater physical activity, and researchers observed less disability such as cardiac diseases and musculoskeletal dysfunction, etc.
+[p] FOXO4-DRI and Research in Insulin Signal Regulation FOXO proteins are suggested to regulate the influence of insulin signaling and insulin-like growth factors. Scientific data suggests that the FOXO family of proteins may act downstream of insulin signaling to regulate cellular growth, metabolism, differentiation, and oxidative stress. Mutations in FOXO genes have been suggested to cause hyperglycemia and hyperlipidemia and may even increase the risk of carcinogenesis in test models. In the context of diabetes models, it may contribute to heart attack, impaired wound healing, stroke, and kidney damage.[4] The exact mechanism of FOXO4-DRI actions is yet unknown.
+[p] FOXO4-DRI and Research in Heart Disease Cell age and death is one of the critical factors which may influence the onset of cardiac disease. The reason has been ascribed to loss of proteasome activity over time. Proteasome helps to degrade oxidized, modified, or damaged proteins, thereby keeping the cellular environment functional. Reduction in proteasome functionality may lead to the accumulation of toxic protein, which can be detrimental to cardiac tissues[5]. FOXO signaling appears to have the potential to increase autophagy and proteasomal activity in the heart, thus speeding up the clearing of damaged cells. It has been suggested that FOXO4-DRI protein or a variant of it may promote proteasomal functions, enhancing the function of cardiac tissues and reducing the risk of cardiovascular disease.
+[p] FOXO4-DRI and Research in Neurodegenerative Diseases The complex etiology of neurodegenerative diseases is yet to be completely understood. Research data indicates that the alteration in FOXO proteins may contribute to the disease etiology[6]. A decrease in proteasomal activity appears to enhance the underlying condition of Huntington’s disease, Alzheimer’s disease, Parkinson’s disease, and Prion disease. Hence, FOXO-DRI protein or other modified alternatives may be valuable in researching certain neurodegenerative conditions by substituting the absence of native FOXO proteins.
+[p] FOXO4-DRI Potential Selectivity As mentioned, FOXO4-DRI is believed to selectively disrupt the binding of FOXO4 to p53, which may lead to the activation of p53, which in turn may stimulate the process of removing senescent cells.[7] In other words, by inhibiting this interaction, FOXO4-DRI might enhance the organism’s ability to clear these cells without significantly impacting other functions of FOXO4. Importantly, this inhibition may not affect the antioxidative properties of FOXO4. FOXO4 should be capable of continuing to play a vital role in the transcription of genes for antioxidant enzymes, such as manganese superoxide dismutase (MnSOD), catalase (CAT), and glutathione peroxidase (GPX). These enzymes are deemed essential for neutralizing harmful free radicals and maintaining cellular integrity. Therefore, FOXO4-DRI's targeted mechanism suggests a potential research outcome by facilitating the removal of senescent cells, which may contribute to tissue rejuvenation and improved organ function while still preserving the critical antioxidant defenses mediated by FOXO4. Theoretically, this potentially selective inhibition might provide a dual benefit in research aimed at reducing cellular senescence with minimal disruption to the cell's natural protective mechanisms against oxidative stress.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Huang Y, He Y, Makarcyzk MJ, Lin H. Senolytic Peptide FOXO4-DRI Selectively Removes Senescent Cells From in vitro Expanded Human Chondrocytes. Front Bioeng Biotechnol. 2021 Apr 29;9:677576. doi: 10.3389/fbioe.2021.677576. PMID: 33996787; PMCID: PMC8116695.
+[a https://pubmed.ncbi.nlm.nih.gov/33996787/] doi: 10.3389/fbioe.2021.677576
+[li] Doti N, Mardirossian M, Sandomenico A, Ruvo M, Caporale A. Recent Applications of Retro-Inverso Peptides. Int J Mol Sci. 2021 Aug 12;22(16):8677. doi: 10.3390/ijms22168677. PMID: 34445382; PMCID: PMC8395423.
+[a https://pubmed.ncbi.nlm.nih.gov/34445382/] doi: 10.3390/ijms22168677
+[li] Baar MP, Brandt RMC, Putavet DA, Klein JDD, Derks KWJ, Bourgeois BRM, Stryeck S, Rijksen Y, van Willigenburg H, Feijtel DA, van der Pluijm I, Essers J, van Cappellen WA, van IJcken WF, Houtsmuller AB, Pothof J, de Bruin RWF, Madl T, Hoeijmakers JHJ, Campisi J, de Keizer PLJ. Targeted Apoptosis of Senescent Cells Restores Tissue Homeostasis in Response to Chemotoxicity and Aging. Cell. 2017 Mar 23;169(1):132-147.e16. doi: 10.1016/j.cell.2017.02.031. PMID: 28340339; PMCID: PMC5556182.
+[a https://pubmed.ncbi.nlm.nih.gov/28340339/] doi: 10.1016/j.cell.2017.02.031
+[li] Murakami T, Inagaki N, Kondoh H. Cellular Senescence in Diabetes Mellitus: Distinct Senotherapeutic Strategies for Adipose Tissue and Pancreatic β Cells. Front Endocrinol (Lausanne). 2022 Mar 31;13:869414. doi: 10.3389/fendo.2022.869414. PMID: 35432205; PMCID: PMC9009089.
+[a https://pubmed.ncbi.nlm.nih.gov/35432205/] doi: 10.3389/fendo.2022.869414
+[li] Zhu M, Zhang QJ, Wang L, Li H, Liu ZP. FoxO4 inhibits atherosclerosis through its function in bone marrow derived cells. Atherosclerosis. 2011 Dec;219(2):492-8. doi: 10.1016/j.atherosclerosis.2011.09.038. Epub 2011 Oct 2. PMID: 22005198; PMCID: PMC3226872.
+[a https://pubmed.ncbi.nlm.nih.gov/22005198/] doi: 10.1016/j.atherosclerosis.2011.09.038
+[li] Bourgeois B, Madl T. Regulation of cellular senescence via the FOXO4-p53 axis. FEBS Lett. 2018 Jun;592(12):2083-2097. doi: 10.1002/1873-3468.13057. Epub 2018 May 25. PMID: 29683489; PMCID: PMC6033032.
+[a https://pubmed.ncbi.nlm.nih.gov/29683489/] doi: 10.1002/1873-3468.13057
+[li] Lee, S., & Dong, H. H. (2017). FoxO integration of insulin signaling with glucose and lipid metabolism. The Journal of endocrinology, 233(2), R67–R79. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5480241/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5480241/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5480241/
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Cardiogen (20mg) $62.00
+[a https://biotechpeptides.com/product/cardiogen-20mg/] Cardiogen (20mg) $62.00
+[img] Cardiogen (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Cardiogen-1-238x317.webp
+[h2] Cardiogen (20mg)
+[li] MOTS-c (10mg) $99.00
+[a https://biotechpeptides.com/product/mots-c-10mg/] MOTS-c (10mg) $99.00
+[img] MOTS-c (10mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/MOTS-c-1-238x317.webp
+[h2] MOTS-c (10mg)
+[li] Follistatin-344 (1mg) $162.00
+[a https://biotechpeptides.com/product/follistatin-344-1mg/] Follistatin-344 (1mg) $162.00
+[img] Follistatin-344 (1mg) :: https://biotechpeptides.com/wp-content/uploads/2022/01/Follistatin-344-1-238x317.webp
+[h2] Follistatin-344 (1mg)
+[li] Livagen (20mg) $62.00
+[a https://biotechpeptides.com/product/livagen-20mg/] Livagen (20mg) $62.00
+[img] Livagen (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Livagen-1-238x317.webp
+[h2] Livagen (20mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

@@ -1,0 +1,145 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/04/Sermorelin-1.webp] 
+[img] Sermorelin (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Sermorelin-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Sermorelin-5mg-COA-scaled.webp] 
+[img] Sermorelin (5mg) COA :: https://biotechpeptides.com/wp-content/uploads/2026/04/Sermorelin-5mg-COA-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Sermorelin-5mg-LC-scaled.webp] 
+[img] Sermorelin (5mg) LC :: https://biotechpeptides.com/wp-content/uploads/2026/04/Sermorelin-5mg-LC-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Sermorelin-5mg-MS-scaled.webp] 
+[img] Sermorelin (5mg) MS :: https://biotechpeptides.com/wp-content/uploads/2026/04/Sermorelin-5mg-MS-scaled.webp
+[h1] Sermorelin (5mg)
+[p] $43.00
+[p] Sermorelin peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_823 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $40.85
+[input name=wccs_tier_select_823 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $38.70
+[label] Sermorelin (5mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2026/06/Sermorelin-5mg-.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Sermorelin Peptide
+[p] Sermorelin is among the growth hormone-releasing hormone (GHRH) analogs. It is classified as a GHRH as researchers have suggested that the peptide acts to induce the endogenous production and release of growth hormone (hGH). Growth hormone has been associated with numerous physiological activities, making Sermorelin and other GHRH analogs, potentially relevant in growth hormone-related research. Examples of studies employing GHRH analogs include research in the context of tissue scarring following cardiac dysfunction, as well as those examining bone density, renal function, dementia and seizure activity.
+[h3] Specifications
+[p] Molecular Formula: C149H246N44O42S
+[p] Molecular Weight: 3357.9 g/mol
+[p] Sequence: Tyr-Ala-Asp-Ala-lle-Phe-DL-Thr-Asn-Ser-Tyr-Arg-Lys-Val-Leu-Gly-Gln-Leu-Ser-Ala-Arg-Lys-Leu-Leu-Gln-Asp-Ile-Met-Ser-Arg-NH2
+[h3] Sermorelin Research
+[p] Sermorelin and Mechanisms of Action Sermorelin may represent the shortest sequence speculated to potentially activate the biological mechanisms associated with GHRH receptors.[1] This peptide consists of the initial 29 amino acids of the typical 44 amino acids present in GHRH. It is suggested that Sermorelin may interact with GHRH receptors located on the pituitary gland, potentially triggering the release of growth hormone. This interaction is thought to mimic the primary activities of GHRH, potentially activating the receptors within the somatotroph cells of the anterior pituitary gland. This interaction might lead to intermittent growth hormone emissions despite Sermorelin's truncated amino acid structure.[2] Upon engaging with these receptors, it is theorized that Sermorelin might initiate various intracellular signaling events. One suspected pathway is the adenylyl cyclase pathway, which may facilitate the transformation of ATP (adenosine triphosphate) to cAMP (cyclic adenosine monophosphate).[3] An increase in cAMP levels might potentially activate protein kinase A (PKA), which in turn might phosphorylate several proteins, such as the voltage-dependent calcium channels in the cell membrane. It is speculated that the phosphorylation and possible subsequent opening of these calcium channels might allow calcium ions to enter the somatotropic cells. The resultant rise in intracellular calcium levels is thought to be critical for the subsequent steps in growth hormone release. It is further hypothesized that elevated calcium levels inside the cell might stimulate the secretory vesicles within the somatotroph cells, potentially leading to the release of growth hormone into the bloodstream. One significant theoretical impact of Sermorelin is its apparent specificity for GHRH receptors, which might prevent it from significantly altering the levels of other endocrine markers like prolactin, insulin, cortisol, glucose, or thyroid hormones. The selective increase in growth hormone production is believed to potentially enhance levels of insulin-like growth factor-1 (IGF-1), which is notably involved in the anabolic actions of growth hormone. The approximate half-life of Sermorelin is estimated to be between 11 and 12 minutes, suggesting a relatively rapid turnover in the organism.[4]
+[p] Sermorelin and Cardiac Function Heart attacks may induce secondary cardiac failure, cardiac conduction abnormalities (arrhythmias), and decreased cardiac capacity. Many of these risks have been associated with cardiac remodeling due to damaged myocytes (heart muscle cells), and may impact surrounding tissues. In 2016, a study in pigs observed that Sermorelin exposure appeared to reduce the instances of cardiac remodeling exhibited following a cardiac attack. Researchers suggested as a result of these findings that the peptide may have acted to decrease cell death in cardiomyocytes, as well as improve production of extracellular matrix components and angiogenesis to damaged tissue. The peptide has also been studied for its potential to assist in diastolic function, decrease scar size, and increase capillary growth.[5] [6] The researchers note that “[Exposure to] GHRH agonists appears to reduce the inflammatory responses post-MI and may consequently improve mechanisms of healing and cardiac remodeling by regulating pathways involved in fibrosis, apoptosis and cardiac repair.” It is being explored for different cardiac diseases like cardiac failure and valve disorders.
+[p] Sermorelin and Epilepsy Gamma-aminobutyric acid (GABA) is a central nervous system signaling molecule that researchers consider may decrease electrical activity in the spinal cord and reduce overall electrical excitability in the central nervous system. Many anti-seizure compounds act either to: enhance levels of GABA in the central nervous system; or mimic GABA by binding to GABA. In one study using a murine model of epilepsy, scientists introduced Sermorelin to study the impact on the models’ seizure activity. GHRH analogs were observed to activate GABA receptors and inhibit seizures.[7]
+[p] Sermorelin and Sleep Orexin is considered to be a powerful neurochemical secreted in the brain. It has been hypothesized by neurologists and brain researchers to regulate sleep cycles. Growth hormone secretion, in parallel, is considered to occur maximally during sleep. Studies have suggested that a functional GHRH axis may be required for orexin production and function, and that exposure to Sermorelin and other GHRH agonists appears to enhance orexin secretion.[8] Sermorelin is being studied in the context of sleep disorders.
+[a https://biotechpeptides.com/2021/03/08/unique-potential-of-sermorelin-peptide-in-regulating-sleep/] studied in the context of sleep disorders
+[p] Sermorelin and Growth Hormone Sermorelin is a growth hormone-releasing hormone derivative that was developed to mediate the activity of growth hormone, with limited ancillary actions. Sermorelin has been studied for its potential to increase hormone levels as the peptide appears to be regulated through physiological feedback mechanisms that prevent certain ancillary actions of excess growth hormone. Such actions may include instances of edema, joint pain, and dysregulation of normal physiology.[9] Sermorelin researchers have posited that the peptide may not be subject to tachyphylaxis, the process by which the organism becomes acclimatized to a compound and thereby negates its action.[10] Scientists conclude that “that the short time course of resensitisation following acute octreotide withdrawal is suggestive of an effect(s) on receptor function or on the receptor signal transduction cascade at sites further downstream, rather than an immune-mediated phenomenon.” Studies have suggested peptide-induced production of GHRH receptors, rather than a down-regulation of them. This action may prevent the onset of tachyphylaxis. Initial results from an ongoing study suggest that Sermorelin, a synthetic form of growth-hormone-releasing hormone (GHRH), might potentially increase average growth hormone levels by approximately 82%.[11] In a specific 16-week investigation, researchers explored the potential of Sermorelin on several biological functions, including the production of growth hormone and insulin-like growth factor 1 (IGF-1), as well as the proliferation of skin cells and the growth of muscle tissue. This study proposed that Sermorelin might have an influence on the pathway involving growth hormone and IGF-1 as its levels correlate with growth hormone and is considered to mediate hGH’s anabolic potential. The research suggested that Sermorelin might cause a considerable, yet variable, increase in the release of growth hormone—ranging from 70% to 107%—over a 12-hour period from the somatotroph cells in the anterior part of the pituitary gland. These cells are considered responsible for producing growth hormone in response to signals from the brain. Additionally, the levels of IGF-1 were observed to potentially increase by about 28%, which may indicate an enhanced functionality of the axis connecting growth hormone and IGF-1, suggesting improvements in how these hormones interact and affect the organism.[12]
+[p] Sermorelin and Lean Mass In the aforementioned 16-week study, it was proposed that Sermorelin may enhance lean mass by approximately 2.78 pounds (1.26 kilograms). The study found no noticeable changes in fat mass concurrent with this increase. Therefore it was posited to be the result of an increase in muscle tissues and water retention. This action was hypothesized to stem from Sermorelin's capacity to potentially elevate levels of growth hormone, which in turn might boost IGF-1. The latter is believed to act as an anabolic mediator for growth hormone, facilitating the muscle-building actions of growth hormone. Additionally, researchers observed a significant increase in skin thickness, suggesting possible dermal modifications linked to the hormonal actions.[12]
+[p] Sermorelin and Potential Synergism with Other Peptides Sermorelin is a GHRH analog which may exert potential synergism when combined with ghrelin mimetics. Ghrelin mimetics, also known as growth hormone secretagogues (GHSs) are posited to stimulate growth hormone release by activating the ghrelin receptors rather than the GHRH receptors of the anterior pituitary gland. Thus by activating different receptors, Sermorelin and GHSs may exert synergistic actions. Indeed, studies with Sermorelin and GHSs such as GHRP-6 have reported greater elevation of IGF-1 levels compared to either peptide alone. IGF-1 is the main anabolic mediator of hGH’s actions and its levels are beleived to correlate to mean growth hormone levels. For instance, one study reported an apparent increase in IGF-1 levels of over 65% after the combined introduction of GHRP-6 and the unmodified version of Mod GRF 1-29.[13]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Prakash, A, and K L Goa. “Sermorelin: a review of its use in the diagnosis and treatment of children with idiopathic growth hormone deficiency.” BioDrugs : clinical immunotherapeutics, biopharmaceuticals and gene therapy vol. 12,2 (1999): 139-57. https://pubmed.ncbi.nlm.nih.gov/18031173/
+[a https://pubmed.ncbi.nlm.nih.gov/18031173/] https://pubmed.ncbi.nlm.nih.gov/18031173/
+[li] Clark, R G, and I C Robinson. “Growth induced by pulsatile infusion of an amidated fragment of human growth hormone releasing factor in normal and GHRF-deficient rats.” Nature vol. 314,6008 (1985): 281-3. https://pubmed.ncbi.nlm.nih.gov/2858818/
+[a https://pubmed.ncbi.nlm.nih.gov/2858818/] https://pubmed.ncbi.nlm.nih.gov/2858818/
+[li] Sinha DK, Balasubramanian A, Tatem AJ, Rivera-Mirabal J, Yu J, Kovac J, Pastuszak AW, Lipshultz LI. Beyond the androgen receptor: the role of growth hormone secretagogues in the modern management of body composition in hypogonadal males. Transl Androl Urol. 2020 Mar;9(Suppl 2):S149-S159. doi: 10.21037/tau.2019.11.30. PMID: 32257855; PMCID: PMC7108996.
+[a https://doi.org/10.21037/tau.2019.11.30] doi: 10.21037/tau.2019.11.30
+[li] Ishida, J., Saitoh, M., Ebner, N., Springer, J., Anker, S. D., & von Haehling, S. (2020). Growth hormone secretagogues: history, mechanism of action, and clinical development. JCSM Rapid Communications, 3(1), 25-37.
+[li] Bagno LL, Kanashiro-Takeuchi RM, Suncion VY, et al. Growth hormone-releasing hormone agonists reduce myocardial infarct scar in swine with subacute ischemic cardiomyopathy. J Am Heart Assoc. 2015;4(4):e001464. Published 2015 Mar 31. doi:10.1161/JAHA.114.001464.
+[a https://doi.org/10.1161/JAHA.114.001464] doi:10.1161/JAHA.114.001464
+[li] Kanashiro-Takeuchi RM, Szalontay L, Schally AV, et al. New therapeutic approach to heart failure due to myocardial infarction based on targeting growth hormone-releasing hormone receptor. Oncotarget. 2015;6(12):9728-9739. doi:10.18632/oncotarget.3303.
+[a https://doi.org/10.18632/oncotarget.3303] doi:10.18632/oncotarget.3303
+[li] Tang S, Luo Z, Qiu X, et al. Interactions between GHRH and GABAARs in the brains of patients with epilepsy and in animal models of epilepsy. Sci Rep. 2017;7(1):18110. Published 2017 Dec 22. doi:10.1038/s41598-017-18416-5.
+[a https://doi.org/10.1038/s41598-017-18416-5] doi:10.1038/s41598-017-18416-5
+[li] Shepherd BS, Johnson JK, Silverstein JT, et al. Endocrine and orexigenic actions of growth hormone secretagogues in rainbow trout (Oncorhynchus mykiss). Comp Biochem Physiol A Mol Integr Physiol. 2007;146(3):390-399. doi:10.1016/j.cbpa.2006.11.004.
+[a https://doi.org/10.1016/j.cbpa.2006.11.004] doi:10.1016/j.cbpa.2006.11.004
+[li] Walker RF. Sermorelin: a better approach to management of adult-onset growth hormone insufficiency?. Clin Interv Aging. 2006;1(4):307-308. doi:10.2147/ciia.2006.1.4.307.
+[a https://doi.org/10.2147/ciia.2006.1.4.307] doi:10.2147/ciia.2006.1.4.307
+[li] Wahid ST, Marbach P, Stolz B, Miller M, James RA, Ball SG. Partial tachyphylaxis to somatostatin (SST) analogues in a patient with acromegaly: the role of SST receptor desensitisation and circulating antibodies to SST analogues. Eur J Endocrinol. 2002;146(3):295-302. doi:10.1530/eje.0.1460295.
+[a https://doi.org/10.1530/eje.0.1460295] doi:10.1530/eje.0.1460295
+[li] Vittone, J., Blackman, M. R., Busby-Whitehead, J., Tsiao, C., Stewart, K. J., Tobin, J., Stevens, T., Bellantoni, M. F., Rogers, M. A., Baumann, G., Roth, J., Harman, S. M., & Spencer, R. G. (1997). Effects of single nightly injections of growth hormone-releasing hormone (GHRH 1-29) in healthy elderly men. Metabolism: clinical and experimental, 46(1), 89–96. https://doi.org/10.1016/s0026-0495(97)90174-8
+[a https://doi.org/10.1016/s0026-0495(97)90174-8] https://doi.org/10.1016/s0026-0495(97)90174-8
+[li] Khorram, O., Laughlin, G. A., & Yen, S. S. (1997). Endocrine and metabolic effects of long-term administration of [Nle27]growth hormone-releasing hormone-(1-29)-NH2 in age-advanced men and women. The Journal of clinical endocrinology and metabolism, 82(5), 1472–1479. https://doi.org/10.1210/jcem.82.5.3943
+[a https://doi.org/10.1210/jcem.82.5.3943] https://doi.org/10.1210/jcem.82.5.3943
+[li] Sigalos, J. T., Pastuszak, A. W., Allison, A., Ohlander, S. J., Herati, A., Lindgren, M. C., & Lipshultz, L. I. (2017). Growth Hormone Secretagogue Treatment in Hypogonadal Men Raises Serum Insulin-Like Growth Factor-1 Levels. American journal of men's health, 11(6), 1752–1757. https://doi.org/10.1177/1557988317718662.
+[a https://doi.org/10.1177/1557988317718662] https://doi.org/10.1177/1557988317718662
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Sale! Hexarelin (5mg) $64.00 Original price was: $64.00.$49.00Current price is: $49.00.
+[a https://biotechpeptides.com/product/hexarelin-5mg/] Sale! Hexarelin (5mg) $64.00 Original price was: $64.00.$49.00Current price is: $49.00.
+[img] Hexarelin (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Hexarelin-1-238x317.webp
+[h2] Hexarelin (5mg)
+[li] Sale! Tesamorelin (5mg & 10mg) $38.00 – $92.00Price range: $38.00 through $92.00 $38.00 – $73.00Price range: $38.00 through $73.00
+[a https://biotechpeptides.com/product/tesamorelin/] Sale! Tesamorelin (5mg & 10mg) $38.00 – $92.00Price range: $38.00 through $92.00 $38.00 – $73.00Price range: $38.00 through $73.00
+[img] Tesamorelin (5mg & 10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Tesamorelin-1-238x317.webp
+[h2] Tesamorelin (5mg & 10mg)
+[li] Sermorelin & Ipamorelin Blend (10mg) $81.00
+[a https://biotechpeptides.com/product/sermorelin-ipamorelin-10mg-blend-2/] Sermorelin & Ipamorelin Blend (10mg) $81.00
+[img] Sermorelin & Ipamorelin Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Sermorelin-Ipamorelin-238x317.webp
+[h2] Sermorelin & Ipamorelin Blend (10mg)
+[li] Sermorelin & GHRP-6 & GHRP-2 Blend (9mg) $88.00
+[a https://biotechpeptides.com/product/sermorelin-ghrp-6-ghrp-2-blend-9mg/] Sermorelin & GHRP-6 & GHRP-2 Blend (9mg) $88.00
+[img] Sermorelin & GHRP-6 & GHRP-2 Blend (9mg) :: https://biotechpeptides.com/wp-content/uploads/2026/01/Sermorelin-GHRP-6-GHRP-2-Blend-9mg-238x317.webp
+[h2] Sermorelin & GHRP-6 & GHRP-2 Blend (9mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

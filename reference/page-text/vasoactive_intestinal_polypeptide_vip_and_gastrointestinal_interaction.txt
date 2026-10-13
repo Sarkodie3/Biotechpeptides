@@ -1,0 +1,93 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Vasoactive Intestinal Polypeptide (VIP) and Gastrointestinal Interaction
+[p] by Dr. Usman | May 20, 2022 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Vasoactive Intestinal Polypeptide (VIP) and Gastrointestinal Interaction :: https://biotechpeptides.com/wp-content/uploads/2022/05/VIP-Peptide-and-Gastrointestinal-Interaction.avif
+[h2] What is Vasoactive Intestinal Polypeptide (VIP)?
+[p] Vasoactive Intestinal Polypeptide (VIP) belongs to a class of peptides called the neuropeptides. Neuropeptides are short sequence peptide chains produced by neurons that play a role as chemical messengers in various biochemical pathways.
+[a https://biotechpeptides.com/product/vip-6mg/] Vasoactive Intestinal Polypeptide (VIP)
+[p] The Vasoactive Intestinal Polypeptide is considered to be a potent vasodilator, by researchers studying the action of the peptide. It is also classified as a neuromodulator and a neurotransmitter. It appears to function in the gastrointestinal tract (GIT). Here, it may modulate the smooth muscle activity mainly by relaxation and regulates epithelial cell secretion and blood flow to the GIT. It appears to interact with other gut chemicals to optimize gut function. Researchers suppose that it acts in a paracrine manner, being released from nerve terminals and acting locally on the receptors specific to it. The VIP receptor belongs to the class of G-protein coupled receptors.
+[h2] Research
+[h3] Action of Vasoactive Intestinal Polypeptide in Colitis
+[p] The intestinal epithelial wall is constantly exposed to extremely harsh conditions due to the passage of partially digested food, bile, and other acids. Maintaining the ace of the intestinal epithelial wall’s integrity is essential in protecting the small bowel from various immune-modulated inflammatory disorders; the most prominent is the inflammatory bowel disease or IBD (also known as colitis). Extensive research has suggested that the enteric nervous system (ENS) includes the fibers of Vasoactive Intestinal Polypeptide-secreting nerves running through the lamina propria of the small intestine- plays an important and poorly understood role in the protection of the intestinal epithelium.
+[p] Research suggests that the disruption of the ENS during the pathogenesis of IBD may play a contributory role in the manifestation of the overt symptoms of IBD, including abdominal cramping and runny stool. Several notable studies have suggested a strong association between the significant decrease in the expression of Vasoactive Intestinal Polypeptide and VPA1C, its receptor, and IBD. These studies conclude that VIP may play a protective role against inflammatory bowel disorders like IBD by maintaining the integrity and homeostasis of the intestinal epithelial wall.
+[h3] Bile Acid Secretion Through VIP
+[p] Studies suggest that Vasoactive Intestinal Polypeptide may cause an increase in bile acid secretion by the liver by enhancing the flow of bile and bile salt production. In studies conducted on duct-ligated rats, researchers noticed that exposure to exogenous VIP produced a significant increase in bile pH, bicarbonate concentration, and overall bile output in a concentration-dependent manner.
+[p] Vasoactive Intestinal Polypeptide appeared to case a significant stimulation of the cholangiocytes in the liver. This may induce an increase in fluid and bicarbonate secretion via a potent cAMP-independent pathway. The enhancement of bile secretion and output has been suggested via research findings that suggest the exogenous introduction of VIP in animal research models resulted in a massive increase in bile volume of up to 60%.
+[p] As a potential vasodilator, Vasoactive Intestinal Polypeptide appears to exert a similar action on the pancreatic vascular beds. Vasodilating the vessels that supply the pancreatic bed improves pancreatic secretory activity and enhances bile secretion. Therefore, Vasoactive Intestinal Polypeptide may potentially play a hemodynamic role and secretory role in the gut.
+[h3] Goblet Cell Growth Via VIP
+[p] Goblet cells are a specialized type of mucosal cells in the intestinal epithelium that are the prime sites for mucosal absorption and digestion. Goblet cells are extensively present in large airways and the intestinal and colonic epithelium. In all these sites, it primarily functions to secrete mucous. Goblet cells produce the macro glycoprotein called mucin, the main component of mucous.
+[p] In the gut, goblet cells secrete a thick mucous coating that maintains intestinal epithelial homeostasis upon stimulation, either by exocytosis or acetylcholine. Therefore, goblet cells have a somewhat protective function. It has been suggested by research studies that goblet cells serve as antigen importers and regulate the innate immune system.
+[p] Research on the Vasoactive Intestinal Polypeptide has suggested that exposure to Vasoactive Intestinal Polypeptide resulted in a significant increase in the ileal concentrations of goblet cells in mice models aiding in the protection of the gut.
+[h3] Gallbladder Relaxation via Vasoactive Intestinal Polypeptide
+[p] Immunohistochemistry analysis of the gallbladder indicated VIP-secreting nerve fibers in its wall. The control of gallbladder contraction and relaxation appears to be somewhat neurohumoral. It has been suggested that Vasoactive Intestinal Polypeptide secretion may result in a relaxation of the Sphincter of Oddi that permits and improves bile outflow.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

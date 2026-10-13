@@ -1,0 +1,111 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Selank Studies in Anxiety and Brain Function
+[p] by Dr. Usman | Aug 24, 2022 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Selank Studies in Anxiety and Brain Function :: https://biotechpeptides.com/wp-content/uploads/2022/08/Selank-Studies-in-Anxiety-and-Brain-Function.avif
+[p] Contents:
+[li] Selank Overview
+[a #Overview] Selank Overview
+[li] Selank and Memory
+[a #memory] Selank and Memory
+[li] Selank and Pain Perception
+[a #pain] Selank and Pain Perception
+[li] Selank and the Immune System following Anxiety
+[a #anxiety] Selank and the Immune System following Anxiety
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/selank-10mg/] 
+[img] Selank (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Selank.png
+[h2] Selank Peptide Overview
+[p] Research suggests that Selank may exhibit certain neuroprotective characteristics. Selank peptide may support mood and potentially decrease stress hormone secretion.
+[a https://biotechpeptides.com/product/selank-10mg/] Selank
+[p] According to research, 84 genes have been linked to GABA signaling.[2] Selank peptide potentially regulates 7 genes, while 45 genes may induce change in expression. The net result suggests that 52 genes tied to GABA signaling may be impacted by Selank to a certain degree, suggesting that Selank may directly modulate gene expression in nerve cells and impact changes by influencing the affinity of the GABA receptor for GABA.
+[p] The impact of Selank on enkephalin degradation may potentially regulate effects on GABA receptors. According to scientific data, research models exhibit increased enkephalinase activity in the blood after stress hormone secretion, resulting in short half-lived enkephalins.
+[p] Selank peptide potentially resets the enzymatic pathway to protect the natural anxiolytic peptides by inhibiting enkephalin degradation. The research proposes that part of the Selank action may be from a preventive impact on enkephalin degradation.
+[h2] Selank Peptide and Memory
+[p] Scientists believe Selank peptide may enhance certain cognitive processes.[3] Training mice with rewards, such as food, in combination with Selank, may potentially boost memory trace stability and storage. Selank’s impact in these mice models, despite anxiety levels, indicates that the peptide goes a long way to lower stress-related memory impairment.
+[p] Selank peptide may also potentially alter memory by regulating gene expression in the hippocampus. Research suggests changes in mRNA levels of 36 varying genes. Most genes encode proteins relating to the plasma membrane, regulating ion-dependent processes in memory and learning.
+[p] According to studies, Selank may potentially salvage learning and memory recall. Exposing mice samples to a neurotoxin and Selank suggested a restoration of cognitive processes. This potential correlates with an artificial inhibition of the catecholamine system in the brain via Selank. Scientists believe that Selank peptide may offer cognitive support following traumatic brain injury.
+[h2] Selank Peptide and Pain Perception
+[p] Selank peptide may potentially inhibit enzymes in the blood that induce enkephalin synthesis, reducing natural enkephalin degradation. Enkephalins are peptides that bind to opioid receptors, reducing the severity of pain. They also regulate stress response and are at abnormally high levels in the adrenal glands and brain. Therefore, Selank peptide may possibly modulate stress response and its impacts on learning, concentration, and memory by lowering enkephalin levels in the brain.
+[h2] Selank and the Immune System following Anxiety
+[p] Selank peptide may potentially suppress genes that control inflammatory cytokine inflammation, IL-6, in research models of depression.[4] Selank’s research in mice models suggests that the peptide may control the expression of 34 genes that influence the inflammatory process. These genes may impact cytokines, chemokines, and both receptors. Specifically, Selank peptide modulates Bcl6 expression, a gene that controls immune system development.
+[p] In addition, Selank peptide and Selank fragments may temporarily influence gene expression for Xcr1, C3, CAsp1, and II2rf in the mouse spleen. Selank may affect the immune system balance and inflammation by impacting these genes.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Medvedev VE, Tereshchenko ON, Israelian AIu, Chobanu IK, Kost NV, Sokolov OIu, Miasoedov NF. [A comparison of the anxiolytic effect and tolerability of selank and phenazepam in the treatment of anxiety disorders]. Zh Nevrol Psikhiatr Im S S Korsakova. 2014;114(7):17-22. Russian. PMID: 25176261.
+[li] Volkova A, Shadrina M, Kolomin T, Andreeva L, Limborska S, Myasoedov N, Slominsky P. Selank peptide Administration Affects the Expression of Some Genes Involved in GABAergic Neurotransmission. Front Pharmacol. 2016 Feb 18;7:31. doi: 10.3389/fphar.2016.00031. PMID: 26924987; PMCID: PMC4757669.
+[a https://pubmed.ncbi.nlm.nih.gov/26924987/] doi: 10.3389/fphar.2016.00031
+[li] Semenova TP, Kozlovskaya MM, Zakharova NM, Kozlovskii II, Zuikov AV. Effect of selank on cognitive processes after damage inflicted to the cerebral catecholamine system during early ontogeny. Bull Exp Biol Med. 2007 Nov;144(5):689-91. doi: 10.1007/s10517-007-0406-2. PMID: 18683497.
+[a https://pubmed.ncbi.nlm.nih.gov/18683497/] doi: 10.1007/s10517-007-0406-2
+[li] Uchakina ON, Uchakin PN, Miasoedov NF, Andreeva LA, Shcherbenko VE, Mezentseva MV, Gabaeva MV, Sokolov OIu, Zozulia AA, Ershov FI. [Immunomodulatory effects of selank in patients with anxiety-asthenic disorders]. Zh Nevrol Psikhiatr Im S S Korsakova. 2008;108(5):71-5. Russian. PMID: 18577961.
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

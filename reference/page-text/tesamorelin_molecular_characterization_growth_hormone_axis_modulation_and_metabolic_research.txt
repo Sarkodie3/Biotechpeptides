@@ -1,0 +1,142 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Tesamorelin: Molecular Characterization, Growth Hormone Axis Modulation, and Metabolic Research
+[p] by Dr. Usman | Mar 25, 2026 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Tesamorelin Molecular Characterization, Growth Hormone Axis Modulation, and Metabolic Research :: https://biotechpeptides.com/wp-content/uploads/2026/03/Tesamorelin-Molecular-Characterization-Growth-Hormone-Axis-Modulation-and-Metabolic-Research.webp
+[p] The amino acid sequence of Tesamorelin is as follows: Tyr-Ala-Asp-Ala-Ile-Phe-Thr-Asn-Ser-Tyr-Arg-Lys-Val-Leu-Gly-Gln-Leu-Ser-Ala-Arg-Lys-Leu-Leu-Gln-Asp-Ile-Met-Ser-Arg-Gln-Gln-Gly-Glu-Ser-Asn-Gln-Glu-Arg-Gly-Ala-Arg-Ala-Arg-Leu-NH₂. The Tesamorelin peptide has a molecular weight of approximately 5,136 daltons. The structural identity closely mirrors that of endogenous hypothalamic GHRH (1–44)NH₂ with targeted modifications intended to support pharmacokinetic stability[1].
+[a https://biotechpeptides.com/product/tesamorelin/] Tesamorelin peptide
+[p] Contents:
+[li] BPC 157& TB 500 & GHK Cu Mechanism of Action
+[a #ma] BPC 157& TB 500 & GHK Cu Mechanism of Action
+[li] Scientific and Research Studies
+[a #research] Scientific and Research Studies
+[li] BPC-157 and Tendon Fibroblast Signaling Pathways
+[a #tf] BPC-157 and Tendon Fibroblast Signaling Pathways
+[li] GHK-Cu and Tissue Repair Related Signaling
+[a #tr] GHK-Cu and Tissue Repair Related Signaling
+[li] BPC-157 in Systemic Tissue Injury Signaling Models
+[a #tis] BPC-157 in Systemic Tissue Injury Signaling Models
+[li] TB-500 and Inflammation-Associated Signaling Networks
+[a #ia] TB-500 and Inflammation-Associated Signaling Networks
+[li] GHK-Cu and Modulation of Reactive Oxygen Species
+[a #ros] GHK-Cu and Modulation of Reactive Oxygen Species
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/tesamorelin/] 
+[img] Tesamorelin (5mg & 10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/TESAMORELIN-1-1.webp
+[h2] Historical Development
+[p] Tesamorelin (previously designated TH9507) was developed within research programs investigating synthetic GHRH analogues capable of modulating pituitary somatotroph activity through receptor-mediated pathways[3]. Early investigations focused on the relative instability of endogenous GHRH, which is rapidly degraded by dipeptidyl peptidase IV (DPP-IV) and other circulating peptidases, resulting in a short plasma half-life[1]. Structural optimization strategies aimed to produce analogues that preserved receptor binding affinity while exhibiting better-supported resistance to proteolytic degradation[3].
+[p] Preclinical evaluations of TH9507 characterized its non-clinical pharmacological profile and preliminary parameters. These studies examined receptor binding kinetics, plasma half-life relative to endogenous GHRH, and downstream implications on growth hormone secretion dynamics[3]. Subsequent investigations advanced into controlled clinical settings to examine the peptide’s support for growth hormone axis signalling and associated metabolic outcomes.
+[h2] Mechanism of Action
+[p] Tesamorelin is thought to exert its principal biological activity through selective binding to GHRH receptors expressed on somatotroph cells of the anterior pituitary gland. These receptors are G protein-coupled receptors (GPCRs) that, upon ligand engagement, may initiate intracellular signalling cascades regulating growth hormone (GH) synthesis and secretion[2].
+[p] Receptor activation is believed to stimulate adenylate cyclase, catalyzing the conversion of adenosine triphosphate (ATP) to cyclic adenosine monophosphate (cAMP). Elevated intracellular cAMP concentrations may subsequently activate protein kinase A (PKA), which phosphorylates downstream transcriptional regulators involved in GH gene expression[2]. Research suggests this cascade might preserve the endogenous pulsatile pattern of GH secretion while augmenting the amplitude of individual secretory pulses, as reflected by increases in cumulative GH output and pulse area[2].
+[p] GH released from the pituitary may act on hepatocytes, stimulating the production and secretion of insulin-like growth factor-1 (IGF-1). IGF-1 is widely regarded as a central downstream mediator of GH signalling and may participate in diverse cellular processes, including regulation of lipid mobilization, cellular metabolism, and tissue homeostasis[3]. Collectively, these receptor-mediated interactions suggest that Tesamorelin may function primarily as a modulator of the hypothalamic-pituitary-GH axis.
+[h2] Scientific Research and Studies
+[h3] Tesamorelin and Visceral Adipose Tissue
+[p] Lipodystrophy encompasses a group of disorders characterized by pathological redistribution of adipose tissue, often accompanied by metabolic dysregulation, including insulin resistance, hyperlipidemia, and reduced circulating concentrations of GH and IGF-1. These metabolic disturbances may contribute to disproportionate accumulation of visceral adipose tissue (VAT), which is associated with cardiometabolic risk.
+[p] A pooled analysis of two Phase III, randomized, double-blind, placebo-controlled trials[4] examined the implications of Tesamorelin over 52 weeks in 806 mammalian research models presenting with signs of immunodeficiency-associated lipodystrophy. During the initial 26-week randomized phase, 543 participants received Tesamorelin while 263 were assigned to placebo. Research models in the Tesamorelin group who exhibited VAT reduction were subsequently re-randomized: a subset continued exposure while the other transitioned to placebo for an additional 26 weeks.
+[p] Observations of research models being evaluated at 26 weeks suggested that these research models receiving Tesamorelin comparatively exhibited a mean reduction in VAT of approximately 15.4% relative to baseline measurements. Concurrent changes in serum triglyceride concentrations and total cholesterol levels were also reported relative to the placebo cohort. The investigators noted that the reduction in VAT appeared to be maintained over the full 52-week study period, with subcutaneous adipose tissue largely preserved[4]. These findings suggest that Tesamorelin may support visceral adipose tissue through modulation of the GH-IGF-1 axis.
+[h3] Tesamorelin and Visceral Excessive Adiposity
+[p] Visceral excessive adiposity is frequently observed in research models, indicating signs of lipodystrophic conditions in laboratory settings. These observations may be associated with insulin resistance, hyperlipidemia, and elevated low-density lipoprotein (LDL) cholesterol concentrations. These metabolic disturbances may contribute to systemic complications, including hyperuricemia and atherosclerotic processes.
+[p] Research observations suggest that exposure to Tesamorelin may be associated with reductions in visceral fat accumulation of up to approximately 25% in lipodystrophy-related research models[8]. These findings indicate that Tesamorelin may support metabolic pathways linked to visceral adipose tissue regulation. The peptide continues to be examined in research settings investigating mechanisms associated with visceral fat accumulation and related metabolic disturbances.
+[h3] Tesamorelin and Hepatic Fat Fraction
+[p] Hepatic fat accumulation associated with non-alcoholic fatty liver disease (NAFLD) has been documented in immunocompromised populations, with reported prevalence approaching 40%[6]. Investigations have explored whether modulation of the GH axis by Tesamorelin might support hepatic lipid deposition pathways.
+[p] A randomized, double-blind, multicentre trial[5] enrolled 61 participants with documented immunodeficiency and elevated hepatic fat fraction (HFF). Participants were randomly assigned to receive either Tesamorelin or a placebo over a 12-month observation period, with HFF assessed at study conclusion using validated imaging methodology.
+[p] Findings suggested that approximately 35% of participants in the Tesamorelin group may have exhibited reductions in HFF below the 5% threshold, compared with approximately 4% in the placebo group[5]. Circulating glucose levels remained largely unchanged in both cohorts, which might indicate that the observed alterations in HFF occurred independently of measurable changes in glycaemic parameters. These observations suggest that Tesamorelin may support hepatic lipid pathways through mechanisms associated with GH-IGF-1 signalling.
+[h3] Tesamorelin and Insulin Sensitivity
+[p] A randomized clinical investigation[5] examined potential associations between Tesamorelin and markers of insulin sensitivity in mammalian models showing signs of Type II diabetes over 12 weeks. Fifty-three participants were allocated to one of three groups: two groups received differing concentrations of Tesamorelin, while the third served as a placebo control.
+[p] Metabolic indicators, including fasting glucose, glycosylated haemoglobin (HbA1c), and additional parameters of glycaemic control, were evaluated. At the study conclusion, data suggested no statistically significant differences among the three groups. Measurements of fasting glucose and HbA1c appeared largely unchanged following exposure to Tesamorelin under the conditions investigated[5]. These findings suggest that Tesamorelin might not produce measurable alterations in insulin sensitivity or glucose regulation within this specific population over the evaluated timeframe.
+[h3] Tesamorelin and Skeletal Muscular Tissue Composition
+[p] A research investigation[7] evaluated potential associations between Tesamorelin exposure and structural characteristics of skeletal muscle cells with computed tomography (CT) imaging. CT-based measurements were employed to quantitatively assess variations in muscular tissue density and the cross-sectional area of muscular tissue over the observation period.
+[p] Analytical comparisons between study groups suggested possible associations between Tesamorelin exposure and changes in skeletal muscular tissue characteristics. Observations indicated increases in muscular tissue density and overall muscle cell area in specific anatomical regions, including the rectus abdominis and paraspinal muscle groups. A reported reduction in intramuscular fat content relative to the placebo control group[7] accompanied these changes. Research suggests that these observations may reflect Tesamorelin’s support for overall fat composition parameters in the context of altered GH-axis signalling.
+[h3] Tesamorelin and Neurocognitive Function
+[p] A Phase II clinical trial[8] explored potential associations between Tesamorelin and neurocognitive performance in immunocompromised research models presenting with mild neurocognitive impairment. The trial enrolled 100 mammalian research models, mid-life and older, in the demographic. It employed a structured design consisting of an initial 6-month exposure phase, followed by a 6-month washout interval, and a subsequent 6-month reintroduction phase.
+[p] The primary outcome measure involved changes in neurocognitive performance assessed using the Global Deficit Score (GDS) at 6-month and 12-month evaluation points. Secondary biomarker assessments included IGF-1 concentrations, magnetic resonance spectroscopy (MRS) measures of neuroinflammatory markers, and hippocampal volume measurements[8]. These investigations sought to characterize potential relationships between GH-axis modulation by Tesamorelin and neurological outcomes in this population.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet]. Bethesda (MD): National Institute of Diabetes and Digestive and Kidney Diseases; 2012-. Tesamorelin. https://www.ncbi.nlm.nih.gov/books/NBK548730/
+[a https://www.ncbi.nlm.nih.gov/books/NBK548730/] https://www.ncbi.nlm.nih.gov/books/NBK548730/
+[li] Stanley TL, Chen CY, Branch KL, Makimura H, Grinspoon SK. Effects of a growth hormone-releasing hormone analog on endogenous GH pulsatility and insulin sensitivity in healthy men. J Clin Endocrinol Metab. 2011 Jan;96(1):150-8. doi: 10.1210/jc.2010-1587. Epub 2010 Oct 13. PMID: 20943777; PMCID: PMC3038486. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3038486/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3038486/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3038486/
+[li] Ferdinandi ES, Brazeau P, High K, Procter B, Fennell S, Dubreuil P. Non-clinical pharmacology and safety evaluation of TH9507, a human growth hormone-releasing factor analogue. Basic Clin Pharmacol Toxicol. 2007 Jan;100(1):49-58. doi: 10.1111/j.1742-7843.2007.00008.x. PMID: 17214611. https://pubmed.ncbi.nlm.nih.gov/17214611/
+[a https://pubmed.ncbi.nlm.nih.gov/17214611/] https://pubmed.ncbi.nlm.nih.gov/17214611/
+[li] Falutz J, Mamputu JC, Potvin D, Moyle G, Soulban G, Loughrey H, Marsolais C, Turner R, Grinspoon S. Effects of tesamorelin (TH9507), a growth hormone-releasing factor analog, in human immunodeficiency virus-infected patients with excess abdominal fat: a pooled analysis of two multicenter, double-blind placebo-controlled phase 3 trials with safety extension data. J Clin Endocrinol Metab. 2010 Sep;95(9):4291-304. doi: 10.1210/jc.2010-0490. Epub 2010 Jun 16. PMID: 20554713. https://pubmed.ncbi.nlm.nih.gov/20554713/
+[a https://pubmed.ncbi.nlm.nih.gov/20554713/] https://pubmed.ncbi.nlm.nih.gov/20554713/
+[li] Stanley, T. L., Fourman, L. T., Feldpausch, M. N., Purdy, J., Zheng, I., Pan, C. S., Aepfelbacher, J., Buckless, C., Tsao, A., Kellogg, A., Branch, K., Lee, H., Liu, C. Y., Corey, K. E., Chung, R. T., Torriani, M., Kleiner, D. E., Hadigan, C. M., & Grinspoon, S. K. (2019). Effects of tesamorelin on non-alcoholic fatty liver disease in HIV: a randomised, double-blind, multicentre trial. The lancet. HIV, 6(12), e821–e830. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6981288/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6981288/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6981288/
+[li] Tesamorelin Effects on Liver Fat and Histology in HIV. https://clinicaltrials.gov/ct2/show/NCT02196831
+[a https://clinicaltrials.gov/ct2/show/NCT02196831] https://clinicaltrials.gov/ct2/show/NCT02196831
+[li] Adrian S, Scherzinger A, Sanyal A, Lake JE, Falutz J, Dubé MP, Stanley T, Grinspoon S, Mamputu JC, Marsolais C, Brown TT, Erlandson KM. The Growth Hormone Releasing Hormone Analogue, Tesamorelin, Decreases Muscle Fat and Increases Muscle Area in Adults with HIV. J Frailty Aging. 2019;8(3):154-159. doi: 10.14283/jfa.2018.45. PMID: 31237318; PMCID: PMC6766405. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6766405/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6766405/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6766405/
+[li] Phase II Trial of Tesamorelin for Cognition in Aging HIV-Infected Persons. https://clinicaltrials.gov/ct2/show/record/NCT02572323
+[a https://clinicaltrials.gov/ct2/show/record/NCT02572323] https://clinicaltrials.gov/ct2/show/record/NCT02572323
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

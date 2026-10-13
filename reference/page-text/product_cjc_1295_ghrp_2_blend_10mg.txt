@@ -1,0 +1,143 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2023/06/CJC-1295-GHRP-2-1.webp] 
+[img] CJC-1295 & GHRP-2 Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2023/06/CJC-1295-GHRP-2-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2023/06/COA_CJC-1295_noDAC_GHRP2_3141016_BP_page-0001.webp] 
+[img] CJC-1295 & GHRP-2 Blend (10mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2023/06/COA_CJC-1295_noDAC_GHRP2_3141016_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2023/06/COA_CJC-1295_noDAC_GHRP2_3141016_BP_page-0002.webp] 
+[img] CJC-1295 & GHRP-2 Blend (10mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2023/06/COA_CJC-1295_noDAC_GHRP2_3141016_BP_page-0002.webp
+[a https://biotechpeptides.com/wp-content/uploads/2023/06/COA_CJC-1295_noDAC_GHRP2_3141016_BP_page-0003.webp] 
+[img] CJC-1295 & GHRP-2 Blend (10mg) - Image 4 :: https://biotechpeptides.com/wp-content/uploads/2023/06/COA_CJC-1295_noDAC_GHRP2_3141016_BP_page-0003.webp
+[h1] CJC-1295 & GHRP-2 Blend (10mg)
+[p] $84.00
+[p] CJC-1295 & GHRP-2 blend is Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_32492 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $79.80
+[input name=wccs_tier_select_32492 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $75.60
+[label] CJC-1295 & GHRP-2 Blend (10mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[a https://biotechpeptides.com/wp-content/uploads/2023/06/COA_CJC-1295_noDAC_GHRP2_3141016_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] CJC-1295 & GHRP-2 Peptide Blend
+[p] CJC-1295 & GHRP-2 blend combines two peptides with different structures; both have been researched for their proposed affinity for receptors in the pituitary gland and other parts of the central nervous system. Despite activating different receptors, CJC-1295 & GHRP-2 may exhibit similar action. CJC-1295 is a molecule that appears to bind to the growth hormone-releasing hormone (GHRH) receptors, which may cause the release of growth hormone by pituitary cells. CJC-1295 is derived from GHRH 1-29, the shortest functional sequence of GHRH consisting of the first 29 amino acids. CJC-1295 is a tetrasubstituted version of the peptide that is also modified by adding a drug affinity complex (DAC) component called N-epsilon-3-maleimidopropionamide, which appears to bind to plasma proteins and may improve CJC-1295 pharmacokinetics. GHRP-2, or Growth Hormone Releasing Peptide 2, is a synthetic hexapeptide composed of six amino acids. This peptide appears to bind to ghrelin or growth hormone secretagogue 1a receptors (GHS-R1a) found in the hypothalamus and the pituitary gland. As a result, GHRP-2 also appears to stimulate the production of growth hormone (GH) in pituitary cells that express this receptor.
+[h3] CJC-1295 Specifications
+[p] Molecular Formula: C152H252N44O42
+[p] Molecular Weight: 3367.9 g/mol
+[p] Sequence: H-Tyr-D-Ala-Asp-Ala-Ile-Phe-Thr-Gln-Ser-Tyr-Arg-Lys-Val-Leu-Ala-Gln-Leu-Ser-Ala-Arg-Lys-Leu-Leu-Gln-Asp-Ile-Leu-Ser-Arg-Lys(Mal)-NH2
+[p] PubChem: CID 56841945
+[a https://pubchem.ncbi.nlm.nih.gov/compound/56841945] PubChem
+[p] Other: DOES NOT CONTAIN DAC
+[h3] GHRP-2 Specifications
+[p] Molecular Formula: C45H55N9O6
+[p] Molecular Weight: 817.9749 g/mol
+[p] Sequence: D-Ala-D-2Nal-Ala-Trp-D-Phe-Lys
+[h3] CJC-1295 & GHRP-2 Research
+[p] CJC-1295 & GHRP-2 Blend and the Pituitary CJC-1295 appears to have a similar affinity to pituitary cells, specifically to their GHRH receptors, as native GHRH. Studies comment that when the peptide was “selected for further pharmacokinetic evaluation, … it was found to be present in plasma beyond 72 h.”[1] It may therefore exhibit improved pharmacokinetics compared to GHRH. Further, the peptide may exhibit increased potential for upregulating the synthesis of growth hormone by somatotroph cells. More specifically, CJC-1295 appears to stimulate a 4-fold higher growth hormone secretion (measured as area under the curve) compared to other GHRH receptor agonists such as GRF1–29. The CJC-1295 may exert these actions by possibly attaching to and activating the GHRH receptor. The peptide possibly binds to specific sites on the GHRH receptor protein, potentially causing conformational changes. These changes may activate intracellular signaling proteins called G-proteins, possibly located on the inner side of the GHRH receptor.[2] This may stimulate the production of second messengers like cAMP and IP3 (inositol trisphosphate), which could propagate the signal within the cell and possibly activate protein kinases that may phosphorylate target proteins and regulate cellular processes.[3] Protein kinases may possibly impact transcription factors involved in gene expression that enter the nucleus, and potentially modulate the transcription of genes associated with growth hormone synthesis and secretion. Ultimately, the binding of CJC-1295 may trigger molecular events that result in the fusion of secretory vesicles containing growth hormone with the plasma membrane, possibly releasing growth hormone outside pituitary cells. Researchers commented that when CJC-1295 is introduced to pituitary cells, “basal (trough) GH levels were markedly increased (7.5-fold; ...) and contributed to an overall increase in GH secretion (mean GH levels, 46%; ...) and IGF-I levels (45%; ...).”[4]
+[p] CJC-1295 & GHRP-2 Blend and IGF-1 production By interacting with growth hormone production, CJC-1295 may upregulate IGF-1 (insulin-like growth factor-1) levels which is considered to be a major anabolic mediator of growth hormone. Even brief exposure to CJC-1295 in animal test models appears to impact mean plasma growth hormone concentrations, with research studies indicating a rise by 2- to 10-fold for 6 days or potentially more. The peak of growth hormone levels seems to be typically achieved within 1 to 4 hours following introduction. Furthermore, CJC-1295 may exhibit observable dependent increases in mean plasma IGF-I concentrations by 1.5- to 3-fold for possibly 9–11 days.[5] Post introduction, it is suggested that IGF-I levels could remain elevated for at least 2 weeks in test models receiving greater exposure. Following multiple presentations of CJC-1295, mean IGF-I levels appear to stay above baseline for up to 28 days. Intriguingly, there appears to be data of a cumulative action after two or three presentations to the compound, with possibly elevated levels of both growth hormone and IGF-I above baseline on day 14 in many laboratory subjects. CJC-1295 may upregulate IGF-1 through an increase in growth hormone, which may then bind to specific receptors on liver cells, potentially initiating a series of intracellular signaling events. The binding of growth hormone possibly triggers the activation of the Janus kinase-signal transducer and activator of transcription (JAK-STAT) signaling pathway. The activated STAT proteins may then translocate to the nucleus, where they could bind to specific DNA sequences called response elements, possibly leading to the transcription of the IGF-I gene. The newly synthesized IGF-I is then hypothesized to be released into the circulation, where it may act upon various target tissues. IGF-I, it appears, could be a potent growth-promoting hormone that hypothetically mediates several of the growth and anabolic action of growth hormone. It is proposed to stimulate the growth and proliferation of cells, tissues, and organs, potentially fostering protein synthesis and cellular growth.
+[p] CJC-1295 & GHRP-2 Blend and Potential Synergism GHRP-2 is a peptide that does not appear to share any sequence with the ghrelin hormone, but may have specific amino acid sequences that potentially allow the peptide to interact with ghrelin receptors. These receptors, GHS-R1a, are consideredn to be primarily located in the hypothalamus and the pituitary gland.[6] Non-covalent interactions, such as hydrogen bonds and electrostatic forces, may facilitate the potential binding of GHRP-2 to the receptor. A conformational change may occur upon binding, potentially activating intracellular signaling pathways primarily involving G-proteins. Gαq/11, a subunit of G-proteins, may be released, potentially initiating downstream signaling cascades.[7] Phospholipase C (PLC) may cleave phosphatidylinositol 4,5-bisphosphate (PIP2) into secondary messengers, IP3 and DAG (diacylglycerol). IP3 may induce calcium ion release, while DAG may activate protein kinase C (PKC), potentially amplifying the signaling cascade and possibly stimulating the release of growth hormone from pituitary cells.[8] As a result of these potential interactions, GHRP-2 has been observed to apparently lead to a 47-fold increase in pulsatile GH secretion, while GHRH-mimetics appear to lead to only a 20-fold increase. Interestingly, combination of both GHRH-mimetic and GHRP-2 was observed to apparently cause a 54-fold increase in pulsatile GH secretion compared to controls. Moreover, GHRP-2 appeared to decrease the time to maximal GH secretion with a median time reduction of 43%. Therefore, it has been hypothesized that GHRH-mimetics such as CJC-1295 and the secretagogue GHRP-2 may potentially exhibit synergistic effects.[9]
+[p] CJC-1295 & GHRP-2 Blend and Appetite GHRP-2, as a supposed ghrelin analogue, is hypothesized to reflect ghrelin's role as an appetite-stimulating hormone. Preliminary studies have hinted that this peptide might possibly mediate an increase in weight, potentially over 14lbs depending on test models.[10] It is believed that the mechanism behind the potential appetite-stimulating effect of GHRP-2 mainly involves its interaction with the growth hormone secretagogue receptor (GHSR), particularly GHSR-1a. These receptors appear to be found in various locations, such as the hypothalamus, pituitary gland, and stomach. When GHRP-2 binds to GHSR-1a in the hypothalamus, it is theorized to trigger a signal transduction cascade that could lead to increased production of the hunger-inducing neuropeptide, Neuropeptide Y (NPY), and Agouti-related peptide (AgRP), both of which are believed to play significant roles in energy homeostasis and appetite regulation. At the same time, GHRP-2 may possibly inhibit the release of the anorexigenic (appetite-suppressing) hormone, melanocyte-stimulating hormone (α-MSH). As a consequence, the balance may lean towards hunger, stimulating food intake. Moreover, GHRP-2, via its supposed activation of GHSR-1a, might have an influence on the mesolimbic reward system — a brain circuitry thought to control the desire for palatable food. This might hypothetically enhance the motivation for food consumption. It's worth noting that while GHRP-2 appears to mainly affect appetite through its interaction with GHSR-1a, it is likely to have complex effects on overall energy homeostasis given the wide distribution of GHSRs and the multifaceted role ghrelin seems to play. Other hormones, neuronal signals, and factors related to circadian rhythms and physiological states may also influence its potential appetite-stimulating effects.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Jetté, L., Léger, R., Thibaudeau, K., Benquet, C., Robitaille, M., Pellerin, I., Paradis, V., van Wyk, P., Pham, K., & Bridon, D. P. (2005). Human growth hormone-releasing factor (hGRF)1-29-albumin bioconjugates activate the GRF receptor on the anterior pituitary in rats: identification of CJC-1295 as a long-lasting GRF analog. Endocrinology, 146(7), 3052–3058. https://doi.org/10.1210/en.2004-1286
+[a https://doi.org/10.1210/en.2004-1286] https://doi.org/10.1210/en.2004-1286
+[li] Martin, B., Lopez de Maturana, R., Brenneman, R., Walent, T., Mattson, M. P., & Maudsley, S. (2005). Class II G protein-coupled receptors and their ligands in neuronal function and protection. Neuromolecular medicine, 7(1-2), 3–36. https://doi.org/10.1385/nmm:7:1-2:003
+[a https://doi.org/10.1385/nmm:7:1-2:003] https://doi.org/10.1385/nmm:7:1-2:003
+[li] Newton, A. C., Bootman, M. D., & Scott, J. D. (2016). Second Messengers. Cold Spring Harbor perspectives in biology, 8(8), a005926. https://doi.org/10.1101/cshperspect.a005926
+[a https://doi.org/10.1101/cshperspect.a005926] https://doi.org/10.1101/cshperspect.a005926
+[li] Ionescu, M., & Frohman, L. A. (2006). Pulsatile secretion of growth hormone (GH) persists during continuous stimulation by CJC-1295, a long-acting GH-releasing hormone analog. The Journal of clinical endocrinology and metabolism, 91(12), 4792–4797. https://doi.org/10.1210/jc.2006-1702
+[a https://doi.org/10.1210/jc.2006-1702] https://doi.org/10.1210/jc.2006-1702
+[li] Teichman, S. L., Neale, A., Lawrence, B., Gagnon, C., Castaigne, J. P., & Frohman, L. A. (2006). Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults. The Journal of clinical endocrinology and metabolism, 91(3), 799–805. https://doi.org/10.1210/jc.2005-1536
+[a https://doi.org/10.1210/jc.2005-1536] https://doi.org/10.1210/jc.2005-1536
+[li] Childs, M. D., & Luyt, L. G. (2020). A Decade’s Progress in the Development of Molecular Imaging Agents Targeting the Growth Hormone Secretagogue Receptor. Molecular imaging, 19, 1536012120952623. https://doi.org/10.1177/1536012120952623
+[a https://doi.org/10.1177/1536012120952623] https://doi.org/10.1177/1536012120952623
+[li] Yin, Y., Li, Y., & Zhang, W. (2014). The growth hormone secretagogue receptor: its intracellular signaling and regulation. International journal of molecular sciences, 15(3), 4837–4855. https://doi.org/10.3390/ijms15034837
+[a https://doi.org/10.3390/ijms15034837] https://doi.org/10.3390/ijms15034837
+[li] Bill, C. A., & Vines, C. M. (2020). Phospholipase C. Advances in experimental medicine and biology, 1131, 215–242. https://doi.org/10.1007/978-3-030-12457-1_9
+[a https://doi.org/10.1007/978-3-030-12457-1_9] https://doi.org/10.1007/978-3-030-12457-1_9
+[li] Sinha, D. K., Balasubramanian, A., Tatem, A. J., Rivera-Mirabal, J., Yu, J., Kovac, J., Pastuszak, A. W., & Lipshultz, L. I. (2020). Beyond the androgen receptor: the role of growth hormone secretagogues in the modern management of body composition in hypogonadal males. Translational andrology and urology, 9(Suppl 2), S149–S159. https://doi.org/10.21037/tau.2019.11.30
+[a https://doi.org/10.21037/tau.2019.11.30] https://doi.org/10.21037/tau.2019.11.30
+[li] Sigalos, J. T., & Pastuszak, A. W. (2018). The Safety and Efficacy of Growth Hormone Secretagogues. Sexual medicine reviews, 6(1), 45–53. https://doi.org/10.1016/j.sxmr.2017.02.004
+[a https://doi.org/10.1016/j.sxmr.2017.02.004] https://doi.org/10.1016/j.sxmr.2017.02.004
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] GHRP-2 (10mg) $39.00
+[a https://biotechpeptides.com/product/ghrp-2-10mg/] GHRP-2 (10mg) $39.00
+[img] GHRP-2 :: https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-2-238x317.webp
+[h2] GHRP-2 (10mg)
+[li] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) $46.00
+[a https://biotechpeptides.com/product/mod-grf-1-29-5mg-cjc-1295-no-dac/] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) $46.00
+[img] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Mod-GRF-1-29-238x317.webp
+[h2] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg)
+[li] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg) $80.00
+[a https://biotechpeptides.com/product/cjc-1295-ipamorelin-ghrp2-9mg-blend/] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg) $80.00
+[img] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-Ipamorelin-GHRP-2-1-238x317.webp
+[h2] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg)
+[li] Mod GRF 1-29 & GHRP-2 Blend (10mg) $84.00
+[a https://biotechpeptides.com/product/mod-grf-1-29-ghrp-2-blend-10mg/] Mod GRF 1-29 & GHRP-2 Blend (10mg) $84.00
+[img] Mod GRF 1-29 & GHRP-2 Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Mod-GRF-GHRP-2-1-238x317.webp
+[h2] Mod GRF 1-29 & GHRP-2 Blend (10mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

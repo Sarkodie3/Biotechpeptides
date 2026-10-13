@@ -1,0 +1,140 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Cell Proliferation and Gene Expression in Regards to Vilon Peptide
+[p] by Dr. Usman | Mar 16, 2023 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Cell Proliferation and Gene Expression in Regards to Vilon Peptide :: https://biotechpeptides.com/wp-content/uploads/2023/03/The-Prize-of-Immunologists-the-Vilon-Peptide.webp
+[a https://biotechpeptides.com/product/vilon-20mg/] Vilon
+[p] Since its initial discovery, Vilon has been the subject of numerous studies in Russia and other countries. Its potential action may include interacting with genes, cell proliferation, immune system functioning, coagulation, cell aging, organ function, and even cancer cells.
+[p] Vilon is arguably the shortest peptide to have any biological activity and is made of two amino acids, lysine, and glutamate. This has led to the peptide being recognized as Lysylglutamic acid or Lysylglutamate. Vilon has a chemical formula of C11H21N3O5 and a molecular weight of 275.30 g/mol. The amino acid L-lysine is a positively charged amino acid, while L-glutamate is a negatively charged amino acid. This gives Vilon (Lysylglutamate) an overall neutral charge.
+[p] Overall, the structure of Vilon is relatively simple compared to larger peptides and proteins. Still, its unique composition and chemical properties make it an interesting molecule for further study and potential development.
+[p] Contents:
+[li] Research Studies on the Vilon Peptide
+[a #research] Research Studies on the Vilon Peptide
+[li] Vilon Peptide and Cell Proliferation, Gene Expression
+[a #cell] Vilon Peptide and Cell Proliferation, Gene Expression
+[li] Vilon Peptide and Cell Aging
+[a #aging] Vilon Peptide and Cell Aging
+[li] Vilon Peptide and the Immune System
+[a #immune] Vilon Peptide and the Immune System
+[li] Vilon Peptide and Coagulation
+[a #coagulation] Vilon Peptide and Coagulation
+[li] Vilon Peptide and Cancer Cells
+[a #cancer] Vilon Peptide and Cancer Cells
+[li] Conclusion
+[a #conclusion] Conclusion
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/vilon-20mg/] 
+[img] Buy Vilon Peptide (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Vilon.png
+[h2] Research Studies on the Vilon Peptide
+[h3] Vilon Peptide and Cell Proliferation, Gene Expression
+[p] Studies suggest that Vilon may affect gene expression and, more specifically, programmed cell death (apoptosis). One laboratory experiment reported that the peptide reduced the apoptotic death of spleen lymphocytes in rats caused by irradiation.[1]
+[p] Another study examined the potential of Vilon on cell proliferation in spleen organotypic tissue cultures of rats of different ages (3 days, 3 weeks, and 2 years old). The results suggested that Vilon might stimulate cell proliferation in both young and old rats.[2]
+[p] The peptide may achieve this effect by interacting directly with certain genes. Experiments reveal that Vilon may have the ability to modify the chromatin structure of lymphocytes in elderly research models.[3] This may lead to the release and activation of genes that are otherwise repressed due to aging.
+[h3] Vilon Peptide and Cell Aging
+[p] Animal studies reported that exposure to Vilon (Lys-Glu) in female CBA mice from the 6th month of life might enact physical activity, endurance, and prolonged lifespan while preventing spontaneous neoplasms.[4] According to the study, the introduction of Vilon did not appear to affect the estrous function or free radical processes. The long-term exposure of Vilon did not appear to cause any negative impact on animal development either, indicating that it may be efficacious for geroprotection.
+[p] Several studies also report that the peptide may activate regeneration mechanisms in explanted cells in young and aged rats.[5][6] The peptide was reportedly effective, even in small concentrations. The researchers noted that “the stronger effect on the explants taken from the old rats suggests that Vilon is a candidate for geriatric research and practice.”
+[p] Another study suggested that low-concentration ionizing radiation appeared to cause accelerated cell aging in the thymus and spleen of rats; 7 however, exposure to Vilon appeared to partially inhibit this process and furthermore provided anti-cell aging characteristics.
+[h3] Vilon Peptide and the Immune System
+[p] Experiments in murine models of immunosuppression report that Vilon may have immunomodulating action. One animal study examined the effect of Vilon exposure in rats exposed to mercury and gamma radiation, which are known to suppress the immune system. The exposure caused lymphopenia and DNA damage, but the Vilon peptide appeared to normalize the lymphocyte count and reduce the morbidity of rats over a period of 15 months after exposure.[8]
+[p] In another study, Vilon was suggested by researchers to increase the expression of lymphocyte differentiation marker CD5 in thymic cells. It appeared to induce T-cells precursor differentiation towards CD4+ T-helpers.[9] CD4+ T-helper cells are a type of white blood cell that plays a crucial role in the immune response by activating and coordinating the activity of other immune cells. Vilon was suggested to stimulate the expression of argyrophilic proteins in nucleolar organizer regions of thymocytes and epithelial cells and promote thymocyte transformation into proliferating blast cells.[10]
+[h3] Vilon Peptide and Coagulation
+[p] The possible action of the peptide on coagulation is one of the less developed hypotheses put forth by researchers. One study reported that Vilon appeared to significantly reduce or eliminate accelerated blood coagulability, decrease levels of natural anti-coagulants, and increase fibrinogen and fibrin complexes in research models of type 1 diabetes.[11] This finding was reported despite the action appearing to be less pronounced in elderly models of severe forms of the disease.
+[p] Another trial in aged research models of type 1 diabetes reported that Vilon appeared to increase natural anticoagulant content, stimulate fibrinolysis, and reduce insulin supplementation.[12] Vilon purportedly did so by stabilizing the immune system by normalizing active T-lymphocytes, B-lymphocytes, and IgA while reducing T-helpers’ content, T-dependent, and non-T-dependent NK cells. The researchers also reported that “in most cases, Vilon reduced the [concentration] of insulin necessary for the stabilization of carbohydrate metabolism.”
+[h3] Vilon Peptide and Cancer Cells
+[p] Vilon was developed as an immunomodulator and has also been studied in stage III rectal and colon cancer.[13] Researchers suggested it may potentially improve the 2-year survival rate, mitigate post-operative and remote complications, recurrences, and tumor dissemination. However, it is important to note that these findings are based on preliminary results and require further investigation.
+[p] According to one murine model of bladder cancer, exposure to Vilon appeared to reduce the incidence of preneoplastic and early neoplastic changes in urinary bladder mucosa and significantly inhibited carcinogenesis.[14] The incidence of urinary bladder tumors was also reportedly lower in Vilon-exposed animals than controls. However, some studies report conflicting results. One animal experiment reports that Vilon appeared to increase the incidence of mammary cancer and shorten the time for tumor development in female transgenic mice.[15]
+[h2] Conclusion
+[p] Vilon is a synthetically developed peptide comprised of two amino acids with strong immunomodulatory potential. It has been studied extensively since its development and has been suggested to host numerous potential actions. While much is still unknown about the mechanisms of action and the full breadth of potential downstream impacts of Vilon, its development represents an important milestone in the search for new tools that interact with immunity, gene expression, and cell aging.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Khavinson VK, Kvetnoii IM. Peptide bioregulators inhibit apoptosis. Bull Exp Biol Med. 2000;130(12):1175-1176.
+[li] Bykov NM, Chalisova NI, Zeziulin PN. Retsiproknye sootnosheniia proliferativenoĭ aktivnosti v tsentral’noĭ i perifericheskoĭ zonakh organotipicheskoĭ kul’tury selezenki pri deĭstvii vilona u krys raznogo vozrasta [Reciprocal relation of proliferative activity in central and peripheral zones of splenic organ culture exposed to vilon in rats of various ages]. Adv Gerontol. 2003;11:104-108.
+[li] Lezhava T, Monaselidze J, Kadotani T, Dvalishvili N, Buadze T. Anti-aging peptide bioregulators induce reactivation of chromatin. Georgian Med News. 2006;(133):111-115.
+[li] Khavinson VK, Anisimov VN, Zavarzina NY, et al. Effect of vilon on biological age and lifespan in mice. Bull Exp Biol Med. 2000;130(7):687-690. doi:10.1007/BF02682106
+[a https://doi.org/10.1007/BF02682106] doi:10.1007/BF02682106
+[li] Kniaz’kin IV, Iuzhakov VV, Chalisova NI, Grigor’ev EI. Funktsional’naia morfologiia organotipicheskoĭ kul’tury selezenkoi krys razlichnogo vozrasta pri deĭstvii vilona [Functional morphology of organotypic culture of spleens from rats of various ages exposed to vilon]. Adv Gerontol. 2002;9:110-115.
+[li] Bykov NM, Chalisova NI. Osobennosti deĭstviia ul’tramalykh doz vilona v organotipicheskoĭ kul’ture selezenki krys raznogo vozrasta [Characteristics of effect of ultralow doses of vilon in organotypic culture of spleens from rats of various ages]. Adv Gerontol. 2002;10:85-87.
+[li] Kniaz’kin IV, Poliakova VO. Deĭstvie vilona na timus i selezenku v radiatsionnoĭ modeli prezhdevremennogo stareniia [The effect of vilon on the thymus and spleen in a radiation model of premature aging]. Adv Gerontol. 2002;9:105-109.
+[li] Ivanov SD, Khavinson VKh, Malinin VV, et al. Adv Gerontol. 2005;16:88-91.
+[li] Sevostianova NN, Linkova NS, Polyakova VO, et al. Immunomodulating effects of Vilon and its analogue in the culture of human and animal thymus cells. Bull Exp Biol Med. 2013;154(4):562-565. doi:10.1007/s10517-013-2000-0
+[a https://doi.org/10.1007/s10517-013-2000-0] doi:10.1007/s10517-013-2000-0
+[li] Raikhlin NT, Bukaeva IA, Smirnova EA, et al. Expression of argyrophilic proteins in the nucleolar organizer regions of human thymocytes and thymic epitheliocytes under conditions of coculturing with vilon and epithalon peptides. Bull Exp Biol Med. 2004;137(6):588-591. doi:10.1023/b:bebm.0000042720.40439.16
+[a https://doi.org/10.1023/b:bebm.0000042720.40439.16] doi:10.1023/b:bebm.0000042720.40439.16
+[li] Kuznik BI, Kolesnichenko LR, Kliuchereva NN, Pinelis IuI, Ryzhak GA, Khamaeva TsB. Adv Gerontol. 2006;19:107-115.
+[li] Kuznik BI, Isakova NV, Kliuchereva NN, Maleeva NV, Pinelis IS. Adv Gerontol. 2007;20(2):106-115.
+[li] Ias’kevich LS, Krutilina NI, Kostetskaia TV, Ryzhak GA, Khavinson VKh. Adv Gerontol. 2005;16:97-100.
+[li] Pliss GB, Mel’nikov AS, Malinin VV, Khavinson VK. Inhibitory effect of peptide vilon on the development of induced rat urinary bladder tumors in rats. Bull Exp Biol Med. 2001;131(6):558-560. doi:10.1023/a:1012354603132
+[a https://doi.org/10.1023/a:1012354603132] doi:10.1023/a:1012354603132
+[li] Anisimov VN, Khavinson VK, Provinciali M, et al. Inhibitory effect of the peptide epitalon on the development of spontaneous mammary tumors in HER-2/neu transgenic mice. Int J Cancer. 2002;101(1):7-10. doi:10.1002/ijc.10570
+[a https://doi.org/10.1002/ijc.10570] doi:10.1002/ijc.10570
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

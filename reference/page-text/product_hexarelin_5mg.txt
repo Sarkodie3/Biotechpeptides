@@ -1,0 +1,140 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/Hexarelin-1.webp] 
+[img] Hexarelin (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Hexarelin-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Hexarelin_3141038_BP_page-0001.webp] 
+[img] Hexarelin (5mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Hexarelin_3141038_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Hexarelin_3141038_BP_page-0002.webp] 
+[img] Hexarelin (5mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Hexarelin_3141038_BP_page-0002.webp
+[h1] Hexarelin (5mg)
+[p] $64.00 Original price was: $64.00.$49.00Current price is: $49.00.
+[p] Hexarelin peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_709 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $46.55
+[input name=wccs_tier_select_709 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $44.10
+[label] Hexarelin (5mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Hexarelin_3141038_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Hexarelin Peptide
+[p] Hexarelin (also known as Examorelin) is a synthetic analog of ghrelin and shares a high degree of structural similarity to GHRP-6. Both are research peptides made of six amino acids that mimic the function of the endogenous hormone ghrelin and stimulate the release of growth hormone (hGH) from anterior pituitary gland cells. The only difference between Hexarelin and GHRP-6 is the inclusion of a methyl group in the structure of Hexarelin. Like other ghrelin analogs, this peptide is reported by researchers to display a relative selectivity in its mode of action. However, researchers have commented that Hexarelin is also associated with an elevation in prolactin, adrenocorticotropic hormone (ACTH), and consequently cortisol.[1][2] It has been extensively studied in relation to cardiac cell survival after ischemia and nutrient deprivation.
+[a https://biotechpeptides.com/product/ghrp-6-10mg/] GHRP-6
+[h3] Specifications
+[p] Molecular Formula: C47H58N12O6
+[p] Molecular Weight: 887.05 g/mol
+[p] Sequence: His-2-Me-D-Trp-Ala-Trp-D-Phe-Lys-NH2
+[h3] Hexarelin Research
+[p] Hexarelin and Growth Hormone Secretagogue Receptors It is theorized that Hexarelin functions by activating growth hormone secretagogue receptors (GHS-Rs), specifically targeting the GHSR-1a subtype.[3] The activation of these receptors is thought to potentially trigger the release of growth hormone (GH), suggesting Hexarelin's role as a potential growth hormone secretagogue (GHS). GHS-Rs mediate the actions of ghrelin, an endogenous hormone that typically promotes GH release during fasting periods. It is conceivable that Hexarelin may mimic the role of ghrelin by engaging ghrelin receptors, particularly those located in key areas such as the pituitary gland and hypothalamus, to stimulate hGH secretion. GHSR-1a receptors are distributed throughout the hypothalamus and pituitary gland as well as across various regions of the nervous system and other bodily tissues. Therefore, it is suggested that Hexarelin's mechanisms might involve both direct and indirect stimulation of GH release. Direct actions might occur via actions on the GHS-Rs within the pituitary, while indirect actions could involve modulation of the hypothalamus. Upon binding to GHS-Rs, it is speculated that Hexarelin may induce a structural modification in the receptor, potentially initiating signaling cascades reliant on G-proteins. This might lead to the activation of pathways such as those involving protein kinase C (PKC), which might enhance the signaling required for GH secretion from pituitary cells. Nonetheless, it is also hypothesized that Hexarelin exposure could result in transient receptor desensitization, a state that could persist for several days or weeks.[4] Overall, the activation of the GHSR-1a might represent an alternative route by which Hexarelin regulates hGH synthesis in the anterior pituitary cells, differing from the direct actions mediated by the native growth hormone-releasing hormone (GHRH) on the GHRH receptors in the pituitary gland cells.
+[p] Hexarelin and Muscle Cell Protection The peptide has been suggested to protect cells inside and outside the heart muscle. Studies in Hexarelin and GHRP-6 observe how the peptides may control calcium flow and mitochondrial dysfunction in the muscles of rats suffering from cachexia (extreme weight loss due to illness or chemotherapy).[5] The researchers report that the secretagogue may potentially “protect skeletal muscle from mitochondrial damage and improve lean mass recovery.” It also appears to keep muscle cells viable by maintaining mitochondrial integrity. Through its energy supply, Mitochondria help muscles carry out day-to-day functions. It has been suggested that calcium ion regulation is often disturbed due to chemotherapy and may be one of the principal causes of altered muscle and lean body mass. Researchers suggest the potential for Hexarelin and GHRP-6 to potentially support the reestablishment of proper calcium regulation. Additional studies have indicated that Hexarelin, a synthetic hexapeptide, might positively reduce muscle degradation in experimental settings that simulate catabolism and cachexia. Cachexia is a complex syndrome associated with severe muscle atrophy and weight loss. For instance, research involving experimental models exposed to catabolic agents showed a 12% decrease in muscle mass.[6] However, introducing Hexarelin may have reduced this loss to approximately 7%. Another related study proposed that Hexarelin might have helped mitigate the decline in muscular strength typically observed when experimental models are subjected to catabolic agents.[7]
+[p] Hexarelin and Cardiac Functions Hexarelin appears to affect the heart through its association with the CD36 receptor and the GHSR. Research conducted on murine models suggests that the peptide appears to protect cardiac cells from injury in the backdrop of cardiac arrest.[8] The scientists even note that Hexarelin “may be a promising [research] agent for some cardiovascular conditions.” Researchers suggest that the peptide may interact with the aforesaid receptors and potentially prevent apoptosis of the cardiac cells. The peptide may act to improve cardiac function, increasing the number of surviving cardiac cells and reducing the levels of malondialdehyde (cardiac cell death marker). Interestingly, the study also suggested GHRP-6 to be partially superior in function compared to ghrelin. Hexarelin has also been observed to ameliorate oxidative stress in cardiac cells during cardiac failure as well as to prevent myocardial remodeling in rats.[9] Cardiac remodeling is characterized by a decrease in cardiac function and may be fatal. However, GHRP-6 or Hexarelin-exposed rats appeared to show significant improvement in their cardiac function compared to the controls. The molecular mechanisms underlying the function of the peptide have been suggested to involve an increase of phosphatase and tensin homolog (PTEN) activity and subsequent reduction in protein kinase B levels. While PTEN is considered to regulate cellular regeneration, protein kinase B appears to help modulate cell survival. GHRP-6 and Hexaralin may mediate cardiac remodeling by switching the nervous system response from sympathetic (includes increased blood pressure, heart rate, etc.) to parasympathetic. This regulation may help to improve short-term function. Moreover, when exposed to the peptide following cardiac arrest, studies with rat models observed a significant decrease in scar tissue arising from cardiac tissue healing. The peptide may have the potential for assisting in numerous cardiac damages as its mode of action is not hypothesized to be specific to protection against heart attack. Studies in rat models of diabetes have also observed Hexarelin to potentially improve cardiac function by altering the processing of calcium and potassium by cardiac muscle cells.[10]
+[p] Hexarelin and Fat Cells Dyslipidemia is the physiological condition of elevated fat levels in the blood. Interestingly, it also is considered to be an independent contributing factor for the onset of diabetes. GHRP-6 and Hexarelin studies have observed the peptides’ potential to correct dyslipidemia in the backdrop of insulin resistance (considered the first step in the pathway to diabetes).[11] The peptide may also help to reduce blood sugar and insulin resistance as reported in rat models.
+[p] Hexarelin and Appetite It has been suggested that Hexarelin might broadly stimulate ghrelin receptors beyond just targeting the pituitary gland, which might possibly impact appetite and hunger.[12] When activated in certain areas of the nervous system, Ghrelin receptors may initiate cellular activities, leading to an increased release of hunger-promoting neuropeptides such as Neuropeptide Y (NPY) and Agouti-related peptide (AgRP). These neuropeptides play a pivotal role in the regulation of energy balance and the modulation of appetite. It is also hypothesized that Hexarelin could potentially decrease the production of melanocyte-stimulating hormone (α-MSH), an appetite-suppressing hormone, thereby possibly shifting the physiological balance toward enhanced hunger and promoting increased food consumption. Additionally, there is a possibility that Hexarelin may interact with the mesolimbic reward system, which is integral to the regulation of cravings for palatable food, through the potential activation of the GHSR-1a receptor. Such interaction might lead to the activation of cyclic adenosine monophosphate (cAMP) pathways, which may theoretically heighten the motivation to eat, thereby implying a potential influence of Hexarelin on altering feeding behaviors and reward-based eating patterns.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Ghigo E, Arvat E, Gianotti L, Grottoli S, Rizzi G, Ceda GP, Boghen MF, Deghenghi R, Camanni F. Short-term administration of intranasal or oral Hexarelin, a synthetic hexapeptide, does not desensitize the growth hormone responsiveness in human aging. Eur J Endocrinol. 1996 Oct;135(4):407-12. doi: 10.1530/eje.0.1350407. PMID: 8921821.
+[a https://doi.org/10.1530/eje.0.1350407] doi: 10.1530/eje.0.1350407
+[li] Massoud, A. F., Hindmarsh, P. C., & Brook, C. G. (1996). Hexarelin-induced growth hormone, cortisol, and prolactin release: a dose-response study. The Journal of clinical endocrinology and metabolism, 81(12), 4338–4341. https://doi.org/10.1210/jcem.81.12.8954038
+[a https://doi.org/10.1210/jcem.81.12.8954038] https://doi.org/10.1210/jcem.81.12.8954038
+[li] Torsello A, Grilli R, Luoni M, Guidi M, Ghigo MC, Wehrenberg WB, Deghenghi R, Müller EE, Locatelli V. Mechanism of action of Hexarelin. I. Growth hormone-releasing activity in the rat. Eur J Endocrinol. 1996 Oct;135(4):481-8. https://pubmed.ncbi.nlm.nih.gov/8921832/
+[a https://pubmed.ncbi.nlm.nih.gov/8921832/] https://pubmed.ncbi.nlm.nih.gov/8921832/
+[li] Rahim, A., O'Neill, P. A., & Shalet, S. M. (1998). Growth hormone status during long-term hexarelin therapy. The Journal of clinical endocrinology and metabolism, 83(5), 1644–1649. https://doi.org/10.1210/jcem.83.5.4812
+[a https://doi.org/10.1210/jcem.83.5.4812] https://doi.org/10.1210/jcem.83.5.4812
+[li] Bresciani E, Rizzi L, Coco S, Molteni L, Meanti R, Locatelli V, Torsello A. Growth Hormone Secretagogues and the Regulation of Calcium Signaling in Muscle. Int J Mol Sci. 2019 Sep 5;20(18):4361. doi: 10.3390/ijms20184361. PMID: 31491959; PMCID: PMC6769538.
+[a https://doi.org/10.3390/ijms20184361] doi: 10.3390/ijms20184361
+[li] Bresciani, E., Rizzi, L., Molteni, L., Ravelli, M., Liantonio, A., Ben Haj Salah, K., Fehrentz, J. A., Martinez, J., Omeljaniuk, R. J., Biagini, G., Locatelli, V., & Torsello, A. (2017). JMV2894, a novel growth hormone secretagogue, accelerates body mass recovery in an experimental model of cachexia. Endocrine, 58(1), 106–114. https://doi.org/10.1007/s12020-016-1184-2
+[a https://doi.org/10.1007/s12020-016-1184-2] https://doi.org/10.1007/s12020-016-1184-2
+[li] Conte, E., Camerino, G. M., Mele, A., De Bellis, M., Pierno, S., Rana, F., Fonzino, A., Caloiero, R., Rizzi, L., Bresciani, E., Ben Haj Salah, K., Fehrentz, J. A., Martinez, J., Giustino, A., Mariggiò, M. A., Coluccia, M., Tricarico, D., Lograno, M. D., De Luca, A., Torsello, A., … Liantonio, A. (2017). Growth hormone secretagogues prevent dysregulation of skeletal muscle calcium homeostasis in a rat model of cisplatin-induced cachexia. Journal of cachexia, sarcopenia and muscle, 8(3), 386–404. https://doi.org/10.1002/jcsm.12185
+[a https://doi.org/10.1002/jcsm.12185] https://doi.org/10.1002/jcsm.12185
+[li] Mao Y, Tokudome T, Kishimoto I. The cardiovascular action of hexarelin. J Geriatr Cardiol. 2014 Sep;11(3):253-8. doi: 10.11909/j.issn.1671-5411.2014.03.007. PMID: 25278975; PMCID: PMC4178518.
+[a https://pubmed.ncbi.nlm.nih.gov/25278975/] doi: 10.11909/j.issn.1671-5411.2014.03.007
+[li] McDonald H, Peart J, Kurniawan N, Galloway G, Royce S, Samuel CS, Chen C. Hexarelin treatment preserves myocardial function and reduces cardiac fibrosis in a mouse model of acute myocardial infarction. Physiol Rep. 2018 May;6(9):e13699. doi: 10.14814/phy2.13699. PMID: 29756411; PMCID: PMC5949285.
+[a https://doi.org/10.14814/phy2.13699] doi: 10.14814/phy2.13699
+[li] Mosa RM, Zhang Z, Shao R, Deng C, Chen J, Chen C. Implications of ghrelin and hexarelin in diabetes and diabetes-associated heart diseases. Endocrine. 2015 Jun;49(2):307-23. doi: 10.1007/s12020-015-0531-z. Epub 2015 Feb 4. PMID: 25645463.
+[a https://doi.org/10.1007/s12020-015-0531-z] doi: 10.1007/s12020-015-0531-z
+[li] Mosa R, Huang L, Wu Y, Fung C, Mallawakankanamalage O, LeRoith D, Chen C. Hexarelin, a Growth Hormone Secretagogue, Improves Lipid Metabolic Aberrations in Nonobese Insulin-Resistant Male MKR Mice. Endocrinology. 2017 Oct 1;158(10):3174-3187. doi: 10.1210/en.2017-00168. PMID: 28977588; PMCID: PMC5659698.
+[a https://doi.org/10.1210/en.2017-00168] doi: 10.1210/en.2017-00168
+[li] Bresciani, E., Pitsikas, N., Tamiazzo, L., Luoni, M., Bulgarelli, I., Cocchi, D., Locatelli, V., & Torsello, A. (2008). Feeding behavior during long-term hexarelin administration in young and old rats. Journal of endocrinological investigation, 31(7), 647–652. https://doi.org/10.1007/BF03345618
+[a https://doi.org/10.1007/BF03345618] https://doi.org/10.1007/BF03345618
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] AOD 9604 (5mg) $44.00
+[a https://biotechpeptides.com/product/aod-9604-5mg/] AOD 9604 (5mg) $44.00
+[img] AOD 9604 (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/AOD-9604-1-238x317.webp
+[h2] AOD 9604 (5mg)
+[li] MGF (Mechano-Growth Factor) (5mg) $59.00
+[a https://biotechpeptides.com/product/mgf-5mg/] MGF (Mechano-Growth Factor) (5mg) $59.00
+[img] MGF (Mechano-Growth Factor) (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/MGF-1-238x317.webp
+[h2] MGF (Mechano-Growth Factor) (5mg)
+[li] GHRP-6 (5mg) $21.00
+[a https://biotechpeptides.com/product/ghrp-6-5mg/] GHRP-6 (5mg) $21.00
+[img] GHRP-6 :: https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-6-1-238x317.webp
+[h2] GHRP-6 (5mg)
+[li] GHRP-6 (10mg) $39.00
+[a https://biotechpeptides.com/product/ghrp-6-10mg/] GHRP-6 (10mg) $39.00
+[img] GHRP-6 :: https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-6-1-238x317.webp
+[h2] GHRP-6 (10mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

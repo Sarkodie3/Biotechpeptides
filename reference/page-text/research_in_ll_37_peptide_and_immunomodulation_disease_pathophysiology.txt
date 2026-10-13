@@ -1,0 +1,151 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Research in LL-37 Peptide and Immunomodulation, Disease Pathophysiology
+[p] by Dr. Usman | Apr 24, 2024 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Research in LL-37 Peptide and Immunomodulation, Disease Pathophysiology :: https://biotechpeptides.com/wp-content/uploads/2024/04/Research-in-LL-37-Peptide-and-Immunomodulation-Disease-Pathophysiology.webp
+[p] Studies suggest that the peptide’s genesis lies in the breakdown of hCAP18 proteins by protease enzymes, giving rise to LL-37. Researchers evaluating its antimicrobial potential have that the peptide may host the ability to form agglomerates and lipid bilayers, conferring resistance against enzymatic degradation.[2] Structurally, LL-37 adopts an α-helical configuration, which is believed to be critical for its interactions with microbial membranes.
+[p] Studies[2] exploring LL-37’s mechanism of action indicate its potential in combating microbial threats. Through electrostatic interactions, LL-37 appears to interface with bacterial membranes, leading to membrane interference and eventual degradation of the bacterial cell. The peptide’s mode of action encompasses pore formation and profound disruption of lipid complexes, underscoring its potential as a defense against microbial invasion.
+[p] Contents:
+[li] LL-37 Peptide and Inflammation
+[a #inflammation] LL-37 Peptide and Inflammation
+[li] LL-37 Peptide and Antimicrobial Action
+[a #antimicrobial] LL-37 Peptide and Antimicrobial Action
+[li] LL-37 Peptide and the Intestine
+[a #intestine] LL-37 Peptide and the Intestine
+[li] Intestinal Physiology
+[a #ip] Intestinal Physiology
+[li] Intestinal Malignancies
+[a #im] Intestinal Malignancies
+[li] LL-37 Peptide and Arthritic Pathophysiology
+[a #arthritic-pathophysiology] LL-37 Peptide and Arthritic Pathophysiology
+[li] LL-37 Peptide and Psoriasis
+[a #psoriasis] LL-37 Peptide and Psoriasis
+[li] LL-37 Peptide and Pulmonary Action
+[a #pulmonary] LL-37 Peptide and Pulmonary Action
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/ll-37-5mg/] 
+[img] LL-37 (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/LL-37.png
+[h2] LL-37 Peptide and Inflammation
+[p] Research suggests that LL-37 peptide may exhibit multifaceted impact. These findings have increased speculation on the peptide’s potential to exert nuanced immune modulation. Among its suggested impacts, LL-37 appears to potentially attenuate keratinocyte apoptosis, boost IFN-alpha production, modulate chemotaxis of neutrophils and eosinophils, dampen toll-like receptor 4 (TLR4) signaling, enhance IL-18 production, and mitigate atherosclerotic plaque formation.
+[p] Speculated to have dynamic influence on the immune system, LL-37 appears to be subject to modulation by the inflammatory microenvironment. In cell culture studies, immune cell responses to LL-37 vary based on their activation status. T-cells, for instance, are suggested to exhibit heightened inflammatory responses in the presence of LL-37 when in a quiescent state,[3] yet temper their inflammatory actions upon prior activation. This nuanced interplay suggests LL-37’s homeostatic role in immune regulation, delicately balancing immune responses to prevent hyperactivation in the face of infection.
+[p] Studies discussing the role of LL-37 in the modulation of immune and inflammatory pathways suggest that elevated LL-37 levels might serve as a safeguard against exacerbated inflammation in autoimmune conditions, including “in the pathogenesis of systemic lupus erythematosus, rheumatoid arthritis, atherosclerosis, and possibly other diseases.”[4]
+[h2] LL-37 Peptide and Antimicrobial Action
+[p] LL-37 is speculated to serve as a frontline defender against invading pathogens by reportedly swiftly mobilizing in response to infection. Research elucidates that while normal skin cells maintain minimal levels of LL-37, its expression appears to surge rapidly upon encountering microbial intrusion, highlighting its possible role in combating infections at the skin barrier. Furthermore, synergistic interactions with proteins such as beta-defensin 2 suggest the complexity of LL-37’s immune functions.[5]
+[p] Functionally, LL-37 appears to operate by binding to bacterial lipopolysaccharide (LPS), a crucial constituent of the outer membrane of gram-negative bacteria. The peptide’s affinity for LPS appears to disrupt the membrane’s integrity, possibly rendering it lethal against these pathogens. Consequently, there is burgeoning interest in exploring further potential of exogenous LL-37 to combat severe bacterial infections in preclinical research.[6]
+[p] Interestingly, while LL-37 is suggested to predominantly target the cell membrane components of gram-negative bacteria, its efficacy appears to extend to gram-positive counterparts as well. This broad-spectrum activity positions it as a promising candidate for addressing infections caused by staphylococcal strains and other formidable pathogens. In vitro investigations speculate that LL-37 augments the antimicrobial effects of lysozyme, accentuating its capacity to combat gram-positive bacteria like Staphylococcus aureus.[7]
+[a https://biotechpeptides.com/product/ll-37-5mg/] LL-37
+[h2] LL-37 Peptide and the Intestine
+[h3] Intestinal Physiology:
+[p] In investigations conducted within cell cultures, LL-37 is suggested to possess a spectrum of actions within the intestinal milieu. Primarily, the peptide is speculated to facilitate the migration of cells pivotal for the maintenance of the intestinal epithelial barrier. Additionally, LL-37 appears to exhibit a mitigating action on apoptosis amidst intestinal inflammation, thereby possibly attenuating the pathogenesis of various inflammatory conditions.[8]
+[p] In the intricate landscape of the intestine, it appears that LL-37 does not act in isolation but rather synergizes with beta-defensin 2, possibly fostering wound healing processes. Cellular studies suggest the collaborative action of these peptides in the repair and preservation of intestinal epithelium, concomitantly abating TNF-related cell death. Presently, TNF-alpha inhibitors combat inflammatory bowel diseases, albeit accompanied by notable adverse impacts, including possible elevated risk of severe infection. The emergence of LL-37-based interventions for inflammatory bowel diseases may mitigate reliance on TNF-alpha inhibitors.
+[h3] Intestinal Malignancies:
+[p] Exploration into the interplay between LL-37 and cancer yields heterogeneous findings, yet evidences its potential action in intestinal and gastric malignancies, including squamous cell carcinoma. Interestingly, these hypothesized actions appear to be modulated via a vitamin D-dependent pathway, suggesting that this “activates the anti-cancer activity of tumor-associated macrophages (TAMs) and enhances antibody-dependent cellular cytotoxicity (ADCC)” speculated to support the “critical roles of vitamin D-dependent induction of cathelicidin in cancer progression.”[9]
+[h2] LL-37 Peptide and Arthritic Pathophysiology
+[p] Research conducted in rodent models suggest LL-37’s pronounced presence in joints afflicted by rheumatoid arthritis, underscoring its association with the pathological cascade characteristic of arthritis. However, the precise role of LL-37 in arthritis remains enigmatic, with ambiguity lingering over its potential causative involvement or its up-regulation serving as a compensatory mechanism to counteract pathological progression.
+[p] In mouse models of arthritis, peptides derived from LL-37 appear to exhibit potential to confer protection against collagen damage, a hallmark of inflammatory arthritis. Intriguingly, direct exposure of these peptides into joint cells is speculated to mitigate disease severity and possibly reduce serum levels of antibodies against type II collagens. This observation lends credence to the hypothesis that LL-37 may exert protective impact in arthritis, thereby rationalizing its elevated concentrations within intensely inflamed tissues.[10]
+[p] Furthermore, LL-37 and its derivatives are speculated to regulate inflammation induced by interleukin-32, a molecule intricately linked to the severity of inflammatory arthritis.[11] While the precise impact of LL-37 binding to toll-like receptor 3 (TLR3) in the context of up-regulation remains elusive, ongoing research endeavors seek to elucidate its modulatory effects. The proposition of LL-37 selectively attenuating inflammation gains traction, buoyed by prior findings suggesting its potential to selectively dampen pro-inflammatory macrophage responses.
+[h2] LL-37 Peptide and Psoriasis
+[p] Findings from research studies[1] suggest a potential for endogenous LL-37 peptide in the pathogenesis of psoriasis. Notably, it was postulated that LL-37 peptide might complex with DNA, thereby triggering augmented interferon mechanisms and exacerbating inflammatory responses. While LL-37 was conjectured to exhibit possible impact in tissue repair and wound healing, its levels were observed to correlate with the presence of psoriasis in certain instances, suggesting a nuanced interplay in the disease’s etiology.
+[h2] LL-37 Peptide and Pulmonary Action
+[p] As elucidated previously, lipopolysaccharide (LPS) is believed to manifest not only in bacterial cell walls but also in various organisms, sometimes becoming airborne in environments contaminated by molds or fungi. Inhalation of LPS may trigger a response in normal lung tissue, albeit often inadequate to counter toxic dust syndrome and the pathogenesis of respiratory ailments such as asthma and chronic obstructive pulmonary disease (COPD).[12]
+[p] Investigations into the potential impact of LL-37 on lung disease unveil intriguing findings, particularly its possible role in promoting epithelial cell proliferation and wound closure. Studies state the action of LL-37 may be “mediated through epidermal growth factor receptor, a G protein-coupled receptor, and MAP/extracellular regulated kinase,” suggesting that “LL-37 induces wound healing, proliferation, and migration of airway epithelial cells”.[13]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] Kahlenberg, J Michelle, and Mariana J Kaplan. “Little peptide, big effects: the role of LL-37 in inflammation and autoimmune disease.” Journal of immunology (Baltimore, Md.: 1950) vol. 191,10 (2013): 4895-901. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3836506/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3836506/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3836506/
+[li] Seil, M., Nagant, C., Dehaye, J. P., Vandenbranden, M., & Lensink, M. F. (2010). Spotlight on Human LL-37, an Immunomodulatory Peptide with Promising Cell-Penetrating Properties. Pharmaceuticals, 3(11), 3435–3460. h https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4034075/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4034075/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4034075/
+[li] Alexandre-Ramos DS, Silva-Carvalho AÉ, Lacerda MG, Serejo TRT, Franco OL, Pereira RW, Carvalho JL, Neves FAR, Saldanha-Araujo F. LL-37 treatment on human peripheral blood mononuclear cells modulates immune response and promotes regulatory T-cells generation. Biomed Pharmacother. 2018 Dec;108:1584-1590. doi: 10.1016/j.biopha.2018.10.014. Epub 2018 Oct 9. PMID: 30372860. https://pubmed.ncbi.nlm.nih.gov/30372860/
+[a https://pubmed.ncbi.nlm.nih.gov/30372860/] https://pubmed.ncbi.nlm.nih.gov/30372860/
+[li] Kahlenberg JM, Kaplan MJ. Little peptide, big effects: the role of LL-37 in inflammation and autoimmune disease. J Immunol. 2013 Nov 15;191(10):4895-901. doi: 10.4049/jimmunol.1302005. PMID: 24185823; PMCID: PMC3836506. https://pubmed.ncbi.nlm.nih.gov/24185823/
+[a https://pubmed.ncbi.nlm.nih.gov/24185823/] https://pubmed.ncbi.nlm.nih.gov/24185823/
+[li] Ong PY, Ohtake T, Brandt C, Strickland I, Boguniewicz M, Ganz T, Gallo RL, Leung DY. Endogenous antimicrobial peptides and skin infections in atopic dermatitis. N Engl J Med. 2002 Oct 10;347(15):1151-60. doi: 10.1056/NEJMoa021481. PMID: 12374875. https://pubmed.ncbi.nlm.nih.gov/12374875/
+[a https://pubmed.ncbi.nlm.nih.gov/12374875/] https://pubmed.ncbi.nlm.nih.gov/12374875/
+[li] Ciornei CD, Sigurdardóttir T, Schmidtchen A, Bodelsson M. Antimicrobial and chemoattractant activity, lipopolysaccharide neutralization, cytotoxicity, and inhibition by serum of analogs of human cathelicidin LL-37. Antimicrob Agents Chemother. 2005 Jul;49(7):2845-50. doi: 10.1128/AAC.49.7.2845-2850.2005. PMID: 15980359; PMCID: PMC1168709. https://pubmed.ncbi.nlm.nih.gov/15980359/
+[a https://pubmed.ncbi.nlm.nih.gov/15980359/] https://pubmed.ncbi.nlm.nih.gov/15980359/
+[li] Chen X, Niyonsaba F, Ushio H, Okuda D, Nagaoka I, Ikeda S, Okumura K, Ogawa H. Synergistic effect of antibacterial agents human beta-defensins, cathelicidin LL-37 and lysozyme against Staphylococcus aureus and Escherichia coli. J Dermatol Sci. 2005 Nov;40(2):123-32. doi: 10.1016/j.jdermsci.2005.03.014. Epub 2005 Jun 15. PMID: 15963694. https://pubmed.ncbi.nlm.nih.gov/15963694/
+[a https://pubmed.ncbi.nlm.nih.gov/15963694/] https://pubmed.ncbi.nlm.nih.gov/15963694/
+[li] Otte JM, Zdebik AE, Brand S, Chromik AM, Strauss S, Schmitz F, Steinstraesser L, Schmidt WE. Effects of the cathelicidin LL-37 on intestinal epithelial barrier integrity. Regul Pept. 2009 Aug 7;156(1-3):104-17. doi: 10.1016/j.regpep.2009.03.009. Epub 2009 Mar 26. PMID: 19328825. https://pubmed.ncbi.nlm.nih.gov/19328825/
+[a https://pubmed.ncbi.nlm.nih.gov/19328825/] https://pubmed.ncbi.nlm.nih.gov/19328825/
+[li] Chen X, Zou X, Qi G, Tang Y, Guo Y, Si J, Liang L. Roles and Mechanisms of Human Cathelicidin LL-37 in Cancer. Cell Physiol Biochem. 2018;47(3):1060-1073. doi: 10.1159/000490183. Epub 2018 May 25. PMID: 29843147. https://pubmed.ncbi.nlm.nih.gov/29843147/
+[a https://pubmed.ncbi.nlm.nih.gov/29843147/] https://pubmed.ncbi.nlm.nih.gov/29843147/
+[li] Chow LN, Choi KY, Piyadasa H, Bossert M, Uzonna J, Klonisch T, Mookherjee N. Human cathelicidin LL-37-derived peptide IG-19 confers protection in a murine model of collagen-induced arthritis. Mol Immunol. 2014 Feb;57(2):86-92. doi: 10.1016/j.molimm.2013.08.011. Epub 2013 Oct 1. PMID: 24091294. https://pubmed.ncbi.nlm.nih.gov/24091294/
+[a https://pubmed.ncbi.nlm.nih.gov/24091294/] https://pubmed.ncbi.nlm.nih.gov/24091294/
+[li] Zhu W, Meng L, Jiang C, He X, Hou W, Xu P, Du H, Holmdahl R, Lu S. Arthritis is associated with T-cell-induced upregulation of Toll-like receptor 3 on synovial fibroblasts. Arthritis Res Ther. 2011 Jun 27;13(3):R103. doi: 10.1186/ar3384. PMID: 21708001; PMCID: PMC3218918. https://pubmed.ncbi.nlm.nih.gov/21708001/
+[a https://pubmed.ncbi.nlm.nih.gov/21708001/] https://pubmed.ncbi.nlm.nih.gov/21708001/
+[li] Golec M. Cathelicidin LL-37: LPS-neutralizing, pleiotropic peptide. https://pubmed.ncbi.nlm.nih.gov/15964896/Ann Agric Environ Med. 2007;14(1):1-4. PMID: 17655171. https://pubmed.ncbi.nlm.nih.gov/17655171/
+[a https://pubmed.ncbi.nlm.nih.gov/15964896/] https://pubmed.ncbi.nlm.nih.gov/15964896/
+[a https://pubmed.ncbi.nlm.nih.gov/17655171/] https://pubmed.ncbi.nlm.nih.gov/17655171/
+[li] Shaykhiev R, Beisswenger C, Kändler K, Senske J, Püchner A, Damm T, Behr J, Bals R. Human endogenous antibiotic LL-37 stimulates airway epithelial cell proliferation and wound closure. Am J Physiol Lung Cell Mol Physiol. 2005 Nov;289(5):L842-8. doi: 10.1152/ajplung.00286.2004. Epub 2005 Jun 17. PMID: 15964896. https://pubmed.ncbi.nlm.nih.gov/15964896/
+[a https://pubmed.ncbi.nlm.nih.gov/15964896/] https://pubmed.ncbi.nlm.nih.gov/15964896/
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

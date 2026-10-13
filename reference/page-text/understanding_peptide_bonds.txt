@@ -1,0 +1,95 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Understanding Peptide Bonds
+[p] by Dr. Usman | Jun 30, 2022 | Knowledge Center
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/knowledge-center/] Knowledge Center
+[img] Understanding Peptide Bonds :: https://biotechpeptides.com/wp-content/uploads/2022/06/Understanding-Peptide-Bonds.webp
+[h2] How Is The Bond Created?
+[p] When two amino acids form a covalent bond, it creates a peptide bond.[1] The Carboxyl group of one amino acid may react with the second amino group of the other amino acid. This essentially forms a peptide bond. Due to this process, a molecule (amide) filled with water may be released, and this reaction is known as a condensation reaction. This creates the peptide bond (CO-NH bond).
+[p] Bonds are formed following the proper orientation of amino acid chains. This is so that the carboxylic acid group from the amino acid may react with the other amino acids amine. These may create a dipeptide which we classify as the smallest peptide composed of two amino acids.
+[p] It is important to note that new peptides may also be formed by amino acids joining together in chains. To be considered a peptide, there must be 50 or less amino acids connected.[2] Scientists also suggest that “As peptide chains form between joining of the primary structure of amino acids, they may enlarge to become an oligopeptide when there are between 10 to 20 amino acids in the chain.” To be considered a polypeptide, there must be about 50 to 100 amino acids connected and if there are over 100 amino acids connected, that would be called a protein.
+[a https://biotechpeptides.com/] peptides
+[p] A peptide bond may be broken down from hydrolysis. Hydrolysis is a result of a chemical breakdown reaction to water.[3] This reaction is unhurried, and the peptide bonds, which can be formed in three ways (peptides, polypeptides, or protein), may be vulnerable to breakage if they were to come in contact with metastable bonds (water).
+[h2] Looking At The Structure and Polarity Of Peptide Bonds
+[p] To discover the physical characteristics of compound bonds, researchers perform x-ray diffraction studies.[4] With this study, researchers have suggested that peptide bonds are both rigid and planar.[5] The researchers describe “techniques for determining the X-ray crystallographic structures of peptides: incorporation of amino acids containing heavy atoms for crystallographic phase determination, commercially available kits to crystallize peptides, modern techniques for X-ray crystallographic data collection, and free user-friendly software for data processing and producing a crystallographic structure.” These results may be due to the interaction of the amide, which is considered to be able to delocalize its sole pair of electrons into carbonyl oxygen. This primarily may affect a peptide bond structure. The N–C bond is shorter than the N–Cα bond, while the C=0 bond is longer than the carbonyl bond. There is no cis configuration in the peptide, but there is a trans configuration between the carbonyl oxygen and amide hydrogen in the peptide. A trans configuration may be preferred over a cis configuration as a Cis configuration might cause a steric interaction.
+[p] In the structure of a peptide bond, free rotation may occur. Free rotations are the process of a single bond coming between a carbonyl carbon and amide nitrogen. The nitrogen, however, may have a free set of electrons, and thus resonance structure may be drawn where a double bond can connect the carbon and nitrogen. The oxygen, in this case, may have a negative charge while nitrogen has a positive charge, and thus, the rotation of the peptide bond may be inhibited from the resonance structure.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Alberts B, Johnson A, Lewis J, et al. Molecular Biology of the Cell. 4th edition. New York: Garland Science; 2002. The Shape and Structure of Proteins. Available from: https://www.ncbi.nlm.nih.gov/books/NBK26830/
+[a https://www.ncbi.nlm.nih.gov/books/NBK26830/] https://www.ncbi.nlm.nih.gov/books/NBK26830/
+[li] Forbes J, Krishnamurthy K. Biochemistry, Peptide. [Updated 2022 Aug 29]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2022 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK562260/
+[a https://www.ncbi.nlm.nih.gov/books/NBK562260/] https://www.ncbi.nlm.nih.gov/books/NBK562260/
+[li] Bhimrao Muley, A., Bhalchandra Pandit, A., Satishchandra Singhal, R., & Govind Dalvi, S. (2021). Production of biologically active peptides by hydrolysis of whey protein isolates using hydrodynamic cavitation. Ultrasonics sonochemistry, 71, 105385. doi:10.1016/j.ultsonch.2020.105385.
+[a https://doi.org/10.1016/j.ultsonch.2020.105385] doi:10.1016/j.ultsonch.2020.105385
+[li] Mikusinska-Planner, A., & Surma, M. (2000). X-ray diffraction study of human serum. Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy, 56A(9), 1835–1841. doi:10.1016/s1386-1425(00)00262-6.
+[a https://doi.org/10.1016/s1386-1425(00)00262-6] doi:10.1016/s1386-1425(00)00262-6
+[li] Spencer, R. K., & Nowick, J. S. (2015). A Newcomer’s Guide to Peptide Crystallography. Israel journal of chemistry, 55(6-7), 698–710. doi:10.1002/ijch.201400179.
+[a https://doi.org/10.1002/ijch.201400179] doi:10.1002/ijch.201400179
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

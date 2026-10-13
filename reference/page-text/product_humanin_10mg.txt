@@ -1,0 +1,135 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/11/Humanin-1.webp] 
+[img] Humanin (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/Humanin-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Humanin-10mg-COA-scaled.webp] 
+[img] Humanin (10mg) COA :: https://biotechpeptides.com/wp-content/uploads/2026/04/Humanin-10mg-COA-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Humanin-10mg-LC-scaled.webp] 
+[img] Humanin (10mg) LC :: https://biotechpeptides.com/wp-content/uploads/2026/04/Humanin-10mg-LC-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Humanin-10mg-MS-scaled.webp] 
+[img] Humanin (10mg) MS :: https://biotechpeptides.com/wp-content/uploads/2026/04/Humanin-10mg-MS-scaled.webp
+[h1] Humanin (10mg)
+[p] $140.00
+[p] Humanin peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_3359 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $133.00
+[input name=wccs_tier_select_3359 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $126.00
+[label] Humanin (10mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2026/06/Humanin-10mg-.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Humanin Peptide
+[p] Humanin is an endogenously occurring unique peptide encoded by mitochondrial DNA. The peptide may exist in two different forms found in the cell: a 21 amino acid sequence found inside the cell’s mitochondria, and a 24 amino acid sequence found outside the cell’s cytosol. Both forms appear to act as cytoprotective proteins and may protect cells from the process of apoptosis (programmed cell death) by interfering with the operation of the Bcl2-related X protein (Bax).[1] Bax is considered a pro-apoptotic protein that promotes apoptosis by disrupting the mitochondrial outer membrane. It is believed to facilitate the release of cytochrome c from mitochondria into the cytosol, which then triggers a cascade of events leading to cell death. By interfering with Bax's function, Humanin may help support the initiation of this apoptotic pathway. Researchers posit that Humanin may “[support] the translocation of Bax from the cytosol to mitochondria. Conversely, reducing Humanin expression by small interfering RNAs sensitizes cells to Bax and increases Bax translocation to membranes.” Apart from research into its possible interaction with Bax, Humanin studies suggest the peptide may also bind with other intracellular molecules, such as actinin-4 and phosphoprotein 8, which are both involved in cellular apoptosis. Binding with these proteins is also thought to contribute to Humanin’s cytoprotective potential.[2] Thus, studies suggest that Humanin may be important for protecting a variety of cells, most notably neurons. In addition, studies also suggest it may have a protective potential for cells in heart tissue, muscle cells, the retina of the eye, and the lining of blood vessels.
+[h3] Specifications
+[p] Molecular Weight: 2687.3 g/mol
+[p] Molecular Formula: C119H204N34O32S2
+[p] Sequence: Met-Ala-Pro-Arg-Gly-Phe-Ser-Cys-Leu-Leu-Leu-Leu-Thr-Ser-Glu-Ile-Asp-Leu-Pro-Val-Lys-Arg-Arg-Ala
+[p] Other Known Titles: formyl humanin, HNGF6A protein
+[h3] Humanin Research
+[p] Humanin and Neurodegeneration Models Murine experiments have suggested that Humanin (HN) may exert protective actions on nerve cells in Alzheimer’s models and possibly support the formation of beta-amyloid plaques.[3] The scientists note that “HN exhibits multiple intracellular and extracellular anti-cell death actions and antagonizes various AD-associated pathomechanisms including amyloid plaque accumulation.” Amyloid plaques are potentially significant in Alzheimer's models because they are composed of amyloid beta (Aβ). This peptide is thought to contribute to nerve cell damage observed in these models interacting with two specific G protein-coupled peptide receptors: Formyl Peptide Receptor-Like 1 (FPRL-1) and Formyl Peptide Receptor-Like 2 (FPRL-2). These receptors are believed to be expressed on the surface of neuronal cells and may play roles in neurological signaling pathways. By binding to FPRL-1 and FPRL-2, Humanin might support amyloid beta from interacting with these receptors, which may mitigate certain forms of neurological degradation associated with Alzheimer's disease models.[2] Studies further suggest that peptides may support the death of excitotoxic neurons in experiments with NMDA pulses. This potential research implication of Humanin may delay or stop neurodegeneration in experimental models of Alzheimer’s and other forms of dementia. Under normal circumstances, Bcl2 family proteins may signal the release of proteins from mitochondrial membranes, activating caspases and coordinating the orderly destruction and recycling of cells. This process is practically interesting in many hypothetical situations, such as when a virus invades, where a small number of cells may be destroyed to support widespread tissue damage. However, the process may become dysregulated under certain conditions, leading to widespread unsuppressed cell death. Humanin appears to bind to the Bcl2-stimulating proteins Bid and tBid and block their function. This action may potentially shut down the apoptotic pathway at its origin.
+[p] Humanin and Neurotoxicity Models Some recent laboratory investigations suggest that Humanin might mitigate neurotoxicity induced by Calyculin A in cortical neurons.[4] Calyculin A is recognized as an inhibitor of protein phosphatases PP2A (protein phosphatase 2A) and PP1 (protein phosphatase 1), which are enzymes crucial for dephosphorylation. Inhibition of these phosphatases may lead to the hyperphosphorylation of tau protein, which is associated with neurodegeneration, an increase in oxidative stress, and neuronal damage. In experiments using cultured cortical neurons, preincubation with Humanin appeared to preserve cell viability and protect neurons from the harmful potential induced by Calyculin A. Humanin may alleviate oxidative stress by decreasing levels of malondialdehyde (MDA), a byproduct of lipid peroxidation that serves as a marker for oxidative damage to cell membranes. Reduced MDA levels suggest that Humanin might help protect the integrity of neuronal membranes against oxidative insults. Furthermore, Humanin may increase the activity of superoxide dismutase (SOD), an essential antioxidant enzyme that catalyzes the conversion of superoxide radicals into less harmful substances like hydrogen peroxide and oxygen. Observations also indicate that Humanin might restore the activity of PP2A, facilitating the dephosphorylation of tau protein. By possibly reducing the overphosphorylation of tau at specific amino acid residues, Humanin may help maintain the structural components vital for maintaining neuronal shape, neuronal function, and communication between neurons. Moreover, the interaction between Humanin and cellular pathways involved in oxidative stress and tau phosphorylation highlights the peptide's potential role in modulating neuronal responses to neurotoxic insults. By influencing both antioxidant defenses and protein phosphorylation processes, Humanin may affect multiple aspects of neuronal survival and function under stress conditions.
+[p] Humanin and Heart Cells A study by the Mayo Clinic posited that Humanin may be expressed on the walls of the vascular system and may interfere with the production of reactive oxygen species (free radicals) in response to LDL oxidation.[5] It appears to hold the potential to reduce active oxygen species in the vascular system by up to 50% and may potentially reduce apoptosis by up to 50% as well. In addition to Humanin’s major mechanism of interacting with Bax, the researchers suggested that an additional underlying mechanism may involve the activation of the Akt/glycogen synthase kinase-3β (GSK-3β) signaling pathway. Western blot analysis indicated that Humanin might upregulate this pathway, potentially promoting cell survival and reducing apoptotic activity in cardiac cells. The peptide also appeared to increase the ratio of cardiomyocytes to fibroblasts in cardiac, which may indicate a potential reduction in fibrotic activity, as fibroblasts are key contributors to fibrosis through collagen production. Immunofluorescence staining revealed alterations in cell type percentages, with a possible decrease in fibroblast proliferation. Additionally, there appears to be a reduction in collagen deposition within the myocardium following Humanin exposure. Collagen is a major component of the extracellular matrix in fibrotic tissue, so its decreased presence might reflect attenuated fibrotic processes. The study also noted a potential downregulation of profibrotic cytokines, such as transforming growth factor-β1 (TGF-β1) and fibroblast growth factor-2 (FGF-2), along with matrix metalloproteinase-2 (MMP-2), which are involved in the remodeling of the extracellular matrix and progression of fibrosis.
+[p] Humanin and Retinal Disease Retinal pigment epithelium (RPE) is a layer of the retina that covers and nourishes the cells that aid with vision. It appears to play a role in the absorption and scattering of light, filtering blood components that reach the inside of the retina. Above all, it may establish the nature of immunity inside the eye. RPE damage has been associated with age-related macular degeneration, diabetic retinopathy, and other ocular conditions. Current studies have suggested that Humanin may be an important component of RPE and may reduce oxidative stress in this tissue.[6] Humanin exposure in cell culture appears to support RPE function and increase tissue resistance to apoptosis. This may help scientists further support research for retinal disorders such as macular degeneration.
+[p] Humanin and Bone Function Bone loss is a serious condition, and researchers commonly employ glucocorticoids to mitigate severe inflammation (such as autoimmune inflammation), which may induce extreme bone loss when exposed at high concentrations or for long periods. Researchers in Sweden and South Korea have hypothesized that Humanin may impact bones in two potential ways.[7] First, Humanin has been suggested to support chondrocytes (cells that produce the collagen matrix in which bone is built) from dying, possibly without obstructing the activity of glucocorticoids. This impact may increase bone and cartilage growth or offset some of the accelerated bone loss caused by glucocorticoids. Humanin has also been suggested to reduce osteoclast formation. Osteoclasts are the cells that cause bone loss and remodeling. Overactivation of these cells may result in severe bone loss. By supporting osteoclast formation, Humanin may potentially reduce excessive bone remodeling and loss. The peptide may achieve this possibly through the activation of AMP-activated protein kinase (AMPK), an enzyme significant in regulating cellular energy. Earlier studies have indicated that Humanin may induce phosphorylation of AMPK, which may potentially negatively regulate receptor activator of nuclear factor-κB ligand (RANKL). RANKL is believed to be a crucial protein that promotes the differentiation and activation of osteoclasts. Humanin also seems to reduce the expression of several genes involved in osteoclastogenesis. These genes include nuclear factor of activated T-cells cytoplasmic 1 (NFATc1), which is a master transcription factor considered critical for osteoclast differentiation; osteoclast-associated receptor (OSCAR), which may be involved in osteoclast maturation and function; cathepsin K (CTSK), an enzyme that might degrade bone matrix proteins; and tartrate-resistant acid phosphatase (TRAP), an enzyme that serves as a marker for osteoclasts and is involved in bone resorption.
+[p] Humanin and Insulin Signaling Researchers posit that Humanin may “represent a novel link between T2DM and neurodegeneration.” Studies using murine models indicate that Humanin might support the sensitivity of liver cells to insulin.[8] This potential may be due to the possible activation of signaling pathways involving Signal Transducer and Activator of Transcription 3 (STAT-3) in the hypothalamus, a region of the central nervous system responsible for hormonal regulation. This activation appears to be significant because, when STAT-3 in the hypothalamus is simultaneously inhibited, the insulin-sensitizing potential of Humanin seems to be diminished. The potential of Humanin in liver insulin sensitivity research might be mediated through central mechanisms. Research also suggests that a single Humanin exposure may significantly lower blood glucose levels in diabetic murine models, although more studies are needed to confirm this potential. Additionally, the decline in detectable levels of Humanin in the hypothalamus may potentially contribute to the worsening of insulin resistance in type 2 diabetes models.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Guo B, Zhai D, Cabezas E, Welsh K, Nouraini S, Satterthwait AC, Reed JC. Humanin peptide suppresses apoptosis by interfering with Bax activation. Nature. 2003 May 22;423(6938):456-61. doi: 10.1038/nature01627. Epub 2003 May 4. PMID: 12732850.
+[a https://doi.org/10.1038/nature01627] doi: 10.1038/nature01627
+[li] Gong Z, Tas E, Muzumdar R. Humanin and age-related diseases: a new link? Front Endocrinol (Lausanne). 2014 Dec 4;5:210. doi: 10.3389/fendo.2014.00210. PMID: 25538685; PMCID: PMC4255622.
+[a https://doi.org/10.3389/fendo.2014.00210] doi: 10.3389/fendo.2014.00210
+[li] Niikura T. Humanin and Alzheimer’s disease: The beginning of a new field. Biochim Biophys Acta Gen Subj. 2022 Jan;1866(1):130024. doi: 10.1016/j.bbagen.2021.130024. Epub 2021 Oct 7. PMID: 34626746.
+[a https://doi.org/10.1016/j.bbagen.2021.130024] doi: 10.1016/j.bbagen.2021.130024
+[li] Zhao, J., Zeng, Y., Wang, Y., Shi, J., Zhao, W., Wu, B., & Du, H. (2021). Humanin protects cortical neurons from calyculin A-induced neurotoxicities by increasing PP2A activity and SOD. The International journal of neuroscience, 131(6), 527–535. https://doi.org/10.1080/00207454.2020.1769617
+[a https://doi.org/10.1080/00207454.2020.1769617] https://doi.org/10.1080/00207454.2020.1769617
+[li] Qin Q, Mehta H, Yen K, Navarrete G, Brandhorst S, Wan J, Delrio S, Zhang X, Lerman LO, Cohen P, Lerman A. Chronic treatment with the mitochondrial peptide humanin prevents age-related myocardial fibrosis in mice. Am J Physiol Heart Circ Physiol. 2018 Nov 1;315(5):H1127-H1136. doi: 10.1152/ajpheart.00685.2017. Epub 2018 Jul 13. PMID: 30004252; PMCID: PMC6415743.
+[a https://doi.org/10.1152/ajpheart.00685.2017] doi: 10.1152/ajpheart.00685.2017
+[li] Li Z, Sreekumar PG, Peddi S, Hinton DR, Kannan R, MacKay JA. The humanin peptide mediates ELP nanoassembly and protects human retinal pigment epithelial cells from oxidative stress. Nanomedicine. 2020 Feb;24:102111. doi: 10.1016/j.nano.2019.102111. Epub 2019 Oct 23. PMID: 31655204; PMCID: PMC7263384.
+[a https://doi.org/10.1016/j.nano.2019.102111] doi: 10.1016/j.nano.2019.102111
+[li] Kang N, Kim KW, Shin DM. Humanin suppresses receptor activator of nuclear factor-κB ligand-induced osteoclast differentiation via AMP-activated protein kinase activation. Korean J Physiol Pharmacol. 2019 Sep;23(5):411-417. doi: 10.4196/kjpp.2019.23.5.411. Epub 2019 Aug 26. PMID: 31496878; PMCID: PMC6717796.
+[a https://doi.org/10.4196/kjpp.2019.23.5.411] doi: 10.4196/kjpp.2019.23.5.411
+[li] Muzumdar, R. H., Huffman, D. M., Atzmon, G., Buettner, C., Cobb, L. J., Fishman, S., Budagov, T., Cui, L., Einstein, F. H., Poduval, A., Hwang, D., Barzilai, N., & Cohen, P. (2009). Humanin: a novel central regulator of peripheral insulin action. PloS one, 4(7), e6334. https://doi.org/10.1371/journal.pone.0006334
+[a https://doi.org/10.1371/journal.pone.0006334] https://doi.org/10.1371/journal.pone.0006334
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] AICAR (50mg) $56.00
+[a https://biotechpeptides.com/product/aicar-50mg/] AICAR (50mg) $56.00
+[img] AICAR (50mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/AICAR-1-238x317.webp
+[h2] AICAR (50mg)
+[li] NAD+ (100mg & 250mg & 500mg) $46.00 – $179.00Price range: $46.00 through $179.00
+[a https://biotechpeptides.com/product/nad-100mg-500mg/] NAD+ (100mg & 250mg & 500mg) $46.00 – $179.00Price range: $46.00 through $179.00
+[img] NAD+ (100mg & 500mg) :: https://biotechpeptides.com/wp-content/uploads/2022/01/NAD-2-238x317.webp
+[h2] NAD+ (100mg & 250mg & 500mg)
+[li] MOTS-c (10mg) $99.00
+[a https://biotechpeptides.com/product/mots-c-10mg/] MOTS-c (10mg) $99.00
+[img] MOTS-c (10mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/MOTS-c-1-238x317.webp
+[h2] MOTS-c (10mg)
+[li] DSIP (5mg) $44.00
+[a https://biotechpeptides.com/product/dsip-5mg/] DSIP (5mg) $44.00
+[img] DSIP (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/DSIP-1-238x317.webp
+[h2] DSIP (5mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

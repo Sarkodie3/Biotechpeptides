@@ -1,0 +1,130 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2023/01/N-Acetyl-Selank-1.webp] 
+[img] N-Acetyl Selank (10mg) :: https://biotechpeptides.com/wp-content/uploads/2023/01/N-Acetyl-Selank-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2023/01/COA_N-Acetyl-Selank_3140058_20260725_BP_page-0001.webp] 
+[img] N-Acetyl Selank (10mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2023/01/COA_N-Acetyl-Selank_3140058_20260725_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2023/01/COA_N-Acetyl-Selank_3140058_20260725_BP_page-0002.webp] 
+[img] N-Acetyl Selank (10mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2023/01/COA_N-Acetyl-Selank_3140058_20260725_BP_page-0002.webp
+[h1] N-Acetyl Selank (10mg)
+[p] $65.00
+[p] N-Acetyl Selank peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_14507 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $61.75
+[input name=wccs_tier_select_14507 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $58.50
+[label] N-Acetyl Selank (10mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2023/01/COA_N-Acetyl-Selank_3140058_20260725_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] N-Acetyl Selank Peptide
+[p] N-Acetyl Selank is an acetylated form of the Selank peptide. The acetylation of the peptide into N-Acetyl Selank appears to improve its stability. Selank is a synthetic analogue of the natural tetrapeptide Tuftsin. Tuftsin is an immunomodulatory peptide, and N-Acetyl Selank appears to share many of its potential functions. In addition, N-acetyl Selank also appears to exhibit an impact on neurotransmitters, brain signaling, and neuroplasticity.
+[a https://biotechpeptides.com/product/selank-10mg/] Selank peptide.
+[h3] Specifications
+[p] Molecular Formula: C33H57N11O9
+[p] Molecular Weight: 751.9 g/mol
+[p] Sequence: AC-THR-LYS-PRO-ARG-GLY-PRO
+[h3] N-Acetyl Selank Research
+[p] N-Acetyl Selank as a Nootropic N-Acetyl Selank may have similar potential as Selank, but with the added possibility of increased chemical stability. In research studies with rat subjects, scientists suggest that the peptide may activate the serotonin metabolism in the tested animals' brains.[1] As a result, introducing Selank appeared to enhance memory storage processes compared to a placebo. Researchers have also clinically investigated the potential of Selank when introduced alongside a control compound to models of anxiety-phobic, hypochondriac, and somatoform disorders.[2] Compared to the control compounds alone, the combination of Selank and the compound appeared to have increased the overall impact of the control compound.
+[p] N-Acetyl Selank as a Anxiolytic The anxiolytic potential of Selank has been studied experimentally. In laboratory research, Selank was posited to increase the levels of calming neurotransmitters such as serotonin in the brains of rats.[4] Serotonin is a primary target of most anxiolytics, and blocking its reuptake is a common mechanism of action for these compounds. Additional clinical research in models of generalized anxiety disorder (GAD) and neurasthenia compared the impact of Selank to that of a control compound in reducing symptoms.[5] The researchers reported that the anxiolytic impact of both the compound and the peptide were similar, but Selank appeared to have additional antiasthenic and psychostimulant potential. They noted that “[those] with GAD and neurasthenia had the decreased level of tau(1/2) leu-enkephalin, which was correlated with disease duration, severity of symptoms related to anxiety and asthenia and autonomic disorders”. Selank has an inhibitory effect on enkephalin-degrading enzymes, which is likely the primary mechanism of its supposed anxiolytic activity.[6]
+[p] N-Acetyl Selank and Neuroplasticity N-Acetyl Selank may upregulate the brain-derived neurotrophic factor (BDNF) levels in the central nervous system. Animal studies suggest that the presentation of Selank may increase BDNF levels in the hippocampus.[7] BDNF is a growth factor in the brain that supports neurons' growth and adaptation.[8] According to scientists, BDNF may also induce remodeling in the nerve tissue and the formation of new connections.[9] BDNF may also stimulate neuroge
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Semenova TP, Kozlovskiĭ II, Zakharova NM, Kozlovskaia MM. [Experimental optimization of learning and memory processes by selank]. Eksp Klin Farmakol. 2010 Aug;73(8):2-5. Russian. PMID: 20919548.
+[li] Medvedev VE, Tereshchenko ON, Kost NV, Ter-Israelyan AY, Gushanskaya EV, Chobanu IK, Sokolov OY, Myasoedov NF. [Optimization of the treatment of anxiety disorders with selank]. Zh Nevrol Psikhiatr Im S S Korsakova. 2015;115(6):33-40. Russian. doi: 10.17116/jnevro20151156133-40. PMID: 26356395.
+[a https://doi.org/10.17116/jnevro20151156133-40] doi: 10.17116/jnevro20151156133-40
+[li] Medvedev VE, Tereshchenko ON, Israelian AIu, Chobanu IK, Kost NV, Sokolov OIu, Miasoedov NF. [A comparison of the anxiolytic effect and tolerability of selank and phenazepam in the treatment of anxiety disorders]. Zh Nevrol Psikhiatr Im S S Korsakova. 2014;114(7):17-22. Russian. PMID: 25176261.
+[li] Semenova TP, kozlovskiĭ II, Zakharova NM, Kozlovskaia MM. [Comparison of the effects of selank and tuftsin on the metabolism of serotonin in the brain of rats pretreated with PCPA]. Eksp Klin Farmakol. 2009 Jul-Aug;72(4):6-8. Russian. PMID: 19803361.
+[li] Zozulia AA, Neznamov GG, Siuniakov TS, Kost NV, Gabaeva MV, Sokolov OIu, Serebriakova EV, Siranchieva OA, Andriushenko AV, Telesheva ES, Siuniakov SA, Smulevich AB, Miasoedov NF, Seredenin SB. [Efficacy and possible mechanisms of action of a new peptide anxiolytic selank in the therapy of generalized anxiety disorders and neurasthenia]. Zh Nevrol Psikhiatr Im S S Korsakova. 2008;108(4):38-48. Russian. PMID: 18454096.
+[li] Zozulya AA, Kost NV, Yu Sokolov O, Gabaeva MV, Grivennikov IA, Andreeva LN, Zolotarev YA, Ivanov SV, Andryushchenko AV, Myasoedov NF, Smulevich AB. The inhibitory effect of Selank on enkephalin-degrading enzymes as a possible mechanism of its anxiolytic activity. Bull Exp Biol Med. 2001 Apr;131(4):315-7. doi: 10.1023/a:1017979514274. PMID: 11550013.
+[a https://doi.org/10.1023/a:1017979514274] doi: 10.1023/a:1017979514274
+[li] Inozemtseva LS, Karpenko EA, Dolotov OV, Levitskaya NG, Kamensky AA, Andreeva LA, Grivennikov IA. Intranasal administration of the peptide Selank regulates BDNF expression in the rat hippocampus in vivo. Dokl Biol Sci. 2008 Jul-Aug;421:241-3. doi: 10.1134/s0012496608040066. PMID: 18841804.
+[a https://doi.org/10.1134/s0012496608040066] doi: 10.1134/s0012496608040066
+[li] Deister C, Schmidt CE. Optimizing neurotrophic factor combinations for neurite outgrowth. J Neural Eng. 2006 Jun;3(2):172-9. doi: 10.1088/1741-2560/3/2/011. Epub 2006 May 16. PMID: 16705273.
+[a https://doi.org/10.1088/1741-2560/3/2/011] doi: 10.1088/1741-2560/3/2/011
+[li] Lu B, Figurov A. Role of neurotrophins in synapse development and plasticity. Rev Neurosci. 1997 Jan-Mar;8(1):1-12. doi: 10.1515/revneuro.1997.8.1.1. PMID: 9402641.
+[a https://doi.org/10.1515/revneuro.1997.8.1.1] doi: 10.1515/revneuro.1997.8.1.1
+[li] Zigova T, Pencea V, Wiegand SJ, Luskin MB. Intraventricular administration of BDNF increases the number of newly generated neurons in the adult olfactory bulb. Mol Cell Neurosci. 1998 Jul;11(4):234-45. doi: 10.1006/mcne.1998.0684. PMID: 9675054.
+[a https://doi.org/10.1006/mcne.1998.0684] doi: 10.1006/mcne.1998.0684
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] VIP (6mg) $71.00
+[a https://biotechpeptides.com/product/vip-6mg/] VIP (6mg) $71.00
+[img] VIP (6mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/VIP-1-238x317.webp
+[h2] VIP (6mg)
+[li] N-Acetyl Semax (25mg) $57.00
+[a https://biotechpeptides.com/product/n-acetyl-semax-25mg/] N-Acetyl Semax (25mg) $57.00
+[img] N-Acetyl Semax (25mg) :: https://biotechpeptides.com/wp-content/uploads/2023/01/N-Acetyl-Semax-3-238x317.webp
+[h2] N-Acetyl Semax (25mg)
+[li] Selank (10mg) $46.00
+[a https://biotechpeptides.com/product/selank-10mg/] Selank (10mg) $46.00
+[img] Selank (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Selank-1-238x317.webp
+[h2] Selank (10mg)
+[li] Semax (25mg) $53.00
+[a https://biotechpeptides.com/product/semax-25mg/] Semax (25mg) $53.00
+[img] Semax (25mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Semax-1-238x317.webp
+[h2] Semax (25mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

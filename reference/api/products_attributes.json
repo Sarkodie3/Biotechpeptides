@@ -1,0 +1,1 @@
+[{"id":2,"name":"Brand","taxonomy":"pa_brand","type":"select","order":"name","has_archives":false,"count":1},{"id":4,"name":"Size","taxonomy":"pa_size","type":"select","order":"name_num","has_archives":false,"count":9}]

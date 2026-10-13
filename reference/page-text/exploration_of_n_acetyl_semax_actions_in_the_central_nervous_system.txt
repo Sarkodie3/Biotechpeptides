@@ -1,0 +1,124 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Exploration of N-Acetyl Semax Actions in the Central Nervous System
+[p] by Dr. Usman | May 16, 2023 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Exploration of N-Acetyl Semax Actions in the Central Nervous System :: https://biotechpeptides.com/wp-content/uploads/2023/05/Exploration-of-N-Acetyl-Semax-Actions-in-the-Central-Nervous-System.webp
+[p] Like Semax, N-Acetyl Semax peptide has been studied for its neuroprotective and nootropic potential.[2] It is hypothesized to increase levels of neurotrophic factors in the brain, such as Brain-Derived Neurotrophic Factor (BDNF). BDNF is considered important for neurons’ growth, survival, and maintenance. Upregulation of BDNF levels may have neuroprotective potential and act favorably on higher cerebral functions.
+[a https://biotechpeptides.com/product/n-acetyl-semax-25mg/] N-Acetyl Semax peptide
+[p] Contents:
+[li] N-Acetyl Semax and BDNF
+[a #bdnf] N-Acetyl Semax and BDNF
+[li] N-Acetyl Semax and Cerebral Functioning
+[a #cerebral] N-Acetyl Semax and Cerebral Functioning
+[li] N-Acetyl Semax and Gastric Mucosa
+[a #mucosa] N-Acetyl Semax and Gastric Mucosa
+[li] Conclusion
+[a #conclusion] Conclusion
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/n-acetyl-semax-25mg/] 
+[img] N-acetyl Semax (25mg) :: https://biotechpeptides.com/wp-content/uploads/2023/01/N-Acetyl-Semax.png
+[h2] N-Acetyl Semax and BDNF
+[p] N-Acetyl Semax may have the ability to activate and elevate the levels of neurotrophic factors in the central nervous system, such as the Brain-Derived Neurotrophic Factor (BDNF). One clinical trial aimed to investigate the potential of the peptide on plasma BDNF levels, motor performance, and Barthel index score after ischemic nerve damage.[3] According to the research, N-acetyl Semax presentation may increase BDNF plasma levels, accelerate the improvement and final outcome of Barthel score index speed functional recovery, and support motor performance. Moreover, the researchers reported that “There was a positive correlation between BDNF plasma levels and Barthel score, as well as a correlation between early rehabilitation and motor performance improvement.”
+[p] Another trial also suggests that N-Acetyl Semax may stimulate the synthesis of BDNF in astrocytes and potentially increase BDNF levels in the basal forebrain but not in the cerebellum.[4]
+[p] Apart from potentially increasing BDNF protein and mRNA levels in the central nervous system, some studies suggest that N-Acetyl Semax may also result in increased tyrosine phosphorylation levels of trkB.[5] The researchers reported a “maximal 1.4-fold increase of BDNF protein levels accompanying with 1.6-fold increase of trkB tyrosine phosporylation levels, and a 3-fold and a 2-fold increase of exon III BDNF and trkB mRNA levels, respectively,” trkB (tropomyosin receptor kinase B) is a protein receptor found on the surface of certain neurons in the brain. It is the receptor for Brain-Derived Neurotrophic Factor (BDNF), which is considered by scientists to play an important role in neurons’ growth, survival, and maintenance. When BDNF binds to trkB, it appears to trigger a series of signaling events inside the neuron that may result in the strengthening of existing connections between neurons, the growth of new connections, and the survival of the neuron itself. The researchers suggest that this may potentially be accompanied by an increase in conditioned avoidance reactions, suggesting that N-Acetyl Semax may affect cognitive brain functions by modulating the BDNF/trkB system in the hippocampus.
+[p] In addition to BDNF, N-Acetyl Semax may potentially affect another neurotrophic factor called NGF – nerve growth factor. Researchers suggest that N-acetyl Semax may result in the activation of the expression of the NGF and BDNG genes in the hippocampus, frontal cortex, and retina, with multidirectional action.[6] In particular, the expression of NGF and BDNF genes may first increase in the frontal cortex initially, while later, there may be an increase in the hippocampus and retina area.
+[h2] N-Acetyl Semax and Cerebral Functioning
+[p] One study used resting-state fMRI to examine the potential of N-Acetyl Semax on the central nervous system’s default mode network (DMN).[7] The use of fMRI (functional magnetic resonance imaging) is based on the registration of shifts in the blood oxygenation level-dependent parameters (BOLD signal) in nerve tissue. The study commented that soon after N-Acetyl Semax instillation, the volume of the DMN network’s frontal subcomponent appeared significantly increased. The study also suggested the potential topographic locus of the actions of N-Acetyl Semax in the frontal compartments. The researchers noted that “The increase in the DMN frontal subcomponent in the main group was presented by a large cluster including the paracingular gyrus, frontal cingular cortex, and frontal pole.” This increase in spatial volumes of DMN subcomponents under the influence of N-Acetyl Semax may be due to the involvement of a greater number of neuronal populations in the network due to the synchronization of activity.
+[p] Another trial investigated the potential of N-Acetyl Semax on higher cerebral function and electroencephalography (EEG) patterns during cognitive activity.[8] The study commented that Semax had a favorable impact on attention and short-term memory performance. EEG analysis suggested that Semax decreased delta rhythm and increased alpha and beta rhythms, indicating its anti-amnesic and nootropic potential.
+[h2] N-Acetyl Semax and Gastric Mucosa
+[p] Some experiments suggest that N-acetyl Semax may also exert actions outside nervous tissues. Some studies suggest that the peptide may accelerate the clarification of ulcers from necrotic tissues and activate the process of cicatrization and epithelization.[9] Other experiments suggest that this protective potential may be due to N-Acetyl Semax preventing the action of negative factors that would otherwise disrupt and reduce the normal blood flow to the gastric mucosa and result in ulcerogenesis.[10]
+[h2] Conclusion
+[p] In conclusion, N-Acetyl Semax is a synthetic peptide based on the structure of the naturally occurring ACTH and is additionally acetylated to increase its stability possibly.
+[p] The peptide may potentially increase levels of neurotrophic factors in the brain, such as BDNF and NGF, which are considered important for the growth, survival, and maintenance of neurons. Upregulation of BDNF levels may have neuroprotective potential and act favorably on higher cerebral functions.
+[p] Furthermore, N-Acetyl Semax potentially exerts actions outside nervous tissues, such as accelerating the clarification of ulcers from necrotic tissues and activating the cicatrization and epithelization in gastric mucosa.
+[p] However, further studies are needed to confirm these potential actions of N-Acetyl Semax.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Magrì, A., Tabbì, G., Giuffrida, A., Pappalardo, G., Satriano, C., Naletova, I., Nicoletti, V. G., & Attanasio, F. (2016). Influence of the N-terminus acetylation of Semax, a synthetic analog of ACTH(4-10), on copper(II) and zinc(II) coordination and biological properties. Journal of inorganic biochemistry, 164, 59–69. https://doi.org/10.1016/j.jinorgbio.2016.08.013
+[a https://doi.org/10.1016/j.jinorgbio.2016.08.013] https://doi.org/10.1016/j.jinorgbio.2016.08.013
+[li] Kurysheva, N. I., Shpak, A. A., Ioĭleva, E. E., Galanter, L. I., Nagornova, N. D., Shubina, N. I.u, & Shlyshalova, N. N. (2001). “Semaks” v lechenii glaukomatoznoĭ opticheskoĭ neĭropatii u bol’nykh s normalizovannym oftal’motonusom [Semax in the treatment of glaucomatous optic neuropathy in patients with normalized ophthalmic tone]. Vestnik oftalmologii, 117(4), 5–8.
+[li] Gusev, E. I., Martynov, M. Y., Kostenko, E. V., Petrova, L. V., & Bobyreva, S. N. (2018). Éffektivnost’ semaksa pri lechenii bol’nykh na raznykh stadiiakh ishemicheskogo insul’ta [The efficacy of semax in the tretament of patients at different stages of ischemic stroke]. Zhurnal nevrologii i psikhiatrii imeni S.S. Korsakova, 118(3. Vyp. 2), 61–68. https://doi.org/10.17116/jnevro20181183261-68
+[a https://doi.org/10.17116/jnevro20181183261-68] https://doi.org/10.17116/jnevro20181183261-68
+[li] Dolotov, O. V., Karpenko, E. A., Seredenina, T. S., Inozemtseva, L. S., Levitskaya, N. G., Zolotarev, Y. A., Kamensky, A. A., Grivennikov, I. A., Engele, J., & Myasoedov, N. F. (2006). Semax, an analogue of adrenocorticotropin (4-10), binds specifically and increases levels of brain-derived neurotrophic factor protein in rat basal forebrain. Journal of neurochemistry, 97 Suppl 1, 82–86. https://doi.org/10.1111/j.1471-4159.2006.03658.x
+[a https://doi.org/10.1111/j.1471-4159.2006.03658.x] https://doi.org/10.1111/j.1471-4159.2006.03658.x
+[li] Dolotov, O. V., Karpenko, E. A., Inozemtseva, L. S., Seredenina, T. S., Levitskaya, N. G., Rozyczka, J., Dubynina, E. V., Novosadova, E. V., Andreeva, L. A., Alfeeva, L. Y., Kamensky, A. A., Grivennikov, I. A., Myasoedov, N. F., & Engele, J. (2006). Semax, an analog of ACTH(4-10) with cognitive effects, regulates BDNF and trkB expression in the rat hippocampus. Brain research, 1117(1), 54–60. https://doi.org/10.1016/j.brainres.2006.07.108
+[a https://doi.org/10.1016/j.brainres.2006.07.108] https://doi.org/10.1016/j.brainres.2006.07.108
+[li] Shadrina, M., Kolomin, T., Agapova, T., Agniullin, Y., Shram, S., Slominsky, P., Lymborska, S., & Myasoedov, N. (2010). Comparison of the temporary dynamics of NGF and BDNF gene expression in rat hippocampus, frontal cortex, and retina under Semax action. Journal of molecular neuroscience : MN, 41(1), 30–35. https://doi.org/10.1007/s12031-009-9270-z
+[a https://doi.org/10.1007/s12031-009-9270-z] https://doi.org/10.1007/s12031-009-9270-z
+[li] Lebedeva, I. S., Panikratova, Y. R., Sokolov, O. Y., Kupriyanov, D. A., Rumshiskaya, A. D., Kost, N. V., & Myasoedov, N. F. (2018). Effects of Semax on the Default Mode Network of the Brain. Bulletin of experimental biology and medicine, 165(5), 653–656. https://doi.org/10.1007/s10517-018-4234-3
+[a https://doi.org/10.1007/s10517-018-4234-3] https://doi.org/10.1007/s10517-018-4234-3
+[li] Kaplan, A. Y. A., Kochetova, A. G., Nezavibathko, V. N., Rjasina, T. V., & Ashmarin, I. P. (1996). Synthetic acth analogue semax displays nootropic‐like activity in humans. Neuroscience Research Communications, 19(2), 115-123.
+[li] Zhuĭkova, S. E., Badmaeva, K. E., Samonina, G. E., & Plesskaia, L. G. (2003). Semaks i nekotorye gliprolinovye peptidy uskoriaiut zazhivlenie atsetatnykh iazv u krys [Semax and some glyproline peptides accelerate the healing of acetic ulcers in rats]. Eksperimental’naia i klinicheskaia gastroenterologiia = Experimental & clinical gastroenterology, (4), 88–117.
+[li] Zhuikova, S. E., Sergeev, V. I., Samonina, G. E., & Myasoedov, N. F. (2002). Possible mechanism underlying the effect of Semax on the formation of indomethacin-induced ulcers in rats. Bulletin of experimental biology and medicine, 133(6), 577–579. https://doi.org/10.1023/a:1020285909696
+[a https://doi.org/10.1023/a:1020285909696] https://doi.org/10.1023/a:1020285909696
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

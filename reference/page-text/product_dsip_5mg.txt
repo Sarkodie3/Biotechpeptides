@@ -1,0 +1,138 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/DSIP-1.webp] 
+[img] DSIP (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/DSIP-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_DSIP_3140022_20260725_BP_page-0001.webp] 
+[img] DSIP (5mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_DSIP_3140022_20260725_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_DSIP_3140022_20260725_BP_page-0002.webp] 
+[img] DSIP (5mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_DSIP_3140022_20260725_BP_page-0002.webp
+[h1] DSIP (5mg)
+[p] $44.00
+[p] DSIP peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_689 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $41.80
+[input name=wccs_tier_select_689 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $39.60
+[label] DSIP (5mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_DSIP_3140022_20260725_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h2] DSIP (Delta Sleep-Inducing Peptide)
+[p] DSIP is a naturally occurring neuropeptide made of 9 amino acids that may influence diverse endocrine and physiological pathways involved in the central nervous system. DSIP is of key interest as it was developed to help combat oxidative stress and normalize myocardial contractility. The peptide is considered a potential research candidate in studies of major depressive disorder. Delta sleep-inducing peptide (DSIP) is a naturally occurring peptide of short length. The molecule’s name came about due to researchers’ speculation of its potential to induce sleep in rabbits and because it was first isolated from the brains of rats during slow-wave sleep (in 1977).[1] Slow Wave Sleep (SWS), often referred to as deep sleep, is considered a pivotal phase within the overall sleep architecture, which is composed of non-rapid eye movement (NREM) sleep and rapid eye movement (REM) sleep. Sleep architecture itself exhibits a cyclical pattern, typically oscillating between NREM and REM phases multiple times throughout the duration of total sleep. Predominantly classified under the NREM sleep category, SWS is characterized by its distinctive low-frequency, high-amplitude delta brainwaves, as observed in electroencephalogram (EEG) recordings. The sleep cycle initiates with NREM sleep, which is further divided into three phases: N1, N2, and N3. The initial stages, N1 and N2, represent lighter sleep phases, whereas N3, equated with SWS, signifies the deepest phase of sleep. Upon completion of the deep sleep phase, the cycle transitions to REM sleep, marked by heightened brain activity and dreaming. Researchers have gradually explored its function in different endocrine and physiological roles. In addition to its potential influence on sleep patterns, DSIP appears to influence levels of corticotropin, inhibit the production of somatostatin, reduce stress hormone secretion, maintain normal blood pressure, alter sleep patterns and also may impact pain perception.[2]
+[h3] Specifications
+[p] Other Known Titles: Delta Sleep-Inducing Peptide
+[p] Molecular Formula: C35H48N10O15
+[p] Molecular Weight: 848.82 g/mol
+[p] Sequence: Trp-Ala-Gly-Gly-Asp-Ala-Ser-Gly-Glu
+[h3] DSIP Research
+[p] DSIP and Potential Mechanisms DSIP is purported to influence the structure and quality of sleep through its interactions with the central nervous system. It is speculated that DSIP may shorten the onset of sleep and enhance sleep quality by modulating the activity of several neurotransmitters in the brain. However, the precise mechanisms and pathways by which DSIP operates remain unclear. One hypothesis suggests that DSIP targets specific receptors that play a pivotal role in its actions. These receptors include the N-methyl-D-aspartate (NMDA) receptors and gamma-aminobutyric acid (GABA) receptors. NMDA receptors are associated with glutamate, an essential excitatory neurotransmitter in the brain, while GABA receptors are linked to inhibitory neurotransmission, which is considered crucial for reducing neural activity and inducing a relaxed state. Experimental studies on murine models indicate that DSIP may enhance the inhibitory actions of GABA, thereby reducing neural excitability and facilitating the onset of sleep.[3] These studies also suggest that DSIP could attenuate the excitatory actions of NMDA receptors, further contributing to its sleep-promoting properties.[4] Moreover, research points to a possible interaction between DSIP and opioid receptors in the brain, which may play a role in the peptide’s ability to regulate sleep and mitigate withdrawal symptoms, underscoring its intricate role in neural signaling pathways.[5,6] Additionally, the alpha 1-adrenergic receptor, located in the pineal gland, has emerged as a potential target in DSIP-related research. Preliminary findings suggest that DSIP’s modulation of this receptor may influence sleep patterns and possibly aid in stress management, given the receptor’s significant consideration in stress response processes. These insights emphasize the complex and varied potential ways in which DSIP might impact sleep and stress, though further investigation is essential to fully delineate its biological functions and research potential.[7]
+[p] DSIP and Stress In one scientific investigation, the action of DSIP on murine models subjected to controlled stress scenarios has been explored.[4] This inquiry largely examined the variations in levels of substance P, beta-endorphin, and corticosterone—key biomarkers relevant for decoding the stress response and the potential regulatory actions of DSIP. Preliminary results indicated that exposure to DSIP may lead to significant alterations in the concentrations of these indicators, which may imply a role in modulating stress. Specifically, an initial reduction followed by a substantial increase in beta-endorphin levels was observed, a pattern that suggests DSIP’s impact on the opioidergic system, potentially playing a role in stress alleviation or adaptation processes. Furthermore, a reduction in corticosterone levels was recorded soon after exposure to DSIP. These observations suggest that the actions of DSIP on substance P, beta-endorphin, and corticosterone are indicative of a wider array of biochemical modifications, proposing that DSIP may trigger a cascade of molecular events that may facilitate its stress-modulatory functions.[4]
+[p] DSIP and Sleep Activity Extensive research has been conducted to establish the connection between the peptide and sleep. Despite the initial findings in rabbits, it was tough to establish the pattern in which DSIP may affect sleep. In some findings, it did not appear to influence sleep at all.[8] In some, the peptide favored Slow Wave (SWS) paradoxical sleep. Interestingly, there were other groups whose research noted that the molecule appeared to cause arousal in the first hour of sleep, followed by sedation in the second hour of sleep. In totality, it was observed that DSIP may help to bring about a normalized sleeping pattern and eliminate possible dysfunction in sleep cycles. Possibly, the most relevant work regarding the regulation of sleep by DSIP has been conducted in the backdrop of insomnia.[9] The results have suggested that the peptide may potentially improve sleep patterns in animal research models. Other studies have further highlighted that it may improve sleep structure and decrease sleep latency in chronic insomnia. However, although polysomnographic studies have suggested that DSIP may induce statistically significant improvement in sleep, sufficient research material is still weak.[10][11]
+[p] DSIP and Depression Scientists have investigated the role of DSIP in altering mitochondrial activity under hypoxic conditions. The peptide was observed to have the potential to prevent changes in monoamine oxidase type A (MAO-A) and serotonin levels. This finding suggests that the peptide may have an impact on the course of depression.[12] DSIP abundance has been observed to be lower in cerebrospinal fluid of research models of depression compared to the same controls. Sleep and depression are considered to be closely related; a molecule that regulates sleep may likely have action in depressive behavior. However, there has been no scientific approach that aims to balance the DSIP level to date. It has, however, been linked to alterations in the hypothalamic-pituitary-adrenal axis.
+[p] DSIP and Metabolism Studies on rat models have highlighted that Delta Sleep-Inducing Peptide may help change stress-related metabolic fluctuations,[13] which may induce mitochondria to switch from oxygen-dependent to oxygen-independent respiration. The latter is considered less efficient and may bring about toxic metabolic byproduct formation. Delta Sleep-Inducing Peptide may promote oxidative phosphorylation even in hypoxic conditions and may thus be impactful in stroke or heart attack. It appears to assist normal metabolic function and thus may reverse the damage caused by oxygen deprivation, protecting tissues until blood flow is restored. Delta Sleep-Inducing Peptide research suggests that DSIP may host anti-oxidant characteristics, potentially preventing free radical formation.
+[p] DSIP and Withdrawal, Addiction DSIP research noted improvement in animal research models of withdrawal during ethanol and opiate detoxification. Study findings resulted in 97% and 87% recovery rates for ethanol and opiate withdrawals, respectively. Opiate withdrawal may require DSIP exposure for a longer tenure, as this addiction is considered more resistant to alteration.[6]
+[p] DSIP and Cancer Cells Researchers have explored the possibility of mitigating the onset of cancer cell proliferation through exposure to DSIP. Initial research on DSIP has hypothesized that its potential impact on sleep may have downstream impacts as a cancer cell-mitigating agent. This is considered to be possible through sleep-boosted immunity, which may seek out and eliminate rogue cells before they metastasize. Studies have observed that female mice exposed to DSIP for 5 consecutive days of every month starting at the age of 3 months till their death exhibited a 2.6-fold reduction in the development of tumors compared to parallel control groups. There has also been a corresponding 22.6% reduction in the frequency of chromosomal defects in the bone marrow of the DSIP-exposed mice. Research in this area is preliminary, and is still ongoing.[13]
+[p] DSIP and Muscle Cells Delta Sleep-Inducing Peptide was first discovered in the brains of rabbits during slow-wave sleep and has since been involved with sleep research and central nervous system-mediated control of sleep-wake cycles. Not much is known about DSIP synthesis. High Levels of Delta Sleep-Inducing Peptide present in both CNS tissues and peripheral tissues suggest that the peptide may be produced outside CNS, and its primary function might not be the regulation of sleep. Delta Sleep-Inducing Peptide is also considered a hypothalamic hormone that may influence more than just sleep. In one study, DSIP was suggested to inhibit somatostatin, a protein produced in muscle cells that inhibits muscle growth.[9] By inhibiting somatostatin, DSIP may potentially contribute to hypertrophy and hyperplasia in skeletal muscle. Such direct inhibitory action appears surprising for a peptide thought to be primarily involved in sleep promotion. This has triggered speculation that the peptide might have a larger and more universal role in influencing physiology. In animal models, Delta Sleep-Inducing Peptide has been suggested to regulate blood pressure, heart rate, thermogenesis, and the lymphokine system. Some of these processes appear before any signs of sleep, indicating that Delta Sleep-Inducing Peptide may actually play a role in altering physiology to prepare the organism for sleep onset.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Monnier M, Dudler L, Gächter R, Maier PF, Tobler HJ, Schoenenberger GA. The delta sleep inducing peptide (DSIP). Comparative properties of the original and synthetic nonapeptide. Experientia. 1977 Apr 15;33(4):548-52. doi: 10.1007/BF01922266. PMID: 862769.
+[a https://pubmed.ncbi.nlm.nih.gov/862769/] doi: 10.1007/BF01922266
+[li] Koval’zon VM. DSIP: peptid sna ili neizvestnyĭ gormon gipotalamusa [DSIP: the sleep peptide or an unknown hypothalamic hormone?]. Zh Evol Biokhim Fiziol. 1994 Mar-Apr;30(2):310-9. Russian. PMID: 7817664.
+[li] Grigor'ev VV, Ivanova TA, Kustova EA, Petrova LN, Serkova TP, Bachurin SO. Effects of delta sleep-inducing peptide on pre- and postsynaptic glutamate and postsynaptic GABA receptors in neurons of the cortex, hippocampus, and cerebellum in rats. Bull Exp Biol Med. 2006 Aug;142(2):186-8. English, Russian. doi: 10.1007/s10517-006-0323-9. PMID: 17369935
+[li] Sudakov KV, Umriukhin PE, Rayevsky KS. Delta-sleep inducing peptide and neuronal activity after glutamate microiontophoresis: the role of NMDA-receptors. Pathophysiology. 2004 Oct;11(2):81-86. https://pubmed.ncbi.nlm.nih.gov/15364118/
+[a https://pubmed.ncbi.nlm.nih.gov/15364118/] https://pubmed.ncbi.nlm.nih.gov/15364118/
+[li] Nakamura A, Nakashima M, Sakai K, Niwa M, Nozaki M, Shiomi H. Delta-sleep-inducing peptide (DSIP) stimulates the release of immunoreactive Met-enkephalin from rat lower brainstem slices in vitro. Brain Res. 1989 Feb 27;481(1):165-8. doi: 10.1016/0006-8993(89)90498-8. PMID: 2706459.
+[li] Dick P, Grandjean ME, Tissot R. Successful treatment of withdrawal symptoms with delta sleep-inducing peptide, a neuropeptide with potential agonistic activity on opiate receptors. Neuropsychobiology. 1983;10(4):205-8. doi: 10.1159/000118012. PMID: 6328354.
+[li] Graf MV, Schoenenberger GA. Delta sleep-inducing peptide modulates the stimulation of rat pineal N-acetyltransferase activity by involving the alpha 1-adrenergic receptor. J Neurochem. 1987 Apr;48(4):1252-7. doi: 10.1111/j.1471-4159.1987.tb05654.x. PMID: 3029331.
+[li] Nakagaki K, Ebihara S, Usui S, Honda Y, Takahashi Y, Kato N. [Effects of intraventricular injection of anti-DSIP serum on sleep in rats]. Yakubutsu Seishin Kodo. 1986 Jun;6(2):259-65. Japanese. PMID: 3776352.
+[li] Iyer KS, Marks GA, Kastin AJ, McCann SM. Evidence for a role of delta sleep-inducing peptide in slow-wave sleep and sleep-related growth hormone release in the rat. Proc Natl Acad Sci U S A. 1988 May;85(10):3653-6. doi: 10.1073/pnas.85.10.3653. PMID: 3368469; PMCID: PMC280272.
+[a https://pubmed.ncbi.nlm.nih.gov/3368469/] doi: 10.1073/pnas.85.10.3653
+[li] Schneider-Helmert D, Gnirss F, Monnier M, Schenker J, Schoenenberger GA. Acute and delayed effects of DSIP (delta sleep-inducing peptide) on human sleep behavior. Int J Clin Pharmacol Ther Toxicol. 1981 Aug;19(8):341-5. PMID: 6895513.
+[li] Larbig W, Gerber WD, Kluck M, Schoenenberger GA. Therapeutic effects of delta-sleep-inducing peptide (DSIP) in patients with chronic, pronounced pain episodes. A clinical pilot study. Eur Neurol. 1984;23(5):372-85. doi: 10.1159/000115716. PMID: 6548970.
+[a https://pubmed.ncbi.nlm.nih.gov/6548970/] doi: 10.1159/000115716
+[li] Lesch KP, Widerlöv E, Ekman R, Laux G, Schulte HM, Pfüller H, Beckmann H. Delta sleep-inducing peptide response to human corticotropin-releasing hormone (CRH) in major depressive disorder. Comparison with CRH-induced corticotropin and cortisol secretion. Biol Psychiatry. 1988 Jun;24(2):162-72. doi: 10.1016/0006-3223(88)90271-5. PMID: 2839244.
+[a https://pubmed.ncbi.nlm.nih.gov/2839244/] doi: 10.1016/0006-3223(88)90271-5
+[li] Khvatova EM, Samartzev VN, Zagoskin PP, Prudchenko IA, Mikhaleva II. Delta sleep inducing peptide (DSIP): effect on respiration activity in rat brain mitochondria and stress protective potency under experimental hypoxia. Peptides. 2003 Feb;24(2):307-11. doi: 10.1016/s0196-9781(03)00040-8. PMID: 12668217.
+[a https://pubmed.ncbi.nlm.nih.gov/12668217/] doi: 10.1016/s0196-9781(03)00040-8
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Selank (10mg) $46.00
+[a https://biotechpeptides.com/product/selank-10mg/] Selank (10mg) $46.00
+[img] Selank (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Selank-1-238x317.webp
+[h2] Selank (10mg)
+[li] Pinealon (20mg) $68.00
+[a https://biotechpeptides.com/product/pinealon-20mg/] Pinealon (20mg) $68.00
+[img] Pinealon (20mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Pinealon-1-238x317.webp
+[h2] Pinealon (20mg)
+[li] PE-22-28 (8mg) $55.00
+[a https://biotechpeptides.com/product/pe-22-28-8mg/] PE-22-28 (8mg) $55.00
+[img] PE-22-28 (8mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/PE-22-28-1-238x317.webp
+[h2] PE-22-28 (8mg)
+[li] Epithalon (25mg) $94.00
+[a https://biotechpeptides.com/product/epithalon-25mg/] Epithalon (25mg) $94.00
+[img] Epithalon (25mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Epithalon-1-238x317.webp
+[h2] Epithalon (25mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

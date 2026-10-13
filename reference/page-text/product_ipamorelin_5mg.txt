@@ -1,0 +1,138 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/Ipamorelin-1.webp] 
+[img] Ipamorelin (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Ipamorelin-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Ipamorelin_3141040_BP_page-0001.webp] 
+[img] Ipamorelin (5mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Ipamorelin_3141040_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Ipamorelin_3141040_BP_page-0002.webp] 
+[img] Ipamorelin (5mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Ipamorelin_3141040_BP_page-0002.webp
+[h1] Ipamorelin (5mg)
+[p] $53.00 Original price was: $53.00.$46.00Current price is: $46.00.
+[p] Ipamorelin peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_712 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $43.70
+[input name=wccs_tier_select_712 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $41.40
+[label] Ipamorelin (5mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/COA_Ipamorelin_3141040_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Ipamorelin Peptide
+[p] Ipamorelin is a small pentapeptide that binds to the receptor of ghrelin/growth hormone secretagogue (GHS), and is speculated to trigger the release of growth hormone via pituitary cells. Research has suggested the peptide to be selective in its mode of action.[1] Ipamorelin, researchers report, does not appear to induce non-specific release of hormones like prolactin, thyroid-stimulating hormone, ACTH, luteinizing hormone, follicle-stimulating hormone, or cortisol. The high specificity of the peptide makes it an ideal model for the study of selectivity in receptor binding. It appears to function through interaction with cognate receptors on the target cell surface and mediates a cellular response. Ipamorelin may induce secretions from the pituitary gland, promoting growth in animal study models.[2] In addition, it may not only trigger the expression of insulin-like growth factor-1(IGF-1) but may also inhibit the secretion of somatostatin. IGF-1 is considered to be the main anabolic mediator of growth hormone.
+[h3] Specifications
+[p] Molecular Formula: C38H49N9O5
+[p] Molecular Weight: 711.86 g/mol
+[p] Sequence: Aib-His-D-2Nal-D-Phe-Lys-NH2
+[h3] Ipamorelin Research
+[p] Ipamorelin and The Growth Hormone Secretagogue Receptors Ipamorelin may be a growth hormone secretagogue receptor agonist stimulating endogenous growth hormone (hGH) release. More specifically, Ipamorelin is classified as a growth hormone secretagogue receptor 1a (GHS-R1a), also the receptor for the endogenous hormone ghrelin. Ghrelin is known as the hunger hormone and appears to also regulate hGH release by activating the GHS-R1a in pituitary cells.[3] In vitro experiments indicate that Ipamorelin's interaction with the Growth Hormone Secretagogue Receptor type 1a (GHS-R1a) might influence the somatotroph cells located in the anterior segment of the pituitary gland.[4] This potential influence is thought to initiate a cascade of cellular signaling mechanisms. A key component in this signaling cascade is phospholipase C (PLC), a crucial enzyme that, according to some scientific hypotheses, may facilitate the production of inositol triphosphate (IP3) and diacylglycerol (DAG). The emergence of these secondary messenger molecules, particularly IP3, may stimulate the release of calcium ions (Ca2+) from the cell’s internal reserves. Concurrently, DAG is believed to potentially activate protein kinase C (PKC), a family of enzymes believed to play significant roles in various cellular functions. The hypothesized increase in calcium ion concentration within the cells, along with the potential activation of PKC, might lead to the exocytosis of vesicles that contain growth hormones. Research in clinical settings has suggested that exposure to Ipamorelin may cause notable increases in hGH synthesis by these pituitary cells. Specifically, Ipamorelin was observed to elevate growth hormone concentrations up to approximately 80 milli-international units per liter (mIU/l), which is about 26.6 nanograms per milliliter (ng/ml). Comparatively, when these increases are quantified against a placebo baseline of 1.31 mIU/l or 0.4 ng/ml, there seems to be an enhancement that might exceed 60 times the baseline levels.[5]
+[p] Ipamorelin and the Musculoskeletal System Lessened bone density over prolonged periods may lead to fracture. Ipamorelin studies in rats have observed that the peptide may prevent bone loss following prolonged glucocorticoid exposure, and also may induce up to a four-fold increase in bone formation.[6] The researchers also reported that “the decrease in muscle strength and bone formation found in GC-rats was counteracted by simultaneous administration of the growth hormone secretagogue.” The peptide may potentially improve the bone mineral density of both existing and new bones. Further research suggests that the peptide may potentially activate osteoblasts—cells crucial for bone formation—through mechanisms mediated by hGH, which might enhance their proliferation, growth, and differentiation. In specific research, mouse models were subjected to exposure with either Ipamorelin or a control.[7] The actions of Ipamorelin on the bone mineral density of these mice were diligently observed using real-time dual X-ray absorptiometry (DEXA), focusing on critical areas such as the femur and the L6 vertebra. Following the trial, the femur samples underwent additional analysis with mid-diaphyseal peripheral quantitative computed tomography (pQCT) scans. Early results suggested that the peptide might have contributed to an increase in body mass and possibly raised the bone mineral content (BMC) in the tibia and vertebrae, as indicated by DEXA measurements, compared to the control group. Moreover, data from pQCT scans tentatively indicated that the noted increase in cortical BMC might be related to an increase in the cross-sectional area of the bone.[7] Additionally, Ipamorelin may possibly mitigate or reverse ancillary impacts such as muscle wasting and fat deposition in visceral organs.[6]
+[p] Ipamorelin and Diabetes Studies in murine models of diabetes have suggested an efficacy of Ipamorelin in promoting insulin release from islet cells of the pancreas.[8] Studies suggest that the peptide may mediate the release of insulin through the indirect excitation of calcium channels found on the islet cells. The hypothesized mechanism of Ipamorelin action highlights the limitations of type 2 diabetes and further study may be of interest to researchers.
+[p] Ipamorelin and Muscle Cells Glucocorticoids are the kind of corticosteroids that are commonly considered to exert an anti-inflammatory response in diverse conditions ranging from cancer to autoimmune disease. Ancillary action has also been reported. Over long durations, a higher concentration of hormones may be required to overcome physiological ancillary impacts. Researchers studying the action of Ipamorelin have suggested the peptide’s potential to decrease certain unintended impacts associated with glucocorticoid exposure. More specifically, studies on Ipamorelin posit that it may help to reestablish the nitrogen balance and reduce nitrogen wasting in the liver of rats exposed to glucocorticoids.[9] The observed actions might tentatively be attributed to Ipamorelin's potential in modulating hGH and subsequently IGF-1 production. The research primarily examined the liver’s ability to generate urea-N (CUNS), which indicates the liver's efficacy in nitrogen metabolism. The analysis included a detailed examination of the levels of messenger RNA (mRNA) for enzymes involved in the liver's urea cycle. Additionally, the study explored overall nitrogen homeostasis and proposed theoretical distributions of nitrogen among various body organs. The results tentatively indicate that Ipamorelin may lead to an approximate 20% decrease in CUNS when compared to conditions of artificially induced catabolism. Moreover, there is a potential reduction in the expression of enzymes responsible for the urea cycle, a possible re-establishment of nitrogen equilibrium, and a hypothetical modification or enhancement of nitrogen levels in different tissues.[9]
+[p] Ipamorelin as Ghrelin Receptor Probe The peptide appears to bind strongly to the ghrelin receptor and may act as a selective agonist. Interestingly, the ghrelin receptor has been observed to increase cardiac failure and certain types of cancer, including carcinomas. Researchers have proposed studying Ipamorelin as a probe in positron emission tomography (PET) scans to help diagnose research models. [10] Further research is ongoing.
+[p] Ipamorelin and Food Intake Ipamorelin has been studied in multiple proof-of-concept studies to determine its potential to reduce Post Operative Ilius (POI). It was found to shorten the time of uptake of the first meal by about 12 hours.[11] The researchers concluded that “Ipamorelin accelerates gastric emptying in a rodent model of postoperative ileus through the stimulation of gastric contractility by activating a ghrelin receptor-mediated mechanism involving cholinergic excitatory neurons.” Some of the research observations in this and other studies suggest that residual radiolabeled food remaining in the stomach of rats with POI was less after the influence of Ipamorelin, even when compared to rats without POI. Thus it may be posited that Ipamorelin may speed up the passage of food through the digestive system, following food intake. On top of that, some researchers suggest that Ipamorelin may also influence the total intake of food through its potential action via the ghrelin receptors in the nervous system.[12] Ghrelin receptors are known for their role in controlling appetite, and their activation may lead to heightened hunger cues, potentially resulting in increased body mass. It has been observed in some experimental setups that animal subjects exposed to Ipamorelin experienced an approximate 15% increase in body weight. In these studies, the augmented body weight might correlate with an increase in adipose tissue mass relative to overall body mass. Adipose tissue, or body fat, contributes to energy storage and hormone regulation. Dual-energy X-ray absorptiometry (DEXA) scans, which measure bone mineral density and body composition, might potentially exhibit an elevated body fat percentage as a result of Ipamorelin. Consequently the researchers posited that "GHSs increase body fat by GH-independent mechanisms that may include increased feeding.”[12]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Raun K, Hansen BS, Johansen NL, Thøgersen H, Madsen K, Ankersen M, Andersen PH. Ipamorelin, the first selective growth hormone secretagogue. Eur J Endocrinol. 1998 Nov;139(5):552-61. doi: 10.1530/eje.0.1390552. PMID: 9849822.
+[a https://doi.org/10.1530/eje.0.1390552] doi: 10.1530/eje.0.1390552
+[li] Johansen PB, Nowak J, Skjaerbaek C, Flyvbjerg A, Andreassen TT, Wilken M, Orskov H. Ipamorelin, a new growth-hormone-releasing peptide, induces longitudinal bone growth in rats. Growth Horm IGF Res. 1999 Apr;9(2):106-13. doi: 10.1054/ghir.1999.9998. PMID: 10373343.
+[a https://doi.org/10.1054/ghir.1999.9998] doi: 10.1054/ghir.1999.9998
+[li] Sinha DK, Balasubramanian A, Tatem AJ, Rivera-Mirabal J, Yu J, Kovac J, Pastuszak AW, Lipshultz LI. Beyond the androgen receptor: the role of growth hormone secretagogues in the modern management of body composition in hypogonadal males. Transl Androl Urol. 2020 Mar;9(Suppl 2):S149-S159. doi: 10.21037/tau.2019.11.30. PMID: 32257855; PMCID: PMC7108996 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7108996/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7108996/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7108996/
+[li] Jiménez-Reina, L., Cañete, R., de la Torre, M. J., & Bernal, G. (2002). Influence of chronic treatment with the growth hormone secretagogue Ipamorelin, in young female rats: somatotroph response in vitro. Histology and histopathology, 17(3), 707–714. https://doi.org/10.14670/HH-17.707
+[a https://doi.org/10.14670/HH-17.707] https://doi.org/10.14670/HH-17.707
+[li] Gobburu, J.V.S., Agersø, H., Jusko, W.J. et al. Pharmacokinetic-Pharmacodynamic Modeling of Ipamorelin, a Growth Hormone Releasing Peptide, in Human Volunteers. Pharm Res 16, 1412–1416 (1999).
+[li] Andersen NB, Malmlöf K, Johansen PB, Andreassen TT, Ørtoft G, Oxlund H. The growth hormone secretagogue ipamorelin counteracts glucocorticoid-induced decrease in bone formation of adult rats. Growth Horm IGF Res. 2001 Oct;11(5):266-72. doi: 10.1054/ghir.2001.0239. PMID: 11735244.
+[a https://doi.org/10.1054/ghir.2001.0239] doi: 10.1054/ghir.2001.0239
+[li] Svensson, J., Lall, S., Dickson, S. L., Bengtsson, B. A., Rømer, J., Ahnfelt-Rønne, I., Ohlsson, C., & Jansson, J. O. (2000). The GH secretagogues ipamorelin and GH-releasing peptide-6 increase bone mineral content in adult female rats. The Journal of endocrinology, 165(3), 569–577. https://doi.org/10.1677/joe.0.1650569
+[a https://doi.org/10.1677/joe.0.1650569] https://doi.org/10.1677/joe.0.1650569
+[li] Adeghate E, Ponery AS. Mechanism of ipamorelin-evoked insulin release from the pancreas of normal and diabetic rats. Neuro Endocrinol Lett. 2004 Dec;25(6):403-6. PMID: 15665799.
+[li] Aagaard, N. K., Grøfte, T., Greisen, J., Malmlöf, K., Johansen, P. B., Grønbaek, H., Ørskov, H., Tygstrup, N., & Vilstrup, H. (2009). Growth hormone and growth hormone secretagogue effects on nitrogen balance and urea synthesis in steroid treated rats. Growth hormone & IGF research: official journal of the Growth Hormone Research Society and the International IGF Research Society, 19(5), 426–431. https://doi.org/10.1016/j.ghir.2009.01.001
+[a https://doi.org/10.1016/j.ghir.2009.01.001] https://doi.org/10.1016/j.ghir.2009.01.001
+[li] Childs MD, Luyt LG. A Decade’s Progress in the Development of Molecular Imaging Agents Targeting the Growth Hormone Secretagogue Receptor. Mol Imaging. 2020 Jan-Dec;19:1536012120952623. doi: 10.1177/1536012120952623. PMID: 33104445; PMCID: PMC8865914.
+[a https://doi.org/10.1177/1536012120952623] doi: 10.1177/1536012120952623
+[li] Greenwood-Van Meerveld B, Tyler K, Mohammadi E, Pietra C. Efficacy of ipamorelin, a ghrelin mimetic, on gastric dysmotility in a rodent model of postoperative ileus. J Exp Pharmacol. 2012 Oct 19;4:149-55. doi: 10.2147/JEP.S35396. PMID: 27186127; PMCID: PMC4863553.
+[a https://doi.org/10.2147/JEP.S35396] doi: 10.2147/JEP.S35396
+[li] Lall, S., Tung, L. Y., Ohlsson, C., Jansson, J. O., & Dickson, S. L. (2001). Growth hormone (GH)-independent stimulation of adiposity by GH secretagogues. Biochemical and biophysical research communications, 280(1), 132–138. https://doi.org/10.1006/bbrc.2000.4065
+[a https://doi.org/10.1006/bbrc.2000.4065] https://doi.org/10.1006/bbrc.2000.4065
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg) $87.00
+[a https://biotechpeptides.com/product/fragment-176-191-mod-grf-1-29-ipamorelin-12mg/] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg) $87.00
+[img] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Fragment-Mod-GRF-Ipamorelin-1-238x317.webp
+[h2] Fragment 176-191 & Mod GRF 1-29 & Ipamorelin Blend (12mg)
+[li] CJC-1295 & Ipamorelin Blend (10mg) $81.00
+[a https://biotechpeptides.com/product/cjc-1295-ipamorelin-10mg-blend-2/] CJC-1295 & Ipamorelin Blend (10mg) $81.00
+[img] CJC-1295 & Ipamorelin Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-Ipamorelin-1-238x317.webp
+[h2] CJC-1295 & Ipamorelin Blend (10mg)
+[li] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg) $87.00
+[a https://biotechpeptides.com/product/fragment-cjc-1295-ipamorelin-12mg-blend/] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg) $87.00
+[img] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Fragment-176-191-CJC-1295-Ipamorelin-238x317.webp
+[h2] Fragment 176-191 & CJC-1295 & Ipamorelin Blend (12mg)
+[li] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg) $80.00
+[a https://biotechpeptides.com/product/cjc-1295-ipamorelin-ghrp2-9mg-blend/] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg) $80.00
+[img] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-Ipamorelin-GHRP-2-1-238x317.webp
+[h2] CJC-1295 (Mod GRF 1-29) & Ipamorelin & GHRP-2 Blend (9mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

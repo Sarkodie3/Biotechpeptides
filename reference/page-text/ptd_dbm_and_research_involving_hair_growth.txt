@@ -1,0 +1,106 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] PTD-DBM and Research Involving Hair Growth
+[p] by Dr. Usman | Sep 14, 2022 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] PTD-DBM and Research Involving Hair Growth :: https://biotechpeptides.com/wp-content/uploads/2022/09/PTD-DBM-and-Research-Involving-Hair-Growth.avif
+[a https://biotechpeptides.com/product/ptd-dbm-5mg/] PTD-DBM peptide
+[p] Contents:
+[li] PTD-DBM Peptide Overview
+[a #overview] PTD-DBM Peptide Overview
+[li] PTD-DBM and Androgenetic Alopecia
+[a #alopecia] PTD-DBM and Androgenetic Alopecia
+[li] PTD-DBM and Tissue Repair
+[a #tissue] PTD-DBM and Tissue Repair
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/ptd-dbm-5mg/] 
+[img] Buy PTD-DBM Peptide (5mg) :: https://biotechpeptides.com/wp-content/uploads/2022/09/PTD-DBM.webp
+[h2] PTD-DBM Peptide Overview
+[p] CXXC5 appears to act as a reversible modulator on the Wnt/-catenin nerve tract, which is involved in wound healing and hair regrowth. It is known as “the hair loss catalytic enzyme”. CXXC5 forms a bond with the Dvl protein, which may inhibit hair regeneration and follicle development. PTD-DBM has been hypothesized to prevent CXXC5 from binding to the disheveled protein. It may act as a negative modulator of the entire process.[1] If PTD-DBM prevents CXXC5 from becoming a disheveled protein, the Wnt/-catenin pathway may be activated, inducing hair follicle regrowth and wound-induced hair follicle neogenesis. PTD-DBM is suggested to inhibit the activities of enzymes and hormones that shrink follicles, gradually restoring the strands at the stem cell level. PTD-DBM peptide may prevent follicle volume loss while stimulating the formation of new cavities for follicle growth.
+[h2] PTD-DBM and Androgenetic Alopecia
+[p] Androgenetic Alopecia is characterized by the regression of follicle loss in the vertex. It may progress and induce total follicle loss. The anagen, catagen, and telogen phase are the three stages of follicle growth. The anagen phase may be shortened due to androgen hypersecretion, specifically testosterone. It may induce follicle growth to thin and shed, and the anagen phase may last only a few months.
+[p] The most crucial cellular pathway that is considered to regulate follicle growth is the Wnt/-catenin pathway. Wnt proteins are released, which may bind to the LDL-related protein LRP, deactivating glycogen synthase kinase-3 (GSK-3). GSK-3 appears to inhibit -catenin’s actions in the hair follicle.
+[p] According to Professor Kang-Yell Choi’s research, CXXC-type zinc finger protein 5 (CXXC5) may be expressed aggressively in cases of Alopecia.[3] CXXC5 appear to inhibit the Wnt/-catenin signaling pathway. CXXC5 may accomplish this by binding to the Dvl protein, hindering the growth and development of both new and existing follicles.
+[p] By inhibiting the actions of CXXC5 and Dvl protein, PTD-DBM may potentially reduce the prevalence of androgenetic alopecia, resulting in increased follicle growth and the anagen phase of the growth cycle. PTD-DBM potential actions may result in positive impact; when the peptide is in symbiosis with valproic acid, its potency has been suggested to increase.
+[h2] PTD-DBM and Tissue Repair
+[p] The Wnt/-catenin signaling pathway is considered to be essential for wound healing and skin break fibrosis. The CXXC5 may regulate it via a negative feedback mechanism. The CXXC5 appears to bind to the Disheveled (Dvl) protein, inhibiting the Wnt/-catenin signaling pathway. Inhibiting CXXC5 activities in mice appears to promote wound healing by stimulating collagen and keratin synthesis, specifically skin wound healing.[2] Furthermore, PTD-DBM has been suggested to inhibit the CXXC5-Dvl domain’s actions by preventing protein-to-protein interactions between CXXC5 and Dvl proteins. As a result, the Wnt/-catenin pathway may become more active, inducing collagen and keratin synthesis and increased dermal fibrosis.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Lee, S. H., Seo, S. H., Lee, D. H., Pi, L. Q., Lee, W. S., & Choi, K. Y. (2017). Targeting of CXXC5 by a Competing Peptide Stimulates Hair Regrowth and Wound-Induced Hair Neogenesis. The Journal of investigative dermatology, 137(11), 2260–2269. https://doi.org/10.1016/j.jid.2017.04.038
+[a https://doi.org/10.1016/j.jid.2017.04.038] https://doi.org/10.1016/j.jid.2017.04.038
+[li] Lee SH, Kim MY, Kim HY, Lee YM, Kim H, Nam KA, Roh MR, Min do S, Chung KY, Choi KY. The Dishevelled-binding protein CXXC5 negatively regulates cutaneous wound healing. J Exp Med. 2015 Jun 29;212(7):1061-80. doi: 10.1084/jem.20141601. Epub 2015 Jun 8. PMID: 26056233; PMCID: PMC4493411.
+[a https://doi.org/10.1084/jem.20141601] doi: 10.1084/jem.20141601
+[li] Ryu YC, Lee DH, Shim J, Park J, Kim YR, Choi S, Bak SS, Sung YK, Lee SH, Choi KY. KY19382, a novel activator of Wnt/β-catenin signalling, promotes hair regrowth and hair follicle neogenesis. Br J Pharmacol. 2021 Jun;178(12):2533-2546. doi: 10.1111/bph.15438. Epub 2021 May 5. PMID: 33751552; PMCID: PMC8251890.
+[a https://doi.org/10.1111/bph.15438] doi: 10.1111/bph.15438
+[li] Rahman M, Nguyen H. Valproic Acid. [Updated 2022 Jul 4]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2022 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK559112/
+[a https://www.ncbi.nlm.nih.gov/books/NBK559112/] https://www.ncbi.nlm.nih.gov/books/NBK559112/
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

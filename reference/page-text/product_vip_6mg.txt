@@ -1,0 +1,134 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/11/VIP-1.webp] 
+[img] VIP (6mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/VIP-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/11/COA_VIP_3140103_20260725_BP_page-0001.webp] 
+[img] VIP (6mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2021/11/COA_VIP_3140103_20260725_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2021/11/COA_VIP_3140103_20260725_BP_page-0002.webp] 
+[img] VIP (6mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2021/11/COA_VIP_3140103_20260725_BP_page-0002.webp
+[h1] VIP (6mg)
+[p] $71.00
+[p] VIP peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_3363 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $67.45
+[input name=wccs_tier_select_3363 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $63.90
+[label] VIP (6mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2021/11/COA_VIP_3140103_20260725_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Vasoactive Intestinal Peptide (VIP)
+[p] Vasoactive intestinal peptide (VIP, vasoactive intestinal polypeptide, PHM27) is a short peptide hormone endogenously produced in the gastrointestinal tract, pancreas, and brain of most vertebrate animals. Researchers have suggested that the peptide may exhibit potential to influence inflammation, particularly in the cases of neurodegenerative disease, pulmonary fibrosis, inflammatory bowel disease, and cardiac fibrosis. VIP has been suggested to act as an immune system regulator and has been classified by scientists as an anti-inflammatory peptide. It is of active scientific interest for its proposed ability to support cognitive function in the setting of neurodegenerative disease. VIP has been hypothesized to bind to class II G protein-coupled receptors.
+[h3] Specifications
+[p] Other Known Titles: PHM27, Vasoactive intestinal polypeptide
+[p] Sequence: HSDAVFTDNYXRLRKQMAVKKYLNSXLN
+[p] Molecular Formula: C147H237N43O43S
+[p] Molecular Weight: 3326.8 g/mol
+[h3] VIP Research
+[p] Vasoactive Intestinal Peptide (VIP) and Receptor Signaling VIP is hypothesized to interact with three distinct types of G protein-coupled receptors (GPCRs): VPAC1, VPAC2, and PAC1.[1] The interaction of VIP with these receptors might potentially activate adenylate cyclase, a regulatory enzyme, leading to subsequent biological activity, although this is not definitively established. The primary distinction among these receptors appears to be their distribution within the organism. Data suggests that VPAC1 receptors are predominantly found in the brain and peripheral tissues such as the liver, lungs, intestine, and immune cells. In contrast, VPAC2 receptors are primarily located within the central nervous system and various peripheral tissues, including the pancreas, heart, kidneys, skeletal muscles, gastrointestinal tract, and reproductive organs. PAC1 receptors, on the other hand, are mainly present in the brain and adrenal glands. Due to the extensive distribution of these receptors, it is speculated that the binding of VIP to its receptors might influence a variety of targets in both the central and peripheral nervous systems, depending on the specific location of the receptor involved. This broad receptor distribution suggests a complex and diverse range of potential biological effects, although the exact nature and extent of these effects remain uncertain.
+[p] Vasoactive Intestinal Peptide (VIP) and Bowel Inflammation VIP is synthesized from the immune nerve fibers in blood vessels of the central and peripheral nervous systems and immune cells. It appears to reduce inflammation, as posited by research into inflammatory bowel diseases like Crohn’s and ulcerative colitis, by suppressing the production of interleukin-10 and improving intestinal barrier function.[2] Researchers report that “VIP and its analogs have been proposed as promising alternative candidates to existing [research] for … acute and chronic inflammatory and autoimmune diseases.” Compromised barrier function leads to increased antigenic material in the space between cells, which interacts with immune cells to trigger an inflammatory response. Further studies have also suggested that VIP may reduce the antigen presentation to immune cells by improving the barrier function of the so-called tight-junctions within models of bowel inflammation. Namely, murine models of necrotizing enterocolitis (NEC) were exposed to VIP as researchers proposed that the peptide might potentially mitigate disruptions in the intestinal barrier. It was speculated that VIP might help maintain the integrity of tight junctions, which are considered essential for the function of the intestinal barrier. The expression of claudin-3, a protein vital for tight junction functionality and intestinal barrier integrity, appeared to be increased in the NEC + VIP group compared to the NEC group without VIP exposure. This observation suggests a possible mechanism through which VIP might support barrier function during inflammatory episodes. Additionally, there was an indication that VIP might reduce the levels of proinflammatory cytokines, specifically interleukin-6 (IL-6) and tumor necrosis factor-alpha (TNFα), in the NEC + VIP group relative to the NEC group alone. This implies that VIP could have a modulatory action on inflammatory responses in this context.[3]
+[p] Vasoactive Intestinal Peptide (VIP) and Lung Function VIP appears to impact lung function through the following two pathways. The first mechanism alters pulmonary vascular remodeling in response to inflammation by suppressing a peptide called NFAT, which is suggested to activate T cells, leading to increased inflammation.[4] The scientists note that over the course of the study, “VIP would emerge as an endogenous modulator of pulmonary vascular remodeling and inflammation, through its suppression of NFAT activation.” In particular, NFAT suppression may play an important role in preventing pulmonary fibrosis, the end stage of diverse inflammatory conditions such as COPD, sarcoidosis, etc. Smooth muscle cell proliferation is one of the long-term consequences of lung inflammation and is a challenge in bronchial asthma that has been uncontrolled for extended periods. VIP is a potential molecule that inhibits smooth muscle proliferation. Preliminary research also suggests that VIP may lower blood pressure in the pulmonary artery, leading to increased cardiac output and improved venous oxygen saturation.[5]
+[p] Vasoactive Intestinal Peptide (VIP) and Transplants Rejection by immune systems is one of the primary challenges faced in organ transplants. Currently, it is explored in scientific research through the use of broad-spectrum anti-inflammatory compounds. Unfortunately, these may lead to susceptibility to infection and ancillary actions, such as scarring and organ fibrosis. Researchers suggest that VIP may affect dendritic cells (DCs). VIP exposure of immature DCs (iDCs) potentially upregulates CD86 expression, thereby enhancing the proliferation of CD4+ T cells. The CD4+ T cells activated by these VIP-exposed iDCs may exhibit a Th2 phenotype. This phenomenon is possibly linked to the propensity of VIP to bias immune responses towards Th2, which may contribute to its overall anti-inflammatory potential. Conversely, when DCs are stimulated with lipopolysaccharide (LPS), VIP seems to reduce the expression of both CD86 and CD80, although it does not affect CD40 or MHC class II expression. This reduction might inhibit the ability of DCs to induce T cell proliferation. VIP-exposed DCs in the early stages of differentiation may develop a tolerogenic phenotype, characterized by low expression of costimulatory molecules (CD40, CD80, CD86), reduced production of proinflammatory cytokines, increased IL-10 production, and the capacity to induce regulatory T cells (Tregs) with suppressive functions. The action of VIP on the DC-Treg axis potentially represents an additional mechanism by which VIP exerts anti-inflammatory characteristics. This aspect might be particularly relevant for studies in conditions such as autoimmunity and transplantation. The generation of tolerogenic DCs by VIP may lead to the production of CD4+ and CD8+ Treg cells, which display a typical cytokine profile of high IL-10 and TGF-β, and minimal or no IFN-γ and IL-2. These DCs might not prime T cell responses but might suppress already primed immune responses, possibly contributing to immune tolerance. The proposed mechanisms behind the generation of Tregs by VIP-exposed DCs may involve the characteristic phenotype of these DCs, which includes high MHC levels and poor expression of costimulatory molecules. This phenotype may deliver stimulatory but not costimulatory signals, promoting tolerance. The secretion of IL-10 by these DCs might further stabilize their tolerogenic phenotype, as IL-10 inhibits the expression of costimulatory molecules and promotes the generation of IL-10-producing T cells. Moreover, the study posits that the suppression mediated by VIP-induced Tr1-like cells might involve both soluble factors like IL-10 and TGF-β and direct cellular contact. The expression of CTLA4, a negative regulatory factor, on these cells supports this hypothesis. Thus, by regulating DC, VIP may help suppress immune responses, selectively inhibiting the proliferation of DCs that might play a role in autoimmune reaction models.[6]
+[p] Vasoactive Intestinal Peptide (VIP) and Neuroprotection Researchers propose that VIP may hold a three-fold role in the central nervous system: as neurotransmitter, neurotrophic/neurogenic, and anti-inflammatory/neuroprotectant. In research studies related to neuroprotection, the peptide may help maintain the very critical function of the blood-brain barrier (BBB). Compromise of the BBB has been implicated in multiple sclerosis, encephalomyelitis, and even stroke. VIP may offer neuroprotective functions in neurodegeneration, and is being researched for its potential in this area. VIP appears to act as a possible neuroprotectant in the developing brain, warding off excitotoxic white matter damage and improving neuron fatty acid myelination.[7] The exact role of VIP in neurodegeneration models is less studied. Research suggests that the processing of VIP is inhibited in neurodegeneration, with levels of the peptide and amino acid byproducts being lower in the brains affected by neurodegeneration. The action of VIP in such models appears to be mediated through VPAC1 and VPAC2 receptors. The neuroprotective potential of VIP may be possibly mediated through its actions on microglial cells, where it may inhibit the secretion of pro-inflammatory cytokines and enhance amyloid-β phagocytosis. These actions are hypothesized to involve the activation of the PKA pathway and inhibition of the NF-κB pathway, which are considered crucial in reducing neuroinflammation and promoting neuronal survival. Further, VIP stimulation may result in increased secretion of neurotrophic factors like ADNP (activity-dependent neurotrophic factor) and BDNF (brain-derived neurotrophic factor).[8] These factors may help to protect synapses and astrocytes in different experimental models. Further, VIP's role in promoting regulatory T cells (Tregs) might be critical in mitigating neuroinflammation and providing neuroprotection. In murine models of PD, VIP appears to increase Treg activity without expanding their numbers, an action that is proposed to reduce microglial activation and enhance dopaminergic neuron survival. In these models VIP analogs were speculated to rescue Treg activity and reduce inflammatory microglia. This suggests that VIPR2 activation might be a viable strategy for attenuating neuroinflammation and protecting dopaminergic neurons from degeneration. VIP's neuroprotective actions might be mediated through several pathways, including inhibition of inflammatory cytokine release and rebalancing T cell polarization towards a neuroprotective phenotype. Additionally, VIP and its agonists may enhance the suppressive function of Tregs, which is considered crucial for maintaining central nervous system (CNS) homeostasis. The study notes that Treg activity, diminished in PD, can be restored by VIPR2 agonism, leading to neuroprotection.[9]
+[p] Vasoactive Intestinal Peptide (VIP) and Cardiac Fibrosis As with lung disease, fibrosis is the end stage of several cardiac conditions. Cardiac fibrosis leads to several serious problems, including valve dysfunction, decreases in contractility, changes in cardiac filling, and more. As in lung disease, cardiac fibrosis is the common end-stage of many heart conditions, thus requiring a transplant. Scientists have observed that as fibrosis increases VIP levels become undetectable, indicating a potential role for VIP in the development and progression of cardiac fibrosis. Indeed, research on rat models suggests that VIP may not only slow fibrosis down but may also reverse scarring. This potential is apparently partly mediated by a massive reduction in the expression of angiotensinogen (Agt) and the angiotensin receptor type 1a (AT1a). This selective impact on Agt and AT1a posits a potential mechanism where VIP may inhibit fibrosis through the downregulation of the intra-myocardial renin-angiotensin system. The reduction in Agt and AT1a expression implies a suppression of Angiotensin II (Ang II) activity, which is hypothesized to contribute to fibrosis.This hypothesis seems plausible as angiotensin receptor blockers and ACE inhibitors have long been studied for their potential to slow down cardiac modeling/fibrosis and researchers suggest they are first line of prevention for fibrosis.[10]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Vosko, A. M., Schroeder, A., Loh, D. H., & Colwell, C. S. (2007). Vasoactive intestinal peptide and the mammalian circadian system. General and comparative endocrinology, 152(2-3), 165–175.
+[li] Gonzalez-Rey E, Delgado M. Role of vasoactive intestinal peptide in inflammation and autoimmunity. Curr Opin Investig Drugs. 2005 Nov;6(11):1116-23. PMID: 16312132.
+[li] Seo S, Miyake H, Alganabi M, Janssen Lok M, O’Connell JS, Lee C, Li B, Pierro A. Vasoactive intestinal peptide decreases inflammation and tight junction disruption in experimental necrotizing enterocolitis. J Pediatr Surg. 2019 Dec;54(12):2520-2523. doi: 10.1016/j.jpedsurg.2019.08.038. Epub 2019 Aug 30. PMID: 31668399.
+[a https://doi.org/10.1016/j.jpedsurg.2019.08.038] doi: 10.1016/j.jpedsurg.2019.08.038
+[li] Said SI. The vasoactive intestinal peptide gene is a key modulator of pulmonary vascular remodeling and inflammation. Ann N Y Acad Sci. 2008 Nov;1144:148-53. doi: 10.1196/annals.1418.014. PMID: 19076374.
+[a https://doi.org/10.1196/annals.1418.014] doi: 10.1196/annals.1418.014
+[li] Petkov V, Mosgoeller W, Ziesche R, Raderer M, Stiebellehner L, Vonbank K, Funk GC, Hamilton G, Novotny C, Burian B, Block LH. Vasoactive intestinal peptide as a new drug for treatment of primary pulmonary hypertension. J Clin Invest. 2003 May;111(9):1339-46. doi: 10.1172/JCI17500. PMID: 12727925; PMCID: PMC154449.
+[a https://doi.org/10.1172/JCI17500] doi: 10.1172/JCI17500
+[li] Chorny A, Gonzalez-Rey E, Delgado M. Regulation of dendritic cell differentiation by vasoactive intestinal peptide: therapeutic applications on autoimmunity and transplantation. Ann N Y Acad Sci. 2006 Nov;1088:187-94. doi: 10.1196/annals.1366.004. PMID: 17192565.
+[a https://doi.org/10.1196/annals.1366.004] doi: 10.1196/annals.1366.004
+[li] de Souza FRO, Ribeiro FM, Lima PMD. Implications of VIP and PACAP in Parkinson’s Disease: What do we Know So Far? Curr Med Chem. 2021;28(9):1703-1715. doi: 10.2174/0929867327666200320162436. PMID: 32196442.
+[a https://doi.org/10.2174/0929867327666200320162436] doi: 10.2174/0929867327666200320162436
+[li] Solés-Tarrés I, Cabezas-Llobet N, Vaudry D, Xifró X. Protective Effects of Pituitary Adenylate Cyclase-Activating Polypeptide and Vasoactive Intestinal Peptide Against Cognitive Decline in Neurodegenerative Diseases. Front Cell Neurosci. 2020 Jul 17;14:221. doi: 10.3389/fncel.2020.00221. PMID: 32765225; PMCID: PMC7380167.
+[li] Mosley RL, Lu Y, Olson KE, Machhi J, Yan W, Namminga KL, Smith JR, Shandler SJ, Gendelman HE. A Synthetic Agonist to Vasoactive Intestinal Peptide Receptor-2 Induces Regulatory T Cell Neuroprotective Activities in Models of Parkinson’s Disease. Front Cell Neurosci. 2019 Sep 18;13:421. doi: 10.3389/fncel.2019.00421. PMID: 31619964; PMCID: PMC6759633.
+[a https://doi.org/10.3389/fncel.2019.00421] doi: 10.3389/fncel.2019.00421
+[li] Duggan KA, Hodge G, Chen J, Hunter T. Vasoactive intestinal peptide infusion reverses existing myocardial fibrosis in the rat. Eur J Pharmacol. 2019 Nov 5;862:172629. doi: 10.1016/j.ejphar.2019.172629. Epub 2019 Aug 23. PMID: 31449808.
+[a https://doi.org/10.1016/j.ejphar.2019.172629] doi: 10.1016/j.ejphar.2019.172629
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] TRH Thyrotropin (Protirelin) (25mg) $93.00
+[a https://biotechpeptides.com/product/trh-thyrotropin-protirelin-25mg/] TRH Thyrotropin (Protirelin) (25mg) $93.00
+[img] TRH Thyrotropin (Protirelin) (25mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Thyrotropin-TRH-1-238x317.webp
+[h2] TRH Thyrotropin (Protirelin) (25mg)
+[li] DSIP (5mg) $44.00
+[a https://biotechpeptides.com/product/dsip-5mg/] DSIP (5mg) $44.00
+[img] DSIP (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/DSIP-1-238x317.webp
+[h2] DSIP (5mg)
+[li] Pinealon (20mg) $68.00
+[a https://biotechpeptides.com/product/pinealon-20mg/] Pinealon (20mg) $68.00
+[img] Pinealon (20mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Pinealon-1-238x317.webp
+[h2] Pinealon (20mg)
+[li] PE-22-28 (8mg) $55.00
+[a https://biotechpeptides.com/product/pe-22-28-8mg/] PE-22-28 (8mg) $55.00
+[img] PE-22-28 (8mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/PE-22-28-1-238x317.webp
+[h2] PE-22-28 (8mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

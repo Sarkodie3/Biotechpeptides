@@ -1,0 +1,126 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] N-Acetyl Selank Studies on Cognitive Impact
+[p] by Dr. Usman | May 26, 2023 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] N-Acetyl Selank Studies on Cognitive Impact :: https://biotechpeptides.com/wp-content/uploads/2023/05/N-Acetyl-Selank-Studies-on-Cognitive-Impact.webp
+[p] N-Acetyl Selank is an acetylated form of the heptapeptide Selank. Selank is a synthetic analog of the natural tetrapeptide tuftsin (threonine – lysine – proline – arginine). The sequence of N-Acetyl Selank is acetyl – threonine – lysine – proline – arginine – proline – glycine – proline. Adding proline – glycine – proline at the C-terminus and the acetylation at the N-terminus is intended to improve its stability compared to tuftsin. Tuftsin is found in the blood of various mammals as it is normally located in the Fc-domain of the heavy chain of immunoglobulin G (residues 289-292). As such, tuftsin is hypothesized to have immunomodulatory properties.
+[p] N-acetyl Selank peptide may potentially influence neurotransmitters, central nervous system signaling, and neuroplasticity. More specifically, the potential of N-acetyl Selank lies in higher cognitive functioning, serotonin signaling, and brain-derived neurotrophic factor (BDNF) expression. Studies on N-acetyl Selank are lacking, but data from Selank’s research may be used as a reference.
+[a https://biotechpeptides.com/product/n-acetyl-selank-10mg/] N-acetyl Selank peptide
+[p] Contents:
+[li] Higher Cognitive Functions
+[a #Cognitive] Higher Cognitive Functions
+[li] Enkephalins
+[a #Enkephalins] Enkephalins
+[li] Serotonin Signaling
+[a #Serotonin] Serotonin Signaling
+[li] Neurotrophic Growth Factors
+[a #Neurotrophic] Neurotrophic Growth Factors
+[li] Conclusion
+[a #conclusion] Conclusion
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/n-acetyl-selank-10mg/] 
+[img] N-acetyl Selank (10mg) :: https://biotechpeptides.com/wp-content/uploads/2023/01/N-Acetyl-Selank.png
+[h2] N-Acetyl Selank and Higher Cognitive Functions
+[p] One murine trial involving trained Winstar rats investigated the potential of the non-acetylated version of N-Acetyl Selank for influencing learning, memory, and serotonin levels.[1] According to the research, N-Acetyl Selank may upregulate serotonin metabolism in the hypothalamus and caudal brain stem for 30 minutes to 2 hours. Additionally, N-Acetyl Selank may have a positive influence on memory trace stability for a period of 30 days. These findings suggest that N-Acetyl Selank may have favorable potential on memory storage processes during the consolidation phase of memory formation. The researchers also speculated that the potential of N-Acetyl Selank for improving higher cognitive functions may be attributed to its possible influence on serotonin levels and metabolites in the brain.
+[p] Furthermore, one clinical study by Medvedev et al. (2014) noted the potential of the non-acetylated version of N-Acetyl Selank when used in isolations.[2] The researchers commented on the apparent improvement in the results of several scales for mood, such as HDRS, CGI, Spilberger, and SF-36. They also share that the “effect lasted for a week after last receiving the peptide.”
+[p] In another publication from 2015, the same researchers also suggest that N-Acetyl Selank may positively influence chemically induced asthenia, attention, and memory impairment.[3] The researchers hypothesized that this might be due to the potential action of N-Acetyl Selank on higher cognitive functions.
+[h2] N-Acetyl Selank and Enkephalins
+[p] Enkephalins are considered to be the natural ligands to the opioid receptors in the nervous system and play a role in mood and nociception. One clinical study suggested that low levels of tau(1/2) leu-enkephalin, a specific parameter related to enkephalin activity in serum, may have anxiogenic potential.[4] Yet, the non-acetylated version of N-Acetyl Selank may potentially increase tau(1/2) leu-enkephalin levels. The researchers also noted that the peptide had an apparently favorable potential on psychometric scales such as Hamilton, Zung, and CGI, likely due to its possible interaction with the enkephalin signaling in the central nervous system.
+[p] Another clinical trial posited a decreased half-life of enkephalins and reduced total enkephalinase activity might have anxiogenic activity.[5] The non-acetylated version of N-Acetyl Selank was suggested to block the enzymatic hydrolysis of plasma enkephalins by inhibiting enkephalinase activity. The researchers commented that the peptide “inhibited enzymatic hydrolysis of plasma enkephalin […]. Selank was more potent than peptidase inhibitors bacitracin and puromycin in inhibiting enkephalinases.”
+[h2] N-Acetyl Selank and Serotonin Signaling
+[p] Semenova et al. (2009) investigated the potential of the non-acetylated version of N-Acetyl Selank on influencing serotonin (5-HT) signaling in the brains of Wistar rats.[6] The rats were exposed to a 5-HT synthesis inhibitor called p-chlorophenyl alanine (PCPA) four days before the experiment. There were a total of 87 mature rats included in the study. The scientists commented that the non-acetylated version of N-Acetyl Selank may increase 5-HT metabolism in the brain stem despite exposure to PCPA. This suggests that the peptide N-Acetyl Selank may potentially improve disturbances caused by a decrease in 5-HT metabolism.
+[h2] N-Acetyl Selank and Neurotrophic Growth Factors
+[p] Brain-derived neurotrophic factor (BDNF) is a neurotrophic growth factor studied for its potential to support neuroplasticity and synaptogenesis, neural remodeling, neurogenesis, nerve cell growth, survival, and adaptation.[7] [8] Scientists also note, “The neurotrophic factor BDNF is an important regulator for the development of brain circuits, for synaptic and neuronal network plasticity, as well as for neuroregeneration and neuroprotection.”[9]
+[p] Several researchers have investigated the potential of the non-acetylated version of N-Acetyl Selank on BDNF expression in the rat hippocampus.[10] More specifically, the researchers measured the expression of BDNF mRNA and protein levels, as this neurotrophic growth factor is a potentially important regulator of memory formation.
+[p] The reported findings suggest that N-Acetyl Selank may stimulate the expression of BDNF in the hippocampus, indicating a potential role in regulating hippocampal function. This is based on comments that the non-acetylated version of N-Acetyl Selank appeared to upregulate BDNF mRNA expression in the rat hippocampus. Similarly, the protein level of BDNF in the hippocampus also appeared to increase after introducing the peptide.
+[h2] Conclusion
+[p] In conclusion, N-Acetyl Selank may exhibit the potential to impact neurotransmitters, central nervous system signaling, and neuroplasticity. Studies suggest that N-Acetyl Selank may positively influence higher cognitive functions, including memory and learning processes, potentially through action on serotonin levels and BDNF expression. Furthermore, its proposed interaction with enkephalin signaling in the central nervous system may contribute to its vast research potential.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Semenova TP, Kozlovskiĭ II, Zakharova NM, Kozlovskaia MM. [Experimental optimization of learning and memory processes by selank]. Eksp Klin Farmakol. 2010 Aug;73(8):2-5. Russian. PMID: 20919548.
+[li] Medvedev VE, Tereshchenko ON, Israelian AIu, Chobanu IK, Kost NV, Sokolov OIu, Miasoedov NF. [A comparison of the anxiolytic effect and tolerability of selank and phenazepam in the treatment of anxiety disorders]. Zh Nevrol Psikhiatr Im S S Korsakova. 2014;114(7):17-22. Russian. PMID: 25176261.
+[li] Medvedev VE, Tereshchenko ON, Kost NV, Ter-Israelyan AY, Gushanskaya EV, Chobanu IK, Sokolov OY, Myasoedov NF. [Optimization of the treatment of anxiety disorders with selank]. Zh Nevrol Psikhiatr Im S S Korsakova. 2015;115(6):33-40. Russian. doi: 10.17116/jnevro20151156133-40. PMID: 26356395.
+[a https://pubmed.ncbi.nlm.nih.gov/26356395/] doi: 10.17116/jnevro20151156133-40
+[li] Zozulia AA, Neznamov GG, Siuniakov TS, Kost NV, Gabaeva MV, Sokolov OIu, Serebriakova EV, Siranchieva OA, Andriushenko AV, Telesheva ES, Siuniakov SA, Smulevich AB, Miasoedov NF, Seredenin SB. [Efficacy and possible mechanisms of action of a new peptide anxiolytic selank in the therapy of generalized anxiety disorders and neurasthenia]. Zh Nevrol Psikhiatr Im S S Korsakova. 2008;108(4):38-48. Russian. PMID: 18454096.
+[li] Zozulya AA, Kost NV, Yu Sokolov O, Gabaeva MV, Grivennikov IA, Andreeva LN, Zolotarev YA, Ivanov SV, Andryushchenko AV, Myasoedov NF, Smulevich AB. The inhibitory effect of Selank on enkephalin-degrading enzymes as a possible mechanism of its anxiolytic activity. Bull Exp Biol Med. 2001 Apr;131(4):315-7. doi: 10.1023/a:1017979514274. PMID: 11550013.
+[a https://pubmed.ncbi.nlm.nih.gov/11550013/] doi: 10.1023/a:1017979514274
+[li] Semenova TP, kozlovskiĭ II, Zakharova NM, Kozlovskaia MM. [Comparison of the effects of selank and tuftsin on the metabolism of serotonin in the brain of rats pretreated with PCPA]. Eksp Klin Farmakol. 2009 Jul-Aug;72(4):6-8. Russian. PMID: 19803361.
+[li] Deister C, Schmidt CE. Optimizing neurotrophic factor combinations for neurite outgrowth. J Neural Eng. 2006 Jun;3(2):172-9. doi: 10.1088/1741-2560/3/2/011. Epub 2006 May 16. PMID: 16705273.
+[a https://pubmed.ncbi.nlm.nih.gov/16705273/] doi: 10.1088/1741-2560/3/2/011
+[li] Lu B, Figurov A. Role of neurotrophins in synapse development and plasticity. Rev Neurosci. 1997 Jan-Mar;8(1):1-12. doi: 10.1515/revneuro.1997.8.1.1. PMID: 9402641.
+[a https://www.degruyter.com/document/doi/10.1515/REVNEURO.1997.8.1.1/html] doi: 10.1515/revneuro.1997.8.1.1
+[li] Brigadski, T., & Leßmann, V. (2020). The physiology of regulated BDNF release. Cell and tissue research, 382(1), 15–45. https://doi.org/10.1007/s00441-020-03253-2
+[a https://doi.org/10.1007/s00441-020-03253-2] https://doi.org/10.1007/s00441-020-03253-2
+[li] Inozemtseva LS, Karpenko EA, Dolotov OV, Levitskaya NG, Kamensky AA, Andreeva LA, Grivennikov IA. Intranasal administration of the peptide Selank regulates BDNF expression in the rat hippocampus in vivo. Dokl Biol Sci. 2008 Jul-Aug;421:241-3. doi: 10.1134/s0012496608040066. PMID: 18841804
+[a https://pubmed.ncbi.nlm.nih.gov/18841804/] doi: 10.1134/s0012496608040066
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

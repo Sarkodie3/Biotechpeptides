@@ -1,0 +1,148 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Overview of the Triptorelin Peptide
+[p] by Dr. Usman | Sep 10, 2025 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2025/09/Overview-of-the-Triptorelin-Peptide.webp
+[a https://biotechpeptides.com/product/triptorelin-gnrh-2mg/] Triptorelin
+[p] Structurally, Triptorelin peptide consists of ten amino acids and is suggested to increase stability and receptor affinity in comparison to endogenous GnRH. Research suggests that its biochemical activity may be linked to a potential to modulate the release of luteinizing hormone (LH) and follicle-stimulating hormone (FSH), which are considered critical regulators of gonadal steroidogenesis.[2] The compound has therefore been investigated primarily in the context of endocrine-related pathologies.
+[p] Triptorelin peptide is speculated to function as a GnRH agonist with possible receptor-binding properties. Studies indicated that upon exposure, the peptide appeared to bind to GnRH receptors on the anterior pituitary, likely leading to an initial stimulation of LH and FSH secretion. This reported transient phase may result in a short-term increase in gonadal steroid production, including testosterone and estrogen. However, sustained receptor engagement may be associated with desensitization and downregulation of GnRH receptors. This receptor adaptation appears to suppress the pituitary release of LH and FSH, thereby reducing circulating levels of sex steroids.[3 ]These sex steroid hormones, sometimes shortened to “sex steroids,” are a category of lipid-based hormones, which are produced through specific glands such as the gonads, adrenal glands or in some cases, other tissues.
+[p] Research suggests that this biphasic activity, characterized by an initial stimulatory surge followed by long-term suppression, is supposed by researchers to be a key feature of Triptorelin’s mechanism. The probable resulting decline in gonadal steroidogenesis has been studied in relation to conditions dependent on sex steroids, where modulation of the HPG axis may hold potential research relevance.
+[p] Contents:
+[li] Scientific and Research Studies
+[a #research] Scientific and Research Studies
+[li] Triptorelin and Hormonal Upregulation, Endocrine Response
+[a #hu] Triptorelin and Hormonal Upregulation, Endocrine Response
+[li] Triptorelin Peptide and Breast Cancer Research
+[a #bc] Triptorelin Peptide and Breast Cancer Research
+[li] Triptorelin and Fertility Preservation in Chemotherapy and Reproductive Disorders
+[a #fp] Triptorelin and Fertility Preservation in Chemotherapy and Reproductive Disorders
+[li] Triptorelin Peptide and Prostate Cancer, Urologic Research
+[a #pc] Triptorelin Peptide and Prostate Cancer, Urologic Research
+[li] Triptorelin Peptide and Thymic Modulation
+[a #tm] Triptorelin Peptide and Thymic Modulation
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/triptorelin-gnrh-2mg/] 
+[img] Triptorelin (GnRH) (2mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Triptorelin-2mg-1-1.webp
+[h2] Scientific Research and Studies
+[h3] Triptorelin and Hormonal Upregulation, Endocrine Response
+[p] Research suggests that Triptorelin peptide may exert a biphasic effect on the hypothalamic pituitary gonadal (HPG) axis. Under certain experimental conditions, a single exposure to the peptide has been associated with a transient surge in gonadotropin secretion. This effect may result from Triptorelin peptide binding to GnRH receptors on the pituitary, which may potentially stimulate the release of luteinizing hormone (LH) and follicle-stimulating hormone (FSH). The subsequent increase in LH may, in turn, promote androgen synthesis.[4]
+[p] Some researchers have hypothesized that this phenomenon may involve the reactivation of previously suppressed signaling pathways. For instance, exposure to androgenic anabolic agents has been reported to impair pituitary regulation, resulting in hypogonadotropic hypogonadism characterized by decreased LH secretion, reduced endogenous testosterone production, and impaired spermatogenesis. Triptorelin-induced receptor activation may, in such contexts, serve as a temporary reset of the HPG axis, potentially restoring gonadotropin release and stimulating downstream steroidogenesis.
+[p] Studies also suggest that the timing and duration of Triptorelin peptide exposure may significantly influence its action. Early in prolonged introduction, Triptorelin peptide is often reported in studies to induce an initial testosterone increase, often referred to as a “testosterone flare.” This transient elevation is followed by a progressive suppression of hormone release with sustained exposure, consistent with receptor desensitization and downregulation. Such findings suggest that Triptorelin’s endocrine impact may vary depending on exposure intervals and duration, with short-term stimulation contrasting with long-term suppression.
+[p] While experimental data provide insights into these mechanisms, the precise biological processes underlying the observed hormonal upregulation remain complex. Variables such as receptor sensitivity, prior endocrine status, and timing of exposure may all contribute to the variability in outcomes. Current research continues to explore these dynamics to better understand Triptorelin’s potential in modulating gonadotropin signaling and steroidogenesis.
+[h3] Triptorelin Peptide and Breast Cancer Research
+[p] Hormone suppression remains a central strategy in the management of hormone receptor-positive breast cancer. Selective estrogen receptor modulators (SERMs), such as tamoxifen, have been widely studied and utilized in timelines of prevention onwards. Research data suggests that SERMs may reduce recurrence risk in postmenopausal and in premenopausal female experimental models.
+[p] Triptorelin peptide has been evaluated as a research candidate in this context due to its potential to modulate gonadotropin signaling and suppress ovarian steroidogenesis.
+[p] Recent phase III clinical investigations[5] have suggested that Triptorelin peptide, when introduced in combination with agents such as zoledronic acid or letrozole, may improve disease-free survival outcomes in premenopausal subjects compared with SERMs alone. Additional studies[6] suggest that combining Triptorelin peptide with control compounds in early-stage breast cancer may potentially enhance disease control and extend survival, noted by the scientists particularly in subjects classified as high-risk following chemotherapy.
+[p] These findings suggest that Triptorelin peptide, along with a combination of other suitable agents, are “valid option(s) for … endocrine-responsive, early-stage breast cancer [in subjects] at sufficiently high risk of relapse to warrant receiving chemotherapy and who remain premenopausal thereafter.”[6] Ongoing research continues to evaluate its potential in extending action and addressing the limitations of current endocrine regimens.
+[h3] Triptorelin and Fertility Preservation in Chemotherapy and Reproductive Disorders
+[p] Cytotoxic chemotherapy is frequently associated with gonadotoxicity, leading to premature ovarian insufficiency and infertility.
+[p] Clinical research suggests that Triptorelin peptide exposure during chemotherapy may mitigate these effects. One controlled trial[7] reported a significant reduction in the onset of premature menopause, with a substantial proportion of participants maintaining fertility following chemotherapies. These findings support the hypothesis that Triptorelin peptide may preserve ovarian function under conditions of cytotoxic stress.
+[p] Beyond oncology, Triptorelin peptide has also been investigated in reproductive pathologies such as adenomyosis and endometriosis, where it appears to exert favorable potential on fertility outcomes. Research[8] reports that Triptorelin peptide may enhance spontaneous pregnancy rates in females with adenomyosis, while also potentially improving disease-specific symptoms. In endometriosis, studies suggest that the peptide may possibly reduce pelvic pain and decrease the volume of endometriotic nodules. This suppression of ectopic endometrial activity has been proposed as a potential for studies aiming to explore outcomes in surgical management.
+[p] Clinical observations further suggest that pre-surgical Triptorelin peptide exposure may reduce intraoperative bleeding and improve laparoscopic recovery in models of endometriosis.[10] Trials in colorectal endometriosis reportedly suggest significant symptom improvement, with more than 50% of subjects exhibiting pain reduction and experiencing decreased diarrhea over a three-month period. Triptorelin peptide may prove to be a valuable tool for study in disease-modifying agents that may positively support fertility.
+[h3] Triptorelin Peptide and Prostate Cancer, Urologic Research
+[p] Prostate cancer appears to be among the most extensively studied contexts for Triptorelin, with the peptide classified as a gonadotropin-releasing hormone (GnRH) agonist, potentially capable of suppressing androgen synthesis. In hormone-sensitive prostate cancer, the possible suppression of testosterone through Triptorelin peptide has been associated with reduced tumor progression and improvements in long-term survival. Research[10] suggests that mortality rates may decline substantially with endocrine modulation.
+[p] Emerging investigations have evaluated Triptorelin peptide in combination with other modalities. Studies comparing its exposure alongside radiation therapy[11] suggest that outcomes may approximate those of total androgen blockade, while potentially mitigating the adverse action often associated with more aggressive endocrine suppression.
+[p] Beyond tumor suppression, Triptorelin peptide also appears to improve lower urinary tract interactions. Clinical trials have reported a reduction in the prevalence of severe urinary symptoms “in [subjects] with locally advanced or metastatic prostate cancer treated with Triptorelin peptide in routine practice.”[12] Such data suggests that Triptorelin may not only serve as a central component of prostate cancer studies but may also contribute to symptomatic relief in urologic disorders such as benign prostatic hyperplasia.
+[h3] Triptorelin Peptide and Thymic Modulation
+[p] Based on the preclinical studies, it is suggested that peptides structurally related to Triptorelin, such as GnRH analogs, may interact with specific binding sites within thymic compartments, potentially influencing immune-related processes.[13] It is possible that with the natural decline of LHRH-binding sites, together with the multifaceted nature of endocrine-immune signaling, the potential pathways through which Triptorelin peptide may influence thymic activity remain unclear.
+[p] Research in rodent models suggests that LHRH may directly impact thymic structure and cellular activity, with aging correlating with a reduction in thymic LHRH receptor availability and a concurrent decline in thymic mass. This age-related thymic involution may contribute to decreased proliferative capacity of T-lymphocyte precursors and broader immunological decline, possibly affecting susceptibility to infections. Exposure to LHRH agonists, including Triptorelin peptide, has been associated with potential enhancement of thymic proliferation and partial mitigation of cellular age-associated structural and functional changes.
+[p] These research observations suggest that Triptorelin peptide may influence immune system performance at both cellular and molecular levels, although delineating local thymic action from systemic neuroendocrine influences remains challenging. Consequently, the peptide’s role in modulating immune function remains a subject of ongoing investigation.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] National Center for Biotechnology Information. PubChem Compound Summary for CID 25074470, Triptorelin peptide. https://pubchem.ncbi.nlm.nih.gov/compound/Triptorelin
+[a https://pubchem.ncbi.nlm.nih.gov/compound/Triptorelin] https://pubchem.ncbi.nlm.nih.gov/compound/Triptorelin
+[li] Tsutsumi, Rie, and Nicholas J G Webster. “GnRH pulsatility, the pituitary response and reproductive dysfunction.” Endocrine journal vol. 56,6 (2009): 729-37. doi:10.1507/endocrj.k09e-185. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4307809/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4307809/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4307809/
+[li] Lepor, Herbert. “Comparison of single-agent androgen suppression for advanced prostate cancer.” Reviews in urology vol. 7 Suppl 5 (2005): S3-S12. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1477619/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1477619/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1477619/
+[li] Pirola I, Cappelli C, Delbarba A, Scalvini T, Agosti B, Assanelli D, Bonetti A, Castellano M. Anabolic steroids purchased on the Internet as a cause of prolonged hypogonadotropic hypogonadism. Fertil Steril. 2010 Nov;94(6):2331.e1-3. doi: 10.1016/j.fertnstert.2010.03.042. Epub 2010 Apr 22. PMID: 20416868. https://pubmed.ncbi.nlm.nih.gov/20416868/
+[a https://pubmed.ncbi.nlm.nih.gov/20416868/] https://pubmed.ncbi.nlm.nih.gov/20416868/
+[li] Adjuvant zoledronic acid and letrozole plus ovarian function suppression in premenopausal breast cancer: HOBOE phase 3 randomised trial, Perrone, Francesco et al, European Journal of Cancer, JF- European Journal of Cancer, 178- 186, VL – 118, SN – 0959-8049, doi: 10.1016/j.ejca.2019.05.004, https://doi.org/10.1016/j.ejca.2019.05.004
+[a https://doi.org/10.1016/j.ejca.2019.05.004] https://doi.org/10.1016/j.ejca.2019.05.004
+[li] Frampton JE. Triptorelin Peptide: A Review of its Use as an Adjuvant Anticancer Therapy in Early Breast Cancer. Drugs. 2017 Dec;77(18):2037-2048. doi: 10.1007/s40265-017-0849-3. PMID: 29177573. https://pubmed.ncbi.nlm.nih.gov/29177573/
+[a https://pubmed.ncbi.nlm.nih.gov/29177573/] https://pubmed.ncbi.nlm.nih.gov/29177573/
+[li] Del Mastro L, Boni L, Michelotti A, Gamucci T, Olmeo N, Gori S, Giordano M, Garrone O, Pronzato P, Bighin C, Levaggi A, Giraudi S, Cresti N, Magnolfi E, Scotto T, Vecchio C, Venturini M. Effect of the gonadotropin-releasing hormone analogue Triptorelin peptide on the occurrence of chemotherapy-induced early menopause in premenopausal women with breast cancer: a randomized trial. JAMA. 2011 Jul 20;306(3):269-76. doi: 10.1001/jama.2011.991. PMID: 21771987. https://pubmed.ncbi.nlm.nih.gov/21771987/
+[a https://pubmed.ncbi.nlm.nih.gov/21771987/] https://pubmed.ncbi.nlm.nih.gov/21771987/
+[li] Xie M, Yu H, Zhang X, Wang W, Ren Y. Elasticity of adenomyosis is increased after GnRHa therapy and is associated with spontaneous pregnancy in infertile patents. J Gynecol Obstet Hum Reprod. 2019 Dec;48(10):849-853. doi: 10.1016/j.jogoh.2019.05.003. Epub 2019 May 5. PMID: 31067498. https://pubmed.ncbi.nlm.nih.gov/31067498/
+[a https://pubmed.ncbi.nlm.nih.gov/31067498/] https://pubmed.ncbi.nlm.nih.gov/31067498/
+[li] Leone Roberti Maggiore U, Scala C, Remorgida V, Venturini PL, Del Deo F, Torella M, Colacurci N, Salvatore S, Ferrari S, Papaleo E, Candiani M, Ferrero S. Triptorelin peptide for the treatment of endometriosis. Expert Opin Pharmacother. 2014 Jun;15(8):1153-79. doi: 10.1517/14656566.2014.916279. PMID: 24832495. https://pubmed.ncbi.nlm.nih.gov/24832495/
+[a https://pubmed.ncbi.nlm.nih.gov/24832495/] https://pubmed.ncbi.nlm.nih.gov/24832495/
+[li] Merseburger AS, Hupe MC. An Update on Triptorelin: Current Thinking on Androgen Deprivation Therapy for Prostate Cancer. Adv Ther. 2016 Jul;33(7):1072-93. doi: 10.1007/s12325-016-0351-4. Epub 2016 May 31. PMID: 27246172; PMCID: PMC4939158. https://pubmed.ncbi.nlm.nih.gov/27246172/
+[a https://pubmed.ncbi.nlm.nih.gov/27246172/] https://pubmed.ncbi.nlm.nih.gov/27246172/
+[li] Marvaso G, Viola A, Fodor C, Jereczek-Fossa BA. Radiotherapy Plus Total Androgen Block Versus Radiotherapy Plus LHRH Analog Monotherapy for Non-metastatic Prostate Cancer. Anticancer Res. 2018 May;38(5):3139-3143. doi: 10.21873/anticanres.12576. PMID: 29715154. https://pubmed.ncbi.nlm.nih.gov/29715154/
+[a https://pubmed.ncbi.nlm.nih.gov/29715154/] https://pubmed.ncbi.nlm.nih.gov/29715154/
+[li] Hachi K, Boualga K, Chettibi K, Harouni M, Ounnoughene M, Bekkat-Berkani N, Maisonobe P, Yousfi MJ. Étude algérienne des effets bénéfiques de la triptoréline sur les symptômes du bas appareil urinaire chez les patients atteints d’un cancer de la prostate non localisé [Study of the beneficial effects of Triptorelin peptide on lower urinary tract symptoms in Algeria in patients with non-localized prostate cancer]. Prog Urol. 2018 Jun;28(8-9):450-459. French. doi: 10.1016/j.purol.2018.03.014. Epub 2018 May 20. PMID: 29789236. https://pubmed.ncbi.nlm.nih.gov/29789236/
+[a https://pubmed.ncbi.nlm.nih.gov/29789236/] https://pubmed.ncbi.nlm.nih.gov/29789236/
+[li] Marchetti B, Guarcello V, Morale MC, Bartoloni G, Raiti F, Palumbo G Jr, Farinella Z, Cordaro S, Scapagnini U. Luteinizing hormone-releasing hormone (LHRH) agonist restoration of age-associated decline of thymus weight, thymic LHRH receptors, and thymocyte proliferative capacity. Endocrinology. 1989 Aug;125(2):1037-45. doi: 10.1210/endo-125-2-1037. PMID: 2546733. https://pubmed.ncbi.nlm.nih.gov/2546733/
+[a https://pubmed.ncbi.nlm.nih.gov/2546733/] https://pubmed.ncbi.nlm.nih.gov/2546733/
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

@@ -1,0 +1,137 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/04/Mod-GRF-1-29.webp] 
+[img] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Mod-GRF-1-29-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/04/COA_CJC-1295_noDAC_3141040_BP_page-0001.webp] 
+[img] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2020/04/COA_CJC-1295_noDAC_3141040_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2020/04/COA_CJC-1295_noDAC_3141040_BP_page-0002.webp] 
+[img] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2020/04/COA_CJC-1295_noDAC_3141040_BP_page-0002.webp
+[h1] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg)
+[p] $46.00
+[p] Mod GRF 1-29 (CJC-1295 NO DAC) peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_817 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $43.70
+[input name=wccs_tier_select_817 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $41.40
+[label] Mod GRF 1-29 (CJC-1295 NO DAC) (5mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/04/COA_CJC-1295_noDAC_3141040_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Modified GRF (1-29) Peptide
+[p] Modified GRF (1-29), or Mod GRF (1-29), is a synthetic peptide that is a modified fragment of the endogenously occurring growth hormone-releasing hormone (GHRH). It was first developed in the 1980s when studies indicated that the first 29 amino acids of GHRH may possess all of the biological potential associated with the full-length 44 GHRH molecule.[1] This discovery led to the development of a truncated version called GRF (1-29), also referred to as Sermorelin by researchers. Mod GRF (1-29) introduces specific modifications to support the peptide's stability and efficacy. Four amino acids in the sequence are substituted at positions 2, 8, 15, and 27.[2] Here is what some researchers believe about these modifications: - Position 2: The amino acid alanine is replaced with its mirror image, D-alanine. This substitution aims to increase resistance to enzymatic degradation, thereby improving the peptide's stability. - Position 8: Asparagine is substituted with lysine, an amino acid with a positively charged side chain. This change may support the peptide's binding affinity to GHRH receptors, potentially increasing its biological activity. - Position 15: Histidine is replaced with D-phenylalanine, another D-amino acid. This modification is intended to protect the peptide from further enzymatic breakdown. - Position 27: Cysteine is substituted with N-methylglycine, also referred to as sarcosine. This alteration may extend the peptide's half-life by mitigating enzymatic cleavage. These modifications collectively aim to produce a peptide with increased stability, a longer half-life, and better-supported interaction with GHRH receptors compared to the original GRF (1-29). Modified GRF (1-29) is structurally identical to CJC-1295 without DAC. The DAC in CJC-1295 serves to modify its pharmacokinetic properties.
+[a https://biotechpeptides.com/product/sermorelin-5mg/] Sermorelin
+[h3] Specifications
+[p] Molecular Weight: 3367.95 g/mol
+[p] Molecular Formula: C152H252N44O42
+[p] Sequence: H-Tyr-D-Ala-Asp-Ala-Ile-Phe-Thr-Gln-Ser-Tyr-Arg-Lys-Val-Leu-Ala-Gln-Leu-Ser-Ala-Arg-Lys-Leu-Leu-Gln-Asp-Ile-Leu-Ser-Arg-NH2
+[p] Synonyms: Mod GRF (1-29)
+[h3] Mod GRF (1-29) Research
+[p] Modified GRF 1-29 and Somatotroph Cells Modified GRF (1-29) is believed to stimulate the release of growth hormone by binding to specific receptors referred to as growth hormone-releasing hormone (GHRH) receptors on somatotroph cells in the anterior pituitary gland. These somatotroph cells are posited to be responsible for producing and secreting growth hormone. Research suggests that when Modified GRF (1-29) attaches to these receptors, it may cause the receptors to change in shape, which initiates a series of intracellular signaling events.[3] For example, this receptor activation may lead to the stimulation of G-proteins located on the inner surface of the cell membrane. Activated G-proteins may then promote the production of secondary messenger molecules within the cell, such as cyclic adenosine monophosphate (cAMP) and inositol triphosphate (IP3). An increase in cAMP levels may activate protein kinases—enzymes that add phosphate groups to specific target proteins. These phosphorylated proteins may include transcription factors that move into the cell nucleus and influence the transcription of genes involved in the synthesis and secretion of growth hormone. Consequently, somatotroph cells accumulate vesicles containing growth hormone molecules. As a result of these molecular events, the vesicles containing growth hormone may fuse with the cell membrane of the somatotroph cells, which allows the release of the hormone.
+[p] Modified GRF 1-29 and Growth Hormone Synthesis Scientific investigations have focused on partially modified versions of Mod GRF 1-29 and its potential magnitude of the influence on growth hormone synthesis. In one notable study, researchers observed a significant increase in growth hormone secretion by somatotroph cells within the anterior pituitary gland after exposure to the Mod GRF 1-29 analog. Specifically, there was an approximate 70% to 107% rise in the average amount of growth hormone released over 12 hours.[4] This substantial support suggests that the modified peptides have a pronounced potential to stimulate growth hormone production. Despite these findings, it remains unclear whether the heightened levels of growth hormone are maintained over time or if they represent a transient spike. Additional research has provided data that Mod GRF 1-29 may elevate the total RNA content in the pituitary gland and increase the levels of growth hormone messenger RNA (mRNA).[5] This suggests a possible proliferation of somatotroph cells. The researchers proposed that the peptide-induced an increase in both total pituitary RNA and growth hormone mRNA levels, implying that somatotroph cell numbers had expanded.
+[p] Modified GRF 1-29 and Anabolic Potential By promoting potential growth hormone secretion, Mod GRF 1-29 may activate anabolic signaling pathways in experimental models. Studies have suggested that the exposure of research models to Mod GRF 1-29 in laboratory settings might lead to increased levels of insulin-like growth factor 1 (IGF-1), a critical mediator of growth hormone’s anabolic potential.[4] IGF-1 is mainly produced in liver cells but is also synthesized in various other tissues under the influence of growth hormone. Research indicates that IGF-1 levels may rise by approximately 28% following administration of Mod GRF 1-29. The elevation in IGF-1 is associated with increased thickness of dermal tissue, potentially due to the anabolic actions of growth hormone and IGF-1 on collagen-producing cells like fibroblasts. Additionally, some data supports scientists' observations of significant hypertrophy of muscular tissue in laboratory settings. Some of these trials resulted in an average gain of lean muscular tissue mass of about 2.77 lbs. These observations suggest that Mod GRF 1-29 may support anabolic processes in experimental settings.
+[p] Modified GRF 1-29 and Cardiac Function Research in rodent models has suggested that GHRH analogs similar to Mod GRF 1-29 may support the capacity of the heart to pump blood, even following events that are typically believed to contribute to cardiac dysfunction.[6] More specifically, the researchers comment that “Various studies [suggest] that GHRH agonists promote repair of cardiac tissue, producing improvement of ejection fraction and reduction of infarct size in rats, reduction of infarct scar in swine, and attenuation of cardiac hypertrophy in mice.” These positive actions are believed to occur through activation of the GHRH receptor. As such, these actions may be inhibited by substances that block this receptor. The protective mechanisms may involve the stimulation of intracellular signaling pathways, including the adenylyl cyclase/cyclic AMP/protein kinase A (PKA) pathway, as well as the activation of MAPK ERK1/2 and phosphatidylinositol 3-kinase/Akt pathways. Additionally, GHRH analogs may counteract artificially induced increases in pro-apoptotic signaling within these cells. Research also suggests that GHRH analogs may oppose experimentally induced hypertrophy of cardiomyocytes, whether they are adult heart cells or derived from induced pluripotent stem cells. Specifically, analogs may inhibit the expression of genes associated with hypertrophy and modulate related signaling pathways. This includes supporting signaling through Gαs/cAMP/PKA and promoting the phosphorylation of phospholamban at the serine 16 position/ Researchers believe this action may have anti-hypertrophic potential. Importantly, the anti-hypertrophic properties of GHRH analogs involve blocking the expression of the exchange protein directly activated by cAMP1 (Epac1) induced by phenylephrine. This protein plays a significant role in the development of hypertrophy. Despite these findings, along with other GHRH analogs, it is currently unclear whether Mod GRF 1-29 shares this cardioprotective and anti-hypertrophic potential.
+[p] Modified GRF 1-29 and Thyroid, Growth Hormone Malfunctioning of the thyroid gland is often associated with concomitant issues in growth hormone release. Research studies have suggested that research models of hyperthyroidism under the influence of thyroid replacement hormone may indicate stronger reactions to GRF, providing a possible link between thyroid hormone and growth hormone.[7] The scientists commented the following: “These data indicate that thyroid hormone […] enhances the responsiveness of the somatotroph to GRF 1-29.”
+[p] Modified GRF 1-29 and the Intestine Research in monkeys suggested that Modified GRF 1-29 may bind with vasoactive intestinal peptide (VIP) receptors to potentially support bowel motility. Better-supported bowel movement is considered to be crucial in inflammatory bowel diseases. The peptide appears to interact with VIPC1, present on the smooth muscle of the reproductive, gastrointestinal, and urinary systems.[8][9] These conditions may potentially trigger a great deal of morbidity.
+[a https://biotechpeptides.com/product/vip-6mg/] vasoactive intestinal peptide (VIP)
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Cen, L. P., Ng, T. K., Chu, W. K., & Pang, C. P. (2022). Growth hormone-releasing hormone receptor signaling in experimental ocular inflammation and neuroprotection. Neural regeneration research, 17(12), 2643–2648. https://doi.org/10.4103/1673-5374.336135
+[a https://doi.org/10.4103/1673-5374.336135] https://doi.org/10.4103/1673-5374.336135
+[li] Jetté, L., Léger, R., Thibaudeau, K., Benquet, C., Robitaille, M., Pellerin, I., Paradis, V., van Wyk, P., Pham, K., & Bridon, D. P. (2005). Human growth hormone-releasing factor (hGRF)1-29-albumin bioconjugates activate the GRF receptor on the anterior pituitary in rats: identification of CJC-1295 as a long-lasting GRF analog. Endocrinology, 146(7), 3052–3058. https://doi.org/10.1210/en.2004-1286
+[a https://doi.org/10.1210/en.2004-1286] https://doi.org/10.1210/en.2004-1286
+[li] Zhou, F., Zhang, H., Cong, Z., Zhao, L. H., Zhou, Q., Mao, C., Cheng, X., Shen, D. D., Cai, X., Ma, C., Wang, Y., Dai, A., Zhou, Y., Sun, W., Zhao, F., Zhao, S., Jiang, H., Jiang, Y., Yang, D., Eric Xu, H., … Wang, M. W. (2020). Structural basis for activation of the growth hormone-releasing hormone receptor. Nature communications, 11(1), 5205. https://doi.org/10.1038/s41467-020-18945-0
+[a https://doi.org/10.1038/s41467-020-18945-0] https://doi.org/10.1038/s41467-020-18945-0
+[li] Khorram, O., Laughlin, G. A., & Yen, S. S. (1997). Endocrine and metabolic effects of long-term administration of [Nle27]growth hormone-releasing hormone-(1-29)-NH2 in age-advanced men and women. The Journal of clinical endocrinology and metabolism, 82(5), 1472–1479. https://doi.org/10.1210/jcem.82.5.3943
+[a https://doi.org/10.1210/jcem.82.5.3943] https://doi.org/10.1210/jcem.82.5.3943
+[li] Alba M, Fintini D, Sagazio A, Lawrence B, Castaigne JP, Frohman LA, Salvatori R. Once-daily administration of CJC-1295, a long-acting growth hormone-releasing hormone (GHRH) analog, normalizes growth in the GHRH knockout mouse. Am J Physiol Endocrinol Metab. 2006 Dec;291(6):E1290-4. doi: 10.1152/ajpendo.00201.2006. Epub 2006 Jul 5. PMID: 16822960.
+[a https://doi.org/10.1152/ajpendo.00201.2006] doi: 10.1152/ajpendo.00201.2006
+[li] Schally, A. V., Zhang, X., Cai, R., Hare, J. M., Granata, R., & Bartoli, M. (2019). Actions and Potential Therapeutic Applications of Growth Hormone-Releasing Hormone Agonists. Endocrinology, 160(7), 1600–1612. https://doi.org/10.1210/en.2019-00111
+[a https://doi.org/10.1210/en.2019-00111] https://doi.org/10.1210/en.2019-00111
+[li] Valcavi, R., Jordan, V., Dieguez, C., John, R., Manicardi, E., Portioli, I., Rodriguez-Arnao, M. D., Gomez-Pan, A., Hall, R., & Scanlon, M. F. (1986). Growth hormone responses to GRF 1-29 in patients with primary hypothyroidism before and during replacement therapy with thyroxine. Clinical endocrinology, 24(6), 693–698. https://doi.org/10.1111/j.1365-2265.1986.tb01666.x
+[a https://doi.org/10.1111/j.1365-2265.1986.tb01666.x] https://doi.org/10.1111/j.1365-2265.1986.tb01666.x
+[li] Ito, T., Igarashi, H., Pradhan, T. K., Hou, W., Mantey, S. A., Taylor, J. E., Murphy, W. A., Coy, D. H., & Jensen, R. T. (2001). GI side-effects of a possible therapeutic GRF analog in monkeys are likely due to VIP receptor agonist activity. Peptides, 22(7), 1139–1151. https://doi.org/10.1016/s0196-9781(01)00436-3
+[a https://doi.org/10.1016/s0196-9781(01)00436-3] https://doi.org/10.1016/s0196-9781(01)00436-3
+[li] Waelbroeck, M., Robberecht, P., Coy, D. H., Camus, J. C., De Neef, P., & Christophe, J. (1985). Interaction of growth hormone-releasing factor (GRF) and 14 GRF analogs with vasoactive intestinal peptide (VIP) receptors of rat pancreas. Discovery of (N-Ac-Tyr1,D-Phe2)-GRF(1-29)-NH2 as a VIP antagonist. Endocrinology, 116(6), 2643–2649. https://doi.org/10.1210/endo-116-6-2643
+[a https://doi.org/10.1210/endo-116-6-2643] https://doi.org/10.1210/endo-116-6-2643
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Sermorelin (5mg) $43.00
+[a https://biotechpeptides.com/product/sermorelin-5mg/] Sermorelin (5mg) $43.00
+[img] Sermorelin (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Sermorelin-1-238x317.webp
+[h2] Sermorelin (5mg)
+[li] Sale! Tesamorelin (5mg & 10mg) $38.00 – $92.00Price range: $38.00 through $92.00 $38.00 – $73.00Price range: $38.00 through $73.00
+[a https://biotechpeptides.com/product/tesamorelin/] Sale! Tesamorelin (5mg & 10mg) $38.00 – $92.00Price range: $38.00 through $92.00 $38.00 – $73.00Price range: $38.00 through $73.00
+[img] Tesamorelin (5mg & 10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/04/Tesamorelin-1-238x317.webp
+[h2] Tesamorelin (5mg & 10mg)
+[li] CJC-1295 DAC (5mg) $52.00
+[a https://biotechpeptides.com/product/cjc-1295-dac-5mg/] CJC-1295 DAC (5mg) $52.00
+[img] CJC-1295 DAC (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/CJC-1295-DAC-1-238x317.webp
+[h2] CJC-1295 DAC (5mg)
+[li] Sale! Ipamorelin (5mg) $53.00 Original price was: $53.00.$46.00Current price is: $46.00.
+[a https://biotechpeptides.com/product/ipamorelin-5mg/] Sale! Ipamorelin (5mg) $53.00 Original price was: $53.00.$46.00Current price is: $46.00.
+[img] Ipamorelin (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Ipamorelin-1-238x317.webp
+[h2] Ipamorelin (5mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

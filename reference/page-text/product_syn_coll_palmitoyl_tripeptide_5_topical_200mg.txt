@@ -1,0 +1,131 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/Syn-Coll-1.webp] 
+[img] Syn-Coll (Palmitoyl Tripeptide-5) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Syn-Coll-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_SYN-COLL_3140087_20260721_BTP_page-0001.webp] 
+[img] Syn-Coll (Palmitoyl Tripeptide-5) (200mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_SYN-COLL_3140087_20260721_BTP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_SYN-COLL_3140087_20260721_BTP_page-0002.webp] 
+[img] Syn-Coll (Palmitoyl Tripeptide-5) (200mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_SYN-COLL_3140087_20260721_BTP_page-0002.webp
+[h1] Syn-Coll (Palmitoyl Tripeptide-5) (200mg)
+[p] $217.00
+[p] Syn-Coll (Palmitoyl Tripeptide-5) peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_6041 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $206.15
+[input name=wccs_tier_select_6041 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $195.30
+[label] Syn-Coll (Palmitoyl Tripeptide-5) (200mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_SYN-COLL_3140087_20260721_BTP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Syn-Coll (Palmitoyl Tripeptide-5) Peptide
+[p] Syn-Coll, otherwise known as Palmitoyl Tripeptide-5 or Tripeptide-5, is a synthetic peptide that was developed to enhance the production of type I collagen. It appears to repair damages caused by photo-aging, and Syn-Coll has also been suggested to support the regeneration of skin protein production, such as elastin or collagen. Syn-Coll (Palmitoyl Tripeptide-5) is the synthetic equivalent of Thrombospondin 1 (TSP-1). TSP-1 is an extracellular matrix protein and is found in the skin near collagen and elastin. Syn-Coll appears to mimic the functions of TSP-1, possibly aiding in the prevention of collagen degeneration via stimulating the release of TGF-𝛃 induced by TSP-1.[1] TGF-β is an essential growth factor potentially significant in preserving skin integrity and facilitating the development of skin structures, mainly through the promotion of collagen synthesis. Additionally, Syn-Coll, a synthetic peptide, has been the subject of extensive research in animal models and laboratory experiments. The findings tentatively indicate that Syn-Coll might enhance collagen production and potentially inhibit its degradation. The inhibition of collagen breakdown by Syn-Coll is possibly due to its ability to suppress the activity of matrix metalloproteinases (MMPs), including MMP1 and MMP3, which are enzymes studied for their role in the degradation of collagen in the skin. The peptide is palmitoylated, to potentially extend its bioavailability in experiments involving different skin tissue models.
+[h3] Specifications
+[p] Sequence: Palmitoyl-Lys-Val-Lys
+[p] Molecular Formula: C33H65N5O5
+[p] Molecular Weight: 611.9 g/mol
+[p] PubChem: CID 11950477
+[p] Synonyms: Palmitoyl Tripeptide-5 or Tripeptide-5
+[h3] Syn-Coll Research
+[p] Syn-Coll (Palmitoyl Tripeptide-5) and Potential Mechanisms The potential of Syn-Coll (Palmitoyl Tripeptide-5) to promote Type I and Type III collagen formation is still under review. Type I collagen is found in bones, skin, and muscle, and Type II collagen is found in the lungs, skin, and vascular system. Palmitoyl Tripeptide-3 has been suggested in experimental models to increase skin strength, promote wound healing, increase vascular supply to the skin, and improve skin moisture by stimulating collagen formation. Syn-Coll (Palmitoyl Tripeptide-5) is the synthetic counterpart of TSP-1, developed to increase TGF-𝛃 activity.[2] TGF-𝛃 induces an increase in the amount of type I and type III collagen generated by dermal fibroblasts. The researchers observed firmer, tightened, smoother, and brightened skin tissues following experimentation. Further studies based on TGF-𝛃 experimentation suggest that Syn-Coll may have the ability to boost collagen formation by 2-3 times over baseline levels. This impact of TGF-𝛃 which Syn-Coll activates appears to last at least 72 hours before it starts to fade.[3] The researchers note that “These effects were associated with a 2-3-fold increase in the steady-state amounts of types I and III collagen mRNAs and a 5-8-fold increase in the amounts of fibronectin mRNAs as determined by dot-blot hybridization with specific cloned cDNA probes.” Furthermore, TSP-1 is considered to promote wound healing and trigger the postnatal growth of skin structures, according to laboratory research employing dermal fibroblasts generated in tissue culture and scientific investigations in animal models.[4] The researchers also note that “A TSP-dependent mechanism of activation may be locally important during wound healing and in post-natal development of epithelial structures.” In one study, Syn-Coll was reported to deactivate matrix metalloproteinase-1 and 3 (MMP1 and MMP3) — enzymes that actively limit the formation of type I and type III collagen. These enzymes may recycle collagen as it ages, but in inflammatory situations, it may be drastically enhanced.[5] Apart from its suggested impact on collagen production and breakdown, researchers hypothesize that Syn-Coll might potentially influence wrinkle reduction through additional mechanisms. These mechanisms might include enhancing the integrity of the skin barrier, which might possibly prevent transepidermal water loss (TEWL).[6] By minimizing water evaporation from the skin's surface, this might theoretically help sustain the skin's hydration levels. Additionally, Syn-Coll is believed to function as a humectant, potentially aiding in the absorption and retention of moisture within the skin. It is also suggested that Syn-Coll might increase the lipid content on the skin's surface and act as an emollient, which might provide a degree of occlusion, lubrication, and moisturization.
+[p] Syn-Coll (Palmitoyl Tripeptide-5) and Potential Modifications A study synthesized Palm-KVK-AA by coupling Syn-Coll with an ascorbic acid (vitamin C) derivative, aiming to improve the stability and bioavailability of the antioxidant L-ascorbic acid, which is otherwise unstable and poorly penetrative.[7] The experimentation results suggested that Palm-KVK-AA stimulated type I procollagen synthesis and reduced melanin content. More specifically, the peptide might possibly promote collagen synthesis in dermal fibroblasts and reduce melanin synthesis in B16F1 cells. Collagen synthesis, considered crucial for maintaining skin's structural integrity and elasticity, is often compromised due to UV exposure which inhibits type I procollagen production through the transforming growth factor-β1/Smad and mitogen-activated protein kinase signaling pathways. This degradation of type I collagen is posited to contribute significantly to wrinkle formation in photo-aged skin. The study suggested that Palm-KVK-AA may lead to an increase in type I procollagen secretion in dermal fibroblasts. This implies that Palm-KVK-AA might potentiate collagen production, thereby potentially improving skin elasticity and reducing wrinkle formation. In terms of melanin production, UV exposure typically induces an increase in melanin synthesis, leading to hyperpigmentation and conditions such as melasma. Melanin synthesis in melanocytes, followed by transfer to keratinocytes, is a key process in skin pigmentation. Palm-KVK-AA, when tested on B16F1 cells, indicated a reduction in melanin content by approximately 20% compared to the alpha-melanocyte stimulating hormone (α-MSH). This suggests that Palm-KVK-AA might inhibit melanin synthesis, potentially preventing hyperpigmentation and contributing to a depigmentation action.
+[a https://pubmed.ncbi.nlm.nih.gov/28303328/] [7]
+[p] Syn-Coll (Palmitoyl Tripeptide-5) and Wrinkle Reduction Syn-Coll (Palmitoyl Tripeptide-5) has been suggested by researchers to contribute to a reduction in wrinkle depth and may aid preventing toxins from entering the skin barrier. This process may add an additional safeguard from the harmful impacts of free radicals buildup. Studies suggest that Syn-Coll may prevent collagen breakdown by suppressing MMP1 and MMP3 activity. These findings imply that Syn-Coll may promote type I and type III collagen formation and inhibit collagen breakdown, by up to 119%. Syn-Coll is reported by researchers to be approximately 3.5 times more impactful than control processes in wrinkle depth reduction. Syn-Coll (Palmitoyl Tripeptide-5), according to scientists, may be up to 60% more powerful than Palmitoyl Pentapeptide.[8] Additional research indicates that Syn-Coll, a synthetic tripeptide, might potentially diminish wrinkle visibility. For instance, in a controlled trial, Syn-Coll was tested against a standard control compound under laboratory conditions.9] The researchers observed that the formulation exhibited a reduction in wrinkles in a manner implying that higher exposure might lead to more pronounced results. They inferred that the peptide might be approximately 3.5 times more potent in minimizing wrinkle appearance compared to the control compound. Another 84-day long experiment has also suggested that Syn-Coll may exert better anti-wrinkle actions and reduce skin roughness by 12%, which was significantly greater than the control.[10]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Thorsen, M., Yde, B., Pedersen, U., Clauden, K., & Lawesson, S. O. (1983). Studies on amino acids and peptides-V: Syntheses of endothionated melanostatin analogs. Tetrahedron, 39(20), 3429-3435.
+[li] Trookman, N. S., Rizer, R. L., Ford, R., Ho, E., & Gotz, V. (2009). Immediate and Long-term Clinical Benefits of a Treatment for Facial Lines and Wrinkles. The Journal of clinical and aesthetic dermatology, 2(3), 38–43.
+[li] Varga, J., Rosenbloom, J., & Jimenez, S. A. (1987). Transforming growth factor beta (TGF beta) causes a persistent increase in steady-state amounts of type I and type III collagen and fibronectin mRNAs in normal human dermal fibroblasts. The Biochemical journal, 247(3), 597–604. doi:10.1042/bj2470597.
+[a https://doi.org/10.1042/bj2470597] doi:10.1042/bj2470597
+[li] Murphy-Ullrich, J. E., & Poczatek, M. (2000). Activation of latent TGF-beta by thrombospondin-1: mechanisms and physiology. Cytokine & growth factor reviews, 11(1-2), 59–69.
+[li] Errante, F., Ledwoń, P., Latajka, R., Rovero, P., & Papini, A. M. (2020). Cosmeceutical Peptides in the Framework of Sustainable Wellness Economy. Frontiers in chemistry, 8, 572923. https://doi.org/10.3389/fchem.2020.572923
+[a https://doi.org/10.3389/fchem.2020.572923] https://doi.org/10.3389/fchem.2020.572923
+[li] Schneider, A. L. (2010). Evaluation of the penetration and efficacy of topical anti-aging compounds (Doctoral dissertation, Monash University).
+[li] Kim, H. M., An, H. S., Bae, J. S., Kim, J. Y., Choi, C. H., Kim, J. Y., Lim, J. H., Choi, J. H., Song, H., Moon, S. H., Park, Y. J., Chang, S. J., & Choi, S. Y. (2017). Effects of palmitoyl-KVK-L-ascorbic acid on skin wrinkles and pigmentation. Archives of dermatological research, 309(5), 397–402. https://doi.org/10.1007/s00403-017-1731-6
+[a https://doi.org/10.1007/s00403-017-1731-6] https://doi.org/10.1007/s00403-017-1731-6
+[li] Bucay, V. W., & Day, D. (2013). Adjunctive skin care of the brow and periorbital region. Clinics in plastic surgery, 40(1), 225–236. doi:10.1016/j.cps.2012.09.003.
+[a https://doi.org/10.1016/j.cps.2012.09.003] doi:10.1016/j.cps.2012.09.003
+[li] Schagen, S. K. (2017). Topical peptide treatments with effective anti-aging results. Cosmetics, 4(2), 16.
+[li] Gorouhi, F., & Maibach, H. I. (2009). Role of topical peptides in preventing or treating aged skin. International journal of cosmetic science, 31(5), 327–345. https://doi.org/10.1111/j.1468-2494.2009.00490.x
+[a https://doi.org/10.1111/j.1468-2494.2009.00490.x] https://doi.org/10.1111/j.1468-2494.2009.00490.x
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] AHK-Cu (200mg) $192.00
+[a https://biotechpeptides.com/product/ahk-cu-topical-200mg/] AHK-Cu (200mg) $192.00
+[img] AHK-Cu (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/AHK-Cu-1-238x317.webp
+[h2] AHK-Cu (200mg)
+[li] GHK-Cu (200mg) $186.00
+[a https://biotechpeptides.com/product/ghk-cu-topical-200mg/] GHK-Cu (200mg) $186.00
+[img] GHK-Cu (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/GHK-Cu-1-238x317.webp
+[h2] GHK-Cu (200mg)
+[li] Sale! Pal-AHK (200mg) $192.00 Original price was: $192.00.$180.00Current price is: $180.00.
+[a https://biotechpeptides.com/product/pal-ahk-topical-200mg/] Sale! Pal-AHK (200mg) $192.00 Original price was: $192.00.$180.00Current price is: $180.00.
+[img] Pal-AHK (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Pal-AHK-2-238x317.webp
+[h2] Pal-AHK (200mg)
+[li] Syn-AKE (200mg) $210.00
+[a https://biotechpeptides.com/product/syn-ake-topical-200mg/] Syn-AKE (200mg) $210.00
+[img] Syn-AKE (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/Syn-AKE-1-238x317.webp
+[h2] Syn-AKE (200mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

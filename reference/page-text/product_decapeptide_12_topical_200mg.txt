@@ -1,0 +1,125 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/Decapeptide-12-1.webp] 
+[img] Decapeptide-12 (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Decapeptide-12-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Decapeptide-12_3141021_BP_page-0001.webp] 
+[img] Decapeptide-12 (200mg) - Image 2 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Decapeptide-12_3141021_BP_page-0001.webp
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Decapeptide-12_3141021_BP_page-0002.webp] 
+[img] Decapeptide-12 (200mg) - Image 3 :: https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Decapeptide-12_3141021_BP_page-0002.webp
+[h1] Decapeptide-12 (200mg)
+[p] $239.00 Original price was: $239.00.$226.00Current price is: $226.00.
+[p] Decapeptide-12 peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_5988 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $214.70
+[input name=wccs_tier_select_5988 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $203.40
+[label] Decapeptide-12 (200mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/COA_Decapeptide-12_3141021_BP.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] Decapeptide-12 Peptide
+[p] Decapeptide-12 is an oligopeptide with proposed anti-tyrosinase activity, composed of twelve amino acids and exhibiting the sequence Try-Arg-Ser-Aar-Lysd-Tyr-Ser-Ser-Trp-Tyr. It is thought to function primarily to restrain Tyrosinase—the enzyme researchers believe is responsible for the excessive production of melanin, which may result in patchy pigmentation upon the epidermal layer’s surface.[1]
+[h3] Specifications
+[p] Sequence: Tyr-Arg-Ser-Aar-Lysd-Tyr-Ser-Ser-Trp-Tyr
+[p] Molecular Formula: C65H90N18O17
+[p] Molecular Weight: 1311.46 g/mol
+[p] Synonyms: 137665-91-9
+[h3] Decapeptide-12 Research
+[p] Decapeptide-12 and TyrosinaseTyrosinase is an enzyme with a copper molecule attached to it. It is present in animal and plant tissues, where it appears to catalyze the production of melanin and other pigments from the oxidation of tyrosine, as well as dihydroxyphenylalanine (DOPA). It is considered to catalyze the first two steps involved in the biochemical synthesis of melanin, and is expressed by cells of melanocyte antecedents, and may be contained in the melanosomes and is synthesized in the melanocytes. Specifically, these initial steps are said to include the hydroxylation of tyrosine to DOPA and the subsequent oxidation of DOPA to DOPAquinone. These reactions are considered essential precursors to the synthesis of eumelanin and pheomelanin, the two primary melanin pigments. These pigments might provide some protection against ultraviolet (UV) radiation. Tyrosinase deficiency is considered to result in Oculocutaneous albinism type I. While hyperpigmentation may occur as a result of melanin synthesis, it may also be caused by a mutation that is thought to cause tyrosinase to become overactive. Decapeptide-12, an apparent Tyrosinase inhibitor, is of interest to researchers through its potential to support how the enzyme cascade of pigment production functions.[2] Although the precise molecular mechanisms remain unclear and likely involve several pathways, the prevailing theory suggests that Decapeptide-12 might bind to specific regions on the tyrosinase enzyme or its mRNA. This binding may inhibit the enzyme’s catalytic activity by altering its structure, thus reducing its efficiency. Alternatively, Decapeptide-12 may potentially interfere with the gene expression of tyrosinase, leading to a decreased production of functional enzymes in melanocytes.
+[p] Decapeptide-12 and Epidermal Tissue Hyperpigmentation Research in animal models targeted at determining the action of Decapeptide-12 in melasma (photodamage) suggests that Decapeptide-12 may potentially reduce pigmentation.[3] Studies reported that roughly 40% of research models in the experiment acquired “standard” tone across the epidermal surface (a 100% decrement of pigmentation-hyperpigmentation). Roughly 15% of the models with grade 3 photodamage reportedly acquired a turnaround and moved into grade 1 photodamage. Models of extreme photodamage (photodamage grade 4) exhibited a reported modest repair, reducing their classification to photodamage grade 3. These results were exhibited after the laboratory introduction of Decapeptide-12 for a minimum of 12 weeks. The exposure of Decapeptide-12 in research models of melasma (photodamage) appeared to have exhibited changes in the tone of the epidermal layer. A separate study aimed to assess the potential actions of Decapeptide-12 on solar lentigines, a type of hyperpigmentation possibly resulting from prolonged photodamage.[1] The findings suggested that approximately 38.5% of the evaluated cases might have experienced complete clearance, with indications from researchers that the entire research cohort indicated some level of support. Additionally, around 30.7% of the cases seemed to support recovery from a moderate to a milder degree of photodamage, 15.4% appeared to progress from severe to moderate photodamage, and another 15.4% possibly supported recovery from severe to milder photodamage after 24 weeks. Further studies have also suggested that Decapeptide-12 may significantly reduce the hyperpigmentation of epidermal tissues, with one experiment suggesting a complete clearance in 25% of the models, while another one reported an apparent reduction in instances of post-inflammatory hyperpigmentation, which was faster compared to a control.[4,5] Researchers have also suggested a significant reduction in hyperpigmentation in severe cases such as Fitzpatrick phototype IV skin structure test models.[6]
+[p] Decapeptide-12 and Epidermal Layer Penetration Decapeptide-12 has been suggested to exert significant potential in reducing melanin, with observed impact surpassing 50%.[7] However, the peptide has a lyophobic structure. One study investigated the potential of Decapeptide-12 to maintain its tyrosinase-inhibiting activity when modified with a palmitate chain to support lipophilicity. The addition of the palmitate chain supports the peptide's lipophilicity, which potentially increases its ability to permeate epidermal tissue test models. Molecular docking studies indicate that despite this modification, Decapeptide-12 retains its biological potential as a tyrosinase inhibitor.
+[p] Decapeptide-12 and Epidermal Cell Metabolism One investigation by researchers aimed to explore the actions of Decapeptide-12 on the expression levels of sirtuin genes in keratinocyte progenitors.[8] Sirtuins are a gene family potentially involved in a variety of cellular functions, including the regulation of metabolism, DNA repair, inflammation, and stress resistance mechanisms. Among them, SIRT1 is particularly notable and is hypothesized to play a role in modulating several biological pathways, such as glucose and lipid metabolism, as well as cellular responses to stress. Some studies have proposed that SIRT1 might be linked to lifespan extension in specific test models, although this remains under investigation. The researchers employed RT-PCR techniques to assess the impact of Decapeptide-12 on the expression of seven sirtuin genes, along with cellular viability and proliferation, after a 72-hour incubation with various concentrations of the peptide. SIRT1 transcription was reported to increase by 141 ± 11%, which might suggest a potential enhancement of cellular resistance to oxidative stress and inflammation, possibly contributing to delayed cellular aging. Increases in SIRT3 (121 ± 13%) and SIRT6 (147 ± 8%) transcription levels were also observed, which might imply support for mitochondrial function and energy metabolism, as well as enhanced DNA repair, telomere maintenance, and inflammation regulation, respectively. These changes may hypothetically contribute to better genomic stability and reduced inflammation, thereby slowing cellular aging. Although the reported increase in SIRT7 transcription (95 ± 14%) was less substantial, it might still indicate a possible action on nucleolar functions, such as ribosome biogenesis and stress response, potentially contributing to overall cellular homeostasis.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Kassim AT, Hussain M, Goldberg DJ. Open-label evaluation of the skin-brightening efficacy of a skin-brightening system using decapeptide-12. J Cosmet Laser Ther. 2012 Apr;14(2):117-21. doi: 10.3109/14764172.2012.672745. PMID: 22401652.
+[a https://doi.org/10.3109/14764172.2012.672745] doi: 10.3109/14764172.2012.672745
+[li] Jiang L, Hino PD, Bhatia A, Stephens TJ, Jimenez F. Efficacy of Trifecting® Night Cream, a Novel Triple acting Skin Brightening Product: A Double-blind, Placebo-controlled Clinical Study. J Clin Aesthet Dermatol. 2018 Dec;11(12):21-25. Epub 2018 Dec 1. PMID: 30666274; PMCID: PMC6334832.
+[li] Ramírez SP, Carvajal AC, Salazar JC, Arroyave G, Flórez AM, Echeverry HF. Open-label evaluation of a novel skin brightening system containing 0.01% decapeptide-12 in combination with 20% buffered glycolic acid for the treatment of mild to moderate facial melasma. J Drugs Dermatol. 2013 Jun 1;12(6):e106-10. PMID: 23839199.
+[li] Hantash, B. M., & Jimenez, F. (2012). Treatment of mild to moderate facial melasma with the Lumixyl topical brightening system. Journal of drugs in dermatology: JDD, 11(5), 660–662.
+[li] Bhatia, A., Hsu, J. T.s, & Hantash, B. M. (2014). Combined topical delivery and dermalinfusion of decapeptide-12 accelerates resolution of post-inflammatory hyperpigmentation in skin of color. Journal of drugs in dermatology: JDD, 13(1), 84–85.
+[li] Hantash, B. M., & Jimenez, F. (2009). A split-face, double-blind, randomized, and placebo-controlled pilot evaluation of a novel oligopeptide for the treatment of recalcitrant melasma. Journal of drugs in dermatology: JDD, 8(8), 732–735.
+[li] Chen J, Bian J, Hantash BM, Albakr L, Hibbs DE, Xiang X, Xie P, Wu C, Kang L. Enhanced skin retention and permeation of a novel peptide via structural modification, chemical enhancement, and microneedles. Int J Pharm. 2021 Sep 5;606:120868. doi: 10.1016/j.ijpharm.2021.120868. Epub 2021 Jul 6. PMID: 34242628.
+[a https://pubmed.ncbi.nlm.nih.gov/34242628/] doi: 10.1016/j.ijpharm.2021.120868
+[li] Basil, M. H., & Anan, A. U. (2019). Tyrosinase inhibitors with potent anti-senescence activity in human neonatal keratinocyte progenitors. J Dermatol Surg Res Ther, 2019, 30-39.
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Acetyl Hexapeptide-3 (Argireline) (200mg) $210.00
+[a https://biotechpeptides.com/product/acetyl-hexapeptide-3-argireline-200mg/] Acetyl Hexapeptide-3 (Argireline) (200mg) $210.00
+[img] Acetyl Hexapeptide-3 (Argireline) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Acetyl-Hexapeptide-3-1-238x317.webp
+[h2] Acetyl Hexapeptide-3 (Argireline) (200mg)
+[li] Sale! Nonapeptide-1 (200mg) $228.00 Original price was: $228.00.$219.00Current price is: $219.00.
+[a https://biotechpeptides.com/product/nonapeptide-1-topical-200mg/] Sale! Nonapeptide-1 (200mg) $228.00 Original price was: $228.00.$219.00Current price is: $219.00.
+[img] Nonapeptide-1 (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Nonapeptide-1-238x317.webp
+[h2] Nonapeptide-1 (200mg)
+[li] Lipopeptide (Biopeptide EL) (200mg) $220.00
+[a https://biotechpeptides.com/product/lipopeptide-biopeptide-el-topical-200mg/] Lipopeptide (Biopeptide EL) (200mg) $220.00
+[img] Lipopeptide (Biopeptide EL) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Lipopetide-1-238x317.webp
+[h2] Lipopeptide (Biopeptide EL) (200mg)
+[li] Pentapeptide-18 (Leuphasyl) (200mg) $215.00
+[a https://biotechpeptides.com/product/pentapeptide-18-leuphasyl-topical-200mg/] Pentapeptide-18 (Leuphasyl) (200mg) $215.00
+[img] Pentapeptide-18 (Leuphasyl) (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Pentapeptide-1-238x317.webp
+[h2] Pentapeptide-18 (Leuphasyl) (200mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

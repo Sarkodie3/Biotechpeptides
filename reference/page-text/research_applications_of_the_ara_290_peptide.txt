@@ -1,0 +1,129 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Research Applications of the ARA-290 Peptide
+[p] by Dr. Usman | Feb 24, 2023 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Therapeutic Applications of the ARA-290 Peptide :: https://biotechpeptides.com/wp-content/uploads/2023/02/Therapeutic-Applications-of-the-ARA-290-Peptide.webp
+[a https://biotechpeptides.com/product/ara-290-16mg/] ARA-290
+[p] Contents:
+[li] ARA-290 Peptide Overview
+[a #overview] ARA-290 Peptide Overview
+[li] ARA-290 Studies on Sarcoidosis-Associated Small Nerve Fiber Loss and Neuropathic Pain
+[a #pain] ARA-290 Studies on Sarcoidosis-Associated Small Nerve Fiber Loss and Neuropathic Pain
+[li] ARA-290 Peptide and Diabetes and Related Complications
+[a #diabets] ARA-290 Peptide and Diabetes and Related Complications
+[li] ARA-290 Peptide and Inflammation, Cell Aging
+[a #anti-aging] ARA-290 Peptide and Inflammation, Cell Aging
+[li] Conclusion
+[a #conclusion] Conclusion
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/ara-290-16mg/] 
+[img] ARA-290 (16mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/ARA-290.png
+[h2] ARA-290 Peptide Overview
+[p] ARA-290 is a synthetic peptide first developed by a research team led by Dr. Schmidt at the New York University School of Medicine. The team discovered the innate repair receptor and suggested that activating it with a synthetic peptide may improve tissue repair and reduce inflammation in various animal disease models.
+[p] After further testing and refinement, they developed ARA-290 peptide as a potential agent within the context of research in various conditions involving tissue damage, inflammation, and neuropathic pain. It consists of 11 amino acids designed to mimic a specific sequence of erythropoietin. The amino acid sequence of ARA-290 peptide is Tyr-Glu-Pro-Pro-Pro-Tyr-Gly-Gly-Lys-Pro-Ala
+[p] This sequence was identified as the “receptor-specific” site of erythropoietin (EPO), which interacts with a specific receptor on the surface of cells to elicit tissue-protective effects. ARA-290 peptide was developed to specifically target this receptor and avoid interactions with the EPO receptor, which is responsible for the hormone’s potential on erythropoiesis.
+[h2] ARA-290 Studies on Sarcoidosis-Associated Small Nerve Fiber Loss and Neuropathic Pain
+[p] Sarcoidosis-associated small nerve fiber loss and damage (SNFLD) refers to a condition in which the small nerve fibers in the peripheral nervous system are damaged or lost due to sarcoidosis. These are the fibers responsible for transmitting sensory information, such as pain, temperature, and touch. Sarcoidosis is a systemic autoimmune inflammatory disease that may affect multiple organs, including the nerves. It appears to lead to the formation of tiny clusters of inflammatory cells called granulomas, which can cause tissue damage and organ dysfunction.
+[p] ARA-290 peptide was hypothesized to reduce symptoms in animal neuropathy models, which led to investigating its potential in research of neuropathy due to Sarcoidosis-associated SNFLD.[1] According to the research, these potential actions may likely be due to the anti-inflammatory characteristics of the peptide that it may potentially exert in nervous tissues. The scientists concluded that “ARA290 … reduced allodynia coupled to suppression of the spinal microglia response, suggestive of a mechanistic link between ARA290-induced suppression of central inflammation and relief of neuropathic pain symptoms.”[2]
+[h2] ARA-290 Peptide and Diabetes and Related Complications
+[p] Insulin resistance plays a significant role in the development and progression of type 2 diabetes. Preliminary research on the glycemic and metabolic potential of ARA-290 peptide was conducted in mice models of insulin resistance, hyperlipidemia, hepatic lipid accumulation, and impaired insulin signaling pathways in skeletal muscle.[5] A high-fat, high-sucrose diet-induced the condition, and exposure to ARA-290 peptide appeared to reduce hepatic lipid deposition and normalized serum glucose and lipid profiles. In this murine model, the exposure appeared to improve insulin sensitivity and glucose uptake in skeletal muscle, attenuate the overproduction of myokines, and enhance mitochondrial biogenesis in skeletal muscle. Many other animal studies also report that ARA-290 peptide may significantly improve glycemic control and lower insulin resistance in rats with type 2 diabetes.[6]
+[p] Further studies also report similar results in models of diabetes. According to one study of various diabetes models (mainly type 2 diabetes) and diabetic macular edema (DME), 12 weeks of ARA-290 peptide exposure appeared to lead to improvements in central subfield retinal thickness, tear production, diabetic control, and albuminuria.[7]
+[p] Another study included research models of type 2 diabetes who received ARA-290 peptide or a placebo for 28 days and were examined for a month following discontinuation.[8] The researchers suggested that ARA-290 appeared to exhibit an improvement in HbA1c and lipid profiles. They noted that “subjects receiving ARA 290 exhibited an improvement in hemoglobin A1c (Hb A1c) and lipid profiles throughout the 56 [day] observation period.” Neuropathic symptoms and mean corneal nerve fiber density also appeared to improve in the ARA-290 peptide group.
+[h2] ARA-290 Peptide and Inflammation, Cell Aging
+[p] Studies have suggested that ARA-290 peptide may reduce inflammation by modulating the activity of the innate immune system, which is considered responsible for the initial response to infections and tissue damage. Specifically, ARA-290 peptide has been suggested to inhibit the activation of macrophages and reduce the production of pro-inflammatory cytokines, such as TNF-alpha and IL-1beta, in models of colon inflammation.[9]
+[p] One trial in aged rats reports that chronic ARA-290 peptide exposure may possibly reduce inflammation and fibrosis in the heart, improve mitochondrial and myocardial cell function, and preserve left ventricular ejection fraction.[10] ARA-290 also apparently mitigated the age-associated increase in blood pressure, preserved body weight, and reduced markers of organism-wide frailty.
+[h2] Conclusion
+[p] More research is needed to fully understand ARA-290’s potential. Currently, the peptide has research-only status, and it is not intended for managing any condition.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Swartjes M, van Velzen M, Niesters M, Aarts L, Brines M, Dunne A, Cerami A, Dahan A. ARA 290, a peptide derived from the tertiary structure of erythropoietin, produces long-term relief of neuropathic pain coupled with suppression of the spinal microglia response. Mol Pain. 2014 Feb 16;10:13. doi: 10.1186/1744-8069-10-13. PMID: 24529189; PMCID: PMC3928087.
+[a https://doi.org/10.1186/1744-8069-10-13] doi: 10.1186/1744-8069-10-13
+[li] Dahan A, Dunne A, Swartjes M, Proto PL, Heij L, Vogels O, van Velzen M, Sarton E, Niesters M, Tannemaat MR, Cerami A, Brines M. ARA 290 improves symptoms in patients with sarcoidosis-associated small nerve fiber loss and increases corneal nerve fiber density. Mol Med. 2013 Nov 8;19(1):334-45. doi: 10.2119/molmed.2013.00122. Erratum in: Mol Med. 2016 Oct 20;22:674. PMID: 24136731; PMCID: PMC3883966.
+[a https://doi.org/10.2119/molmed.2013.00122] doi: 10.2119/molmed.2013.00122
+[li] Culver DA, Dahan A, Bajorunas D, Jeziorska M, van Velzen M, Aarts LPHJ, Tavee J, Tannemaat MR, Dunne AN, Kirk RI, Petropoulos IN, Cerami A, Malik RA, Brines M. Cibinetide Improves Corneal Nerve Fiber Abundance in Patients With Sarcoidosis-Associated Small Nerve Fiber Loss and Neuropathic Pain. Invest Ophthalmol Vis Sci. 2017 May 1;58(6):BIO52-BIO60. doi: 10.1167/iovs.16-21291. PMID: 28475703.
+[a https://doi.org/10.1167/iovs.16-21291] doi: 10.1167/iovs.16-21291
+[li] Heij L, Niesters M, Swartjes M, Hoitsma E, Drent M, Dunne A, Grutters JC, Vogels O, Brines M, Cerami A, Dahan A. Safety and efficacy of ARA 290 in sarcoidosis patients with symptoms of small fiber neuropathy: a randomized, double-blind pilot study. Mol Med. 2012 Nov 15;18(1):1430-6. doi: 10.2119/molmed.2012.00332. PMID: 23168581; PMCID: PMC3563705.
+[a https://doi.org/10.2119/molmed.2012.00332] doi: 10.2119/molmed.2012.00332
+[li] Collino M, Benetti E, Rogazzo M, Chiazza F, Mastrocola R, Nigro D, Cutrin JC, Aragno M, Fantozzi R, Minetto MA, Thiemermann C. A non-erythropoietic peptide derivative of erythropoietin decreases susceptibility to diet-induced insulin resistance in mice. Br J Pharmacol. 2014 Dec;171(24):5802-15. doi: 10.1111/bph.12888. Epub 2014 Nov 24. PMID: 25164531; PMCID: PMC4290718.
+[a https://doi.org/10.1111/bph.12888] doi: 10.1111/bph.12888
+[li] Muller C, Yassin K, Li LS, Palmblad M, Efendic S, Berggren PO, Cerami A, Brines M, Östenson CG. ARA290 Improves Insulin Release and Glucose Tolerance in Type 2 Diabetic Goto-Kakizaki Rats. Mol Med. 2016 May;21(1):969-978. doi: 10.2119/molmed.2015.00267. Epub 2015 Dec 29. PMID: 26736179; PMCID: PMC4818260.
+[a https://doi.org/10.2119/molmed.2015.00267] doi: 10.2119/molmed.2015.00267
+[li] Lois N, Gardner E, McFarland M, Armstrong D, McNally C, Lavery NJ, Campbell C, Kirk RI, Bajorunas D, Dunne A, Cerami A, Brines M. A Phase 2 Clinical Trial on the Use of Cibinetide for the Treatment of Diabetic Macular Edema. J Clin Med. 2020 Jul 14;9(7):2225. doi: 10.3390/jcm9072225. PMID: 32674280; PMCID: PMC7408632.
+[a https://doi.org/10.3390/jcm9072225] doi: 10.3390/jcm9072225
+[li] Brines M, Dunne AN, van Velzen M, Proto PL, Ostenson CG, Kirk RI, Petropoulos IN, Javed S, Malik RA, Cerami A, Dahan A. ARA 290, a nonerythropoietic peptide engineered from erythropoietin, improves metabolic control and neuropathic symptoms in patients with type 2 diabetes. Mol Med. 2015 Mar 13;20(1):658-66. doi: 10.2119/molmed.2014.00215. PMID: 25387363; PMCID: PMC4365069.
+[a https://doi.org/10.2119/molmed.2014.00215] doi: 10.2119/molmed.2014.00215
+[li] Nairz M, Haschka D, Dichtl S, Sonnweber T, Schroll A, Aßhoff M, Mindur JE, Moser PL, Wolf D, Swirski FK, Theurl I, Cerami A, Brines M, Weiss G. Cibinetide dampens innate immune cell functions thus ameliorating the course of experimental colitis. Sci Rep. 2017 Oct 12;7(1):13012. doi: 10.1038/s41598-017-13046-3. PMID: 29026145; PMCID: PMC5638901.
+[a https://doi.org/10.1038/s41598-017-13046-3] doi: 10.1038/s41598-017-13046-3
+[li] Winicki NM, Nanavati AP, Morrell CH, Moen JM, Axsom JE, Krawczyk M, Petrashevskaya NN, Beyman MG, Ramirez C, Alfaras I, Mitchell SJ, Juhaszova M, Riordon DR, Wang M, Zhang J, Cerami A, Brines M, Sollott SJ, de Cabo R, Lakatta EG. A small erythropoietin derived non-hematopoietic peptide reduces cardiac inflammation, attenuates age associated declines in heart function and prolongs healthspan. Front Cardiovasc Med. 2023 Jan 18;9:1096887. doi: 10.3389/fcvm.2022.1096887. PMID: 36741836; PMCID: PMC9889362.
+[a https://doi.org/10.3389/fcvm.2022.1096887] doi: 10.3389/fcvm.2022.1096887
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

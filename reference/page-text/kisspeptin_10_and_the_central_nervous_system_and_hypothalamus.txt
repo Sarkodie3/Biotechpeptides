@@ -1,0 +1,118 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Kisspeptin-10 and The Central Nervous System and Hypothalamus
+[p] by Dr. Usman | May 19, 2023 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Kisspeptin-10 and The Central Nervous System and Hypothalamus :: https://biotechpeptides.com/wp-content/uploads/2023/05/Kisspeptin-10-and-The-Central-Nervous-System-and-Hypothalamus.webp
+[p] Kisspeptin-10 peptide consists of 10 amino acids and has the sequence Tyr-Asn-Trp-Asn-Ser-Phe-Gly-Leu-Arg-Phe-NH2. It shares the same C-terminal decapeptide sequence known as RFAmide (arginine-amidated phenylalanine) with the other processed kisspeptin sequences. Although Kisspeptin-10 has intrinsic bioactivity similar to the longer kisspeptin fragments, it is also been characterized by researchers to exhibit a shorter half-life and a more rapid onset of potential action.
+[p] Contents:
+[li] Kisspeptin-10 and The Gonadotropic Axis
+[a #Gonadotropic] Kisspeptin-10 and The Gonadotropic Axis
+[li] Kisspeptin-10 and Cholinergic Neurons
+[a #Cholinergic] Kisspeptin-10 and Cholinergic Neurons
+[li] Kisspeptin-10 and Orexigenic Stimuli
+[a #Orexigenic] Kisspeptin-10 and Orexigenic Stimuli
+[li] Conclusion
+[a #conclusion] Conclusion
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/kisspeptin-10-10mg/] 
+[img] Kisspeptin-10 (10mg) :: https://biotechpeptides.com/wp-content/uploads/2021/11/Kisspeptin-10.png
+[h2] Kisspeptin-10 Peptide and The Gonadotropic Axis
+[p] Kisspeptin-10 appears to potentially play a complex role in GnRH-producing hypothalamic cells. Researchers were investigating the potential impact of Kisspeptin-10 (KP-10) on gene expression in different types of hypothalamic cell lines.[2] They suggested that in mHypoA-50 AVPV cells, Kisspeptin-10 may increase Kiss-1 mRNA and kisspeptin protein levels, possibly without affecting GnRH expression. In mHypoA-55 ARC cells, both kisspeptin genes and GnRH expression may be upregulated by Kisspeptin-10 peptide stimulation. Furthermore, Kisspeptin-10 appeared to elevate c-Fos protein levels, indicating potential neuronal activity in both cell lines. Similar apparent responses were observed in primary cultures of fetal rat neuronal cells.
+[a https://biotechpeptides.com/product/kisspeptin-10-10mg/] Kisspeptin-10 (KP-10)
+[p] Studies also suggest that Kisspeptin-10 may stimulate GnRH release in pre-pubescence and pubescence.[3] Researchers have reported that there appeared to be a significant remodeling of the native kisspeptin and neurokinin B (NKB) signaling pathways when exposed to Kisspeptin-10. In fact, Kisspeptin-10 may interact with GnRH release via both NKB neurons and kisspeptin neurons. They also comment that there may be “a parallel increase in kisspeptin release and GnRH release during puberty.” Yet, the peptide did not appear to have any initiation potential regarding pubescence.
+[p] Researchers have also aimed to investigate the potential impact of Kisspeptin-10 on the production of progesterone (P4) in bovine granulosa cells (BGCs) and the role of microRNA 1246 (miR-1246) in this process.[4] The scientists hypothesized that exposing BGCs to Kisspeptin-10 may increase the levels of P4, mRNA expression of the steroidogenesis-related gene StAR, and free cholesterol content. Simultaneously, it appeared to decrease the expression of miR-1246 in BGCs. Overexpressing miR-1246 may also inhibit P4 synthesis, StAR mRNA expression, and free cholesterol content in BGCs, while under-expressing miR-1246 may reverse this impact. Furthermore, overexpressing miR-1246 counteracted the enhancing potential of Kisspeptin-10 on P4 synthesis, StAR mRNA expression, and free cholesterol content in BGCs. Conversely, under-expressing miR-1246 appeared to amplify the enhancing potential of Kisspeptin-10. The study also indicated that miR-1246 targeted the 3’UTR of StAR in BGCs, suggesting that Kisspeptin-10 peptide promotes P4 synthesis in BGCs by facilitating the transport of free cholesterol through the regulation of miR-1246/StAR expression.
+[h2] Kisspeptin-10 Peptide and Cholinergic Neurons
+[p] The accommodation of amyloid-β (Aβ) and α-synuclein (α-syn) in cholinergic neurons may potentially damage them. Yet, researchers suggest that Kisspeptin-10 may bind to Aβ extracellularly and thus potentially inhibit Aβ toxicity.[5] The scientists comment that “The KP peptides inhibited the neurotoxicity of Aβ, PrP, and IAPP peptides, via an action that could not be blocked by kisspeptin-receptor (GPR-54) or neuropeptide FF (NPFF) receptor antagonists.” Based on similarities between α-syn’s non-amyloid-β component (NAC) and Aβ’s C-terminus, other researchers have also hypothesized that Kisspeptin-10 might also mitigate α-syn-induced toxicity in cholinergic neurons.[6] They conducted experiments using cholinergic cells and commented that high concentrations of Kisspeptin-10 may increase toxicity, while low concentrations may potentially reduce both wild-type and E46K mutant α-syn-induced toxicity. The computational analysis supported these findings, indicating potentially favorable binding between Kisspeptin-10 and the C-terminal residues of α-syn. Molecular dynamics simulations also suggested the Kisspeptin-10-α-syn complexes had good stability.
+[p] Scientists have continued to explore this topic, specifically whether GPR54 (the receptor for the kisspeptin gene) activation is necessary for the Kisspeptin-10 peptide binding potential to the C-terminal pockets of α-syn.[7] To investigate this, ChAT-positive SH-SY5Y neurons were engineered to overexpress wild-type or E46K mutant α-syn, and the potential impact of Kisspeptin-10 on α-syn-induced neuronal death was evaluated using flow cytometry and immunocytochemistry. Kisspeptin-10 appeared to reduce apoptosis and mitochondrial damage caused by wild-type and E46K mutant α-syn in cholinergic neurons. Interestingly, the apparent neuroprotective potential of Kisspeptin-10 remained unaffected by combined presentation with a GPR54 antagonist, kisspeptin-234 (KP-234), indicating that GPR54 activation might not be essential for Kisspeptin-10’s action. Furthermore, the researchers commented that Kisspeptin-10 reduced α-syn and choline acetyltransferase (ChAT) immunoreactivity in neurons overexpressing wild-type and E46K mutant α-syn.
+[h2] Kisspeptin-10 Peptide and Orexigenic Stimuli
+[p] Scientists have aimed to explore the potential metabolic and orexigenic action of Kisspeptin-10peptide by examining its possible impact on gene expression of neuropeptide Y (NPY) and brain-derived neurotrophic factor (BDNF), as well as the levels of dopamine (DA), norepinephrine (NE), serotonin (5-hydroxytryptamine, 5-HT), dihydroxyphenylacetic acid (DOPAC), and 5-hydroxy indole acetic acid (5-HIIA) in hypothalamic cells (Hypo-E22).[8] The results suggested that Hypo-E22 cells appear to tolerate Kisspeptin-10, and it may independently increase NPY gene expression, while BDNF expression appeared inhibited. Additionally, Kisspeptin-10 appeared to reduce 5-HT and DA levels, while NE levels reportedly remained unaffected. The apparent decrease in DA and 5-HT was consistent with increased ratios of DOPAC/DA and 5-HIIA/5-HT induced by the peptide. The apparent increase in NPY expression while reducing BDNF and 5-HT activity may support the orexigenic potential of Kisspeptin-10.
+[h2] Conclusion
+[p] In conclusion, Kisspeptin-10 peptide, derived from the cleavage of Kisspeptin-54, exhibits distinct characteristics compared to longer kisspeptin fragments. In vitro studies have shed light on its potential on the gonadotropic axis, cholinergic neurons, and orexigenic stimuli. Kisspeptin-10 appears to modulate gene expression and protein levels, potentially influencing neuronal activity and GnRH release. Moreover, it shows promise in mitigating the toxicity induced by amyloid-β and α-synuclein in cholinergic neurons. The peptide’s neuroprotective potential was observed independently of GPR54 activation, suggesting alternative mechanisms at play. Additionally, Kisspeptin-10 may impact gene expression and neurotransmitter levels related to its orexigenic potential.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Kotani, M., Detheux, M., Vandenbogaerde, A., Communi, D., Vanderwinden, J. M., Le Poul, E., Brézillon, S., Tyldesley, R., Suarez-Huerta, N., Vandeput, F., Blanpain, C., Schiffmann, S. N., Vassart, G., & Parmentier, M. (2001). The metastasis suppressor gene KiSS-1 encodes kisspeptins, the natural ligands of the orphan G protein-coupled receptor GPR54. The Journal of biological chemistry, 276(37), 34631–34636. https://doi.org/10.1074/jbc.M104847200
+[a https://doi.org/10.1074/jbc.M104847200] https://doi.org/10.1074/jbc.M104847200
+[li] Kanasaki, H., Tumurbaatar, T., Tumurgan, Z., Oride, A., Okada, H., & Kyo, S. (2021). Mutual Interactions Between GnRH and Kisspeptin in GnRH- and Kiss-1-Expressing Immortalized Hypothalamic Cell Models. Reproductive sciences (Thousand Oaks, Calif.), 28(12), 3380–3389. https://doi.org/10.1007/s43032-021-00695-z
+[a https://doi.org/10.1007/s43032-021-00695-z] https://doi.org/10.1007/s43032-021-00695-z
+[li] Garcia, J. P., Keen, K. L., Seminara, S. B., & Terasawa, E. (2019). Role of Kisspeptin and NKB in Puberty in Nonhuman Primates: Sex Differences. Seminars in reproductive medicine, 37(2), 47–55. https://doi.org/10.1055/s-0039-3400253
+[a https://doi.org/10.1055/s-0039-3400253] https://doi.org/10.1055/s-0039-3400253
+[li] Guo, L., Xu, H., Li, Y., Liu, H., Zhao, J., Lu, W., & Wang, J. (2022). Kisspeptin-10 Promotes Progesterone Synthesis in Bovine Ovarian Granulosa Cells via Downregulation of microRNA-1246. Genes, 13(2), 298. https://doi.org/10.3390/genes13020298
+[a https://doi.org/10.3390/genes13020298] https://doi.org/10.3390/genes13020298
+[li] Milton NG, Chilumuri A, Rocha-Ferreira E, Nercessian AN, Ashioti M. Kisspeptin prevention of amyloid-β peptide neurotoxicity in vitro. ACS Chem Neurosci. 2012 Sep 19;3(9):706-19. doi: 10.1021/cn300045d. Epub 2012 May 30. PMID: 23019497; PMCID: PMC3447396.
+[li] Simon, C., Soga, T., Ahemad, N., Bhuvanendran, S., & Parhar, I. (2022). Kisspeptin-10 Rescues Cholinergic Differentiated SHSY-5Y Cells from α-Synuclein-Induced Toxicity In Vitro. International journal of molecular sciences, 23(9), 5193. https://doi.org/10.3390/ijms23095193
+[a https://doi.org/10.3390/ijms23095193] https://doi.org/10.3390/ijms23095193
+[li] Simon, C., Soga, T., & Parhar, I. (2023). Kisspeptin-10 Mitigates α-Synuclein-Mediated Mitochondrial Apoptosis in SH-SY5Y-Derived Neurons via a Kisspeptin Receptor-Independent Manner. International journal of molecular sciences, 24(7), 6056. https://doi.org/10.3390/ijms24076056
+[a https://doi.org/10.3390/ijms24076056] https://doi.org/10.3390/ijms24076056
+[li] Orlando, G., Leone, S., Ferrante, C., Chiavaroli, A., Mollica, A., Stefanucci, A., Macedonio, G., Dimmito, M. P., Leporini, L., Menghini, L., Brunetti, L., & Recinella, L. (2018). Effects of Kisspeptin-10 on Hypothalamic Neuropeptides and Neurotransmitters Involved in Appetite Control. Molecules (Basel, Switzerland), 23(12), 3071. https://doi.org/10.3390/molecules23123071
+[a https://doi.org/10.3390/molecules23123071] https://doi.org/10.3390/molecules23123071
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

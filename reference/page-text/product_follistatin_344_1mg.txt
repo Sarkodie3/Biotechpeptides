@@ -1,0 +1,124 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/01/Follistatin-344-1.webp] 
+[img] Follistatin-344 (1mg) :: https://biotechpeptides.com/wp-content/uploads/2022/01/Follistatin-344-1-460x580.webp
+[h1] Follistatin-344 (1mg)
+[p] $162.00
+[p] Follistatin-344 peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_3805 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $153.90
+[input name=wccs_tier_select_3805 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $145.80
+[p] Out of stock
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Description
+[a #tab-description] Description
+[h3] Follistatin-344 Peptide
+[p] Follistatin-344 is a synthetic, full-sized version of a naturally occurring protein bearing the same name. Follistatin-344 occurs in two isomers, varying based on their gene splicing. Follistatin may exist endogenously in two distinct variants, referred to as FST 317 and FST 344. The variants are distinguished by their composition: FST 317 comprises 288 amino acids, whereas FST 344 comprises 315 amino acids. The numerical part of their names reflects the number of amino acids in the precursor molecules from which they are synthesized, with the precursor to FST 317 having 317 amino acids and that to FST 344 having 344 amino acids. It appears that FST 344 is the more commonly occurring form across various tissues. On the other hand, the FST 317 variant likely represents a minor fraction, potentially comprising under 5% of the total mRNA transcript related to Follistatin. Thus, Follistatin-344 appears to be the main constituent. Researchers suggest that its primary role may be to counteract the action of the Tumor Growth Factor-beta (TGF-beta) family. The TGF-beta family comprises Myostatin, Activin, and Follicle Stimulating Growth Hormone (FSH). Follistatin-344 appears to stimulate the Insulin/IGF-1 pathway, and the reported immense potential of the peptide has been published in Follistatin-344 research.
+[h3] Specifications
+[p] SYNONYMS: Activin-binding protein, FST, FSH- Suppressing protein
+[p] MOLECULAR WEIGHT: 3780 g/mol
+[p] SEQUENCE: MVRARHQPGG LCLLLLLLCQ FMEDRSAQAG NCWLRQAKNG RCQVLYKTEL SKEECCSTGR LSTSWTEEDV NDNTLFKWMI FNGGAPNCIP CKETCENVDC GPGKKCRMNK KNKPRCVCAP DCSNITWKGP VCGLDGKTYR NECALLKARC KEQPELEVQY QGRCKKTCRD VFCPGSSTCV VDQTNNAYCV TCNRICPEPA SSEQYLCGND GVTYSSACHL RKATCLLGRS IGLAYEGKCI KAKSCEDIQC TGGKKCLWDF KVGRGRCSLC DELCPDSKSD EPVCASDNAT YASECAMKEA ACSSGVLLEV KHSGSCNSIS EDTEEEEEDE DQDYSFPISS ILEW
+[h3] Follistatin-344 Research
+[p] Follistatin-344 and Muscle Cell Proliferation It is suggested that Follistatin-344 may engage with multiple proteins as part of the Transforming Growth Factor-beta (TGFβ) superfamily. This superfamily encompasses a range of pivotal proteins considered essential in regulating cellular proliferation and the process of cellular specialization. Among the possible interactions, the most significant appears to be with Growth Differentiation Factor 8 (GDF8), widely known as myostatin. Myostatin is a naturally occurring protein that belongs to the TGF-1 family. It is considered to inhibit muscle cell proliferation. It is conjectured that Follistatin-344 may bind to myostatin, potentially neutralizing its activity. Such an interaction might theoretically support muscle cells with increased opportunities to expand and undergo specialization. Studies have extended the hypothesis that Follistatin-344 may inhibit the action and impacts of Myostatin. A comparative study indicated that animals with this protein typically tend towards greater muscle mass, creating a possible correlation between the protein and muscle cell proliferation and function. Follistatin-344 appears to increase muscle mass by hyperplasia (increase in the number of muscle fibers) and hypertrophy (increase in muscle fiber). Interestingly, in this study, the exposure to Follistatin-344 appeared to have increased the muscle mass in mice in the absence of other muscle-building factors.[1] The results implied that Follistatin-344 may promote muscle cell development and enhance contractile force, and has been an object of significance in research studies focused on muscular diseases like muscular dystrophy. Studies have suggested the potential of Follistatin-344 to reduce inflammation and fibrosis. Its primary hypothesized characteristic appears to support muscle cell development, which may mitigate the severity or impact of muscular dystrophies such as Duchene Muscular Dystrophy.[2]
+[p] Follistatin-344 and Breast Cancer A clinical study in breast cancer models used immune-histochemistry and Reverse Transcription Polymerase Chain Reaction (RT-PCR). The study reported under-expression of Follistatin-344 in the majority of the cohort, while over-expression was only identified in a small number.[3] The over-expression of Follistatin was associated with a better prognosis, as per the studies for ABC monomer. It appeared to prevent metastasis of the tumor, but the study reports that it did appear to increase its growth. Contrastingly, under-expression of Follistatin-344 appeared to lead to higher incidences of metastasis. A study on a mouse model of HER-2 positive breast cancer suggested that Follistatin-344 may potentially prevent activin-induced migration of epithelial cells in breast tissue. This potential of Follistatin may possibly prevent metastasis without increasing the growth of the tumor mass.
+[p] Follistatin-344 and Esophageal Carcinoma Barret’s esophagus is a pre-malignant condition of Esophageal Carcinoma. It involves the conversion of Squamous epithelium into columnar with goblet cells. Bone Morphogenic Protein (BMP) is considered responsible for this metaplasia. Frequent acid reflux in the esophagus may lead to over-activation of BMP and ultimately may lead to cancer onset. Study findings have posited the potential for Follistatin-344 in countering the action of BMP. Follistatin might potentially impede the activity of BMPs, which are deemed crucial in various developmental processes. This inhibition might, in theory, disrupt the early stages necessary for the conversion of healthy tissue to malignant forms. This process is particularly relevant in conditions worsened by persistent inflammation or external factors such as acid reflux, which may damage tissue and predispose it to neoplastic transformation.[4] There appear to be varying responses towards Follistatin-344 expression in different types of tumors. In Esophageal tumors, it appears to improve survival, whereas it may shorten survival in lung and ovarian tumors. Research involving rats indicated the possibility of Follistatin-344 to reduce the extent of fibrosis in the liver by up to 32%. This potential may improve the lifespan of hepatocytes and prevent the progression of fibrosis into liver cancer.
+[p] Follistatin-344 and Diabetes Mellitus Experiments on murine models have indicated that the overexpression or presentation of Follistatin-344 appears to increase the mass of beta-cells in the pancreas.[5,6] Beta-cells, located within the pancreas, are suggested to be primarily responsible for synthesizing insulin, a hormone that reduces blood glucose levels. Emerging data indicates that the proliferation of these beta-cells may be linked to the suppression of SMAD2/3 signaling pathways. Typically, these pathways are activated by members of the TGF-β superfamily, which includes proteins like activin and myostatin. It is hypothesized that these proteins are counteracted by a molecule known as Follistatin-344. The suppression of SMAD2/3 signaling might, in turn, indirectly trigger the insulin-phosphoinositide 3-kinase (PI3K)-Akt pathway, which is believed to be essential for cellular growth and survival, possibly leading to an increase in beta-cell volume and improved regulation of glucose levels. Research findings indicate that in db/db mice, which are a model for studying diabetes, specific overexpression of Follistatin-344 in beta-cells might result in several important changes. These include a marked growth in pancreatic islet mass and an acceleration of beta-cell proliferation, as suggested by simultaneous immunofluorescent staining for Ki67—a marker of cell proliferation—and insulin. Such changes are accompanied by enhancements in overall metabolic profiles, including a decrease in severe high blood sugar. Furthermore, one of the studies examined the influence of Follistatin-344 on betatrophin, a hormone associated with beta-cell proliferation. A notable elevation in betatrophin levels was observed in groups exposed to Follistatin-344, potentially facilitated by the diminished activity of activin and myostatin. This elevation implies that Follistatin-344 might boost beta-cell proliferation not only by directly inhibiting negative growth regulators but also by encouraging positive growth signals such as betatrophin. It also appeared to lead to enhanced production of insulin and increased control of blood sugar. This was purported by an observed increased insulin levels and enhanced activity of the insulin-PI3K-Akt signaling pathway. Moreover, one study suggested that Follistatin-344 might affect the expression of various regulatory proteins and genes within the pancreas. For example, observed increases in mRNA levels of myostatin and activin, along with their inhibitors BAMBI (BMP and activin membrane-bound inhibitor) and inhibin-α, imply a sophisticated dynamic where Follistatin-344 might regulate these signaling molecules to foster a more robust beta-cell proliferative environment.
+[p] Follistatin-344 and Activin A In a focused line of research, the potential mechanisms and broader implications of Follistatin's ability to inhibit Activin A have been explored.[7] More specifically, Follistatin-344 may not only influence muscle growth by its interaction with myostatin but may have potentially exerted significant actions by targeting Activin A. Activin A is another member of the TGF-β superfamily and has been intricately involved in regulating various cellular processes such as proliferation, differentiation, and apoptosis. Its potential in muscle physiology was judged to be particularly critical due to its regulation of muscle metabolism and remodeling. The inhibition of activin A by Follistatin-344 might have been crucial because Activin A is believed to promote catabolic pathways that lead to muscle degradation. It appears to bind to the activin type IIB receptor (ActRIIB) on muscle cells, initiating a cascade of intracellular signals that may support muscle protein breakdown and reduce muscle protein synthesis. Therefore, the hypothesis that Follistatin-344’s interaction with Activin A might significantly alter muscle dynamics was cautiously considered. It was speculated that by antagonizing Activin A, Follistatin-344 might not only prevent the loss of muscle mass but could also potentially ameliorate models of muscle atrophy and weakness, particularly those influenced by fibrotic changes within muscle tissue. This dual action of inhibiting both myostatin and Activin A suggested a possible multifaceted approach in the study of muscle dystrophy models, which might offer advantages over strategies that solely focus on the inhibition of myostatin. Such an approach was thought to potentially lead to not only an increase in muscle mass but also improvements in the quality of muscle tissue. This might manifest as reduced muscle stiffness and weakness in test models, factors often associated with fibrotic alterations.[8]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Haidet AM, Rizo L, Handy C, Umapathi P, Eagle A, Shilling C, Boue D, Martin PT, Sahenk Z, Mendell JR, Kaspar BK. Long-term enhancement of skeletal muscle mass and strength by single gene administration of myostatin inhibitors. Proc Natl Acad Sci U S A. 2008 Mar 18;105(11):4318-22. doi: 10.1073/pnas.0709144105. Epub 2008 Mar 11. PMID: 18334646; PMCID: PMC2393740.
+[a https://pubmed.ncbi.nlm.nih.gov/18334646/] doi: 10.1073/pnas.0709144105
+[li] Chang F, Fang R, Wang M, Zhao X, Chang W, Zhang Z, Li N, Meng Q. The transgenic expression of human follistatin-344 increases skeletal muscle mass in pigs. Transgenic Res. 2017 Feb;26(1):25-36. doi: 10.1007/s11248-016-9985-x. Epub 2016 Oct 27. PMID: 27787698.
+[a https://pubmed.ncbi.nlm.nih.gov/27787698/] doi: 10.1007/s11248-016-9985-x
+[li] Zabkiewicz C, Resaul J, Hargest R, Jiang WG, Ye L. Increased Expression of Follistatin in Breast Cancer Reduces Invasiveness and Clinically Correlates with Better Survival. Cancer Genomics Proteomics. 2017 Jul-Aug;14(4):241-251. doi: 10.21873/cgp.20035. PMID: 28647698; PMCID: PMC5572302.
+[a https://pubmed.ncbi.nlm.nih.gov/28647698/] doi: 10.21873/cgp.20035
+[li] Shi L, Resaul J, Owen S, Ye L, Jiang WG. Clinical and Therapeutic Implications of Follistatin in Solid Tumours. Cancer Genomics Proteomics. 2016 11-12;13(6):425-435. doi: 10.21873/cgp.20005. PMID: 27807065; PMCID: PMC5219916.
+[a https://pubmed.ncbi.nlm.nih.gov/27807065/] doi: 10.21873/cgp.20005
+[li] Ozawa T, Morikawa M, Morishita Y, Ogikubo K, Itoh F, Koinuma D, Nygren PÅ, Miyazono K. Systemic administration of monovalent follistatin-like 3-Fc-fusion protein increases muscle mass in mice. iScience. 2021 May 14;24(5):102488. doi: 10.1016/j.isci.2021.102488. PMID: 34113826; PMCID: PMC8170004.
+[a https://pubmed.ncbi.nlm.nih.gov/34113826/] doi: 10.1016/j.isci.2021.102488
+[li] Zhao C, Qiao C, Tang RH, Jiang J, Li J, Martin CB, Bulaklak K, Li J, Wang DW, Xiao X. Overcoming Insulin Insufficiency by Forced Follistatin Expression in β-cells of db/db Mice. Mol Ther. 2015 May;23(5):866-874. doi: 10.1038/mt.2015.29. Epub 2015 Feb 13. PMID: 25676679; PMCID: PMC4427879. https://pubmed.ncbi.nlm.nih.gov/25676679/
+[a https://pubmed.ncbi.nlm.nih.gov/25676679/] https://pubmed.ncbi.nlm.nih.gov/25676679/
+[li] Schumann C, Nguyen DX, Norgard M, Bortnyak Y, Korzun T, Chan S, Lorenz AS, Moses AS, Albarqi HA, Wong L, Michaelis K, Zhu X, Alani AWG, Taratula OR, Krasnow S, Marks DL, Taratula O. Increasing lean muscle mass in mice via nanoparticle-mediated hepatic delivery of follistatin mRNA. Theranostics 2018; 8(19):5276-5288. doi:10.7150/thno.27847. https://www.thno.org/v08p5276.htm
+[a https://www.thno.org/v08p5276.htm] https://www.thno.org/v08p5276.htm
+[li] Iskenderian A, Liu N, Deng Q, Huang Y, Shen C, Palmieri K, Crooker R, Lundberg D, Kastrapeli N, Pescatore B, Romashko A, Dumas J, Comeau R, Norton A, Pan J, Rong H, Derakhchan K, Ehmann DE. Myostatin and activin blockade by engineered follistatin results in hypertrophy and improves dystrophic pathology in mdx mouse more than myostatin blockade alone. Skelet Muscle. 2018 Oct 27;8(1):34. https://pubmed.ncbi.nlm.nih.gov/30368252/
+[a https://pubmed.ncbi.nlm.nih.gov/30368252/] https://pubmed.ncbi.nlm.nih.gov/30368252/
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] AHK-Cu (200mg) $192.00
+[a https://biotechpeptides.com/product/ahk-cu-topical-200mg/] AHK-Cu (200mg) $192.00
+[img] AHK-Cu (200mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/AHK-Cu-1-238x317.webp
+[h2] AHK-Cu (200mg)
+[li] PTD-DBM (5mg) $86.00
+[a https://biotechpeptides.com/product/ptd-dbm-5mg/] PTD-DBM (5mg) $86.00
+[img] PTD-DBM (5mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/PTD-DBM-1-238x317.webp
+[h2] PTD-DBM (5mg)
+[li] GHK-Cu (200mg) $186.00
+[a https://biotechpeptides.com/product/ghk-cu-topical-200mg/] GHK-Cu (200mg) $186.00
+[img] GHK-Cu (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/04/GHK-Cu-1-238x317.webp
+[h2] GHK-Cu (200mg)
+[li] Sale! Pal-AHK (200mg) $192.00 Original price was: $192.00.$180.00Current price is: $180.00.
+[a https://biotechpeptides.com/product/pal-ahk-topical-200mg/] Sale! Pal-AHK (200mg) $192.00 Original price was: $192.00.$180.00Current price is: $180.00.
+[img] Pal-AHK (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Pal-AHK-2-238x317.webp
+[h2] Pal-AHK (200mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

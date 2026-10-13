@@ -1,0 +1,118 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Protirelin (TRH Thyrotropin) – General Research and Scientific Observations
+[p] by Dr. Usman | Jan 29, 2024 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Protirelin (TRH Thyrotropin ) – General Research and Scientific Observations :: https://biotechpeptides.com/wp-content/uploads/2024/01/Protirelin-TRH-Thyrotropin-–-General-Research-and-Scientific-Observations.webp
+[p] Contents:
+[li] Protirelin Essential Functions
+[a #functions] Protirelin Essential Functions
+[li] Scientific Studies on Protirelin
+[a #studies] Scientific Studies on Protirelin
+[li] Case Studies of Protirelin
+[a #case-studies] Case Studies of Protirelin
+[li] Conclusions
+[a #conclusions] Conclusions
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/trh-thyrotropin-protirelin-25mg/] 
+[img] TRH Thyrotropin (Protirelin) (25mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Thyrotropin-TRH.png
+[h2] Protirelin Essential Functions
+[p] Researchers suggested that Protirelin may mimic the characteristics of naturally-occurring thyrotropin-releasing hormone (TRH). TRH is considered the first well-characterized hypothalamic peptide and has been studied as a neuroendocrine element. This peptide appears to be widely distributed in different brain regions, alluding to its analogs’ potential within the context of conditions such as brain and spinal injuries, as well as CNS disorders like schizophrenia, Alzheimer’s disease, epilepsy, amyotrophic lateral sclerosis, Parkinson’s disease, depression, shock, and ischemia.
+[p] Protirelin appears to stimulate the release of thyroid-stimulating hormone from the anterior pituitary. Additionally, it may potentially also increase prolactin release. The peptide has been suggested to increase TSH levels rapidly, peaking, then proceeding to decline more slowly, returning to baseline levels after about three hours.
+[h2] Scientific Studies on Protirelin
+[p] Research teams have evaluated the potential impacts of Protirelin in the context of spinocerebellar degeneration (SCD). This disease is manifested as a group of progressive neurodegenerative disorders affecting the spinal cord and cerebellum, vital central nervous system components. Research models of SCD ultimately exhibit a decline in motor function. The potential efficacy of the peptide within the context of SCD was assessed using the Scale for the Assessment and Rating of Ataxia (SARA) and the International Cooperative Ataxia Rating Scale (ICARS). Data from both these scoring matrices may indicate the effectiveness of Protirelin in ameliorating SCD.[1]
+[p] Thyrotropin releasing hormone (TRH), the smallest peptide hormone, is considered to exhibit central effects beyond its endocrine potential by acting on the pituitary-thyroid axis. It has been suggested to hold potential within the context of various neurological disorders, including intractable epilepsy. Research has been conducted to evaluate this peptide within the context of conditions like West syndrome, Lennox-Gastaut syndrome, and myoclonic epilepsy. Protirelin’s hypothetically prolonged action suggests a unique anticonvulsant mechanism, potentially influencing the seizure network’s plasticity.[2]
+[h2] Case Studies of Protirelin
+[p] In a randomized, single-blind, placebo-controlled study, research models of chronic upper motoneuron syndrome due to ischemic cerebrovascular lesions were exposed to a Protirelin tartrate. A semiquantitative assessment was used to identify a homogenous sample population, focusing on weakness and spasticity and neurophysiological evaluations (F-waves, magnetic motor evoked potentials). Results suggested a statistically significant absolute improvement in spasticity and muscular strength following the Protirelin tartrate, particularly in the lower limbs. The compound also exhibited supposedly favorable modifications in the response of the biceps femoris muscle to transcranial magnetic stimulation, including reappearance, increased amplitude, and a reduction in the motor-evoked potential threshold.[3]
+[p] Exposure of L-pyroglutamyl-L-histidyl-L-prolinamide (protirelin) to research models of amyotrophic lateral sclerosis (ALS), appeared to result in an improvement in functions associated with a deficiency in both lower motor neurons (weakness) and upper motor neurons (spasticity). This improvement appeared to be sustained during the infusion and persisted for about 1 hour post-infusion, with occasional slight improvements even 20 hours later. The mechanism by which Protirelin may produce this action, whether by replacing an ALS-associated deficiency or acting as a symptomatic supplement, remains uncertain. This study suggests the potential of further TRH study within the context of ALS, and offers insights into its potential pathogenesis, opening avenues for further exploring this biomolecule.[4]
+[p] Researchers hypothesize that Protirelin is also involved in elevating prolactin plasma levels, which may potentially influence sexual drive and function. As such, elevation in prolactin with Protirelin may contribute to modulating central nervous system centers regulating sexual drive and behavior.[7]
+[h2] Conclusions
+[p] Protirelin is a synthetic analog of the TRH neuropeptide. As outlined above, researchers speculate that the peptide’s impact may be diverse, the most prominent being neuroprotective potential in several neurodegenerative diseases. This peptide appears to be widely distributed in the hypothalamus region and may potentially manifest mitigatory action in refractory epilepsy, amyotrophic lateral sclerosis, motoneuron syndrome, and spinocerebellar degeneration.[8]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References
+[li] Yoshida A, Yamanishi Y, Tada S, Miyaue N, Ando R, Nagai M. Comparison of therapeutic effectiveness with SARA and iCARS using protirelin for spinocerebellar degeneration’s patients. Neurological Therapeutics. 2022;39(5):803-807. doi:10.15082/jsnt.39.5_803
+[a https://doi.org/10.15082/jsnt.39.5_803] doi:10.15082/jsnt.39.5_803
+[li] Takeuchi Y. Thyrotropin-Releasing Hormone (Protirelin). CNS Drugs. 1996;6:341–350. https://doi.org/10.2165/00023210-199606050-00001
+[a https://doi.org/10.2165/00023210-199606050-00001] https://doi.org/10.2165/00023210-199606050-00001
+[li] Civardi C, Naldi P, Cantello R, Gianelli M, Mutani R. Protirelin tartrate (TRH-T) in upper motoneuron syndrome: a controlled neurophysiological and clinical study. Ital J Neurol Sci. Nov 1994;15(8):395-406. doi:10.1007/BF02339903, PMID: 7875957, https://pubmed.ncbi.nlm.nih.gov/7875957/
+[a https://pubmed.ncbi.nlm.nih.gov/7875957/] https://pubmed.ncbi.nlm.nih.gov/7875957/
+[li] Engel WK, Siddique T, Nicoloff JT. Effect on weakness and spasticity in amyotrophic lateral sclerosis of thyrotropin-releasing hormone. Lancet. Jul 9 1983;2(8341):73-5. doi:10.1016/s0140-6736(83)90060-0, PMID: 6134961, https://pubmed.ncbi.nlm.nih.gov/6134961/
+[a https://pubmed.ncbi.nlm.nih.gov/6134961/] https://pubmed.ncbi.nlm.nih.gov/6134961/
+[li] Eandi M, Signorile F, Rubinetto MP, Genazzani E. [Evaluation of the efficacy and tolerability of protirelin. Results of a multicenter study in Italy]. Ann Ital Med Int. Jul-Sep 1990;5(3 Pt 2):270-8. Valutazione dell’efficacia e tollerabilita della protirelina. Risultati di uno studio policentrico in Italia. PMID: 2127689, https://pubmed.ncbi.nlm.nih.gov/2127689/
+[a https://pubmed.ncbi.nlm.nih.gov/2127689/] https://pubmed.ncbi.nlm.nih.gov/2127689/
+[li] Marangell LB, George MS, Callahan AM, Ketter TA, Pazzaglia PJ, L’Herrou TA, Leverich GS, Post RM. Effects of intrathecal thyrotropin-releasing hormone (protirelin) in refractory depressed patients. Arch Gen Psychiatry. Mar 1997;54(3):214-22. doi:10.1001/archpsyc.1997.01830150034007, PMID: 9075462, https://pubmed.ncbi.nlm.nih.gov/9075462/
+[a https://pubmed.ncbi.nlm.nih.gov/9075462/] https://pubmed.ncbi.nlm.nih.gov/9075462/
+[li] Kruger TH, Haake P, Haverkamp J, Kramer M, Exton MS, Saller B, Leygraf N, Hartmann U, Schedlowski M. Effects of acute prolactin manipulation on sexual drive and function in males. J Endocrinol. Dec 2003;179(3):357-65. doi:10.1677/joe.0.1790357, PMID: 14656205, https://pubmed.ncbi.nlm.nih.gov/14656205/
+[a https://pubmed.ncbi.nlm.nih.gov/14656205/] https://pubmed.ncbi.nlm.nih.gov/14656205/
+[li] Alvarez-Salas E, Garcia-Luna C, de Gortari P. New Efforts to Demonstrate the Successful Use of TRH as a Therapeutic Agent. Int J Mol Sci. Jul 4, 2023;24(13) doi:10.3390/ijms241311047, PMID: 37446225 PMCID: PMC10341491, https://pubmed.ncbi.nlm.nih.gov/37446225/
+[a https://pubmed.ncbi.nlm.nih.gov/37446225/] https://pubmed.ncbi.nlm.nih.gov/37446225/
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

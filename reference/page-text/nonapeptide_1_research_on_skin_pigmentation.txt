@@ -1,0 +1,124 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Nonapeptide-1: Research on Skin Pigmentation
+[p] by Dr. Usman | Feb 12, 2024 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Nonapeptide-1 Research on Skin Pigmentation :: https://biotechpeptides.com/wp-content/uploads/2024/02/Nonapeptide-1-Research-on-Skin-Pigmentation.webp
+[a https://biotechpeptides.com/product/nonapeptide-1-topical-200mg/] Nonapeptide-1 peptide
+[p] Comprising the amino acids arginine, lysine, methionine, phenylalanine, proline, tryptophan, and valine, Nonapeptide-1 first emerged in the 1990s as a subject of scientific inquiry, primarily for its proposed capacity to impede melanin synthesis. Melanin is a primary pigment in mammals governing skin, fur, hair, and ocular coloration. Despite initial interest, the understanding of Nonapeptide-1 remains rudimentary, with many aspects of its mechanisms and potential yet to be elucidated.
+[p] Research on Nonapeptide-1 has concentrated on its putative role in melanin production inhibition by disrupting the signaling cascade intrinsic to melanogenesis. Specifically, investigations suggest that Nonapeptide-1 may interfere with melanocortin-1 receptor function, potentially impeding the action of melanocyte-stimulating hormones and hindering the activation of tyrosinase, an essential enzyme in melanin synthesis. Preliminary animal studies indicate a possible attenuation of hyperpigmentation and modulation of skin tone with Nonapeptide-1 exposure. However, comprehensive investigations are imperative to grasp the peptide’s complete potential.
+[p] Contents:
+[li] Mechanism of Action
+[a #Mechanism-Action] Mechanism of Action
+[li] Nonapeptide-1 and Dermal Pigmentation
+[a #Dermal-Pigmentation] Nonapeptide-1 and Dermal Pigmentation
+[li] Future Research
+[a #Future-Research] Future Research
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/nonapeptide-1-topical-200mg/] 
+[img] Buy Nonapeptide-1 (200mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Nonapeptide.png
+[h2] Mechanism of Action
+[p] Nonapeptide-1, at a technical level, appears to exhibit capacity as a melanin synthesis inhibitor, reportedly achieved through interference with the action of tyrosinase. Tyrosinase, the principal enzyme governing melanin synthesis within specialized cells termed melanocytes, is considered crucial for pigment production. Nonapeptide-1’s apparent interference with tyrosinase function appears to impede melanocyte pigment production.[2,3]
+[p] Consequently, through this mechanism, researchers suggest that Nonapeptide-1 may demonstrate potential in animal studies to diminish skin pigmentation, thereby ameliorating hyperpigmented areas caused by sun exposure and certain pathologies.
+[p] Emerging scientific data also suggests that Nonapeptide-1 may exert its effects by modulating the activity of melanocyte-stimulating hormone (MSH). MSH levels elevate during specific physiological states such as pregnancy, certain disorders (e.g., diabetes, Addison’s disease), and excessive sun exposure. MSH, derived from adrenocorticotropic hormone, is considered to play a pivotal role in skin pigmentation regulation. Synthetic analogs of MSH, like melanotan II, has been proposed to mimic its effects and induce skin darkening. Intriguingly, the responsiveness to MSH appears to vary; with some research models exhibiting apparent diminished responsiveness due to genetic variations in MSH receptors, resulting in inadequate MSH-mediated effects on melanocytes.
+[h2] Nonapeptide-1 and Dermal Pigmentation
+[p] Research into the potential effects of Nonapeptide-1 has been conducted in both clinical and laboratory environments. In a particular in vitro investigation, keratinocyte cell line (HaCaT) cells and epidermal melanocytes (HEM) were subjected to UVA exposure and then introduced with varying concentrations of the acetate salt of Nonapeptide-1.[4]
+[p] Examinations of cell viability, melanin content, and tyrosinase activity were carried out. The findings suggested that Nonapeptide-1 exhibited the capability to downregulate melanocortin 1 receptor expression without impacting α-MSH levels. Moreover, it appeared to significantly diminish the expression of tyrosinase, TRP1 (tyrosinase-related protein-1), TRP2 (tyrosinase-related protein-2), and MITF (microphthalmia-associated transcription factor), both in the presence and absence of concurrent UVA radiation. Additionally, the researchers proposed that cells exposed to Nonapeptide-1 displayed potential to resist melanin production.
+[p] Recent investigations into Nonapeptide-1 hypothesize a noticeable skin lightening effect, estimated to be at least 33%, with indications of continued lightening over time.[5]
+[p] The sole clinical trial on this subject was a prospective double-blinded parallel-group randomized controlled pilot study spanning eight months and comprising three phases.[6] Researchers reported an observable amelioration in severity scores of melasma and mean melanin index. As per the researchers, “The melasma area and severity index score showed a consistent reduction in the case group, whereas it increased in the control group from baseline.”
+[h2] Nonapeptide-1 Future Research
+[p] In addition to melanocytes, Nonapeptide-1 may potentially target melanocortin-1 receptors expressed in various cell types, including nerve and immune cells. Specifically, these receptors have been identified in the periaqueductal gray matter, a region pivotal in nociception.[7]
+[p] Experiments conducted on mice with heightened expression of an endogenous melanocortin 1 receptor antagonist, in comparison to control mice, shed light on their responses to both painful and non-painful stimuli, as well as their reactions to inflammatory and neuropathic pain. Furthermore, their aversion to capsaicin, which activates the TRPV1 noxious heat receptor, was assessed using a paired preference paradigm.
+[p] Mice exhibiting elevated levels of the melanocortin 1 receptor antagonist showcased a diminished inflammatory pain response, slower onset of inflammation-induced hypersensitivity and allodynia, and reduced aversion to moderate capsaicin concentrations. Notably, these effects were discernible solely in female mice, with no “effect of mutant genotype on neuropathic pain” on mice of either sex.[8]
+[p] Moreover, investigations suggest a potential involvement of melanocortin 1 receptors in the proliferation and survival of melanoma tumor cells.[9] Melanoma may exhibit alterations in risk associated with mutations in the melanocortin 1 receptor gene. In a pertinent study, researchers inhibited melanocortin 1 receptors utilizing natural inhibitors, resulting in diminished melanin synthesis and morphological heterogeneity in murine B16-F10 melanoma cells. Notably, this inhibition correlated with decelerated tumor cell growth and enhanced uniformity in tumor size and morphology.
+[p] The findings underscore the potential significance of melanocortin 1 receptors in governing melanoma growth and morphology, suggesting that sustained inhibition of these receptors might impede the growth rate of tumor cells expressing them. It is noteworthy that Nonapeptide-1’s impact on melanoma tumor cells remains unexplored.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] Ishihara Y, Oka M, Tsunakawa M, Tomita K, Hatori M, Yamamoto H, Kamei H, Miyaki T, Konishi M, Oki T. Melanostatin, a new melanin synthesis inhibitor. Production, isolation, chemical properties, structure and biological activity. J Antibiot (Tokyo). 1991 Jan;44(1):25-32. doi: 10.7164/antibiotics.44.25. PMID: 1672125. https://pubmed.ncbi.nlm.nih.gov/1672125/
+[a https://pubmed.ncbi.nlm.nih.gov/1672125/] https://pubmed.ncbi.nlm.nih.gov/1672125/
+[li] MelanostatineTM 5 – Lucas Meyer Cosmetics – datasheet. Available at: http://cosmetics.specialchem.com/product/i-lucas-meyer-cosmetics-melanostatine-5
+[a http://cosmetics.specialchem.com/product/i-lucas-meyer-cosmetics-melanostatine-5] http://cosmetics.specialchem.com/product/i-lucas-meyer-cosmetics-melanostatine-5
+[li] Abu Ubeid A, Zhao L, Wang Y, Hantash BM. Short-sequence oligopeptides with inhibitory activity against mushroom and human tyrosinase. J Invest Dermatol. 2009 Sep;129(9):2242-9. doi: 10.1038/jid.2009.124. Epub 2009 May 14. PMID: 19440221. https://pubmed.ncbi.nlm.nih.gov/19440221/
+[a https://pubmed.ncbi.nlm.nih.gov/19440221/] https://pubmed.ncbi.nlm.nih.gov/19440221/
+[li] Chen, J., Li, H., Liang, B., & Zhu, H. (2022). Effects of tea polyphenols on UVA-induced melanogenesis via inhibition of α-MSH-MC1R signalling pathway. Postepy dermatologii i alergologii, 39(2), 327–335. https://doi.org/10.5114/ada.2022.115890
+[a https://doi.org/10.5114/ada.2022.115890] https://doi.org/10.5114/ada.2022.115890
+[li] Mohammed, Y. H., Moghimi, H. R., Yousef, S. A., Chandrasekaran, N. C., Bibi, C. R., Sukumar, S. C., Grice, J. E., Sakran, W., & Roberts, M. S. (2017). Efficacy, Safety and Targets in Transdermal Active and Excipient Delivery. Percutaneous Penetration Enhancers Drug Penetration Into/Through the Skin: Methodology and General Considerations, 369–391. https://doi.org/10.1007/978-3-662-53270-6_23
+[a https://doi.org/10.1007/978-3-662-53270-6_23] https://doi.org/10.1007/978-3-662-53270-6_23
+[li] Chatterjee, M., Neema, S., & Rajput, G. R. (2021). A randomized controlled pilot study of a proprietary combination versus sunscreen in melasma maintenance. Indian journal of dermatology, venereology and leprology, 88(1), 51–58. https://doi.org/10.25259/IJDVL_976_18
+[a https://doi.org/10.25259/IJDVL_976_18] https://doi.org/10.25259/IJDVL_976_18
+[li] Xia Y, Wikberg JE, Chhajlani V. Expression of melanocortin 1 receptor in periaqueductal gray matter. Neuroreport. 1995 Nov 13;6(16):2193-6. doi: 10.1097/00001756-199511000-00022. PMID: 8595200. https://pubmed.ncbi.nlm.nih.gov/8595200/
+[a https://pubmed.ncbi.nlm.nih.gov/8595200/] https://pubmed.ncbi.nlm.nih.gov/8595200/
+[li] Delaney, A., Keighren, M., Fleetwood-Walker, S. M., & Jackson, I. J. (2010). Involvement of the melanocortin-1 receptor in acute pain and pain of inflammatory but not neuropathic origin. PloS one, 5(9), e12498. https://doi.org/10.1371/journal.pone.0012498
+[a https://doi.org/10.1371/journal.pone.0012498] https://doi.org/10.1371/journal.pone.0012498
+[li] Kansal, R. G., McCravy, M. S., Basham, J. H., Earl, J. A., McMurray, S. L., Starner, C. J., Whitt, M. A., & Albritton, L. M. (2016). Inhibition of melanocortin 1 receptor slows melanoma growth, reduces tumor heterogeneity and increases survival. Oncotarget, 7(18), 26331–26345. https://doi.org/10.18632/oncotarget.8372
+[a https://doi.org/10.18632/oncotarget.8372] https://doi.org/10.18632/oncotarget.8372
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

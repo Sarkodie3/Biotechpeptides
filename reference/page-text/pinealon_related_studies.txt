@@ -1,0 +1,90 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Pinealon Related Studies
+[p] by Dr. Usman | Jun 24, 2022 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Pinealon Related Studies :: https://biotechpeptides.com/wp-content/uploads/2022/06/Pinealon-Related-Studies.avif
+[a https://biotechpeptides.com/product/pinealon-20mg/] Pinealon is a peptide made up of three amino acid sequences
+[p] Compared to other peptides, Pinealon does not appear to bind to cell surfaces or cytoplasmic receptors. As a result, scientists hypothesized that Pinealon may be small enough to circumvent lipid bilayers (such as the cell membrane and nuclear membrane) and interact directly with DNA. According to scientific studies in cell cultures, the peptide may directly permeate cell membranes and nuclear membranes to interact with DNA.
+[h2] Research
+[h3] Pinealon and Cell Aging
+[p] Pinealon may impact cell aging cycles in the central nervous system, according to studies. Pinealon and Vesugen, according to a Russian study, may be anabolic in the brain and may reduce the cell aging process when assessed using biological age markers.
+[p] According to experts, Pinealon may be active in cells outside the central nervous system. Pinealon may influence muscle irisin synthesis, an adipocytokine produced in skeletal muscles and subcutaneous and visceral adipose areas that protect myocytes during exercise, promote fat burning, and induce telomere extension. As a result, increasing the lifespan of irisin may possibly improve telomere maintenance and assist in the fight against the harmful action of oxidative stress and cell aging.
+[h3] Pinealon and Neuron Protection
+[p] Pinealon has been suggested following scientific studies in prenatal rats to protect neurons from oxidative damage while preventing cognitive functioning and motor coordination. The findings suggest a reduction in the accumulation of reactive oxygen species (ROS) and numerous necrotic cells in the brains of the rats studied. The compound appears to control cell cycles by activating proliferation pathways. It may mitigate some of the adverse action of ROS in oxidative stress.
+[p] Pinealon has been suggested to boost cell and neuron resilience to hypoxia in adult rats. The peptide appears to achieve this by increasing anti-oxidative enzyme systems and minimizing the excitotoxic action of N-methyl-D-aspartate (NMDA), an amino acid derivative considered to be capable of killing brain cells by over-excitation.
+[p] Irisin may promote neuronal differentiation, proliferation, and energy expenditure in the brain. Pinealon appears to raise irisin levels by modulating the gene expression that codes for the enzyme, possibly resulting in higher irisin levels due to the enzyme’s longer half-life.
+[h3] Caspase-3 and Cell Death
+[p] Peptide research in animal models of ischemic stroke was suggested to alter cytokine signaling, which may lead to a rise in the levels of caspase-3 enzyme—an enzyme that triggers apoptosis. The peptide may inhibit at least one of the processes that induce cell death by modulating the activities of caspase-3, possibly lowering the impact of oxygen deprivation in stroke. Pinealon appears to mitigate long-term remodeling that may lead to myocardial infarction-related dysfunctions.
+[p] Pinealon’s potential in reducing caspase-3 expression are suggested further in studies in skin cells. The peptide may improve cell proliferation in older and young animals by decreasing skin apoptosis.
+[h3] Pinealon and Sleep Regulation
+[p] Pinealon, may act to reset the pineal gland, possibly allowing for circadian rhythm disturbance, improved sleep cycle regulation. The capacity of the Pinealon to potentially adjust sleep has been associated with organism age. Irregular sleep may impact metabolic function, as well as cascade of physiological processes, in some ways not yet fully understood. Pinealon’s potential to regulate sleep may support physiological functioning on a macro level.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

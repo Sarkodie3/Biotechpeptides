@@ -1,0 +1,134 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: https://biotechpeptides.com/wp-content/uploads/2020/12/Biotech-Peptides.png
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[h1] Frag 176-191: Insights from Lipolytic, Osteoarthritic, and Oncologic Models
+[p] by Dr. Usman | Jul 25, 2025 | Research
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[a https://biotechpeptides.com/category/research/] Research
+[img] Frag 176-191 Insights from Lipolytic, Osteoarthritic, and Oncologic Models :: https://biotechpeptides.com/wp-content/uploads/2025/08/Frag-176-191-Insights-from-Lipolytic-Osteoarthritic-and-Oncologic-Models-webp.avif
+[a https://biotechpeptides.com/product/fragment-176-191-5mg/] hGH Fragment 176-191
+[a https://biotechpeptides.com/product/aod-9604-5mg/] AOD 9604
+[p] Initial development of this peptide appears to be based on research suggesting that the lipolytic activity of hGH is largely mediated by its C-terminal domain, independently of its growth-promoting implications. Research suggests that the synthetic fragment may retain the biochemical characteristics associated with adipose tissue modulation while lacking other systemic implications attributed to full-length hGH, such as alterations in insulin-like growth factor-1 (IGF-1) levels or stimulation of somatic growth.
+[p] Contents:
+[li] Mechanisms of Action
+[a #ma] Mechanisms of Action
+[li] Scientific and Research Studies
+[a #research] Scientific and Research Studies
+[li] Frag 176-191 and Adrenergic Signaling Plasticity in Fat Reduction
+[a #fr] Frag 176-191 and Adrenergic Signaling Plasticity in Fat Reduction
+[li] Frag 176-191 and Cartilage Matrix Restoration
+[a #cmr] Frag 176-191 and Cartilage Matrix Restoration
+[li] Frag 176-191 and Glycogen Metabolic Regulation
+[a #gmr] Frag 176-191 and Glycogen Metabolic Regulation
+[li] Frag 176-191 and Chemo-Related Intervention Modulation
+[a #crim] Frag 176-191 and Chemo-Related Intervention Modulation
+[li] References
+[a #references] References
+[p] Featured Product
+[a https://biotechpeptides.com/product/fragment-176-191-5mg/] 
+[img] Fragment 176-191 (5mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Frag-176-191-5mg-1.webp
+[h2] Mechanism of Action
+[p] Frag 176-191 is hypothesized to exert its support via pathways that are partially distinct from those activated by full-length hGH. Preclinical studies suggest that the peptide may modulate lipid metabolism primarily through interaction with β₃-adrenergic receptors (β₃-AR). These receptors are widely expressed in adipose tissue and skeletal muscle cells. Activation of these receptors has been associated with better-supported thermogenesis and lipolysis in murine models.[2]
+[p] Experimental exposure to Frag 176-191 in obese murine models has reportedly resulted in reductions in overall mass and adipose tissue deposits. These outcomes were reported alongside increased expression of β₃-AR mRNA, suggesting a possible upregulation of adrenergic signaling components. However, similar lipolytic implications have also been reported in murine models that are somewhat deficient in conventional lipolytic receptor pathways. This may suggest the possible presence of additional or compensatory mechanisms of action.
+[p] Alternative mechanisms currently under investigation appear to include potentially peptide-related modulation of energy expenditure and fatty acid oxidation pathways. Similar modulation may occur independently of direct β₃-adrenergic receptor (β₃-AR) activation. Frag 176-191 does not appear to alter carbohydrate metabolism or insulin sensitivity significantly in murine research models. This alone distinguishes its profile from that of endogenous hGH.
+[p] From a biochemical perspective, the peptide’s reported resistance to enzymatic degradation may be attributed to the presence of a disulfide bridge between cysteine residues, along with an N-terminal tyrosine substitution, which potentially supports its structural resilience under experimental conditions, such as in vitro digestion models. [3][4]
+[h2] Scientific Research and Studies
+[h3] Frag 176-191 and Adrenergic Signaling Plasticity in Fat Reduction
+[p] Frag 176-191 appears to have been studied extensively in the context of adipocyte metabolism, particularly regarding its interaction with beta-adrenergic signaling systems. Experimental studies suggest that the peptide may support β₃-adrenergic receptor (β₃-AR) expression in adipose tissues. These receptors have been identified as critical mediators of catecholamine-induced lipolysis in murine models. Their upregulation may contribute to an increase in the sensitivity of murine models to endogenous ligands such as norepinephrine.
+[p] The proposed mechanism includes a peptide-induced support of β₃-AR gene transcription, potentially leading to increased mRNA expression and receptor density on adipocyte membranes. This upregulation may result in heightened responsiveness of adipocytes to lipolytic stimuli. Additionally, Frag 176-191 may exert indirect effects on intracellular cascades involving cyclic adenosine monophosphate (cAMP) and hormone-sensitive lipase (HSL), which are central to the hydrolysis of stored triglycerides.
+[p] A 12-week preclinical study, METAOD005, studied these mechanistic hypotheses using 300 murine research models divided into six cohorts. Five groups received varying concentrations of Frag 176-191, while one served as a control. Among the peptide-exposed groups, one indicated a statistically significant mean reduction in research model mass compared to baseline measurements. In parallel, researchers observed potentially favorable modulations in lipid metabolism markers, including lower serum triglyceride levels and indications of better-supported glucose tolerance in murine research models.[5]
+[p] Notably, the only observable mass-modifying implications of Frag 176-191 were observed only in obese murine models, with no changes observed in lean research models within the same study. Researchers state that “these studies have revealed previously unrecognized molecular targets for controlling [hunger hormones]and managing [mass] from which has emerged a new wave of targeted pharmacological interventions to [mitigate] and control obesity [in murine models].”[5]
+[h3] Frag 176-191 and Cartilage Matrix Restoration
+[p] Although originally derived to isolate the lipolytic domain of hGH, research suggests that the Frag 176-191 peptide may have potential activity in biological processes beyond adipose metabolism. One such domain of research is the study of cartilage integrity and regeneration. A controlled preclinical study studied the peptide’s potential support using a collagenase-induced model of osteoarthritis in murine knee joints. In this model, type II collagenase was exposed to research models to chemically degrade articular cartilage in a laboratory setting, simulating the inflammatory and degenerative features of osteoarthritis.
+[p] Murine research models were then stratified into four groups: Group 1 received saline, Group 2 received hyaluronic acid (HA), Group 3 received Frag 176-191, and Group 4 received a combination treatment of Frag 176-191 and HA, administered over a interval of 4-7 weeks.[6] Histopathological assessments and morphological evaluations were conducted at week 8. The cartilage damage scores in the saline-treated group were reportedly higher than in all other cohorts. Group 4, which received the combined agents, appeared to exhibit the lowest histological damage index, along with marked reductions in lameness duration. These results suggest a potential additive or synergistic support when Frag 176-191 is exposed to research models in conjunction with HA.[6]
+[p] While the precise mechanism remains speculative, researchers hypothesized that the peptide may contribute to chondrocyte protection or matrix synthesis. Possible additional research pathways may include modulation of extracellular matrix remodeling, support for cytokine activity, or support for mesenchymal cell recruitment. The mode of delivery via ultrasound-guided intra-articular exposure may have contributed to localized tissue responses, though further mechanistic work is required to verify this interaction. These findings suggest that Frag 176-191 participates in biological processes beyond fat cell metabolism, including the maintenance of cartilage homeostasis under experimental inflammatory stress.
+[h3] Frag 176-191 and Glycogen Metabolic Regulation
+[p] Frag 176-191 has been studied for potential support for glycogen metabolism and glucose homeostasis in physiologically normal mammalian research models. In a controlled preclinical study assessing synthetic hGH derivatives, including Frag 176-191, researchers reportedly observed metabolic changes in response to peptide exposure that may suggest a broader systemic support.
+[p] Studies suggest a modest increase in circulating glucose and lactate concentrations, concurrent with a reduction in the active-to-inactive ratio of glycogen synthase across multiple tissues, including liver, skeletal muscle cells, and adipose depots. Total glycogen synthase expression levels remained stable. It has been suggested that the observed shift may have been enzymatic rather than transcriptional.
+[p] This modulation of glycogen synthase activity may favor glycogenolysis over glycogenesis, potentially increasing the availability of glucose for peripheral tissues. Furthermore, elevated lactate concentrations were tentatively linked to the mitigation of pyruvate dehydrogenase (PDH) activity. As per the researchers, “the addition of lactate increased the flux through the gluconeogenic pathway, and appeared as glucose because the peptide also inactivated glycogen synthase. Thus, the hyperglycemia produced by hGH 177–199 and related peptides is explicable in terms of a modified Cori Cycle.”[6]
+[h3] Frag 176-191 and Chemo-Related Intervention Modulation
+[p] Recent computational and in vitro studies have explored the potential for Frag 176-191 to modulate cellular processes relevant to cancer biology. One such study[7] assessed the interaction between the peptide and molecular targets associated with proliferative signaling in breast adenocarcinoma cell lines, particularly when co-exposed to doxorubicin-loaded chitosan nanoparticles. In silico molecular docking simulations suggested that Frag 176-191 may exhibit binding affinity toward proteins such as Ki-67, MiB1, and various steroid hormone receptors, including the estrogen and progesterone receptors. These proteins are commonly associated with transcriptional regulation and cell cycle progression.
+[p] Computational models suggested that the presence of Frag 176-191 may alter the predicted binding dynamics of chemo-related intervention agents to these targets, most notably by reducing the estimated mitigation constant of doxorubicin for the progesterone receptor. These shifts may suggest a potential support for ligand-binding interactions. In vitro assays were conducted in parallel with MCF-7 cell cultures to examine the cytotoxic profiles of doxorubicin with and without co-treatment with Frag 176-191.
+[p] Results from these early-stage models displayed an apparent increase in doxorubicin activity in the presence of the peptide, although the mechanistic pathways remain unclear. At the same time, the biological relevance of these interactions continues to be studied, as per researchers, “these dual-loaded Chitosan nanoparticles (have been) posited to have greater anti-proliferative activity against a breast cancer cell line (MCF-7) than doxorubicin-loaded Chitosan. This dual-loading strategy may support the anticancer potency of doxorubicin and reduce the clinical side effects associated with non-target tissue exposure.”[7]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h2] References:
+[li] Cox HD, Smeal SJ, Hughes CM, Cox JE, Eichner D. Detection and in vitro metabolism of AOD9604. Drug Test Anal. 2015 Jan;7(1):31-8. doi: 10.1002/dta.1715. Epub 2014 Sep 10. PMID: 25208511. https://pubmed.ncbi.nlm.nih.gov/25208511/
+[a https://pubmed.ncbi.nlm.nih.gov/25208511/] https://pubmed.ncbi.nlm.nih.gov/25208511/
+[li] Heffernan M, Summers RJ, Thorburn A, Ogru E, Gianello R, Jiang WJ, Ng FM. The effects of human GH and its lipolytic fragment (AOD9604) on lipid metabolism following chronic treatment in obese mice and beta(3)-AR knock-out mice. Endocrinology. 2001 Dec;142(12):5182-9. doi: 10.1210/endo.142.12.8522. PMID: 11713213. https://pubmed.ncbi.nlm.nih.gov/11713213/
+[a https://pubmed.ncbi.nlm.nih.gov/11713213/] https://pubmed.ncbi.nlm.nih.gov/11713213/
+[li] Stier, Heike, Evert Vos, and David Kenley. “Safety and Tolerability of the Hexadecapeptide AOD9604 in Humans.” Journal of Endocrinology and Metabolism 3.1-2 (2013): 7-15. https://jofem.org/index.php/jofem/article/view/157
+[a https://jofem.org/index.php/jofem/article/view/157] https://jofem.org/index.php/jofem/article/view/157
+[li] Moré, Margret I., and David Kenley. Safety and metabolism of AOD9604, a novel nutraceutical ingredient for improved metabolic health. Journal of Endocrinology and Metabolism 4.3 (2014): 64-77. https://www.jofem.org/index.php/jofem/article/view/213
+[a https://www.jofem.org/index.php/jofem/article/view/213] https://www.jofem.org/index.php/jofem/article/view/213
+[li] Valentino MA, Lin JE, Waldman SA. Central and peripheral molecular targets for antiobesity pharmacotherapy. Clin Pharmacol Ther. 2010 Jun;87(6):652-62. doi: 10.1038/clpt.2010.57. Epub 2010 May 5. PMID: 20445536; PMCID: PMC3136748. https://pubmed.ncbi.nlm.nih.gov/20445536/
+[a https://pubmed.ncbi.nlm.nih.gov/20445536/] https://pubmed.ncbi.nlm.nih.gov/20445536/
+[li] Kwon DR, Park GY. Effect of Intra-articular Injection of AOD9604 with or without Hyaluronic Acid in Rabbit Osteoarthritis Model. Ann Clin Lab Sci. 2015 Summer;45(4):426-32. PMID: 26275694. https://pubmed.ncbi.nlm.nih.gov/26275694/
+[a https://pubmed.ncbi.nlm.nih.gov/26275694/] https://pubmed.ncbi.nlm.nih.gov/26275694/
+[li] Habibullah MM, Mohan S, Syed NK, Makeen HA, Jamal QMS, Alothaid H, Bantun F, Alhazmi A, Hakamy A, Kaabi YA, Samlan G, Lohani M, Thangavel N, Al-Kasim MA. Human Growth Hormone Frag 176-191 Peptide Enhances the Toxicity of Doxorubicin-Loaded Chitosan Nanoparticles Against MCF-7 Breast Cancer Cells. Drug Des Devel Ther. 2022 Jun 27;16:1963-1974. doi: 10.2147/DDDT.S367586. PMID: 35783198; PMCID: PMC9249349. https://pmc.ncbi.nlm.nih.gov/articles/PMC9249349/
+[a https://pmc.ncbi.nlm.nih.gov/articles/PMC9249349/] https://pmc.ncbi.nlm.nih.gov/articles/PMC9249349/
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Latest Post
+[li] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[img] AEDR Peptide (Cardiogen) Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/10/AEDR-Peptide-Cardiogen-Molecular-Characterization-Cardiac-Tissue-Epigenetic-Regulation-and-Preclinical-Research-150x77.webp
+[a https://biotechpeptides.com/aedr-peptide-cardiogen-molecular-characterization-cardiac-tissue-epigenetic-regulation-and-preclinical-research/] AEDR Peptide (Cardiogen): Molecular Characterization, Cardiac-Tissue Epigenetic Regulation, and Preclinical Research
+[li] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[img] KLOW Blend: Multi-Pathway Tissue Research - Biotech Peptides :: https://biotechpeptides.com/wp-content/uploads/2026/08/KLOW-Blend-Multi-Pathway-Tissue-Research-Biotech-Peptides-150x84.webp
+[a https://biotechpeptides.com/klow-blend-bpc-157-tb-500-ghk-cu-kpv-molecular-characterization-receptor-mechanisms-and-multi-pathway-tissue-research/] KLOW Blend (BPC-157, TB-500, GHK-Cu, KPV): Molecular Characterization, Receptor Mechanisms, and Multi-Pathway Tissue Research
+[li] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[img]  :: https://biotechpeptides.com/wp-content/uploads/2026/08/Pinealon-EDR-Molecular-Characterization-Epigenetic-Mechanisms-and-Neuroprotective-Research-150x89.webp
+[a https://biotechpeptides.com/edr-pinealon-molecular-characterization-epigenetic-mechanisms-and-neuroprotective-research/] EDR (Pinealon): Molecular Characterization, Epigenetic Mechanisms, and Neuroprotective Research
+[li] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[img] Biopeptide EL: Elastin-Binding Receptor Dermatology Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/Biopeptide-EL-Elastin-Binding-Receptor-Dermatology-Research-150x68.webp
+[a https://biotechpeptides.com/biopeptide-el-molecular-characterization-elastin-binding-receptor-dermatology-and-extracellular-matrix-research/] Biopeptide EL: Molecular Characterization, Elastin-Binding Receptor Dermatology, and Extracellular Matrix Research
+[li] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[img] BPC157: Molecular Characterization and Preclinical Research :: https://biotechpeptides.com/wp-content/uploads/2026/07/BPC157-Molecular-Characterization-and-Preclinical-Research-150x84.webp
+[a https://biotechpeptides.com/bpc157-molecular-characterization-pleiotropic-signaling-mechanisms-and-preclinical-research/] BPC157: Molecular Characterization, Pleiotropic Signaling Mechanisms, and Preclinical Research
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

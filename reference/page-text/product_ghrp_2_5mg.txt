@@ -1,0 +1,146 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-2.webp] 
+[img] GHRP-2 :: https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-2-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/GHRP-2-5mg-COA-scaled.webp] 
+[img] GHRP-2 (5mg) COA :: https://biotechpeptides.com/wp-content/uploads/2026/04/GHRP-2-5mg-COA-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/GHRP-2-5mg-LC-scaled.webp] 
+[img] GHRP-2 (5mg) LC :: https://biotechpeptides.com/wp-content/uploads/2026/04/GHRP-2-5mg-LC-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/GHRP-2-5mg-MS-scaled.webp] 
+[img] GHRP-2 (5mg) MS :: https://biotechpeptides.com/wp-content/uploads/2026/04/GHRP-2-5mg-MS-scaled.webp
+[h1] GHRP-2 (5mg)
+[p] $20.00
+[p] GHRP-2 peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_706 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $19.00
+[input name=wccs_tier_select_706 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $18.00
+[label] GHRP-2 (5mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-2-5mg-.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h3] GHRP-2 Peptide
+[p] GHRP-2, also known as Pralmorelin (also available in 10mg) is a synthetic growth hormone secretagogue that researchers consider may interact with the ghrelin/growth hormone secretagogue receptor found on pituitary cells. It is a pentapeptide consisting of five amino acids and bears a resemblance to the endogenous neurotransmitter, met-enkephalin. It is proposed, albeit with uncertainty, that GHRP-2 may not function as a typical neurotransmitter. Rather, it is hypothesized to engage with ghrelin receptors. Ghrelin, identified as a hormone that regulates appetite, may be affected by interactions with GHRP-2. There is a conjecture that GHRP-2 might induce the secretion of growth hormone (GH) through potential interactions with ghrelin receptors on the pituitary gland, specifically the growth hormone secretagogue receptors (GHS-Rs). Yet, the nature of this interaction is still under investigation and not conclusively established. Extensive research has also been performed to evaluate its role in regulating various physiological processes, including muscle development, appetite, immune functions, and sleep cycles.[1]
+[a https://biotechpeptides.com/product/ghrp-2-10mg/] (also available in 10mg)
+[h3] Specifications
+[p] Other Known Titles: Pralmorelin
+[p] Molecular Formula: C45H55N9O6
+[p] Molecular Weight: 817.9 g/mol
+[p] Sequence: H-D-Ala-D-2-Nal-Ala-Trp-D-Phe-Lys-NH2
+[h3] GHRP-2 Research
+[p] GHRP-2 and Muscle Structure Research in yaks noted that GHRP-2 peptide appeared to stimulate the growth of muscles in two ways: enhanced protein synthesis and accumulation, and reduced protein degradation.[3] The study suggested that GHRP-2 may help to overcome natural growth limitation that occurs in yaks because of food deprivation, adverse environmental conditions, and disease. The researchers also posited that “GHRP-2 enhanced muscle protein deposition mainly by up-regulating the protein synthesis pathways.” The most significant observation has been the potential action of GHRP-2 in reducing muscle atrophy through repression of atrogin-1 and MuRF1- proteins, which are considered to regulate muscle degradation pathways.
+[p] GHRP-2 and the Heart Studies in fetal heart cell culture lines have theorized that GHRP-2 and its analogs (GHRP-1 and GHRP-6) may help to protect cardiac cells by minimizing apoptosis or programmed cell death.[4] The peptide appears to protect cardiac muscles from a reduced supply of blood and nutrients, which may in some cases induce a cardiac arrest. Studies on Hexarelin, a GHRP-2 analog, have posited that these peptides associate with a specific receptor. It is posited that the receptor CD36 may have a notable role in the binding of oxidized low-density lipoprotein (OxLDL). There appears to be a possible interaction between GHRP-2 and CD36 that may lead to a decrease in the cellular absorption of OxLDL, which is thought to be implicated in the onset of atherosclerosis characterized by diminished blood and nutrient flow. Preliminary findings indicate that GHRP-2 might lower interferon-gamma levels by approximately 66% in cultured aortic smooth muscle cells, a model used to study atherosclerosis action. Although GHRP-2 seemingly did not alter the degree of atherosclerotic plaque formation significantly, it is suggested that the peptide might reduce superoxide generation within vascular tissues. Furthermore, GHRP-2 is reported to have decreased the gene expression of 12/15-lipoxygenase by nearly 92% and may also have reduced levels of both interferon-gamma and macrophage migration inhibitory factors. Experimental observations in cultured aortic smooth muscle cells propose that GHRP-2 may potentially inhibit OxLDL-induced peroxide production, mitigate the downregulation of the IGF-I receptor, and perhaps prevent apoptosis. In macrophages loaded with OxLDL, it has been conjectured that GHRP-2 might lessen lipid accumulation, thereby underscoring its anticipated antioxidative and protective actions in scenarios of compromised blood and nutrient supply.[4]
+[a https://biotechpeptides.com/product/ghrp-6-10mg/] GHRP-6
+[a https://biotechpeptides.com/product/hexarelin-5mg/] Hexarelin
+[p] GHRP-2 and the Immune System GHRP-2 peptide researchers suggest the peptide may enhance the functions of the thymus, an organ that helps protect and mature certain cells of the immune system, especially the T lymphocytes.[5] T lymphocytes are crucial for adaptive immunity and the physiological capacity to combat complex infections. However, the efficacy of the thymus diminishes, which may induce tissue damage and diminished immunity. In such cases, GHRP-2 appears to have the potential to rejuvenate the thymus, possibly promoting the number and diversity of T-cells, thereby supporting general immunity.
+[p] GHRP-2 and Pain Perception Researchers initially hypothesized that GHRP-2 may decrease pain associated with osteoarthritis in animal models through the stimulation of growth hormone production and the repair of damaged tissues. However, it has been suggested since that GHRP-2 may induce pain relief prior to tissue repair, which may occur due to an action on opioid receptors. There are four known opioid receptors.[6] Other compounds studied for their impact on opioid receptors appear to typically mediate a universal action on all four receptors. The generic mode of action may create challenges as the receptors may have differential and diverse functions. GHRP-2 appears to be a selective opioid receptor agonist, binding uniquely to the receptors implicated in pain perception, reward system linking, and sedation.
+[p] GHRP-2 and Sleep Cycles GHRP-2 has been suggested to influence sleep cycles. The peptide may increase the duration of stages 3 and 4 of the sleep cycles by up to 50%, as reported by researchers, and potentially improve the duration of REM sleep by approximately 20%.[7] It may further diminish deviation in sleeping patterns from normal standards. Research is ongoing.
+[p] GHRP-2 and Pituitary Cells The primary mechanism by which GHRP-2 appears to operate is via its binding with Growth Hormone Secretagogue Receptors (GHS-Rs), which are considered to be activated by ghrelin. These receptors are found throughout various regions of the nervous system and in other tissues, notably in the hypothalamus and pituitary gland. It is hypothesized that the binding of GHRP-2 to GHS-Rs may possibly provoke a structural alteration, potentially initiating a chain of intracellular signaling events, commonly mediated by G-proteins. Such an interaction might facilitate the release of Gαq/11, a G-protein component, potentially instigating additional signaling activities. For example, Phospholipase C (PLC) may cleave phosphatidylinositol 4,5-bisphosphate (PIP2) into secondary messengers, IP3 and DAG (diacylglycerol). IP3 might then stimulate the release of calcium ions, while DAG might activate Protein Kinase C (PKC), possibly enhancing the signaling pathway and contributing to the secretion of growth hormone from the pituitary cells. This sequence of events may also involve the activation of cyclic AMP (cAMP), deemed essential for cellular signaling. An elevation in cAMP levels might potentially enhance the signaling cascade, possibly facilitating the production of growth hormone in the somatotroph cells of the anterior pituitary gland. Yet, it has been postulated that exposure to GHRP-2 might quickly lead to receptor desensitization, potentially decreasing their responsiveness for up to four hours before this action may be reversed.[8]
+[p] GHRP-2 Peptide and Growth Factors It has been proposed that GHRP-2 may induce a more substantial increase in GH levels in somatotroph cells compared to the natural increase triggered by growth hormone-releasing hormone (GHRH). Preliminary data also suggests that GHRP-2 may elevate ACTH and cortisol levels, which are also produced by pituitary cells. Additional research points to the potential for GHRP-2 exposure to significantly elevate peak GH levels and average pulsatile GH secretion from anterior pituitary gland cells. Moreover, it may also potentially augment the activity of mediators involved in the anabolic actions of GH, such as insulin-like growth factor-1 (IGF-1). In a particular study, GHRP-2 was implicated in inducing up to an 181-fold increase in GH production from anterior pituitary cells relative to baseline.[9] Additionally, IGF-1 levels reportedly increased from an average of 100mcg/l at baseline to approximately 180mcg/l, as indicated by researchers in another study. Another group of researchers observed that the peptide seemed to "stimulate pulsatile, rhythmic, and entropic GH secretion by more than threefold" when compared to GHRH.”[10]
+[p] GHRP-2 and Hunger Regulation It is suggested that GHRP-2's activation of GHS-Rs in various parts of the nervous system may initiate a series of cellular processes that might support the production of hunger-stimulating neuropeptides, notably Neuropeptide Y (NPY) and Agouti-related peptide (AgRP). These peptides are considered to play a crucial role in energy balance and appetite regulation. Concurrently, there is a suggestion that GHRP-2 might also suppress the release of melanocyte-stimulating hormone (α-MSH), an appetite-suppressing hormone, potentially leading to increased hunger and higher food consumption. Additionally, GHRP-2 might affect the mesolimbic reward system, a key brain pathway that regulates food cravings, possibly through the activation of GHSR-1a receptors. This mechanism may theoretically heighten appetite, possibly through the activation of cyclic adenosine monophosphate (cAMP) pathways, further implicating GHRP-2 in the modulation of feeding behavior and reward-driven eating. Research has suggested that models exposed to GHRP-2 consumed about 36% more food than control models, with a reported increase in food intake relative to body weight. Specifically, the energy intake per kilogram of weight was higher in the GHRP-2 group, recorded as 136.0±13.0 kJ/kg compared to 101.3±10.5 kJ/kg in the control group. Additionally, increases in GH levels were observed in the GHRP-2 models compared to those given saline, with hormone levels measured as the area under the curve (AUC) reaching up to 5550±1090 μg/L/240 min versus 412±161 μg/L/240 min.[11]
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] Phung LT, Inoue H, Nou V, Lee HG, Vega RA, Matsunaga N, Hidaka S, Kuwayama H, Hidari H. The effects of growth hormone-releasing peptide-2 (GHRP-2) on the release of growth hormone and growth performance in swine. Domest Anim Endocrinol. 2000 Apr;18(3):279-91. doi: 10.1016/s0739-7240(00)00050-3. PMID: 10793268.
+[a https://doi.org/10.1016/s0739-7240(00)00050-3] doi: 10.1016/s0739-7240(00)00050-3
+[li] Laferrère B, Abraham C, Russell CD, Bowers CY. Growth hormone releasing peptide-2 (GHRP-2), like ghrelin, increases food intake in healthy men. J Clin Endocrinol Metab. 2005 Feb;90(2):611-4. doi: 10.1210/jc.2004-1719. PMID: 15699539; PMCID: PMC2824650.
+[a https://doi.org/10.1210/jc.2004-1719] doi: 10.1210/jc.2004-1719
+[li] Hu R, Wang Z, Peng Q, Zou H, Wang H, Yu X, Jing X, Wang Y, Cao B, Bao S, Zhang W, Zhao S, Ji H, Kong X, Niu Q. Effects of GHRP-2 and Cysteamine Administration on Growth Performance, Somatotropic Axis Hormone and Muscle Protein Deposition in Yaks (Bos grunniens) with Growth Retardation. PLoS One. 2016 Feb 19;11(2):e0149461. doi: 10.1371/journal.pone.0149461. PMID: 26894743; PMCID: PMC4760683.
+[a https://doi.org/10.1371/journal.pone.0149461] doi: 10.1371/journal.pone.0149461
+[li] Titterington JS, Sukhanov S, Higashi Y, Vaughn C, Bowers C, Delafontaine P. Growth hormone-releasing peptide-2 suppresses vascular oxidative stress in ApoE-/- mice but does not reduce atherosclerosis. Endocrinology. 2009 Dec;150(12):5478-87. doi: 10.1210/en.2009-0283. Epub 2009 Oct 9. PMID: 19819949; PMCID: PMC2795722.]
+[a https://doi.org/10.1210/en.2009-0283] doi: 10.1210/en.2009-0283
+[li] Chao YN, Sun D, Peng YC, Wu YL. Growth Hormone Releasing Peptide-2 Attenuation of Protein Kinase C-Induced Inflammation in Human Ovarian Granulosa Cells. Int J Mol Sci. 2016 Aug 19;17(8):1359. doi: 10.3390/ijms17081359. PMID: 27548147; PMCID: PMC5000754.
+[a https://doi.org/10.3390/ijms17081359] doi: 10.3390/ijms17081359
+[li] Zeng P, Li S, Zheng YH, Liu FY, Wang JL, Zhang DL, Wei J. Ghrelin receptor agonist, GHRP-2, produces antinociceptive effects at the supraspinal level via the opioid receptor in mice. Peptides. 2014 May;55:103-9. doi: 10.1016/j.peptides.2014.02.013. Epub 2014 Mar 4. PMID: 24607724.
+[a https://doi.org/10.1016/j.peptides.2014.02.013] doi: 10.1016/j.peptides.2014.02.013
+[li] Sigalos JT, Pastuszak AW. The Safety and Efficacy of Growth Hormone Secretagogues. Sex Med Rev. 2018 Jan;6(1):45-53. doi: 10.1016/j.sxmr.2017.02.004. Epub 2017 Apr 8. PMID: 28400207; PMCID: PMC5632578.
+[a https://doi.org/10.1016/j.sxmr.2017.02.004] doi: 10.1016/j.sxmr.2017.02.004
+[li] Sinha, D. K., Balasubramanian, A., Tatem, A. J., Rivera-Mirabal, J., Yu, J., Kovac, J., Pastuszak, A. W., & Lipshultz, L. I. (2020). Beyond the androgen receptor: the role of growth hormone secretagogues in the modern management of body composition in hypogonadal males. Translational andrology and urology, 9(Suppl 2), S149–S159. https://doi.org/10.21037/tau.2019.11.30
+[a https://doi.org/10.21037/tau.2019.11.30] https://doi.org/10.21037/tau.2019.11.30
+[li] Veldhuis, J. D., Keenan, D. M., Bailey, J. N., Adeniji, A. M., Miles, J. M., & Bowers, C. Y. (2009). Novel relationships of age, visceral adiposity, insulin-like growth factor (IGF)-I and IGF binding protein concentrations to growth hormone (GH) releasing-hormone and GH releasing-peptide efficacies in men during experimental hypogonadal clamp. The Journal of clinical endocrinology and metabolism, 94(6), 2137–2143. https://doi.org/10.1210/jc.2009-0136
+[a https://doi.org/10.1210/jc.2009-0136] https://doi.org/10.1210/jc.2009-0136
+[li] Bowers, C. Y., Granda, R., Mohan, S., Kuipers, J., Baylink, D., & Veldhuis, J. D. (2004). Sustained elevation of pulsatile growth hormone (GH) secretion and insulin-like growth factor I (IGF-I), IGF-binding protein-3 (IGFBP-3), and IGFBP-5 concentrations during 30-day continuous subcutaneous infusion of GH-releasing peptide-2 in older men and women. The Journal of clinical endocrinology and metabolism, 89(5), 2290–2300. https://doi.org/10.1210/jc.2003-031799
+[a https://doi.org/10.1210/jc.2003-031799] https://doi.org/10.1210/jc.2003-031799
+[li] Laferrère, Blandine et al. “Growth hormone releasing peptide-2 (GHRP-2), like ghrelin, increases food intake in healthy men.” The Journal of clinical endocrinology and metabolism vol. 90,2 (2005): 611-4. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2824650/
+[a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2824650/] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2824650/
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] CJC-1295 & GHRP-2 Blend (10mg) $84.00
+[a https://biotechpeptides.com/product/cjc-1295-ghrp-2-blend-10mg/] CJC-1295 & GHRP-2 Blend (10mg) $84.00
+[img] CJC-1295 & GHRP-2 Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2023/06/CJC-1295-GHRP-2-1-238x317.webp
+[h2] CJC-1295 & GHRP-2 Blend (10mg)
+[li] Mod GRF 1-29 & GHRP-2 Blend (10mg) $84.00
+[a https://biotechpeptides.com/product/mod-grf-1-29-ghrp-2-blend-10mg/] Mod GRF 1-29 & GHRP-2 Blend (10mg) $84.00
+[img] Mod GRF 1-29 & GHRP-2 Blend (10mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Mod-GRF-GHRP-2-1-238x317.webp
+[h2] Mod GRF 1-29 & GHRP-2 Blend (10mg)
+[li] Sermorelin & GHRP-6 & GHRP-2 Blend (9mg) $88.00
+[a https://biotechpeptides.com/product/sermorelin-ghrp-6-ghrp-2-blend-9mg/] Sermorelin & GHRP-6 & GHRP-2 Blend (9mg) $88.00
+[img] Sermorelin & GHRP-6 & GHRP-2 Blend (9mg) :: https://biotechpeptides.com/wp-content/uploads/2026/01/Sermorelin-GHRP-6-GHRP-2-Blend-9mg-238x317.webp
+[h2] Sermorelin & GHRP-6 & GHRP-2 Blend (9mg)
+[li] GHRP-2 (10mg) $39.00
+[a https://biotechpeptides.com/product/ghrp-2-10mg/] GHRP-2 (10mg) $39.00
+[img] GHRP-2 :: https://biotechpeptides.com/wp-content/uploads/2020/03/GHRP-2-238x317.webp
+[h2] GHRP-2 (10mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline

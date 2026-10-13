@@ -1,0 +1,134 @@
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[a #main-content] Skip to Content
+[li] MY ACCOUNT
+[a https://biotechpeptides.com/my-account/] MY ACCOUNT
+[a https://biotechpeptides.com/cart/] 0
+[a /] 
+[img] Biotech Peptides - Buy Peptides Online (USA Made) :: data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDgyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+[li] Buy Peptides
+[a https://biotechpeptides.com/buy-peptides/] Buy Peptides
+[li] Peptides
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[li] Peptide Blends
+[a https://biotechpeptides.com/product-category/blends/] Peptide Blends
+[li] About Us
+[a https://biotechpeptides.com/about/] About Us
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[label] Search for Compounds, Sequences, or Formulas
+[input name=s type=search ph=Search for Compounds, Sequences, or Formulas]
+[input name=post_type type=hidden ph=]
+[input name=type_aws type=hidden ph=]
+[a https://biotechpeptides.com] Home
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2022/06/Livagen-1.webp] 
+[img] Livagen (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Livagen-1-460x580.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Livagen-20mg-COA-scaled.webp] 
+[img] Livagen (20mg) COA :: https://biotechpeptides.com/wp-content/uploads/2026/04/Livagen-20mg-COA-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Livagen-20mg-LC-scaled.webp] 
+[img] Livagen (20mg) LC :: https://biotechpeptides.com/wp-content/uploads/2026/04/Livagen-20mg-LC-scaled.webp
+[a https://biotechpeptides.com/wp-content/uploads/2026/04/Livagen-20mg-MS-scaled.webp] 
+[img] Livagen (20mg) MS :: https://biotechpeptides.com/wp-content/uploads/2026/04/Livagen-20mg-MS-scaled.webp
+[h1] Livagen (20mg)
+[p] $62.00
+[p] Livagen peptides are Synthesized and Lyophilized in the USA.
+[p] Discount per Quantity
+[th] Quantity
+[th] Discount
+[th] Price
+[input name=wccs_tier_select_5961 type=radio ph=]
+[td] 5 - 9
+[td] 5%
+[td] $58.90
+[input name=wccs_tier_select_5961 type=radio ph=]
+[td] 10 +
+[td] 10%
+[td] $55.80
+[label] Livagen (20mg) quantity
+[input name=quantity type=number ph=]
+[button] Add to cart
+[a https://biotechpeptides.com/product-category/peptides/] Peptides
+[a https://biotechpeptides.com/wp-content/uploads/2026/06/Livagen-20mg-.pdf] Download COA
+[li] Description
+[a #tab-description] Description
+[h2] Livagen Peptide
+[p] Livagen is a short peptide bioregulator, similar in structure to Epitalon. It is a tetrapeptide made of the amino acids Lys-Glu-Asp-Ala (KEDA) and is classified amongst Khavinson’s peptides. As a bioregulator, the peptide may interact with genetic material in different cells and consequently unpack and “unlock” various cellular genes. Livagen’s impacts appear to be exhibited directly on the lymphocytes (cells of the immune system), liver, and gastrointestinal tract (GIT). Its direct functions may be widespread, as suggested through research studies on DNA and gene expression patterns. The potential of the Livagen peptide to activate genes enclosed in the GIT and immune system may reflect possible age-mitigating characteristics exerted on cells.
+[a https://biotechpeptides.com/product/epithalon-25mg/] Epitalon
+[h3] Specifications
+[p] Sequence Formula: Lys-Glu-Asp-Ala
+[p] Molecular Formula: C18H31N5O9
+[p] Molecular Weight: 461.5g/mol
+[p] Synonyms: SCHEMBL5967826
+[h3] Livagen Research
+[p] Livagen Peptide and Chromatin In eukaryotes, the nucleus houses the DNA, and chromatin is a group of DNA and proteins that condense to form chromosomes.[1] To put it simply, researchers explain that “Chromatin is the ensemble of genomic DNA and a large number of proteins.” This DNA organization pattern is considered to encapsulate genetic materials for cell division and replication, as well as genetic materials so they can fit into cells and control the expression of genes at macro levels. Livagen may influence certain cellular activities in lymphocytes, which are white blood cells crucial to the immune system. Specifically, it might affect the function of nucleolar organizer regions (NORs), which are segments of DNA within chromosomes that are believed to be essential for the synthesis of ribosomal RNA and the formation of the nucleolus within the cell nucleus. Some studies suggest that Livagen could alter NOR activity and potentially change the frequency with which acrocentric chromosomes associate in lymphocytes. Acrocentric chromosomes are characterized by having the centromere located near one end, resulting in one very short arm and one long arm. The associations among these chromosomes may play a role in genetic regulation and overall cellular function. Such changes might result from the decondensation of heterochromatin, which is a tightly packed form of chromatin, and potentially lead to the activation of genes that were previously silenced, possibly improving cellular function.
+[p] Livagen Peptide and Immune Cells Research studies have suggested that Livagen may activate several genes in the lymphocytes by potentially unpacking chromatin.[2] Subsequently, silent genes may become activated, and this impact may indirectly activate the ribosomal genes in the control of protein production and increased cell activity.[3] According to this research, Livagen appears to have four potential and distinct actions on lymphocytes through possible gene expression alteration, decondensation activity, ribosomal gene activation, and chromatin unpacking. Scientists believe that long-term exposure to Livagen in older animal research models may alter the lymphocytes to be expressed similarly to those in younger counterparts. Lymphocytes, which contain both T and B cells, are considered vital cells in the immune system. Scientists consider B cells to act as primary producers of antibodies against foreign and invasive cell structures. T cells appear to produce cytokines and destroy cancerous or infected cells. The proposed ability of Livagen to renew these immunologically important cells may increase the lifespan of functional cells.
+[p] Livagen Peptide and Cell Aging Some impacts of cell aging may result from changes in DNA organization, including the type of genes expressed and accessed. For example, research by Professor Teimuraz Lezhava reports that the degree of chromosomal aberrations may increase with time.[4] The condensation of chromatin and the decreased repair processes are examples of a chromosomal oddity. According to his research, Livagen and a handful of other bioregulator peptides may potentially improve the decondensation of DNA and consequently lead to an extension of the viability of cells in experimental conditions.[5]
+[p] Livagen Peptide and Heart Cells Livagen is posited to interact with various tissues indirectly thanks to its impact on gene expression in immune cells, which in turn regulates inflammation in a range of models. One such example is models involving cardiac cells, as their function is tightly regulated by inflammatory and immune cells. Research in research models of hypertrophic cardiomyopathy (HCM) suggests that the dysregulation of the chromatin structure in lymphocytes may be pathogenic in HCM and may improve long-term outcomes.[6] By potentially influencing chromatin structure and gene expression, Livagen might interact with cardiac cells in ways that support their functionality. The researchers comment “that Livagen (characterized by modifying influence on chromatin) separately and in combination with cobalt ions, [appears to promote] normalization of altered genomic indicators of atherosclerosis.” The experiment further suggests that releasing genes by decondensed chromatin in lymphocytes might reduce the long-term consequences of heart diseases.[7] Researchers posit that Livagen peptide may hold the potential to precipitate such a reduction, though research is ongoing. Alteration of lymphocyte gene expression indicates a decrease in inflammation and scars in models of HCM.
+[p] Livagen and the Gastrointestinal System (GIT) Early research posits that activated delta cells may protect the mucosal wall of the gastrointestinal tract (GIT). Following this trend, the Livagen peptide appears to enhance vagus nerve signaling to the GIT and may potentially change the degree of prostaglandins and nitric oxide in the mucosa.[8] In addition to this, gastroprotection may also be generated, creating a potential pathway for Livagen in studies related to chronic conditions inducing diarrhea, inflammatory bowel disease, and overall GIT disruption.
+[p] Livagen and Pain Signaling Enkephalin is a natural endogenous peptide that has a reported dynamic pain perception impact. It appears to bind to delta and mu-opioid receptors. Activated Mu receptors may bind to compounds such as morphine to reduce pain perception and blood pressure. Activated Delta receptors may induce a reduction in pain signaling to the brain and may explain respiratory depressions sometimes associated with opiate exposure. Research studies suggest that Livagen may function to inhibit the actions of enkephalin, inhibiting enzymes in the blood and resulting in enhanced levels of natural painkillers.[9] To assess this, the researchers studied labeled enkephalin molecules (3H-Leu-enkephalin) and measured the speed at which it was degraded with and without the introduction of Livagen. The peptide significantly slowed down the breakdown of the labeled enkephalin molecule. Further research suggested that it may influence enkephalin levels only by inhibiting their degradation, and it does not appear to bind or directly affect opioid receptors in the brain.
+[p] Livagen and Antioxidant Systems in Liver Cells Livagen has also been studied for its potential antioxidative properties in in vitro models of liver pathology. In experiments simulating liver fibrosis and hepatitis, Livagen apparently exhibited efficiency by normalizing antioxidant status.[10] It is posited that this peptide may restore liver function during hepatic stress conditions. Livagen possibly exerts hepatoprotective and immunoprotective actions, which could be particularly relevant in the context of cellular aging, where oxidative stress is a contributing factor. These findings suggest that Livagen might mitigate oxidative damage in hepatic cells during pathological states.
+[p] Disclaimer: The products mentioned are not intended for human or animal consumption. Research chemicals are intended solely for laboratory experimentation and/or in-vitro testing. Bodily introduction of any sort is strictly prohibited by law. All purchases are limited to licensed researchers and/or qualified professionals. All information shared in this article is for educational purposes only.
+[h3] References
+[li] van Steensel B. (2011). Chromatin: constructing the big picture. The EMBO journal, 30(10), 1885–1895. https://doi.org/10.1038/emboj.2011.135
+[a https://doi.org/10.1038/emboj.2011.135] https://doi.org/10.1038/emboj.2011.135
+[li] Khavinson, V. K.h, Lezhava, T. A., Monaselidze, J. G., Dzhokhadze, T. A., Dvalishvili, N. A., Bablishvili, N. K., & Ryadnova, I. Y. (2002). Effects of Livagen peptide on chromatin activation in lymphocytes from old people. Bulletin of experimental biology and medicine, 134(4), 389–392. https://doi.org/10.1023/a:1021924702103
+[a https://doi.org/10.1023/a:1021924702103] https://doi.org/10.1023/a:1021924702103
+[li] Lezhava, T., Monaselidze, J., Kadotani, T., Dvalishvili, N., & Buadze, T. (2006). Anti-aging peptide bioregulators induce reactivation of chromatin. Georgian medical news, (133), 111–115.
+[li] Lezhava T. A. (2001). Funktsional’nye osobennosti khromosom cheloveka i starenie [Human chromosome functional characteristics and aging]. Advances in gerontology = Uspekhi gerontologii, 8, 34–43.
+[li] Khavinson, V. K.h, Lezhava, T. A., Monaselidze, J. R., Jokhadze, T. A., Dvalishvili, N. A., Bablishvili, N. K., & Trofimova, S. V. (2003). Peptide Epitalon activates chromatin at the old age. Neuro endocrinology letters, 24(5), 329–333.
+[li] Dzhokhadze, T. A., Buadze, T. Z.h, Gaiozishvili, M. N., Kakauridze, N. G., & Lezhava, T. A. (2014). Georgian medical news, (236), 82–86.
+[li] Lezhava, T., & Jokhadze, T. (2007). Activation of pericentromeric and telomeric heterochromatin in cultured lymphocytes from old individuals. Annals of the New York Academy of Sciences, 1100, 387–399. https://doi.org/10.1196/annals.1395.043
+[a https://doi.org/10.1196/annals.1395.043] https://doi.org/10.1196/annals.1395.043
+[li] Gyires, K., & Rónai, A. Z. (2001). Supraspinal delta- and mu-opioid receptors mediate gastric mucosal protection in the rat. The Journal of pharmacology and experimental therapeutics, 297(3), 1010–1015.
+[li] Kost, N. V., Sokolov, O. I.u, Gabaeva, M. V., Zolotarev, I.uA., Malinin, V. V., & Khavinson, V. K.h (2003). Vliianie novykh peptidnykh bioreguliatorov livagena i épitalona na énkefalindegradiruiushchie fermenty syvorotki krovi cheloveka [Effect of new peptide bioregulators livagen and epitalon on enkephalin-degrading enzymes in human serum]. Izvestiia Akademii nauk. Seriia biologicheskaia, (4), 427–429.
+[li] Kuznik BI, Khasanova NB, Ryzhak GA, Mezsheriakova IE, Khavinson VK. [The influence of polypeptide liver complex and tetrapeptide KEDA on organism physiological function in norm and age-related pathology.]. Adv Gerontol. 2020;33(1):159-164. Russian. PMID: 32362099.
+[a https://biotechpeptides.com/terms-and-conditions/] terms and conditions
+[h2] Dr. Usman
+[a https://biotechpeptides.com/dr-usman/] Dr. Usman
+[p] Dr. Usman (BSc, MBBS, MaRCP) completed his studies in medicine at the Royal College of Physicians, London. He is an avid researcher with more than 30 publications in internationally recognized peer-reviewed journals. Dr. Usman has worked as a researcher and a medical consultant for reputable pharmaceutical companies such as Johnson & Johnson and Sanofi.
+[h2] Related products
+[li] Sale! Vilon (20mg) $65.00 Original price was: $65.00.$61.00Current price is: $61.00.
+[a https://biotechpeptides.com/product/vilon-20mg/] Sale! Vilon (20mg) $65.00 Original price was: $65.00.$61.00Current price is: $61.00.
+[img] Vilon (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Vilon-1-238x317.webp
+[h2] Vilon (20mg)
+[li] Cardiogen (20mg) $62.00
+[a https://biotechpeptides.com/product/cardiogen-20mg/] Cardiogen (20mg) $62.00
+[img] Cardiogen (20mg) :: https://biotechpeptides.com/wp-content/uploads/2022/06/Cardiogen-1-238x317.webp
+[h2] Cardiogen (20mg)
+[li] Epithalon (25mg) $94.00
+[a https://biotechpeptides.com/product/epithalon-25mg/] Epithalon (25mg) $94.00
+[img] Epithalon (25mg) :: https://biotechpeptides.com/wp-content/uploads/2020/03/Epithalon-1-238x317.webp
+[h2] Epithalon (25mg)
+[li] Pinealon (20mg) $68.00
+[a https://biotechpeptides.com/product/pinealon-20mg/] Pinealon (20mg) $68.00
+[img] Pinealon (20mg) :: https://biotechpeptides.com/wp-content/uploads/2021/12/Pinealon-1-238x317.webp
+[h2] Pinealon (20mg)
+[p] Biotech Peptides is a chemical supplier. Biotech Peptides is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug, and Cosmetic act. Biotech Peptides is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic act.
+[p] All products are sold for research, laboratory, or analytical purposes only, and are not for human consumption.
+[h2] USEFUL LINKS
+[li] Knowledge Center
+[a https://biotechpeptides.com/knowledge-center/] Knowledge Center
+[li] About Biotech Peptides
+[a https://biotechpeptides.com/about/] About Biotech Peptides
+[li] Shipping
+[a https://biotechpeptides.com/shipping/] Shipping
+[li] Privacy Policy
+[a https://biotechpeptides.com/privacy-policy/] Privacy Policy
+[li] Terms and Conditions
+[a https://biotechpeptides.com/terms-and-conditions/] Terms and Conditions
+[li] Accessibility
+[a https://biotechpeptides.com/accessibility/] Accessibility
+[li] Refunds and Returns
+[a https://biotechpeptides.com/refunds-and-returns/] Refunds and Returns
+[li] Contact Us
+[a https://biotechpeptides.com/contact-us/] Contact Us
+[h2] CONTACT:
+[p] support@biotechpeptides.com
+[a mailto:support@biotechpeptides.com] support@biotechpeptides.com
+[p] © Copyright 2026. Biotech Peptides. All Rights Reserved.
+[img]  :: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+[p] The products on this website are only for research professionals of 21+ years of age, purchasing for research purposes only. Any human or animal consumption is strictly prohibited.
+[button] I agree
+[button] I decline
