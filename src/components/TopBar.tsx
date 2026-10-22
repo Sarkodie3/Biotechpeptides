@@ -12,10 +12,10 @@ export default function TopBar() {
         {/* Support email */}
         <div className="flex items-center gap-4">
           <a
-            href="mailto:support@biotechpeptides.com"
+            href="mailto:Biotechpeptidessupport@gmail.com"
             className="hover:underline flex items-center gap-1.5 font-medium"
           >
-            <span>support@biotechpeptides.com</span>
+            <span>Biotechpeptidessupport@gmail.com</span>
           </a>
           <a
             href="#main-content"

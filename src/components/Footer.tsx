@@ -72,10 +72,10 @@ export default function Footer() {
             <div className="text-[13px] text-gray-300 space-y-2">
               <p>
                 <a
-                  href="mailto:support@biotechpeptides.com"
+                  href="mailto:Biotechpeptidessupport@gmail.com"
                   className="text-[#36aadd] hover:underline"
                 >
-                  support@biotechpeptides.com
+                  Biotechpeptidessupport@gmail.com
                 </a>
               </p>
               <p className="text-gray-400">

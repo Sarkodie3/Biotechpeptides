@@ -93,11 +93,14 @@ export default async function SuccessPage({ searchParams }: PageProps) {
       <div className="pt-6 border-t border-gray-200 text-[13px] text-gray-500">
         <p className="font-bold uppercase tracking-wider text-gray-700 mb-1">SUPPORT</p>
         <p>
-          If you have any questions or concerns please email us at:{' '}
-          <a href="mailto:support@biotechpeptides.com" className="text-[#0c71c3] underline">
-            support@biotechpeptides.com
+          If you have any questions, concerns, or complaints please email us at:{' '}
+          <a href="mailto:Biotechpeptidessupport@gmail.com" className="text-[#0c71c3] underline">
+            Biotechpeptidessupport@gmail.com
           </a>{' '}
-          or call us 1-800-986-6401.
+          or call/text us at{' '}
+          <a href="tel:+3122862032" className="text-[#0c71c3] underline">
+            +3122862032
+          </a>.
         </p>
       </div>
     </div>
