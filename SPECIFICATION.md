@@ -13,7 +13,7 @@ This document presents the detailed architectural and structural specification o
 | **Scientific Library** | 186 research articles authored by Dr. Usman, categorized under "Research" and "Knowledge Center". | Completely harvested and rendered via dynamic App Router routes with author profiles, medical reviewer cards, and related compounds. |
 | **Regulatory Age Gate** | Cookie and sessionStorage key `biotech_age_v4='1'` triggers modal with 21+ compliance requirement and Google redirect on decline. | Replicated with identical text, modal layout, persistent storage check, and decline handler. |
 | **Volume Tier Discounts** | Explicit volume table on product detail pages: 5–9 units (5% discount), 10+ units (10% discount). | Implemented dynamically in `CartContext` and `TierDiscountTable`. |
-| **Payment Gateways** | Authorize.Net for credit card processing; CashApp gateway offering 4% discount with explicit instruction "Pay $psci2021 with note Cosmetics". | Implemented with live checkout inputs, automated 4% deduction toggle, and verified post-order confirmation view. |
+| **Payment Gateways** | Modernized to high-demand laboratory methods: CRYPTO (BTC, ETH, USDT), CASHAPP ($psci2021), and APPLE PAY. | Implemented with live checkout selectors, instant receiving addresses, and verified post-order confirmation view. |
 | **Shipping Methods** | USPS Priority Mail ($11.25) and UPS Next Day Air ($45.00). | Dynamic shipping calculator in Cart and Checkout. |
 | **Search Functionality** | Advanced Woo Search (AWS) debounced autocomplete returning product image, name, and minor-unit price. | Next.js API route `/api/search` querying SQLite products table with debounced UI drawer. |
 
@@ -62,8 +62,9 @@ This document presents the detailed architectural and structural specification o
 ### 6. Checkout (`/checkout/`)
 * **Billing & Shipping Address Form:** Standard compliant checkout fields (First name, last name, company, address 1 & 2, city, state, postal code, phone, email).
 * **Payment Selector:**
-  * **Credit Card:** Authorize.Net simulated fields (Card number, expiration, CVV).
-  * **Cash App:** Triggers automated 4% discount off order total, displays $psci2021 cashtag instructions.
+  * **CRYPTO:** Supports Bitcoin (BTC), Ethereum (ETH), and USDT (TRC-20 & ERC-20) with wallet addresses and confirmation instructions.
+  * **CASHAPP:** Cash App direct transfer to Cashtag $psci2021 with note "Cosmetics".
+  * **APPLE PAY:** Fast Apple Cash / Apple Pay transfer to Biotechpeptidessupport@gmail.com / +3122862032.
 * **Age & Terms Agreement:** Mandatory checkbox confirming "I certify that I am at least 21 years old and agree to the research-only terms."
 * **Order Processing:** Submits to `/api/checkout`, persists order in SQLite, and routes to `/success-page/`.
 

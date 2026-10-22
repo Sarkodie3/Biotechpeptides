@@ -10,7 +10,7 @@ export default function CheckoutPage() {
   const { items, clearCart, calculateTotal } = useCart();
 
   const [shippingMethod, setShippingMethod] = useState<'usps' | 'ups'>('usps');
-  const [paymentMethod, setPaymentMethod] = useState<'creditcard' | 'cashapp'>('creditcard');
+  const [paymentMethod, setPaymentMethod] = useState<'crypto' | 'cashapp' | 'applepay'>('crypto');
   const [termsAgreed, setTermsAgreed] = useState(false);
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [errorMsg, setErrorMsg] = useState('');
@@ -29,9 +29,6 @@ export default function CheckoutPage() {
     phone: '',
     email: '',
     orderComments: '',
-    cardNumber: '',
-    cardExpiry: '',
-    cardCvc: '',
   });
 
   const shippingFee = shippingMethod === 'ups' ? 45.0 : 11.25;
@@ -56,13 +53,6 @@ export default function CheckoutPage() {
     if (!formData.firstName || !formData.lastName || !formData.email || !formData.address1 || !formData.city || !formData.postcode) {
       setErrorMsg('Please complete all required billing fields marked with an asterisk (*).');
       return;
-    }
-
-    if (paymentMethod === 'creditcard') {
-      if (!formData.cardNumber || !formData.cardExpiry || !formData.cardCvc) {
-        setErrorMsg('Please complete your credit card information.');
-        return;
-      }
     }
 
     setIsSubmitting(true);
@@ -393,68 +383,82 @@ export default function CheckoutPage() {
                 Payment Method:
               </span>
 
-              {/* Method 1: Credit Card */}
-              <div className="border border-gray-200 bg-white p-3 space-y-3">
-                <label className="flex items-center gap-2 font-bold text-[14px] cursor-pointer">
-                  <input
-                    type="radio"
-                    name="payment"
-                    checked={paymentMethod === 'creditcard'}
-                    onChange={() => setPaymentMethod('creditcard')}
-                  />
-                  <span>Credit Card (Authorize.Net)</span>
+              {/* Method 1: CRYPTO */}
+              <div className={`border p-3 space-y-2 transition-colors ${paymentMethod === 'crypto' ? 'border-[#0c71c3] bg-blue-50/30' : 'border-gray-200 bg-white'}`}>
+                <label className="flex items-center justify-between cursor-pointer">
+                  <div className="flex items-center gap-2 font-bold text-[14px] text-gray-900">
+                    <input
+                      type="radio"
+                      name="payment"
+                      value="crypto"
+                      checked={paymentMethod === 'crypto'}
+                      onChange={() => setPaymentMethod('crypto')}
+                    />
+                    <span>CRYPTO</span>
+                  </div>
+                  <span className="text-[11px] font-bold text-amber-800 bg-amber-50 px-2.5 py-0.5 rounded border border-amber-200">
+                    BTC &bull; ETH &bull; USDT
+                  </span>
                 </label>
 
-                {paymentMethod === 'creditcard' && (
-                  <div className="pt-2 space-y-2.5 text-[13px] border-t border-gray-100">
-                    <p className="text-gray-500 text-[12px]">
-                      Pay securely with credit card via Authorize.Net merchant gateway.
+                {paymentMethod === 'crypto' && (
+                  <div className="pt-2 text-[12px] text-gray-600 border-t border-gray-100 leading-relaxed space-y-1">
+                    <p>
+                      Pay securely with cryptocurrency. Direct transfer via <strong>Bitcoin (BTC)</strong>, <strong>Ethereum (ETH)</strong>, or <strong>USDT (TRC20 / ERC20)</strong>.
                     </p>
-                    <input
-                      type="tel"
-                      name="cardNumber"
-                      placeholder="Card Number"
-                      value={formData.cardNumber}
-                      onChange={handleChange}
-                      className="w-full border border-gray-300 p-2 text-[13px]"
-                    />
-                    <div className="grid grid-cols-2 gap-2">
-                      <input
-                        type="text"
-                        name="cardExpiry"
-                        placeholder="MM / YY"
-                        value={formData.cardExpiry}
-                        onChange={handleChange}
-                        className="w-full border border-gray-300 p-2 text-[13px]"
-                      />
-                      <input
-                        type="text"
-                        name="cardCvc"
-                        placeholder="CVC / CVV"
-                        value={formData.cardCvc}
-                        onChange={handleChange}
-                        className="w-full border border-gray-300 p-2 text-[13px]"
-                      />
-                    </div>
+                    <p className="text-gray-500">
+                      Receiving wallet addresses and instant payment QR codes are provided immediately on the confirmation page after placing your order.
+                    </p>
                   </div>
                 )}
               </div>
 
-              {/* Method 2: CashApp */}
-              <div className="border border-gray-200 bg-white p-3 space-y-2">
-                <label className="flex items-center gap-2 font-bold text-[14px] text-emerald-800 cursor-pointer">
-                  <input
-                    type="radio"
-                    name="payment"
-                    checked={paymentMethod === 'cashapp'}
-                    onChange={() => setPaymentMethod('cashapp')}
-                  />
-                  <span>CashApp (Save 4%)</span>
+              {/* Method 2: CASHAPP */}
+              <div className={`border p-3 space-y-2 transition-colors ${paymentMethod === 'cashapp' ? 'border-emerald-500 bg-emerald-50/30' : 'border-gray-200 bg-white'}`}>
+                <label className="flex items-center justify-between cursor-pointer">
+                  <div className="flex items-center gap-2 font-bold text-[14px] text-emerald-800">
+                    <input
+                      type="radio"
+                      name="payment"
+                      value="cashapp"
+                      checked={paymentMethod === 'cashapp'}
+                      onChange={() => setPaymentMethod('cashapp')}
+                    />
+                    <span>CASHAPP</span>
+                  </div>
+                  <span className="text-[11px] font-mono font-bold text-emerald-800 bg-emerald-100 px-2 py-0.5 rounded">
+                    $psci2021
+                  </span>
                 </label>
 
                 {paymentMethod === 'cashapp' && (
                   <div className="pt-2 text-[12px] text-gray-600 border-t border-gray-100 leading-relaxed">
-                    A 4% discount has been applied to your subtotal. After placing your order, follow the instant CashApp instructions to transfer funds to <strong>$psci2021</strong> with note <strong>Cosmetics</strong>.
+                    After placing your order, send your payment via Cash App to Cashtag <strong>$psci2021</strong> with note <strong>Cosmetics</strong>. Orders are quickly matched and dispatched.
+                  </div>
+                )}
+              </div>
+
+              {/* Method 3: APPLE PAY */}
+              <div className={`border p-3 space-y-2 transition-colors ${paymentMethod === 'applepay' ? 'border-gray-800 bg-gray-50' : 'border-gray-200 bg-white'}`}>
+                <label className="flex items-center justify-between cursor-pointer">
+                  <div className="flex items-center gap-2 font-bold text-[14px] text-gray-900">
+                    <input
+                      type="radio"
+                      name="payment"
+                      value="applepay"
+                      checked={paymentMethod === 'applepay'}
+                      onChange={() => setPaymentMethod('applepay')}
+                    />
+                    <span>APPLE PAY</span>
+                  </div>
+                  <span className="text-[12px] font-bold text-black bg-gray-200 px-2.5 py-0.5 rounded">
+                     Pay
+                  </span>
+                </label>
+
+                {paymentMethod === 'applepay' && (
+                  <div className="pt-2 text-[12px] text-gray-600 border-t border-gray-100 leading-relaxed">
+                    Pay using Apple Cash / Apple Pay directly to our dispatch receiver at <strong>Biotechpeptidessupport@gmail.com</strong> or <strong>+3122862032</strong> with your order number.
                   </div>
                 )}
               </div>

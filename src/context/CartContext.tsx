@@ -128,13 +128,10 @@ export function CartProvider({ children }: { children: React.ReactNode }) {
     subtotal += (rawPrice - savings);
   }
 
-  const calculateTotal = (shippingFee = 11.25, paymentMethod = 'creditcard') => {
+  const calculateTotal = (shippingFee = 11.25, paymentMethod = 'crypto') => {
     let finalSub = subtotal;
     let cashAppDiscount = 0;
-    if (paymentMethod === 'cashapp') {
-      cashAppDiscount = finalSub * 0.04; // 4% off on CashApp
-    }
-    const total = Math.max(0, finalSub - cashAppDiscount + shippingFee);
+    const total = Math.max(0, finalSub + shippingFee);
 
     return {
       subtotal: Number(finalSub.toFixed(2)),

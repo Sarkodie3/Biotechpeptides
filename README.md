@@ -2,7 +2,7 @@
 
 This repository contains the reconstructed full-stack production application for **BiotechPeptides.com**, meticulously recreated from scratch following the loss of original development files.
 
-The reconstruction faithfully restores the visual identity, navigation, product catalog (89 research compounds and variations), scientific research library (186 peer-reviewed knowledge posts), e-commerce workflows (tiered volume pricing, slide-out cart, checkout with Authorize.Net and CashApp), regulatory 21+ compliance age gate, and dynamic search functionality observed on the reference website.
+The reconstruction faithfully restores the visual identity, navigation, product catalog (89 research compounds and variations), scientific research library (186 peer-reviewed knowledge posts), e-commerce workflows (tiered volume pricing, slide-out cart, checkout with CRYPTO, CASHAPP, and APPLE PAY), regulatory 21+ compliance age gate, and dynamic search functionality observed on the reference website.
 
 ---
 
@@ -38,7 +38,7 @@ BIOTECHPEPTIDES/
 │   │   │   └── search/             # Real-time debounced autocomplete search API
 │   │   ├── buy-peptides/           # Full catalog listing with pagination & sorting
 │   │   ├── cart/                   # Shopping cart with volume discount & shipping calculations
-│   │   ├── checkout/               # Checkout form (Authorize.Net card & CashApp 4% discount)
+│   │   ├── checkout/               # Checkout form (CRYPTO, CASHAPP, and APPLE PAY)
 │   │   ├── contact-us/             # Contact inquiry form & business disclosures
 │   │   ├── knowledge-center/       # Scientific knowledge articles index
 │   │   ├── my-account/             # Authentication & account dashboard

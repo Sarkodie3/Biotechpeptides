@@ -39,7 +39,7 @@ export async function POST(req: NextRequest) {
       discount: parseFloat(discount) || 0,
       shippingFee: parseFloat(shippingFee) || 0,
       total: parseFloat(total) || 0,
-      paymentMethod: paymentMethod || 'creditcard',
+      paymentMethod: paymentMethod || 'crypto',
     });
 
     return NextResponse.json({
