@@ -75,6 +75,7 @@ export default function CheckoutPage() {
             phone: formData.phone,
             email: formData.email,
           },
+          orderComments: formData.orderComments,
           items,
           subtotal,
           discount: tierSavings + cashAppDiscount,
