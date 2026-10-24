@@ -22,6 +22,7 @@ const routesToTest = [
   { path: '/dr-usman/', expectStatus: 200, label: 'Static Page: Dr. Usman' },
   { path: '/cash-app-payment-instructions/', expectStatus: 200, label: 'Static Page: Cash App Instructions' },
   { path: '/success-page/?order=100099999', expectStatus: 200, label: 'Order Confirmation Page' },
+  { path: '/non-existent-qa-url-check-404/', expectStatus: 404, label: '404 Not Found Handler' },
 ];
 
 async function runTests() {
@@ -29,7 +30,7 @@ async function runTests() {
   let passed = 0;
   let failed = 0;
 
-  // 1. Test HTML routes
+  // 1. Test HTML routes & 404 response
   for (const item of routesToTest) {
     try {
       const res = await fetch(`${BASE_URL}${item.path}`);
@@ -46,13 +47,53 @@ async function runTests() {
     }
   }
 
-  // 2. Test Search API
+  // 2. Test Sitemap XML
+  try {
+    const res = await fetch(`${BASE_URL}/sitemap.xml`);
+    const xml = await res.text();
+    const hasCanonical = xml.includes('https://biotechpeptidesonline.com');
+    const hasProducts = xml.includes('/product/bpc-157');
+    const excludesCart = !xml.includes('/cart/');
+
+    if (res.status === 200 && hasCanonical && hasProducts && excludesCart) {
+      console.log(`[PASS] XML Sitemap (/sitemap.xml)            -> Valid (200, canonical domain verified, excluded private URLs)`);
+      passed++;
+    } else {
+      console.error(`[FAIL] XML Sitemap (/sitemap.xml) failed: status=${res.status}, hasCanonical=${hasCanonical}, hasProducts=${hasProducts}, excludesCart=${excludesCart}`);
+      failed++;
+    }
+  } catch (err) {
+    console.error(`[ERR]  Sitemap -> ${err.message}`);
+    failed++;
+  }
+
+  // 3. Test Robots.txt
+  try {
+    const res = await fetch(`${BASE_URL}/robots.txt`);
+    const text = await res.text();
+    const hasAgent = text.includes('User-Agent: *');
+    const hasDisallow = text.includes('Disallow: /cart/');
+    const hasSitemap = text.includes('https://biotechpeptidesonline.com/sitemap.xml');
+
+    if (res.status === 200 && hasAgent && hasDisallow && hasSitemap) {
+      console.log(`[PASS] Robots.txt (/robots.txt)              -> Valid (200, Disallow rules & canonical sitemap verified)`);
+      passed++;
+    } else {
+      console.error(`[FAIL] Robots.txt failed: status=${res.status}, hasAgent=${hasAgent}, hasDisallow=${hasDisallow}, hasSitemap=${hasSitemap}`);
+      failed++;
+    }
+  } catch (err) {
+    console.error(`[ERR]  Robots.txt -> ${err.message}`);
+    failed++;
+  }
+
+  // 4. Test Search API
   try {
     const res = await fetch(`${BASE_URL}/api/search?q=bpc`);
     const data = await res.json();
     const results = data.results || data;
     if (res.status === 200 && Array.isArray(results) && results.length > 0) {
-      console.log(`[PASS] API: Autocomplete Search (/api/search?q=bpc) -> Found ${results.length} results`);
+      console.log(`[PASS] API: Autocomplete Search (/api/search) -> Found ${results.length} results`);
       passed++;
     } else {
       console.error(`[FAIL] API: Autocomplete Search failed:`, data);
@@ -63,7 +104,7 @@ async function runTests() {
     failed++;
   }
 
-  // 3. Test Contact Form API
+  // 5. Test Contact Form API
   try {
     const res = await fetch(`${BASE_URL}/api/contact`, {
       method: 'POST',
@@ -89,7 +130,7 @@ async function runTests() {
     failed++;
   }
 
-  // 4. Test Checkout Order API
+  // 6. Test Checkout Order API
   try {
     const res = await fetch(`${BASE_URL}/api/checkout`, {
       method: 'POST',

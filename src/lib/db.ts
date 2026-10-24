@@ -517,3 +517,28 @@ export function createInquiry(name: string, email: string, message: string) {
   `).run(id, name, email, message);
   return { id, name, email, message };
 }
+
+export function getAllProductSlugs(): { slug: string; created_at?: string }[] {
+  const db = getDb();
+  const rows = db.prepare('SELECT slug, created_at FROM products ORDER BY name ASC').all();
+  return toPlain(rows) as any[];
+}
+
+export function getAllPostSlugs(): { slug: string; date: string }[] {
+  const db = getDb();
+  const rows = db.prepare('SELECT slug, date FROM posts ORDER BY date DESC').all();
+  return toPlain(rows) as any[];
+}
+
+export function getPublicPageSlugs(): { slug: string }[] {
+  const db = getDb();
+  const rows = db.prepare(`
+    SELECT slug FROM pages 
+    WHERE slug NOT IN (
+      'cart', 'checkout', 'my-account', 'success-page', 'wishlist', 
+      'affiliate-area', 'shop', 'home', 'uy-peptides-for-scientific-research-and-development'
+    )
+    ORDER BY slug ASC
+  `).all();
+  return toPlain(rows) as any[];
+}
