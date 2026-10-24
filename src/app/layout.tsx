@@ -7,6 +7,7 @@ import Footer from '@/components/Footer';
 import MiniCartDrawer from '@/components/MiniCartDrawer';
 import AgeGateModal from '@/components/AgeGateModal';
 import { CANONICAL_DOMAIN, getOrganizationSchema, getWebSiteSchema } from '@/lib/seo';
+import { Analytics } from '@vercel/analytics/next';
 
 export const metadata: Metadata = {
   metadataBase: new URL(CANONICAL_DOMAIN),
@@ -91,6 +92,7 @@ export default function RootLayout({
           <Footer />
           <MiniCartDrawer />
         </CartProvider>
+        <Analytics />
       </body>
     </html>
   );
