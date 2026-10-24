@@ -23,9 +23,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     const rawImage = post.featured_image || '/wp-content/uploads/2020/12/biotech-peptides-social.jpg';
     const imageUrl = rawImage.startsWith('http') ? rawImage : `${CANONICAL_DOMAIN}${rawImage}`;
     const canonicalUrl = `${CANONICAL_DOMAIN}/${post.slug}/`;
+    const titleSuffix = cleanTitle.length > 40 ? '' : ' — Research Review';
 
     return {
-      title: `${cleanTitle} — Scientific Research & Review`,
+      title: `${cleanTitle}${titleSuffix}`,
       description,
       alternates: {
         canonical: canonicalUrl,

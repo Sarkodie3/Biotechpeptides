@@ -31,18 +31,18 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const rawDesc = cleanText(product.short_description || product.description || '');
   const description = rawDesc.length > 30
     ? rawDesc.slice(0, 155).trim() + '...'
-    : `${cleanName} high-purity research peptide (>99% purity HPLC-MS tested). Synthesized & lyophilized in the USA for laboratory in-vitro research use.`;
+    : `${cleanName} research peptide compound for laboratory in-vitro experimentation and analytical evaluation. Supplied in lyophilized vial format.`;
 
   const canonicalUrl = `${CANONICAL_DOMAIN}/product/${product.slug}/`;
 
   return {
-    title: `${cleanName} — Buy Research Peptide (>99% Purity)`,
+    title: `${cleanName} — Buy Research Peptide`,
     description,
     alternates: {
       canonical: canonicalUrl,
     },
     openGraph: {
-      title: `${cleanName} — High Purity Research Peptide | Biotech Peptides`,
+      title: `${cleanName} — Research Peptide | Biotech Peptides`,
       description,
       url: canonicalUrl,
       siteName: 'Biotech Peptides',

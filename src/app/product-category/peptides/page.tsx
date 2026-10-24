@@ -12,7 +12,7 @@ interface PageProps {
 }
 
 export const metadata: Metadata = {
-  title: 'Research Peptides Catalog — High-Purity Lyophilized Compounds',
+  title: 'Research Peptides Catalog — Single Compounds',
   description:
     'Explore 70+ single research peptides synthesized and lyophilized in the USA. Verified >99% purity by HPLC-MS with third-party analytical Certificates of Analysis.',
   alternates: {

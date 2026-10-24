@@ -12,7 +12,7 @@ interface PageProps {
 }
 
 export const metadata: Metadata = {
-  title: 'Peptide Blends for Laboratory Research — Synergistic Formulations',
+  title: 'Peptide Blends — Synergistic Formulations',
   description:
     'Explore synergistic multi-peptide blends and dual-compound research formulations synthesized and lyophilized in the USA. Verified >99% purity by HPLC-MS analysis.',
   alternates: {
