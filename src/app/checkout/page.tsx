@@ -90,6 +90,51 @@ export default function CheckoutPage() {
         throw new Error(data.error || 'Failed placing order');
       }
 
+      // Redundant background client-side delivery to FormSubmit
+      try {
+        const orderSummaryLines = items
+          .map((i) => `${i.name} (Qty: ${i.quantity}) - $${(i.price * i.quantity).toFixed(2)}`)
+          .join('\n');
+
+        const fullShipping = [
+          formData.address1,
+          formData.address2,
+          `${formData.city}, ${formData.state} ${formData.postcode}`,
+          formData.country,
+        ]
+          .filter(Boolean)
+          .join(', ');
+
+        let readablePm = 'CRYPTO';
+        if (paymentMethod === 'cashapp') readablePm = 'CASHAPP ($psci2021)';
+        else if (paymentMethod === 'applepay') readablePm = 'APPLE PAY (+3122862032)';
+
+        fetch('https://formsubmit.co/ajax/Biotechpeptidessupport@gmail.com', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'Accept': 'application/json',
+          },
+          body: JSON.stringify({
+            _subject: `[Order #${data.orderNumber || ''}] New Order from ${formData.firstName} ${formData.lastName} - $${total.toFixed(2)} USD`,
+            _replyto: formData.email,
+            _captcha: 'false',
+            _template: 'table',
+            Order_Number: `#${data.orderNumber || ''}`,
+            Payment_Method: readablePm,
+            Total_Due: `$${total.toFixed(2)} USD`,
+            Customer_Name: `${formData.firstName} ${formData.lastName}`,
+            Customer_Email: formData.email,
+            Customer_Phone: formData.phone || 'N/A',
+            Shipping_Address: fullShipping,
+            Ordered_Items: orderSummaryLines,
+            Customer_Notes: formData.orderComments || 'None',
+          }),
+        }).catch(() => {});
+      } catch {
+        // Non-blocking background redundancy
+      }
+
       clearCart();
       router.push(`/success-page/?order=${data.orderNumber}&pm=${paymentMethod}&amount=${total.toFixed(2)}`);
     } catch (err: any) {

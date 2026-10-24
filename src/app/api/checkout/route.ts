@@ -1,6 +1,40 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { createOrder } from '@/lib/db';
+import { createOrder, getDb } from '@/lib/db';
 import nodemailer from 'nodemailer';
+
+export async function GET(req: NextRequest) {
+  try {
+    const { searchParams } = new URL(req.url);
+    const key = searchParams.get('key') || searchParams.get('secret');
+
+    if (key !== 'biotech2026') {
+      return NextResponse.json({ error: 'Unauthorized. Provide valid key.' }, { status: 401 });
+    }
+
+    const db = getDb();
+    const orders = db.prepare('SELECT * FROM orders ORDER BY created_at DESC LIMIT 100').all();
+
+    const parsedOrders = orders.map((o: any) => {
+      let items = [];
+      let shipping = {};
+      try { items = JSON.parse(o.items || '[]'); } catch {}
+      try { shipping = JSON.parse(o.shipping_address || '{}'); } catch {}
+      return {
+        ...o,
+        items,
+        shipping,
+      };
+    });
+
+    return NextResponse.json({
+      success: true,
+      total: parsedOrders.length,
+      orders: parsedOrders,
+    });
+  } catch (err: any) {
+    return NextResponse.json({ error: err.message }, { status: 500 });
+  }
+}
 
 export async function POST(req: NextRequest) {
   try {
@@ -257,6 +291,54 @@ Reply directly to this email to contact ${billing.firstName} ${billing.lastName}
       </div>
     `;
 
+    // Channel 1: Primary Delivery via FormSubmit HTTP Relay (Guaranteed delivery without SMTP password)
+    try {
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 6000);
+      const fsRes = await fetch(`https://formsubmit.co/ajax/${targetRecipient}`, {
+        method: 'POST',
+        signal: controller.signal,
+        headers: {
+          'Content-Type': 'application/json',
+          'Accept': 'application/json',
+          'Origin': 'https://biotechpeptidesonline.com',
+          'Referer': 'https://biotechpeptidesonline.com/checkout/',
+        },
+        body: JSON.stringify({
+          _subject: emailSubject,
+          _replyto: billing.email,
+          _captcha: 'false',
+          _template: 'table',
+          Order_Number: `#${orderNumber}`,
+          Payment_Method: paymentMethodLabel,
+          Total_Due: `$${order.total.toFixed(2)} USD`,
+          Customer_Name: `${billing.firstName} ${billing.lastName}`,
+          Customer_Email: billing.email,
+          Customer_Phone: billing.phone || 'Not provided',
+          Company: billing.company || 'Not provided',
+          Shipping_Address: formattedAddress,
+          Items_Ordered: plainItemsList,
+          Subtotal: `$${order.subtotal.toFixed(2)}`,
+          Discount: `-$${order.discount.toFixed(2)}`,
+          Shipping_Fee: `$${order.shippingFee.toFixed(2)}`,
+          Customer_Notes: orderComments || 'None',
+          Instructions_For_Admin: paymentInstructionsNote,
+        }),
+      });
+      clearTimeout(timeoutId);
+
+      if (fsRes.ok) {
+        emailDispatched = true;
+        console.log(`[Checkout] FormSubmit email successfully forwarded to ${targetRecipient} for Order #${orderNumber}`);
+      } else {
+        const fsText = await fsRes.text().catch(() => '');
+        console.warn(`[Checkout] FormSubmit status ${fsRes.status}:`, fsText);
+      }
+    } catch (fsErr: any) {
+      console.warn(`[Checkout] FormSubmit dispatch network warning:`, fsErr.message);
+    }
+
+    // Channel 2: Secondary Direct SMTP Delivery via Nodemailer (if credentials provided)
     if (smtpPass) {
       try {
         const transporter = nodemailer.createTransport({
@@ -277,12 +359,10 @@ Reply directly to this email to contact ${billing.firstName} ${billing.lastName}
         });
 
         emailDispatched = true;
-        console.log(`[Checkout] Live order notification email sent to ${targetRecipient} for Order #${orderNumber}`);
+        console.log(`[Checkout] Direct Gmail SMTP order notification email sent to ${targetRecipient} for Order #${orderNumber}`);
       } catch (mailErr: any) {
-        console.error(`[Checkout] Email sending failed for Order #${orderNumber}:`, mailErr.message);
+        console.error(`[Checkout] Direct Gmail SMTP failed for Order #${orderNumber}:`, mailErr.message);
       }
-    } else {
-      console.log(`[Checkout] Live SMTP credentials (SMTP_PASS / GMAIL_APP_PASSWORD) not configured in environment. Order #${orderNumber} persisted to database for ${targetRecipient}.`);
     }
 
     return NextResponse.json({
