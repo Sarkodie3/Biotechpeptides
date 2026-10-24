@@ -3,49 +3,41 @@ import { getAllProductSlugs, getAllPostSlugs, getPublicPageSlugs } from '@/lib/d
 import { CANONICAL_DOMAIN } from '@/lib/seo';
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const now = new Date();
-
+  // Omit lastModified until reliable content-update timestamps are available.
   // 1. Core Primary Routes
   const staticRoutes: MetadataRoute.Sitemap = [
     {
       url: `${CANONICAL_DOMAIN}/`,
-      lastModified: now,
       changeFrequency: 'daily',
       priority: 1.0,
     },
     {
       url: `${CANONICAL_DOMAIN}/buy-peptides/`,
-      lastModified: now,
       changeFrequency: 'daily',
       priority: 0.9,
     },
     {
       url: `${CANONICAL_DOMAIN}/product-category/peptides/`,
-      lastModified: now,
       changeFrequency: 'weekly',
       priority: 0.9,
     },
     {
       url: `${CANONICAL_DOMAIN}/product-category/blends/`,
-      lastModified: now,
       changeFrequency: 'weekly',
       priority: 0.9,
     },
     {
       url: `${CANONICAL_DOMAIN}/news/`,
-      lastModified: now,
       changeFrequency: 'weekly',
       priority: 0.8,
     },
     {
       url: `${CANONICAL_DOMAIN}/knowledge-center/`,
-      lastModified: now,
       changeFrequency: 'weekly',
       priority: 0.8,
     },
     {
       url: `${CANONICAL_DOMAIN}/contact-us/`,
-      lastModified: now,
       changeFrequency: 'monthly',
       priority: 0.7,
     },
@@ -57,7 +49,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     const products = getAllProductSlugs();
     productRoutes = products.map((p) => ({
       url: `${CANONICAL_DOMAIN}/product/${p.slug}/`,
-      lastModified: p.created_at ? new Date(p.created_at) : now,
       changeFrequency: 'weekly',
       priority: 0.8,
     }));
@@ -71,7 +62,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     const posts = getAllPostSlugs();
     postRoutes = posts.map((post) => ({
       url: `${CANONICAL_DOMAIN}/${post.slug}/`,
-      lastModified: post.date ? new Date(post.date) : now,
       changeFrequency: 'monthly',
       priority: 0.7,
     }));
@@ -95,7 +85,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       .filter((pg) => !alreadyRegistered.has(pg.slug))
       .map((pg) => ({
         url: `${CANONICAL_DOMAIN}/${pg.slug}/`,
-        lastModified: now,
         changeFrequency: 'monthly',
         priority: 0.6,
       }));

@@ -96,3 +96,21 @@ export function getBreadcrumbSchema(items: Array<{ name: string; url: string }>)
     })),
   };
 }
+
+/** Keep distinct archive pages discoverable without indexing search/filter variants. */
+export function getArchiveSeo(path: string, params: {
+  page?: string;
+  s?: string;
+  orderby?: string;
+  in_stock?: string;
+}) {
+  const parsed = Number(params.page);
+  const page = Number.isSafeInteger(parsed) && parsed > 0 ? parsed : 1;
+  const canonical = `${getCanonicalUrl(path)}${page > 1 ? `?page=${page}` : ''}`;
+  const index = !Boolean(params.s || params.orderby || params.in_stock);
+  return {
+    page,
+    alternates: { canonical },
+    robots: { index, follow: true, googleBot: { index, follow: true } },
+  };
+}

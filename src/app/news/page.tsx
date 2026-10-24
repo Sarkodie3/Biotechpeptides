@@ -2,7 +2,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { getPosts } from '@/lib/db';
 import type { Metadata } from 'next';
-import { CANONICAL_DOMAIN, getBreadcrumbSchema, cleanText, sanitizeHtml } from '@/lib/seo';
+import { CANONICAL_DOMAIN, getBreadcrumbSchema, cleanText, sanitizeHtml, getArchiveSeo } from '@/lib/seo';
 
 interface PageProps {
   searchParams: Promise<{ page?: string; s?: string }>;
@@ -11,6 +11,7 @@ interface PageProps {
 export async function generateMetadata({ searchParams }: PageProps): Promise<Metadata> {
   const params = await searchParams;
   const isSearch = Boolean(params.s);
+  const archive = getArchiveSeo('/news/', params);
 
   return {
     title: isSearch
@@ -18,15 +19,13 @@ export async function generateMetadata({ searchParams }: PageProps): Promise<Met
       : 'Peptide Research News & Scientific Articles',
     description:
       'Educational research peptide articles, analytical testing guides, and biochemical insights published for laboratory and scientific researchers.',
-    alternates: {
-      canonical: `${CANONICAL_DOMAIN}/news/`,
-    },
-    robots: isSearch ? { index: false, follow: true } : { index: true, follow: true },
+    alternates: archive.alternates,
+    robots: archive.robots,
     openGraph: {
       title: 'Peptide Research News & Scientific Articles | Biotech Peptides',
       description:
         'Educational research peptide articles, analytical testing guides, and biochemical insights.',
-      url: `${CANONICAL_DOMAIN}/news/`,
+      url: archive.alternates.canonical,
       siteName: 'Biotech Peptides',
       images: [
         {
@@ -49,7 +48,7 @@ export async function generateMetadata({ searchParams }: PageProps): Promise<Met
 
 export default async function NewsPage({ searchParams }: PageProps) {
   const params = await searchParams;
-  const page = parseInt(params.page || '1', 10) || 1;
+  const { page } = getArchiveSeo('/news/', params);
   const search = params.s;
 
   const { posts, totalPages } = getPosts({

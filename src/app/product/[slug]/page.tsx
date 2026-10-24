@@ -126,7 +126,6 @@ export default async function ProductDetailPage({ params }: PageProps) {
       url: productUrl,
       priceCurrency: 'USD',
       price: product.price ? Number(product.price).toFixed(2) : '0.00',
-      priceValidUntil: '2026-12-31',
       itemCondition: 'https://schema.org/NewCondition',
       availability: product.in_stock ? 'https://schema.org/InStock' : 'https://schema.org/OutOfStock',
       seller: {
