@@ -5,6 +5,7 @@ import { useRouter, usePathname, useSearchParams } from 'next/navigation';
 import ProductCard from './ProductCard';
 import { ProductRecord } from '@/lib/db';
 import Link from 'next/link';
+import { cleanText } from '@/lib/seo';
 
 interface CatalogViewProps {
   initialProducts: ProductRecord[];
@@ -78,9 +79,9 @@ function CatalogViewInner({
       {/* Header */}
       <div className="mb-8">
         <h1 className="text-2xl md:text-3xl font-black text-gray-900 uppercase tracking-tight">
-          {categoryTitle}
+          {cleanText(categoryTitle)}
         </h1>
-        <p className="text-[15px] text-gray-600 mt-1">{categorySubtitle}</p>
+        <p className="text-[15px] text-gray-600 mt-1">{cleanText(categorySubtitle)}</p>
       </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">

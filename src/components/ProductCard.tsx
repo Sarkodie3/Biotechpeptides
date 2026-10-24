@@ -1,8 +1,10 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { ProductRecord } from '@/lib/db';
+import { cleanText } from '@/lib/seo';
 
 export default function ProductCard({ product }: { product: ProductRecord }) {
+  const cleanName = cleanText(product.name);
   let images: any[] = [];
   try {
     images = JSON.parse(product.images || '[]');
@@ -33,7 +35,7 @@ export default function ProductCard({ product }: { product: ProductRecord }) {
       >
         <Image
           src={mainImage}
-          alt={product.name}
+          alt={cleanName}
           fill
           sizes="(max-width: 768px) 50vw, 25vw"
           className="object-contain p-2 group-hover:scale-105 transition-transform duration-300"
@@ -43,7 +45,7 @@ export default function ProductCard({ product }: { product: ProductRecord }) {
       {/* Product Name */}
       <h2 className="text-[15px] font-bold text-gray-900 group-hover:text-[#0c71c3] transition-colors mb-2 line-clamp-2">
         <Link href={`/product/${product.slug}/`}>
-          {product.name}
+          {cleanName}
         </Link>
       </h2>
 

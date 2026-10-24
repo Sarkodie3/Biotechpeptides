@@ -10,16 +10,30 @@ export function getCanonicalUrl(path: string = ''): string {
 }
 
 export function cleanText(html: string = ''): string {
+  if (!html) return '';
   return html
     .replace(/<[^>]+>/g, ' ')
-    .replace(/&amp;/g, '&')
+    .replace(/&amp;#038;/g, '&')
+    .replace(/&amp;amp;/g, '&')
     .replace(/&#038;/g, '&')
+    .replace(/&amp;/g, '&')
     .replace(/&quot;/g, '"')
     .replace(/&#8217;/g, "'")
+    .replace(/&#8216;/g, "'")
     .replace(/&#8211;/g, '-')
     .replace(/&#8212;/g, '—')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&nbsp;/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
+}
+
+export function sanitizeHtml(html: string = ''): string {
+  if (!html) return '';
+  return html
+    .replaceAll('https://biotechpeptides.com', CANONICAL_DOMAIN)
+    .replaceAll('http://biotechpeptides.com', CANONICAL_DOMAIN);
 }
 
 export function getOrganizationSchema() {
@@ -54,9 +68,8 @@ export function getWebSiteSchema() {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
     '@id': `${CANONICAL_DOMAIN}/#website`,
-    url: CANONICAL_DOMAIN,
     name: SITE_NAME,
-    description: 'High-Purity Lyophilized Research Peptides Synthesized in the USA',
+    url: CANONICAL_DOMAIN,
     publisher: {
       '@id': `${CANONICAL_DOMAIN}/#organization`,
     },
@@ -64,22 +77,22 @@ export function getWebSiteSchema() {
       '@type': 'SearchAction',
       target: {
         '@type': 'EntryPoint',
-        urlTemplate: `${CANONICAL_DOMAIN}/?s={search_term_string}`,
+        urlTemplate: `${CANONICAL_DOMAIN}/buy-peptides/?s={search_term_string}`,
       },
       'query-input': 'required name=search_term_string',
     },
   };
 }
 
-export function getBreadcrumbSchema(items: { name: string; url: string }[]) {
+export function getBreadcrumbSchema(items: Array<{ name: string; url: string }>) {
   return {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: items.map((item, index) => ({
       '@type': 'ListItem',
       position: index + 1,
-      name: item.name,
-      item: item.url.startsWith('http') ? item.url : `${CANONICAL_DOMAIN}${item.url}`,
+      name: cleanText(item.name),
+      item: item.url.startsWith('http') ? item.url : getCanonicalUrl(item.url),
     })),
   };
 }

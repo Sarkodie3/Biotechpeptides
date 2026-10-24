@@ -36,7 +36,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const canonicalUrl = `${CANONICAL_DOMAIN}/product/${product.slug}/`;
 
   return {
-    title: `${cleanName} — Buy Research Peptide (>99% Purity) | Biotech Peptides`,
+    title: `${cleanName} — Buy Research Peptide (>99% Purity)`,
     description,
     alternates: {
       canonical: canonicalUrl,

@@ -12,7 +12,7 @@ interface PageProps {
 }
 
 export const metadata: Metadata = {
-  title: 'Buy Research Peptides Online — Made in the USA | Biotech Peptides',
+  title: 'Buy Research Peptides Online — Made in the USA',
   description:
     'Browse our comprehensive catalog of 80+ high-purity research peptides and synergistic blends synthesized in the USA. Verified >99% purity with batch HPLC-MS Certificates of Analysis.',
   alternates: {

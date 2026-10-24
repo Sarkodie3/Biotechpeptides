@@ -3,7 +3,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { getPostBySlug, getPageBySlug } from '@/lib/db';
 import type { Metadata } from 'next';
-import { CANONICAL_DOMAIN, cleanText, getBreadcrumbSchema } from '@/lib/seo';
+import { CANONICAL_DOMAIN, cleanText, getBreadcrumbSchema, sanitizeHtml } from '@/lib/seo';
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -25,7 +25,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     const canonicalUrl = `${CANONICAL_DOMAIN}/${post.slug}/`;
 
     return {
-      title: `${cleanTitle} — Scientific Research & Review | Biotech Peptides`,
+      title: `${cleanTitle} — Scientific Research & Review`,
       description,
       alternates: {
         canonical: canonicalUrl,
@@ -74,7 +74,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     const canonicalUrl = `${CANONICAL_DOMAIN}/${page.slug}/`;
 
     return {
-      title: `${cleanTitle} | Biotech Peptides`,
+      title: cleanTitle,
       description,
       alternates: {
         canonical: canonicalUrl,
@@ -226,7 +226,7 @@ export default async function DynamicSlugPage({ params }: PageProps) {
           {/* Body content */}
           <div
             className="prose-biotech text-[15px] leading-relaxed mb-12"
-            dangerouslySetInnerHTML={{ __html: post.content }}
+            dangerouslySetInnerHTML={{ __html: sanitizeHtml(post.content) }}
           />
 
           {/* Author Bio Box */}
@@ -277,7 +277,7 @@ export default async function DynamicSlugPage({ params }: PageProps) {
 
           <div
             className="prose-biotech text-[15px] leading-relaxed"
-            dangerouslySetInnerHTML={{ __html: page.content }}
+            dangerouslySetInnerHTML={{ __html: sanitizeHtml(page.content) }}
           />
         </div>
       </>

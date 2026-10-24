@@ -2,10 +2,10 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { getPosts } from '@/lib/db';
 import type { Metadata } from 'next';
-import { CANONICAL_DOMAIN, getBreadcrumbSchema } from '@/lib/seo';
+import { CANONICAL_DOMAIN, getBreadcrumbSchema, cleanText, sanitizeHtml } from '@/lib/seo';
 
 export const metadata: Metadata = {
-  title: 'Peptide Knowledge Center — Scientific Research & Reference Guides | Biotech Peptides',
+  title: 'Peptide Knowledge Center — Scientific Research & Reference Guides',
   description:
     'Comprehensive reference guides on peptide synthesis, lyophilization protocols, purity analysis, and storage guidelines for scientific laboratory research.',
   alternates: {
@@ -69,7 +69,7 @@ export default function KnowledgeCenterPage() {
                 <Link href={`/${post.slug}/`} className="block relative aspect-16/9 bg-gray-100">
                   <Image
                     src={post.featured_image}
-                    alt={post.title}
+                    alt={cleanText(post.title)}
                     fill
                     className="object-cover"
                   />
@@ -79,13 +79,13 @@ export default function KnowledgeCenterPage() {
               <div className="p-6 flex-1 flex flex-col">
                 <h2 className="text-xl font-bold text-gray-900 hover:text-[#0c71c3] transition-colors mb-3">
                   <Link href={`/${post.slug}/`}>
-                    {post.title}
+                    {cleanText(post.title)}
                   </Link>
                 </h2>
 
                 <div
                   className="text-[14px] text-gray-600 line-clamp-3 mb-4 flex-1"
-                  dangerouslySetInnerHTML={{ __html: post.excerpt || '' }}
+                  dangerouslySetInnerHTML={{ __html: sanitizeHtml(post.excerpt || '') }}
                 />
 
                 <div className="pt-4 border-t border-gray-100">

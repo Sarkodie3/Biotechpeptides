@@ -2,7 +2,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { getPosts } from '@/lib/db';
 import type { Metadata } from 'next';
-import { CANONICAL_DOMAIN, getBreadcrumbSchema } from '@/lib/seo';
+import { CANONICAL_DOMAIN, getBreadcrumbSchema, cleanText, sanitizeHtml } from '@/lib/seo';
 
 interface PageProps {
   searchParams: Promise<{ page?: string; s?: string }>;
@@ -14,8 +14,8 @@ export async function generateMetadata({ searchParams }: PageProps): Promise<Met
 
   return {
     title: isSearch
-      ? `Search Research Articles: "${params.s}" | Biotech Peptides`
-      : 'Peptide Research News & Scientific Articles | Biotech Peptides',
+      ? `Search Research Articles: "${params.s}"`
+      : 'Peptide Research News & Scientific Articles',
     description:
       'Educational research peptide articles, analytical testing guides, and biochemical insights published for laboratory and scientific researchers.',
     alternates: {
@@ -121,7 +121,7 @@ export default async function NewsPage({ searchParams }: PageProps) {
                     <Link href={`/${post.slug}/`} className="block relative aspect-16/9 bg-gray-100">
                       <Image
                         src={post.featured_image}
-                        alt={post.title}
+                        alt={cleanText(post.title)}
                         fill
                         className="object-cover"
                       />
@@ -135,13 +135,13 @@ export default async function NewsPage({ searchParams }: PageProps) {
 
                     <h2 className="text-lg font-bold text-gray-900 hover:text-[#0c71c3] transition-colors mb-3 line-clamp-2">
                       <Link href={`/${post.slug}/`}>
-                        {post.title}
+                        {cleanText(post.title)}
                       </Link>
                     </h2>
 
                     <div
                       className="text-[13px] text-gray-600 line-clamp-3 mb-4 flex-1"
-                      dangerouslySetInnerHTML={{ __html: post.excerpt || '' }}
+                      dangerouslySetInnerHTML={{ __html: sanitizeHtml(post.excerpt || '') }}
                     />
 
                     <div className="pt-3 border-t border-gray-100">

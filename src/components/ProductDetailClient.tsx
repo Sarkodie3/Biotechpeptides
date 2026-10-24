@@ -6,6 +6,7 @@ import Link from 'next/link';
 import { useCart } from '@/context/CartContext';
 import TierDiscountTable from './TierDiscountTable';
 import { ProductRecord } from '@/lib/db';
+import { cleanText, sanitizeHtml } from '@/lib/seo';
 
 interface ProductDetailClientProps {
   product: ProductRecord;
@@ -44,6 +45,7 @@ export default function ProductDetailClient({
   );
   const [quantity, setQuantity] = useState(1);
   const [addedNotice, setAddedNotice] = useState(false);
+  const cleanName = cleanText(product.name);
 
   // Active price calculation
   const activePrice = selectedVariation
@@ -87,7 +89,7 @@ export default function ProductDetailClient({
           {primaryCategory.name}
         </Link>
         <span>/</span>
-        <span className="text-gray-900 font-medium truncate">{product.name}</span>
+        <span className="text-gray-900 font-medium truncate">{cleanName}</span>
       </nav>
 
       {/* Main product box */}
@@ -102,7 +104,7 @@ export default function ProductDetailClient({
             )}
             <Image
               src={currentImage}
-              alt={product.name}
+              alt={cleanName}
               fill
               priority
               className="object-contain p-4"
@@ -136,7 +138,7 @@ export default function ProductDetailClient({
         {/* Product Details & Purchase Form (6 cols) */}
         <div className="lg:col-span-6 space-y-5">
           <h1 className="text-2xl md:text-3xl font-black text-gray-900">
-            {product.name}
+            {cleanName}
           </h1>
 
           {/* Price display */}
@@ -148,7 +150,7 @@ export default function ProductDetailClient({
           {product.short_description && (
             <div
               className="text-[14px] text-gray-600 border-l-2 border-[#0c71c3] pl-3 py-1"
-              dangerouslySetInnerHTML={{ __html: product.short_description }}
+              dangerouslySetInnerHTML={{ __html: sanitizeHtml(product.short_description) }}
             />
           )}
 
@@ -274,7 +276,7 @@ export default function ProductDetailClient({
         {/* Description Body */}
         <div
           className="prose-biotech text-[14px] leading-relaxed"
-          dangerouslySetInnerHTML={{ __html: product.description }}
+          dangerouslySetInnerHTML={{ __html: sanitizeHtml(product.description || '') }}
         />
 
         {/* Standard Disclaimer Notice */}

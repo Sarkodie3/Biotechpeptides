@@ -25,7 +25,7 @@ export async function generateMetadata({ searchParams }: PageProps): Promise<Met
   }
 
   return {
-    title: 'Buy Peptides for Scientific Research (USA Made) | Biotech Peptides',
+    title: { absolute: 'Buy Peptides for Scientific Research (USA Made) | Biotech Peptides' },
     description:
       'Buy high-purity research peptides online, synthesized and lyophilized in the USA. Verified >99% purity by independent third-party HPLC-MS testing.',
     alternates: {
