@@ -1,7 +1,7 @@
 import { getAllProducts } from '@/lib/db';
 import CatalogView from '@/components/CatalogView';
 import type { Metadata } from 'next';
-import { CANONICAL_DOMAIN, getBreadcrumbSchema } from '@/lib/seo';
+import { CANONICAL_DOMAIN, getBreadcrumbSchema, getArchiveSeo } from '@/lib/seo';
 
 interface PageProps {
   searchParams: Promise<{
@@ -11,7 +11,7 @@ interface PageProps {
   }>;
 }
 
-export const metadata: Metadata = {
+const baseMetadata: Metadata = {
   title: 'Peptide Blends — Synergistic Formulations',
   description:
     'Explore synergistic multi-peptide blends and dual-compound research formulations synthesized and lyophilized in the USA. Verified >99% purity by HPLC-MS analysis.',
@@ -42,9 +42,19 @@ export const metadata: Metadata = {
   },
 };
 
+export async function generateMetadata({ searchParams }: PageProps): Promise<Metadata> {
+  const archive = getArchiveSeo('/product-category/blends/', await searchParams);
+  return {
+    ...baseMetadata,
+    alternates: archive.alternates,
+    robots: archive.robots,
+    openGraph: { ...baseMetadata.openGraph, url: archive.alternates.canonical },
+  };
+}
+
 export default async function BlendsCategoryPage({ searchParams }: PageProps) {
   const params = await searchParams;
-  const page = parseInt(params.page || '1', 10) || 1;
+  const { page } = getArchiveSeo('/product-category/blends/', params);
   const sort = params.orderby;
   const inStockOnly = params.in_stock === '1';
 

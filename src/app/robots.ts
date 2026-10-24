@@ -24,16 +24,9 @@ export default function robots(): MetadataRoute.Robots {
           '/dr-usman/',
           '/refunds-and-returns/',
         ],
-        disallow: [
-          '/cart/',
-          '/checkout/',
-          '/my-account/',
-          '/success-page/',
-          '/api/',
-          '/*?*s=',
-          '/*?*orderby=',
-          '/*?*in_stock=',
-        ],
+        // Crawlers must fetch noindex pages to see their meta directives.
+        // robots.txt is not access control.
+        disallow: ['/api/'],
       },
     ],
     sitemap: `${CANONICAL_DOMAIN}/sitemap.xml`,

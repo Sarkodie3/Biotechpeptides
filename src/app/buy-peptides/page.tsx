@@ -1,7 +1,7 @@
 import { getAllProducts } from '@/lib/db';
 import CatalogView from '@/components/CatalogView';
 import type { Metadata } from 'next';
-import { CANONICAL_DOMAIN, getBreadcrumbSchema } from '@/lib/seo';
+import { CANONICAL_DOMAIN, getBreadcrumbSchema, getArchiveSeo } from '@/lib/seo';
 
 interface PageProps {
   searchParams: Promise<{
@@ -11,7 +11,7 @@ interface PageProps {
   }>;
 }
 
-export const metadata: Metadata = {
+const baseMetadata: Metadata = {
   title: 'Buy Research Peptides Online — Made in the USA',
   description:
     'Browse our comprehensive catalog of 80+ high-purity research peptides and synergistic blends synthesized in the USA. Verified >99% purity with batch HPLC-MS Certificates of Analysis.',
@@ -42,9 +42,19 @@ export const metadata: Metadata = {
   },
 };
 
+export async function generateMetadata({ searchParams }: PageProps): Promise<Metadata> {
+  const archive = getArchiveSeo('/buy-peptides/', await searchParams);
+  return {
+    ...baseMetadata,
+    alternates: archive.alternates,
+    robots: archive.robots,
+    openGraph: { ...baseMetadata.openGraph, url: archive.alternates.canonical },
+  };
+}
+
 export default async function BuyPeptidesPage({ searchParams }: PageProps) {
   const params = await searchParams;
-  const page = parseInt(params.page || '1', 10) || 1;
+  const { page } = getArchiveSeo('/buy-peptides/', params);
   const sort = params.orderby;
   const inStockOnly = params.in_stock === '1';
 
